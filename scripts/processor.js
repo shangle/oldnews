@@ -68,7 +68,8 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
                 try {
                     console.log(`Cropping photo for ${person.id}...`);
                     execSync(`${imCommand} "${imagePath}" -crop ${cropW}x${cropH}+${cropX}+${cropY} -quality 85 "${photoPath}"`);
-                    photoMap[person.id] = `/assets/people/${person.id}.jpg`;
+                    // Use path relative to the domain root including the repository name
+                    photoMap[person.id] = `/oldnews/assets/people/${person.id}.jpg`;
                 } catch (e) {
                     console.error(`Crop failed for ${person.id}: ${e.message}`);
                 }
@@ -88,6 +89,9 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
     // 2. Process Feed & Link Photos
     if (aiData.Feed) {
         aiData.Feed.forEach(item => {
+            // Ensure sourcePdf is set to the absolute URL
+            item.sourcePdf = sourceUrl;
+
             if (item.type === 'post' && item.person_id) {
                 // Link photo if we just cropped it OR if it exists in master
                 const person = master.People.find(p => p.id === item.person_id);

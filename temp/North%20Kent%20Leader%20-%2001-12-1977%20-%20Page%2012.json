@@ -1,0 +1,143 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_1201",
+      "type": "post",
+      "author": "H.R. Aslakson",
+      "handle": "@HAslakson",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "Planning for the Lutheran Hour Rally has been underway for months, and I'm thrilled to announce we've chosen the Frauenthal Civic Auditorium in Muskegon as our site! Mark your calendars for April 17th.",
+      "person_id": "p_416",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1202",
+      "type": "post",
+      "author": "H.R. Aslakson",
+      "handle": "@HAslakson",
+      "isoDate": "1977-01-12T17:05:00",
+      "displayDate": "Jan 12, 1977 • 5:05 PM",
+      "content": "And this is really just the beginning.",
+      "person_id": "p_416",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1203",
+      "type": "post",
+      "author": "Oswald J. Hoffman",
+      "handle": "@DrHoffman",
+      "isoDate": "1977-01-12T17:15:00",
+      "displayDate": "Jan 12, 1977 • 5:15 PM",
+      "content": "I am looking forward to being the featured speaker in Muskegon this April. The theme of our rally is 'The Living Lord Loves You'—and that is a message for everybody, not just Lutherans.",
+      "person_id": "p_417",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1204",
+      "type": "post",
+      "author": "Rally Volunteer",
+      "handle": "@RallyWorker",
+      "isoDate": "1977-01-12T17:30:00",
+      "displayDate": "Jan 12, 1977 • 5:30 PM",
+      "content": "So many man-hours have already been expended on the planning stages. As the date of the rally draws nearer, the work will really begin. We want people from all over western Michigan to come out!",
+      "person_id": "p_418",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1205",
+      "type": "post",
+      "author": "Muskegon Local",
+      "handle": "@MuskegonFan",
+      "isoDate": "1977-01-12T17:45:00",
+      "displayDate": "Jan 12, 1977 • 5:45 PM",
+      "content": "I'm so glad they chose the Frauenthal Civic Auditorium—I still think of it as the old Michigan Theater! It's going to be a beautiful venue for such an inspiring speaker.",
+      "person_id": "p_419",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1206",
+      "type": "post",
+      "author": "Radio Enthusiast",
+      "handle": "@TheVoiceFan",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "Did you know the Lutheran Hour is the largest non-government radio operation in the world? They broadcast to over 125 countries! It's amazing to have the 'Voice' himself coming to our area.",
+      "person_id": "p_420",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1207",
+      "type": "post",
+      "author": "H.R. Aslakson",
+      "handle": "@HAslakson",
+      "isoDate": "1977-01-12T18:15:00",
+      "displayDate": "Jan 12, 1977 • 6:15 PM",
+      "content": "Everyone is invited to hear Dr. Oswald Hoffman. This isn't just for Lutherans; it's a truly inspiring event for the whole community. See you in Muskegon on April 17!",
+      "person_id": "p_416",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_1201",
+      "type": "ad",
+      "sponsor": "Comstock Park Foods",
+      "isoDate": "1977-01-12T18:30:00",
+      "displayDate": "Jan 12, 1977 • 6:30 PM",
+      "content": "BIG MEAT SALE THIS WEEK! T-Bone, Porter House, Sirloin, and Cube Steaks are ALL just $1.79 lb. Stock up your freezer with our cut-wrap & frozen specials. Side beef 77¢ lb, Hind 1/4 87¢ lb. Don't forget your coupons for 50 FREE Top Value Stamps!",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_1202",
+      "type": "ad",
+      "sponsor": "Mieras Family Shoes",
+      "isoDate": "1977-01-12T18:45:00",
+      "displayDate": "Jan 12, 1977 • 6:45 PM",
+      "content": "PRE-Inventory Clearance! Selected styles from our regular stock are now on sale. Mens Dexter and Stacy Adams, Womens Dunham Daters and Enna Jetticks, and Childrens Red Wing Chukka Boots. Shoe Boots 25%-60% OFF! Visit us at 841 W. Leonard Street.",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_416",
+      "first_name": "H.R.",
+      "last_name": "Aslakson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_417",
+      "first_name": "Oswald J.",
+      "last_name": "Hoffman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_418",
+      "first_name": "Rally",
+      "last_name": "Volunteer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_419",
+      "first_name": "Muskegon",
+      "last_name": "Local",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_420",
+      "first_name": "Radio",
+      "last_name": "Enthusiast",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,242 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Marilyn Wells",
+      "handle": "@mwells",
+      "isoDate": "1977-01-08T21:30:00",
+      "displayDate": "Jan 8, 1977 • 9:30 PM",
+      "content": "Wow, what a turnout tonight! 21 people came out for our salad supper. I think we were all a little surprised at just how delicious a meal of only salads can be! It's so heartening to see this group growing.",
+      "person_id": "p_404",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Marjorie Lake",
+      "handle": "@mlake",
+      "isoDate": "1977-01-10T10:00:00",
+      "displayDate": "Jan 10, 1977 • 10:00 AM",
+      "content": "We're already looking ahead to our next gathering! We'll be having coffee and conversation at Norma Smith's home this coming Sunday, Jan 16. If you need a ride, give me or Marilyn a call—we'll make sure you get there.",
+      "person_id": "p_403",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Norma Smith",
+      "handle": "@nsmith",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "I am so looking forward to hosting everyone at my place (924 40th St., Wyoming) this Sunday from 5 to 10 PM. The coffee will be hot and the conversation even better. See you then!",
+      "person_id": "p_402",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Mary Pike",
+      "handle": "@mpike",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "We are always looking for new ideas for our Singles Caring and Sharing calendar. If you have any suggestions for activities or speakers, please send them our way or call us! Your input makes this group what it is.",
+      "person_id": "p_405",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Single & Sharing Attendee",
+      "handle": "@spartasingle",
+      "isoDate": "1977-01-08T22:00:00",
+      "displayDate": "Jan 8, 1977 • 10:00 PM",
+      "content": "I was a bit skeptical about an 'all salad' supper, but wow! I am officially a fan of healthy eating now. Who knew salads could be this good? Great company too.",
+      "person_id": "p_411",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@mmatthews",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Big news for local hunters! Governor Milliken just signed the law opening up 300,000 acres of private land thanks to the new hunter access stamp law. It's only a dollar for the stamp, and the funds go right back into leasing these lands for our use.",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@mmatthews",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Winter trap leagues are starting tomorrow night! Despite the cold, we've had some solid scores at the range lately. Still some openings left, so hurry down and sign up at the club.",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Rob Barnes",
+      "handle": "@rbarnes",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Had a great day at the trap range. Topped the list with a 22 and a 23! The cold weather isn't stopping us from getting some practice in before the league officially kicks off.",
+      "person_id": "p_406",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "C. Sparks",
+      "handle": "@csparks",
+      "isoDate": "1977-01-12T13:30:00",
+      "displayDate": "Jan 12, 1977 • 1:30 PM",
+      "content": "Shot a 21 today. Getting closer to those top scores. The competition at the trap range is already getting fierce, and we haven't even started the season properly yet!",
+      "person_id": "p_407",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "T. Afton",
+      "handle": "@tafton",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "Managed a 21 at the range today. It's a solid start to the winter. Looking forward to seeing everyone at the potluck this Friday to celebrate the new season!",
+      "person_id": "p_408",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_011",
+      "type": "post",
+      "author": "Dave Steck",
+      "handle": "@dsteck",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "Put up a 21 today. Not my best, but good to be out on the range with the guys. This winter league is going to be a blast.",
+      "person_id": "p_409",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_012",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@mmatthews",
+      "isoDate": "1977-01-13T08:30:00",
+      "displayDate": "Jan 13, 1977 • 8:30 AM",
+      "content": "Don't forget the potluck supper tomorrow night, January 14, at the club. It's always a highlight of the month. See you there!",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Onion Crock",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "Fine foods for all seasons and every palate. Visit the Onion Crock by La Croix at Wealthy S.E., Monroe Center, or North Kent Mall for an unforgettable dining experience.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Standard Lumber",
+      "isoDate": "1977-01-12T11:30:00",
+      "displayDate": "Jan 12, 1977 • 11:30 AM",
+      "content": "Save at Standard Lumber with Do-It-Yourself Values! Owens-Corning Insulation starting at $6.39. Armstrong Ceilings, Merillat Kitchens, and Z-Brick are all on sale through Jan 22. Come let Standard show you how! 350 S. State.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Shrine Circus",
+      "isoDate": "1977-01-12T12:30:00",
+      "displayDate": "Jan 12, 1977 • 12:30 PM",
+      "content": "The Shrine Circus is coming! Jan 24 thru 30 at George Welsh Civic Auditorium. Bernie Wohlferd has your tickets—get them now by calling 887-9876.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_401",
+      "first_name": "Mike",
+      "last_name": "Matthews",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_402",
+      "first_name": "Norma",
+      "last_name": "Smith",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_403",
+      "first_name": "Marjorie",
+      "last_name": "Lake",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_404",
+      "first_name": "Marilyn",
+      "last_name": "Wells",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_405",
+      "first_name": "Mary",
+      "last_name": "Pike",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_406",
+      "first_name": "Rob",
+      "last_name": "Barnes",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_407",
+      "first_name": "C.",
+      "last_name": "Sparks",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_408",
+      "first_name": "T.",
+      "last_name": "Afton",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_409",
+      "first_name": "Dave",
+      "last_name": "Steck",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_411",
+      "first_name": "Single & Sharing",
+      "last_name": "Attendee",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

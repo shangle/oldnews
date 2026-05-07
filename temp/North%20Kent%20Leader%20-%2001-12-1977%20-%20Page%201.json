@@ -1,0 +1,242 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Elinor Olin",
+      "handle": "@EOlin",
+      "isoDate": "1977-01-11T10:30:00",
+      "displayDate": "Jan 11, 1977 • 10:30 AM",
+      "content": "Suzy and I are officially open for business! Who else needs tickets for the Annual Dinner Dance at the Greenville City Club on the 27th?",
+      "person_id": "p_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Alvin Rogers",
+      "handle": "@ARogers",
+      "isoDate": "1977-01-11T16:15:00",
+      "displayDate": "Jan 11, 1977 • 4:15 PM",
+      "content": "I’m honored to be the first one to pick up tickets for the Annual Dinner Dance! Can't wait for that prime rib dinner.",
+      "person_id": "p_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Suzy Weston",
+      "handle": "@SWeston",
+      "isoDate": "1977-01-11T16:45:00",
+      "displayDate": "Jan 11, 1977 • 4:45 PM",
+      "content": "It's always a pleasure to see Alvin. The Chamber of Commerce is putting together quite an evening this year. See you all in Greenville!",
+      "person_id": "p_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Bob Stiles",
+      "handle": "@BStiles",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "The Sparta High School Madrigals have been practicing hard for the Dinner Dance. We’re going to put on a show you won’t forget!",
+      "person_id": "p_011",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Emil Kober",
+      "handle": "@EKober",
+      "isoDate": "1977-01-06T21:00:00",
+      "displayDate": "Jan 6, 1977 • 9:00 PM",
+      "content": "After fourteen years as Supervisor, I’ve officially presented my letter of retirement to the Board. It’s been a privilege serving the people of Sparta.",
+      "person_id": "p_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@MNelson",
+      "isoDate": "1977-01-06T21:30:00",
+      "displayDate": "Jan 6, 1977 • 9:30 PM",
+      "content": "I have big shoes to fill succeeding Emil, but I'm ready to get to work for the Township. Thank you, Emil, for your years of guidance.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@MNelson",
+      "isoDate": "1977-01-07T10:00:00",
+      "displayDate": "Jan 7, 1977 • 10:00 AM",
+      "content": "Emil Kober has been a foremost concern of Township government and has strove to make Sparta Township a more desirable place to live.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Martha Lee",
+      "handle": "@MarthaLee",
+      "isoDate": "1977-01-07T11:00:00",
+      "displayDate": "Jan 7, 1977 • 11:00 AM",
+      "content": "So proud of Dad for his 14 years of service to Sparta! I can't wait for him to come visit me here in Germany once he retires in April.",
+      "person_id": null,
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Clark Wooten",
+      "handle": "@CWooten",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Cora and I are so excited to begin our ministry here at Sparta Baptist this Sunday. We already feel so welcomed by this community.",
+      "person_id": "p_008",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Cora Wooten",
+      "handle": "@CoraWooten",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "The children and I are finally settling into our new home. We’re looking forward to meeting everyone at the reception on Sunday afternoon!",
+      "person_id": "p_009",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_011",
+      "type": "post",
+      "author": "Lela Peck",
+      "handle": "@LPeck",
+      "isoDate": "1977-01-12T15:30:00",
+      "displayDate": "Jan 12, 1977 • 3:30 PM",
+      "content": "Algoma Township needs workers for the Special Census! If you're looking for work during the week of Jan. 24th, come see me at the office before the 21st.",
+      "person_id": "p_010",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Holy Family Church",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "Snowmobile Dance! Holy Family Church Feb. 5th, 9 PM to 1 AM. Music by the Ripios. Call Clarance Finkler or Bill Humbert for tickets.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "The Daisy Place",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Ready for Sewing Class? Men’s Sport Coat, Sewing With Knits, Shirt Jac or Man's Shirt, and Lingerie classes starting soon. Call 887-7765.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Moose Lodge No. 50",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "Weekend Calendar: Friday Fish Fry, Saturday Club Dinner with 7 Band, and Sunday Breakfast from 9:30 to 11:30. All events open to members and guests.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "North Kent Eagles",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "Sat. Jan 15th: Pork Man Supper, 5:00-7:30. Sun. Jan 16th: Breakfast, 9:30-12:00. Side Pork, boiled potatoes, milk gravy, and more!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "Coopersville Lions Club",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "SPAGHETTI SUPPER this Friday at the High School Cafeteria, 5 to 7 PM. Adults $2.00, children under 12 $1.00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_001",
+      "first_name": "Alvin",
+      "last_name": "Rogers",
+      "has_photo": true,
+      "photo_coordinates": [256, 75, 410, 310]
+    },
+    {
+      "id": "p_002",
+      "first_name": "Elinor",
+      "last_name": "Olin",
+      "has_photo": true,
+      "photo_coordinates": [256, 75, 410, 310]
+    },
+    {
+      "id": "p_003",
+      "first_name": "Suzy",
+      "last_name": "Weston",
+      "has_photo": true,
+      "photo_coordinates": [256, 75, 410, 310]
+    },
+    {
+      "id": "p_004",
+      "first_name": "Emil",
+      "last_name": "Kober",
+      "has_photo": true,
+      "photo_coordinates": [256, 730, 408, 894]
+    },
+    {
+      "id": "p_005",
+      "first_name": "Merritt",
+      "last_name": "Nelson",
+      "has_photo": true,
+      "photo_coordinates": [256, 730, 408, 894]
+    },
+    {
+      "id": "p_008",
+      "first_name": "Clark",
+      "last_name": "Wooten",
+      "has_photo": true,
+      "photo_coordinates": [638, 76, 793, 308]
+    },
+    {
+      "id": "p_009",
+      "first_name": "Cora",
+      "last_name": "Wooten",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_010",
+      "first_name": "Lela",
+      "last_name": "Peck",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_011",
+      "first_name": "Bob",
+      "last_name": "Stiles",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

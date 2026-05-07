@@ -1,0 +1,198 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_601",
+      "type": "post",
+      "author": "Pauline Spray",
+      "handle": "@PaulineS",
+      "isoDate": "1977-01-12T11:15:00",
+      "displayDate": "Jan 12, 1977 • 11:15 AM",
+      "content": "I am so impressed with our Morning Belles this morning! We are already into January and everyone is keeping their resolutions to lose weight and stay on the ball. We even had two 'best losers' this week—2 1/2 lbs each!",
+      "person_id": "p_012",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_602",
+      "type": "post",
+      "author": "Betty C.",
+      "handle": "@BettyC",
+      "isoDate": "1977-01-12T12:30:00",
+      "displayDate": "Jan 12, 1977 • 12:30 PM",
+      "content": "Helen B. and I are off to a great start! We both lost 2 1/2 pounds this week. It feels super to get back on track after the holidays.",
+      "person_id": "p_601",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_603",
+      "type": "post",
+      "author": "Berle",
+      "handle": "@Berle",
+      "isoDate": "1977-01-12T13:45:00",
+      "displayDate": "Jan 12, 1977 • 1:45 PM",
+      "content": "I can't believe I won one of the mystery boxes today! It was such a surprise. Congratulations to me!",
+      "person_id": "p_603",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_604",
+      "type": "post",
+      "author": "Maria B.",
+      "handle": "@MariaB",
+      "isoDate": "1977-01-12T14:20:00",
+      "displayDate": "Jan 12, 1977 • 2:20 PM",
+      "content": "Connie S. and I are so happy to be the newest members of the Morning Belles. Everyone has been so welcoming, and I know this club is going to be exactly what I need to stay motivated this year.",
+      "person_id": "p_604",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_605",
+      "type": "post",
+      "author": "Elaine J.",
+      "handle": "@ElaineJ",
+      "isoDate": "1977-01-12T15:00:00",
+      "displayDate": "Jan 12, 1977 • 3:00 PM",
+      "content": "I am so honored to be named the 'best loser' for the months of November and December! It has been a lot of work, but hearing everyone applaud for me and Ardele F. makes it all worth it.",
+      "person_id": "p_606",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_606",
+      "type": "post",
+      "author": "Pauline Spray",
+      "handle": "@PaulineS",
+      "isoDate": "1977-01-12T16:10:00",
+      "displayDate": "Jan 12, 1977 • 4:10 PM",
+      "content": "Don't forget, ladies—we're having our Bingo game (or TOPS game as we call it) next week! Hope everyone can make it. Also, keep your eyes open for a new contest coming up soon!",
+      "person_id": "p_012",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_607",
+      "type": "post",
+      "author": "Classic Car Owner",
+      "handle": "@StangFan77",
+      "isoDate": "1977-01-12T08:45:00",
+      "displayDate": "Jan 12, 1977 • 8:45 AM",
+      "content": "Did you see the listing for the auction in Coopersville this Saturday? A 1971 Mustang Fastback with a high speed cam and special carb... that's a dream find right there. I might have to clear some space in the garage.",
+      "person_id": "p_mustang_owner",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_608",
+      "type": "post",
+      "author": "Loveland Real Estate Agent",
+      "handle": "@LovelandHomes",
+      "isoDate": "1977-01-11T10:00:00",
+      "displayDate": "Jan 11, 1977 • 10:00 AM",
+      "content": "Looking for a little more space? I just listed a beautiful 4-bedroom home on 25 acres that is perfectly split. Or, if you're looking for something more manageable, we have a 2-bedroom condo with a garage and a 3-bedroom on an acre with a fireplace. Give me a call in Cedar Springs!",
+      "person_id": "p_608",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_601",
+      "type": "ad",
+      "sponsor": "Ravenna Co-Op",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "FREE STOCKING CAP with minimum 1 ton of Murphy's. Calf Grower $6.85 per 100# ton lots. Calf Starter $8.85 per 100# ton lots. Full Service Dealer. Phone 853-2215.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_602",
+      "type": "ad",
+      "sponsor": "Hamilton Auction Company",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "PUBLIC AUCTION: Saturday - January 15, 10:00 A.M. Coopersville Surplus Sales. Complete liquidation of the Surplus Sales Business. 1971 Buick Electra, Mustang Fastback, Riding Mower, Restaurant Equipment, and Office Equipment. Sale site phone: 837-9805.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_603",
+      "type": "ad",
+      "sponsor": "Energy-Mate",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "HIGH FUEL BILLS? Call 784-0231. Energy-Mate: The Wood Burner That Will Save You Dollars In Fuel Cost. Heavy duty grate, adjustable draft flow, and its own blower and thermostat. Can be used as a supplement or independent heating system.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_012",
+      "first_name": "Pauline",
+      "last_name": "Spray",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_601",
+      "first_name": "Betty",
+      "last_name": "C.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_602",
+      "first_name": "Helen",
+      "last_name": "B.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_603",
+      "first_name": "Berle",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_604",
+      "first_name": "Maria",
+      "last_name": "B.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_605",
+      "first_name": "Connie",
+      "last_name": "S.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_606",
+      "first_name": "Elaine",
+      "last_name": "J.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_607",
+      "first_name": "Ardele",
+      "last_name": "F.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_608",
+      "first_name": "Loveland Real Estate",
+      "last_name": "Agent",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mustang_owner",
+      "first_name": "Classic Car",
+      "last_name": "Owner",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

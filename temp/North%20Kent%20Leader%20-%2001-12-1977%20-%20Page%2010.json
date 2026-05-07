@@ -1,0 +1,148 @@
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@MerrittNelson",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "I am deeply interested in our community’s programs and organized planning. Maintaining a healthy economic condition for the future of Sparta Township is my top priority.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Bob Zimdar",
+      "handle": "@BobZimdar",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "I am so proud to announce that our Sparta Ben Franklin store is participating in our parent company’s 100th birthday celebration! We’ll be offering a year-long series of outstanding specials each week throughout 1977.",
+      "person_id": "p_413",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Bob Zimdar",
+      "handle": "@BobZimdar",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "The Ben Franklin story really fulfills the American dream. As an independent franchisee, I love serving this community in partnership with such a historic organization.",
+      "person_id": "p_413",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Bob Zimdar",
+      "handle": "@BobZimdar",
+      "isoDate": "1977-01-12T11:45:00",
+      "displayDate": "Jan 12, 1977 • 11:45 AM",
+      "content": "Did you know Ben Franklin started as a tiny wholesale business called Butler Brothers in 1877? They pioneered the '5-and-10 Cent Store' concept that we all know and love today.",
+      "person_id": "p_413",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Joie Thomas",
+      "handle": "@JoieThomas",
+      "isoDate": "1977-01-12T13:20:00",
+      "displayDate": "Jan 12, 1977 • 1:20 PM",
+      "content": "I can’t wait to see all the little ones for Pre-School Activity Time starting January 18th! We’re going to have so much fun with music, art, and story time at Clover Street School.",
+      "person_id": "p_414",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Laura Crouch",
+      "handle": "@LauraCrouch",
+      "isoDate": "1977-01-12T15:10:00",
+      "displayDate": "Jan 12, 1977 • 3:10 PM",
+      "content": "Calling all artists! My County Painting class for beginners and intermediate students starts January 27th at the High School. I hope to see you there on Thursday evenings!",
+      "person_id": "p_415",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "H&R Block",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "The simpler your return, the less we charge. That’s Reason No. 2. Block didn’t become America’s largest income tax preparer by charging high prices. Visit us at 1104 13 Mile, Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Swanlund’s Furniture Warehouse",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "HURRY... This year don’t miss it!! SWANLUND’S Annual January CLEARANCE. Fantastic Savings In Every Department! Savings up to 50%. Take I-96 West to the Coopersville exit.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Hankinson’s Radiator Shop",
+      "isoDate": "1977-01-12T14:45:00",
+      "displayDate": "Jan 12, 1977 • 2:45 PM",
+      "content": "Radiator Trouble? We handle Cleaning, Rodding, Repairing, and Recoring. Open Monday-Saturday at 4976 West River, Comstock Park.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "Jurgens & Holtvluwer",
+      "isoDate": "1977-01-12T16:30:00",
+      "displayDate": "Jan 12, 1977 • 4:30 PM",
+      "content": "PRE-INVENTORY SALE! Men’s Suits starting at $94.88. Leisure Suits 25%-50% OFF. Topcoats from $69.88. Winter Jackets 20-50% OFF. See us at 1054 W. Leonard.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_005",
+      "first_name": "Merritt",
+      "last_name": "Nelson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_412",
+      "first_name": "Henry W.",
+      "last_name": "Block",
+      "has_photo": true,
+      "photo_coordinates": [201, 93, 258, 185]
+    },
+    {
+      "id": "p_413",
+      "first_name": "Bob",
+      "last_name": "Zimdar",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_414",
+      "first_name": "Joie",
+      "last_name": "Thomas",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_415",
+      "first_name": "Laura",
+      "last_name": "Crouch",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}

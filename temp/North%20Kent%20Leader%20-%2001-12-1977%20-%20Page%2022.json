@@ -1,0 +1,340 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_703_1",
+      "type": "post",
+      "author": "Edward Soderstrom",
+      "handle": "@PrezSoderstrom",
+      "isoDate": "1977-01-10T19:30:00",
+      "displayDate": "Jan 10, 1977 • 7:30 PM",
+      "content": "I am calling the regular meeting of the Village of Sparta to order. We have a full agenda tonight including some important appointments and fund transfers.",
+      "person_id": "p_703",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_705_1",
+      "type": "post",
+      "author": "Paul Gibson",
+      "handle": "@ChiefGibson",
+      "isoDate": "1977-01-10T20:15:00",
+      "displayDate": "Jan 10, 1977 • 8:15 PM",
+      "content": "Just reported to the council on our December activity. We handled 106 traffic violations and 13 non-traffic citations this month. Our officers are working hard to keep Sparta safe.",
+      "person_id": "p_705",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_704_1",
+      "type": "post",
+      "author": "Leonard Sleutel",
+      "handle": "@OfficerSleutel",
+      "isoDate": "1977-01-10T21:00:00",
+      "displayDate": "Jan 10, 1977 • 9:00 PM",
+      "content": "Huge news! The President and Council have officially recommended me as a new Policeman for the Village of Sparta. I am honored and can't wait to start serving this community.",
+      "person_id": "p_704",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_701_1",
+      "type": "post",
+      "author": "Wayne Van Gessel",
+      "handle": "@WayneVG",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Grand Rapids, it's good to be back! Fort Leonard Wood was tough but I'm ready to help with recruiting here at the Northtown Shopping Center for the next 30 days.",
+      "person_id": "p_701",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_702_1",
+      "type": "post",
+      "author": "Fred Chambers",
+      "handle": "@SFCChambers",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "Proud to have PVT Van Gessel joining our recruiting team. He's a top-tier graduate of our training programs and a great example for local Kent City youth considering the service.",
+      "person_id": "p_702",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "ad_paintpro_1",
+      "type": "ad",
+      "sponsor": "Alpine Decorator's Nook",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Ask The Paint Pro: Flecks of color in your paint? Usually a result of inadequate mixing or an overdosing of colorants. Come see us at the Fuller O'Brien Shop at 2234 Alpine N.W.!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_706_1",
+      "type": "post",
+      "author": "Larry Fogle",
+      "handle": "@MissionaryLarry",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "Our 1977 Missionary Conference at Rockford Baptist is going to be life-changing. I'm preparing my slides for the Central African Republic presentation! See you on Jan 22.",
+      "person_id": "p_706",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_707_1",
+      "type": "post",
+      "author": "Clara Nickolie",
+      "handle": "@ClaraN",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "Cleaning up and getting ready to host the American Legion Auxiliary ladies this Monday. We'll be meeting at 8 PM at my home on Happy End Drive!",
+      "person_id": "p_707",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_711_1",
+      "type": "post",
+      "author": "Jerry Van Gessel",
+      "handle": "@ProudDadJerry",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "My boy Wayne is finally home! He's done so well with his heavy equipment repairman training at Fort Leonard Wood. So proud of his service.",
+      "person_id": "p_711",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "ad_glass_1",
+      "type": "ad",
+      "sponsor": "North Kent Glass",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "Brighten Up with Wallpaper and Glass! We do expert installation of desk tops, mirrors, and window repairs. Glass cut to size while you wait. Visit us at 10388 Sparta Ave.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_710_1",
+      "type": "post",
+      "author": "Gene Taylor",
+      "handle": "@InspectorTaylor",
+      "isoDate": "1977-01-12T19:00:00",
+      "displayDate": "Jan 12, 1977 • 7:00 PM",
+      "content": "Just wrapped up the 1976 building permit report. Sparta is growing—24 new village permits were issued last year worth over $209,110. A great year for our village!",
+      "person_id": "p_710",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_708_1",
+      "type": "post",
+      "author": "Elvin Simons",
+      "handle": "@SimonsWater",
+      "isoDate": "1977-01-12T20:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 PM",
+      "content": "185,585,000 gallons of wastewater treated in 1976. It's a dirty job, but someone has to keep our environment clean for the Sparta community.",
+      "person_id": "p_708",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_709_1",
+      "type": "post",
+      "author": "Albert Hale",
+      "handle": "@HaleWater",
+      "isoDate": "1977-01-12T21:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 PM",
+      "content": "We pumped 135,500,000 gallons of water to the people of Sparta this past year. Cheers to a refreshing and successful 1977!",
+      "person_id": "p_709",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "ad_wallace_1",
+      "type": "ad",
+      "sponsor": "C H Wallace, Inc",
+      "isoDate": "1977-01-12T15:00:00",
+      "displayDate": "Jan 12, 1977 • 3:00 PM",
+      "content": "IRON DUKE! Pontiac's new 4 cylinder engine is here. EPA ratings as much as 37 M.P.G. Buy Now & Save at C H Wallace! Open Mon & Wed til 9:00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_712_1",
+      "type": "post",
+      "author": "Dave Snyder",
+      "handle": "@BrazilMission",
+      "isoDate": "1977-01-12T22:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 PM",
+      "content": "Brazil has been an incredible journey. I can't wait to share our mission work with the Rockford Baptist Church community starting Jan 22.",
+      "person_id": "p_712",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_714_1",
+      "type": "post",
+      "author": "Jack O'Donnel",
+      "handle": "@JackODonnel",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "My wife and I are looking forward to hosting the Senior Citizens Fellowship next Wednesday! Don't forget it's a pot luck dinner at noon. Mr. and Mrs. John VanLoon will be co-hosting with us.",
+      "person_id": "p_714",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_716_1",
+      "type": "post",
+      "author": "Jack Hough",
+      "handle": "@ColombiaMission",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "I am looking forward to our Missionary Conference in Rockford. It's a privilege to share the work we've been doing in Colombia with all of you.",
+      "person_id": "p_716",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_717_1",
+      "type": "post",
+      "author": "Bob Crockett",
+      "handle": "@ChicagoMission",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Representing the Inter-City work of Chicago at the upcoming Rockford conference. Every soul matters, and I'm eager to share the progress of our mission.",
+      "person_id": "p_717",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_718_1",
+      "type": "post",
+      "author": "Rockford Youth Leader",
+      "handle": "@RockfordYouth",
+      "isoDate": "1977-01-12T15:30:00",
+      "displayDate": "Jan 12, 1977 • 3:30 PM",
+      "content": "Don't miss the youth pizza party on Saturday, Jan 22! Rev. Larry Fogle will be our guest speaker. It's going to be a night of fellowship and inspiration.",
+      "person_id": "p_718",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_701",
+      "first_name": "Wayne",
+      "last_name": "Van Gessel",
+      "has_photo": true,
+      "photo_coordinates": [
+        485,
+        544,
+        588,
+        655
+      ]
+    },
+    {
+      "id": "p_702",
+      "first_name": "Fred",
+      "last_name": "Chambers",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_703",
+      "first_name": "Edward",
+      "last_name": "Soderstrom",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_704",
+      "first_name": "Leonard",
+      "last_name": "Sleutel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_705",
+      "first_name": "Paul",
+      "last_name": "Gibson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_706",
+      "first_name": "Larry",
+      "last_name": "Fogle",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_707",
+      "first_name": "Clara",
+      "last_name": "Nickolie",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_708",
+      "first_name": "Elvin",
+      "last_name": "Simons",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_709",
+      "first_name": "Albert",
+      "last_name": "Hale",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_710",
+      "first_name": "Gene",
+      "last_name": "Taylor",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_711",
+      "first_name": "Jerry",
+      "last_name": "Van Gessel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_712",
+      "first_name": "Dave",
+      "last_name": "Snyder",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_713",
+      "first_name": "R.C.",
+      "last_name": "Burgett",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_714",
+      "first_name": "Jack",
+      "last_name": "O'Donnel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_716",
+      "first_name": "Jack",
+      "last_name": "Hough",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_717",
+      "first_name": "Bob",
+      "last_name": "Crockett",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_718",
+      "first_name": "Rockford Youth",
+      "last_name": "Leader",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

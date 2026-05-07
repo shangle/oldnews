@@ -1,0 +1,208 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Concerned Student",
+      "handle": "@local_student",
+      "isoDate": "1977-01-11T14:30:00",
+      "displayDate": "Jan 11, 1977 • 2:30 PM",
+      "content": "If I attend Jordan College or Jordan West, will the credits I earn transfer to other colleges? I want my hard-earned credits to be accepted if I decide to transfer or go on for graduate work.",
+      "person_id": "p_student_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Jordan West Admissions",
+      "handle": "@jordan_west_edu",
+      "isoDate": "1977-01-11T16:00:00",
+      "displayDate": "Jan 11, 1977 • 4:00 PM",
+      "content": "Absolutely! Jordan College is a member of a regional accrediting agency and our credits are recognized by major universities like U of M, MSU, and Grand Valley. We even have a C3 rating in the AACRAO Handbook!",
+      "person_id": "p_jordan_west",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Arzie L. Pinckney",
+      "handle": "@arzie_senior_news",
+      "isoDate": "1977-01-12T10:15:00",
+      "displayDate": "Jan 12, 1977 • 10:15 AM",
+      "content": "We are slowly getting back in the old groove. We had 78 regulars out for a cup of coffee and a donut today with one new recruit. It's so good to see everyone!",
+      "person_id": "p_arzie_pinckney",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Arzie L. Pinckney",
+      "handle": "@arzie_senior_news",
+      "isoDate": "1977-01-12T10:20:00",
+      "displayDate": "Jan 12, 1977 • 10:20 AM",
+      "content": "We extend our heart felt sympathy to Mrs. Reaman and her family. Bill has been so sick for a long time. We'll certainly miss him at our meetings.",
+      "person_id": "p_arzie_pinckney",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "William Axford",
+      "handle": "@bill_axford",
+      "isoDate": "1977-01-12T11:45:00",
+      "displayDate": "Jan 12, 1977 • 11:45 AM",
+      "content": "I'm feeling much better today, but I'm not quite sure when I'll be back on the job. Thanks to everyone for the well wishes!",
+      "person_id": "p_william_axford",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Donald E. Kaiser",
+      "handle": "@sgt_kaiser_msp",
+      "isoDate": "1977-01-10T17:00:00",
+      "displayDate": "Jan 10, 1977 • 5:00 PM",
+      "content": "After nearly 26 years of service, today is my final day with the Michigan State Police. It's been an honor serving the Rockford district and the people of Michigan.",
+      "person_id": "p_donald_kaiser",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Arden Alexander, M.D.",
+      "handle": "@dr_alexander",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "I'll be speaking on Systemic Lupus Erythematosus (S.L.E.) on January 19th at the new auditorium in But-Muskegon. Please join us for this important discussion on how it affects the body.",
+      "person_id": "p_dr_alexander",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Richard L. Saur",
+      "handle": "@richard_saur",
+      "isoDate": "1976-12-30T09:00:00",
+      "displayDate": "Dec 30, 1976 • 9:00 AM",
+      "content": "We are thrilled to welcome our third son, Andrew James! He arrived yesterday weighing in at 9 lbs. 1/2 oz. Big brothers Christopher and Timothy are so excited.",
+      "person_id": "p_richard_saur",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Sparta Nursery Center",
+      "handle": "@sparta_nursery",
+      "isoDate": "1977-01-12T15:30:00",
+      "displayDate": "Jan 12, 1977 • 3:30 PM",
+      "content": "Dad's Day was wonderful! Our little ones were beaming with anticipation. We painted, listened to stories, and shared a delicious snack. Everyone had a great time!",
+      "person_id": "p_nursery_center",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Lois",
+      "handle": "@lois_weight_loss",
+      "isoDate": "1977-01-12T16:45:00",
+      "displayDate": "Jan 12, 1977 • 4:45 PM",
+      "content": "I am so happy to be crowned Queen for the week! A loss of 2 1/2 lbs—hard work really pays off. Let's keep it up, gals!",
+      "person_id": "p_lois_winner",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Coopersville Lyons Club",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "SPAGHETTI SUPPER: at the High School Cafeteria. Friday, Jan. 14 from 5 to 7 p.m. Adults $2.00, Children under 12 $1.00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Sparta Plumbing & Heating",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "FREE ESTIMATES from Jerry Kowalke, Licensed Master Plumber. Call 887-9978 anytime for all your plumbing and heating needs.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "White Bear Taxidermy",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "Expert Mounting Service! High Quality Work at Low Prices. Dial 887-7461. Jim McAllister, 388 E. Gardner, Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "The North Kent Leader",
+      "isoDate": "1977-01-12T07:30:00",
+      "displayDate": "Jan 12, 1977 • 7:30 AM",
+      "content": "FIND IT! SELL IT! in the North Kent Leader Classifieds. Dial 887-8400 or 887-8300. Small Ads... Big Results!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_donald_kaiser",
+      "first_name": "Donald",
+      "last_name": "Kaiser",
+      "has_photo": true,
+      "photo_coordinates": [383, 792, 532, 940]
+    },
+    {
+      "id": "p_arzie_pinckney",
+      "first_name": "Arzie",
+      "last_name": "Pinckney",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_william_axford",
+      "first_name": "William",
+      "last_name": "Axford",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dr_alexander",
+      "first_name": "Arden",
+      "last_name": "Alexander",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_richard_saur",
+      "first_name": "Richard",
+      "last_name": "Saur",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jordan_west",
+      "first_name": "Jordan",
+      "last_name": "West",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_lois_winner",
+      "first_name": "Lois",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,157 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_801",
+      "type": "post",
+      "author": "Diane Leichty",
+      "handle": "@DianeLeichty",
+      "isoDate": "1977-01-11T17:45:00",
+      "displayDate": "Jan 11, 1977 • 5:45 PM",
+      "content": "So happy to finally be settled in Charleston! Dale and I are loving our new home in South Carolina while he serves on the U.S.S. Mt. Baker. Thinking back to our beautiful wedding in Nashville last October.",
+      "person_id": "p_801",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_802",
+      "type": "post",
+      "author": "Dale Leichty",
+      "handle": "@DaleLeichty",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "Life in the Navy keeps me busy, but I'm grateful to have Diane by my side here in Charleston. It's been a whirlwind few months since we exchanged vows!",
+      "person_id": "p_802",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_803",
+      "type": "post",
+      "author": "Beverlie Emmorey",
+      "handle": "@BeverlieE",
+      "isoDate": "1977-01-12T08:30:00",
+      "displayDate": "Jan 12, 1977 • 8:30 AM",
+      "content": "Twenty-five wonderful years! Carroll and I are so blessed. We hope our friends and neighbors can join us this Sunday for an Open House at our daughter's home on 18 Mile Road.",
+      "person_id": "p_803",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_804",
+      "type": "post",
+      "author": "Carroll Emmorey",
+      "handle": "@CarrollE",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "It doesn't feel like 25 years, but the calendar says it's true! Come celebrate with us this Sunday afternoon between 1 and 5 PM.",
+      "person_id": "p_804",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_805",
+      "type": "post",
+      "author": "Mark Emmorey",
+      "handle": "@MarkEmmorey",
+      "isoDate": "1977-01-11T19:20:00",
+      "displayDate": "Jan 11, 1977 • 7:20 PM",
+      "content": "We're throwing a big party for Mom and Dad's 25th anniversary! My brothers, sisters, and I are hosting an open house this Sunday at Bill and Bev's place. Hope to see you there!",
+      "person_id": "p_805",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_807",
+      "type": "post",
+      "author": "Rockford Schools",
+      "handle": "@RockfordSchools",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "Lunch menu for Jan 17-20: Mon - BBQ on bun; Tue - Beef & noodles; Wed - Soup & crackers; Thu - Turkey & Gravy. Reminder: No School this Friday for Record Day!",
+      "person_id": "p_807",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_801",
+      "type": "ad",
+      "sponsor": "Powell's Flowers & Gifts",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "WE WILL BE CLOSED for a Family Vacation Jan. 17 thru Jan. 22. But we will be back and anxious to serve you on January 24th! Many Thanks!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_802",
+      "type": "ad",
+      "sponsor": "Friendly Corners Restaurant",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "it's about time!!! Friendly Corners Restaurant is opening Friday, Jan. 14. 17 MILE and ALGOMA. 696-9839. Mon-Thu 6 AM - 10 PM, Fri-Sat 6 AM - 4 AM, Sun 10 AM - 7 PM.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_803",
+      "type": "ad",
+      "sponsor": "Conklin Farm Equipment, Inc.",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "YOU ARE CORDIALLY INVITED TO: JOHN DEERE FARMING FRONTIERS. Film program devoted to the latest developments and research in agriculture. 7:45 P.M. Thursday, January 13, 1977 at our store. Lunch will be served.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_804",
+      "type": "ad",
+      "sponsor": "Conklin Farm Equip. Inc.",
+      "isoDate": "1977-01-12T15:45:00",
+      "displayDate": "Jan 12, 1977 • 3:45 PM",
+      "content": "REWARD: $195 to $2,600 bonus savings on hay and forage equipment during John Deere's Roundup of Bargains. Act now while pre-season discounts are available!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_801",
+      "first_name": "Diane",
+      "last_name": "Leichty",
+      "has_photo": true,
+      "photo_coordinates": [44, 52, 161, 349]
+    },
+    {
+      "id": "p_802",
+      "first_name": "Dale",
+      "last_name": "Leichty",
+      "has_photo": true,
+      "photo_coordinates": [44, 52, 161, 349]
+    },
+    {
+      "id": "p_803",
+      "first_name": "Beverlie",
+      "last_name": "Emmorey",
+      "has_photo": true,
+      "photo_coordinates": [42, 359, 205, 642]
+    },
+    {
+      "id": "p_804",
+      "first_name": "Carroll",
+      "last_name": "Emmorey",
+      "has_photo": true,
+      "photo_coordinates": [42, 359, 205, 642]
+    },
+    {
+      "id": "p_805",
+      "first_name": "Mark",
+      "last_name": "Emmorey",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_807",
+      "first_name": "Rockford",
+      "last_name": "Schools",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

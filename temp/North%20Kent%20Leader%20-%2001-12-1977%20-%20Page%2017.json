@@ -1,0 +1,149 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_501",
+      "type": "post",
+      "author": "Helen Maleski",
+      "handle": "@helen_maleski",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "I am so happy to finally share that Craig Johnson and I are engaged! A summer wedding is in the works and I couldn't be more excited for our future together. 💍✨",
+      "person_id": "p_501",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_502",
+      "type": "post",
+      "author": "Henry Good",
+      "handle": "@henry_good",
+      "isoDate": "1977-01-10T18:30:00",
+      "displayDate": "Jan 10, 1977 • 6:30 PM",
+      "content": "God has truly blessed our family. Little Barbara Rosalee is finally home with us in Rockford! Angela and Kenneth are so excited to welcome their new baby sister. 9 lbs 4 oz of pure joy! 🙏❤️",
+      "person_id": "p_503",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_503",
+      "type": "post",
+      "author": "Janette Buhl",
+      "handle": "@janette_b",
+      "isoDate": "1977-01-08T20:45:00",
+      "displayDate": "Jan 8, 1977 • 8:45 PM",
+      "content": "Reflecting on our trip to Toronto for the Holiday Teen Convention. This was truly the greatest time I’ve ever had, being with so many other kids who feel the same way I do about Jesus Christ. It was worth every mile! #Celebrations #Toronto76",
+      "person_id": "p_505",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_504",
+      "type": "post",
+      "author": "Billy Kenneth Shafer",
+      "handle": "@billy_shafer",
+      "isoDate": "1977-01-07T14:20:00",
+      "displayDate": "Jan 7, 1977 • 2:20 PM",
+      "content": "I am so proud of our seven teens from Sparta Free Methodist who traveled to Toronto over Christmas. Seeing their growth and dedication at the convention was a highlight of my year. You kids represent our church so well!",
+      "person_id": "p_billy_shafer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_505",
+      "type": "post",
+      "author": "Kris Anderson",
+      "handle": "@kris_anderson",
+      "isoDate": "1977-01-11T11:00:00",
+      "displayDate": "Jan 11, 1977 • 11:00 AM",
+      "content": "He's here! George and I are so proud to announce the arrival of our first born, Ethan Albert. He’s a big boy at 9 lbs and 22 inches long. Grandma and Grandpa Anderson are already over the moon! 👶💙",
+      "person_id": "p_504",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "ad_501",
+      "type": "ad",
+      "sponsor": "Gil Visser Realty",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "Looking for your dream home? I've got some incredible new listings! 5 acres in Kent City, apple storage with commercial value, or a lakefront lot at Muskellunge Lake. Call me, Sally Voegeli, and let's find the right one for you! 🏠📞",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "ad_502",
+      "type": "ad",
+      "sponsor": "Fred Schmid and Son",
+      "isoDate": "1977-01-12T13:45:00",
+      "displayDate": "Jan 12, 1977 • 1:45 PM",
+      "content": "YEAR ROUND HOME JUST BUILT! Large wooded lakefront lot on Bass Lake Rd. 2 bedrooms, cathedral ceilings, walk-out deck, and a cozy fireplace. Maintenance-free living at its best. Call for an appointment after 4 PM!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_501",
+      "first_name": "Helen",
+      "last_name": "Maleski",
+      "has_photo": true,
+      "photo_coordinates": [45, 23, 225, 305]
+    },
+    {
+      "id": "p_502",
+      "first_name": "Craig",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_503",
+      "first_name": "Henry",
+      "last_name": "Good",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_504",
+      "first_name": "Kris",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_505",
+      "first_name": "Janette",
+      "last_name": "Buhl",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_506",
+      "first_name": "Jim",
+      "last_name": "Hosmer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_507",
+      "first_name": "Sally",
+      "last_name": "Voegeli",
+      "has_photo": true,
+      "photo_coordinates": [505, 28, 615, 126]
+    },
+    {
+      "id": "p_508",
+      "first_name": "Barbara",
+      "last_name": "Rosalee Good",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_509",
+      "first_name": "Ethan",
+      "last_name": "Albert Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,238 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_vera_01",
+      "type": "post",
+      "author": "Vera Matteson",
+      "handle": "@VeraM_Sparta",
+      "isoDate": "1977-01-02T07:30:00",
+      "displayDate": "Jan 2, 1977 • 7:30 AM",
+      "content": "I am heading into another shift at the Sparta Nursing Home. It’s hard work, but these residents make every minute worth it. They feel like family to me.",
+      "person_id": "p_vera_m",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_claude_01",
+      "type": "post",
+      "author": "Claude Matteson",
+      "handle": "@ClaudeM77",
+      "isoDate": "1976-12-19T18:45:00",
+      "displayDate": "Dec 19, 1976 • 6:45 PM",
+      "content": "Celebrating 10 years of marriage with Vera tonight! Dec. 19, 1967 feels like just yesterday. I am so lucky to have her by my side.",
+      "person_id": "p_claude_m",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_frank_01",
+      "type": "post",
+      "author": "Frank J. Vanden Heuvel",
+      "handle": "@FrankVH_KC",
+      "isoDate": "1976-11-15T09:15:00",
+      "displayDate": "Nov 15, 1976 • 9:15 AM",
+      "content": "Serving 19 years on the Kent City School Board has been a true labor of love. I'm honored to help shape the future for our local kids.",
+      "person_id": "p_frank_vh",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_jane_01",
+      "type": "post",
+      "author": "Jane Vanden Heuvel",
+      "handle": "@JaneVH_KC",
+      "isoDate": "1976-12-20T20:00:00",
+      "displayDate": "Dec 20, 1976 • 8:00 PM",
+      "content": "Frank is so busy between the Zoning Board and the Ambulance Board, I'm lucky if I see him for dinner! He really loves this community.",
+      "person_id": "p_jane_vh",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_ford_01",
+      "type": "post",
+      "author": "Ford J. McBride",
+      "handle": "@FordMcB_Kelvinator",
+      "isoDate": "1976-12-15T16:20:00",
+      "displayDate": "Dec 15, 1976 • 4:20 PM",
+      "content": "Supervisor duty never stops at Kelvinator! I'm keeping the production lines moving today and making sure the crew has what they need.",
+      "person_id": "p_ford_mb",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_joyce_01",
+      "type": "post",
+      "author": "Joyce McBride",
+      "handle": "@JoyceMcB_KC",
+      "isoDate": "1976-12-28T19:00:00",
+      "displayDate": "Dec 28, 1976 • 7:00 PM",
+      "content": "Ford and I have loved our 13 years here in the Kent City area. It’s been a wonderful place to raise our children and build our life together.",
+      "person_id": "p_joyce_mb",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_william_01",
+      "type": "post",
+      "author": "William G. Reaman",
+      "handle": "@BillReaman_FarmBureau",
+      "isoDate": "1976-08-10T08:00:00",
+      "displayDate": "Aug 10, 1976 • 8:00 AM",
+      "content": "There is nothing like the view from the cab of my Farm Bureau truck. I've seen every corner of Kent City from this seat over the years.",
+      "person_id": "p_william_r",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_cora_01",
+      "type": "post",
+      "author": "Cora Reaman",
+      "handle": "@CoraR_Sparta",
+      "isoDate": "1976-11-20T14:30:00",
+      "displayDate": "Nov 20, 1976 • 2:30 PM",
+      "content": "William is finally taking it easy now that he's retired, but he still makes sure to attend all the Sparta Senior Citizens meetings.",
+      "person_id": "p_cora_r",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_lorrene_01",
+      "type": "post",
+      "author": "Lorrene L. Anderson",
+      "handle": "@LorreneA_Eberhards",
+      "isoDate": "1976-12-23T17:45:00",
+      "displayDate": "Dec 23, 1976 • 5:45 PM",
+      "content": "Eberhard's is hopping today! I love being the head cashier because I get to catch up with everyone in Sparta while they do their holiday shopping.",
+      "person_id": "p_lorrene_a",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_john_a_01",
+      "type": "post",
+      "author": "John Anderson",
+      "handle": "@JohnAnderson_Sparta",
+      "isoDate": "1976-12-30T19:30:00",
+      "displayDate": "Dec 30, 1976 • 7:30 PM",
+      "content": "I am so proud of Lorrene. Whether she's at the checkout or helping out at Mamrelund, she always puts this community first.",
+      "person_id": "p_john_a",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_frames_01",
+      "type": "ad",
+      "sponsor": "Frames Unlimited",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "What to do with your needlework? Why not frame it! Frames Unlimited offers a complete stretching and framing service for needlepoint, crewel, embroidery, and more. Come in and see us for more ideas at 3150 Plainfield or Northland Plaza.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_furniture_01",
+      "type": "ad",
+      "sponsor": "Village Furniture & Carpet",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "FLOOR SAMPLE SALE! Ideas for your bedroom... We have a great collection of Bedroom Suits in Colonial, American traditional and Mediterranean. Save 10% to 50%! Save $100 to $300 and maybe more on your suite! Located at 252 S. State Street, Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_tax_01",
+      "type": "ad",
+      "sponsor": "Joyce K. Hansen, Tax Counselor",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "TAX RETURNS - YOUR HOME OR MINE. Tax Counselor Joyce K. Hansen. 4171 Indian Lakes, Cedar Springs. Ph. 696-1461.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_kempf_01",
+      "type": "ad",
+      "sponsor": "Kempf Builders",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "MODEL NOW OPEN! New 3 Bedroom Rancher on 3 acres. $41,500. Open house directions: Wolverine Blvd. (Old US 131) to 11 Mile Rd. then East 2 miles to Shaner and North 1/4 mile. Or built on your lot only for $33,000.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_chevrolet_01",
+      "type": "ad",
+      "sponsor": "C. Bell Chevrolet",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "Service Specials with 'Special' Service! Front End Alignment $9.95. Lube, Oil & Filter $9.95. AC Spark Plugs 75c each. Coupons effective Jan 1977. C. Bell Chevrolet, 3535 Alpine (Corner of 4 Mile Road).",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_vera_m",
+      "first_name": "Vera",
+      "last_name": "Matteson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_claude_m",
+      "first_name": "Claude",
+      "last_name": "Matteson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_frank_vh",
+      "first_name": "Frank J.",
+      "last_name": "Vanden Heuvel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jane_vh",
+      "first_name": "Jane",
+      "last_name": "Vanden Heuvel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_ford_mb",
+      "first_name": "Ford J.",
+      "last_name": "McBride",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_joyce_mb",
+      "first_name": "Joyce",
+      "last_name": "McBride",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_william_r",
+      "first_name": "William G.",
+      "last_name": "Reaman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_cora_r",
+      "first_name": "Cora",
+      "last_name": "Reaman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_lorrene_a",
+      "first_name": "Lorrene L.",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_a",
+      "first_name": "John",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,4674 @@
+{
+  "People": [
+    {
+      "id": "p_001",
+      "first_name": "Alvin",
+      "last_name": "Rogers",
+      "has_photo": true,
+      "photo_coordinates": [
+        250,
+        75,
+        420,
+        315
+      ],
+      "photo_url": "/assets/people/p_001.jpg"
+    },
+    {
+      "id": "p_002",
+      "first_name": "Elinor",
+      "last_name": "Olin",
+      "has_photo": true,
+      "photo_coordinates": [
+        250,
+        75,
+        420,
+        315
+      ],
+      "photo_url": "/assets/people/p_002.jpg"
+    },
+    {
+      "id": "p_003",
+      "first_name": "Suzy",
+      "last_name": "Weston",
+      "has_photo": true,
+      "photo_coordinates": [
+        250,
+        75,
+        420,
+        315
+      ],
+      "photo_url": "/assets/people/p_003.jpg"
+    },
+    {
+      "id": "p_004",
+      "first_name": "Emil",
+      "last_name": "Kober",
+      "has_photo": true,
+      "photo_coordinates": [
+        250,
+        520,
+        435,
+        895
+      ],
+      "photo_url": "/assets/people/p_004.jpg"
+    },
+    {
+      "id": "p_005",
+      "first_name": "Merritt",
+      "last_name": "Nelson",
+      "has_photo": true,
+      "photo_coordinates": [
+        250,
+        520,
+        435,
+        895
+      ],
+      "photo_url": "/assets/people/p_005.jpg"
+    },
+    {
+      "id": "p_008",
+      "first_name": "Clark",
+      "last_name": "Wooten",
+      "has_photo": true,
+      "photo_coordinates": [
+        630,
+        110,
+        795,
+        310
+      ],
+      "photo_url": "/assets/people/p_008.jpg"
+    },
+    {
+      "id": "p_009",
+      "first_name": "Cora",
+      "last_name": "Wooten",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_010",
+      "first_name": "Lela",
+      "last_name": "Peck",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_011",
+      "first_name": "Bob",
+      "last_name": "Stiles",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_012",
+      "first_name": "Pauline",
+      "last_name": "Spray",
+      "has_photo": true,
+      "photo_coordinates": [
+        63,
+        278,
+        135,
+        351
+      ],
+      "photo_url": "/assets/people/p_012.jpg"
+    },
+    {
+      "id": "p_013",
+      "first_name": "Raymond",
+      "last_name": "Kennedy",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_014",
+      "first_name": "Logan",
+      "last_name": "Cox",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_101",
+      "first_name": "Jim",
+      "last_name": "White",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_102",
+      "first_name": "Jackie",
+      "last_name": "Newkirk",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_103",
+      "first_name": "Sarah",
+      "last_name": "Miller",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_201",
+      "first_name": "Linda",
+      "last_name": "Bradford",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_202",
+      "first_name": "Jim",
+      "last_name": "Bradford",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_204",
+      "first_name": "John",
+      "last_name": "Haaksma",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_206",
+      "first_name": "Norma Ann",
+      "last_name": "Thompson",
+      "has_photo": true,
+      "photo_coordinates": [
+        73,
+        655,
+        256,
+        922
+      ]
+    },
+    {
+      "id": "p_207",
+      "first_name": "Steven Dean",
+      "last_name": "Jordan",
+      "has_photo": true,
+      "photo_coordinates": [
+        73,
+        655,
+        256,
+        922
+      ]
+    },
+    {
+      "id": "p_208",
+      "first_name": "Russell",
+      "last_name": "Thompson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_210",
+      "first_name": "Farm Bureau",
+      "last_name": "Spokesperson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_211",
+      "first_name": "Charter",
+      "last_name": "Member",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_301",
+      "first_name": "Nancy",
+      "last_name": "Afton",
+      "has_photo": true,
+      "photo_coordinates": [
+        117,
+        213,
+        222,
+        345
+      ]
+    },
+    {
+      "id": "p_302",
+      "first_name": "Arden",
+      "last_name": "Afton",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_304",
+      "first_name": "Robert",
+      "last_name": "Smith",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_305",
+      "first_name": "Sherly",
+      "last_name": "Cole",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_306",
+      "first_name": "John",
+      "last_name": "Mason",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_307",
+      "first_name": "Jack",
+      "last_name": "Crown",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_308",
+      "first_name": "Vern",
+      "last_name": "Buffin",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_310",
+      "first_name": "Albert",
+      "last_name": "Hanna",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_314",
+      "first_name": "CB Radio",
+      "last_name": "Enthusiast",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_401",
+      "first_name": "Mike",
+      "last_name": "Matthews",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_402",
+      "first_name": "Norma",
+      "last_name": "Smith",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_403",
+      "first_name": "Marjorie",
+      "last_name": "Lake",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_404",
+      "first_name": "Marilyn",
+      "last_name": "Wells",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_405",
+      "first_name": "Mary",
+      "last_name": "Pike",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_406",
+      "first_name": "Rob",
+      "last_name": "Barnes",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_407",
+      "first_name": "C.",
+      "last_name": "Sparks",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_408",
+      "first_name": "T.",
+      "last_name": "Afton",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_409",
+      "first_name": "Dave",
+      "last_name": "Steck",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_411",
+      "first_name": "Single & Sharing",
+      "last_name": "Attendee",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_412",
+      "first_name": "Henry W.",
+      "last_name": "Block",
+      "has_photo": true,
+      "photo_coordinates": [
+        201,
+        93,
+        258,
+        185
+      ]
+    },
+    {
+      "id": "p_413",
+      "first_name": "Bob",
+      "last_name": "Zimdar",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_414",
+      "first_name": "Joie",
+      "last_name": "Thomas",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_415",
+      "first_name": "Laura",
+      "last_name": "Crouch",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_bigl_mascot",
+      "first_name": "Big L",
+      "last_name": "Mascot",
+      "has_photo": true,
+      "photo_coordinates": [
+        848,
+        807,
+        946,
+        905
+      ]
+    },
+    {
+      "id": "p_renovator_01",
+      "first_name": "Home",
+      "last_name": "Renovator",
+      "has_photo": true,
+      "photo_coordinates": [
+        318,
+        836,
+        381,
+        916
+      ]
+    },
+    {
+      "id": "p_handyman_01",
+      "first_name": "Local",
+      "last_name": "Handyman",
+      "has_photo": true,
+      "photo_coordinates": [
+        546,
+        357,
+        667,
+        558
+      ]
+    },
+    {
+      "id": "p_416",
+      "first_name": "H.R.",
+      "last_name": "Aslakson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_417",
+      "first_name": "Oswald J.",
+      "last_name": "Hoffman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_418",
+      "first_name": "Rally",
+      "last_name": "Volunteer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_419",
+      "first_name": "Muskegon",
+      "last_name": "Local",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_420",
+      "first_name": "Radio",
+      "last_name": "Enthusiast",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_421",
+      "first_name": "K. A.",
+      "last_name": "Shangle",
+      "has_photo": true,
+      "photo_coordinates": [
+        55,
+        70,
+        140,
+        168
+      ]
+    },
+    {
+      "id": "p_422",
+      "first_name": "Donie",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_423",
+      "first_name": "Joan",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_janet_streeter",
+      "first_name": "Janet",
+      "last_name": "Streeter",
+      "has_photo": true,
+      "photo_coordinates": [
+        34,
+        831,
+        134,
+        953
+      ]
+    },
+    {
+      "id": "p_pet_owner_01",
+      "first_name": "Local Pet",
+      "last_name": "Owner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jordan_west",
+      "first_name": "Jordan",
+      "last_name": "West",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_richard_snowdin",
+      "first_name": "Richard",
+      "last_name": "Snowdin",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mustang_owner",
+      "first_name": "Classic Car",
+      "last_name": "Owner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_billy_shafer",
+      "first_name": "Billy Kenneth",
+      "last_name": "Shafer",
+      "has_photo": true,
+      "photo_coordinates": [
+        647,
+        517,
+        746,
+        597
+      ]
+    },
+    {
+      "id": "p_nora_morgan",
+      "first_name": "Nora",
+      "last_name": "Morgan",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_william_axford",
+      "first_name": "William",
+      "last_name": "Axford",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_gary_congdon",
+      "first_name": "Gary",
+      "last_name": "Congdon",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_advisor",
+      "first_name": "Friendly",
+      "last_name": "Ad-Visor",
+      "has_photo": true,
+      "photo_coordinates": [
+        853,
+        787,
+        915,
+        871
+      ]
+    },
+    {
+      "id": "p_donald_kaiser",
+      "first_name": "Donald",
+      "last_name": "Kaiser",
+      "has_photo": true,
+      "photo_coordinates": [
+        383,
+        792,
+        532,
+        940
+      ]
+    },
+    {
+      "id": "p_arzie_pinckney",
+      "first_name": "Arzie",
+      "last_name": "Pinckney",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dr_alexander",
+      "first_name": "Arden",
+      "last_name": "Alexander",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_richard_saur",
+      "first_name": "Richard",
+      "last_name": "Saur",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_lois_winner",
+      "first_name": "Lois",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_501",
+      "first_name": "Helen",
+      "last_name": "Maleski",
+      "has_photo": true,
+      "photo_coordinates": [
+        45,
+        23,
+        225,
+        305
+      ]
+    },
+    {
+      "id": "p_502",
+      "first_name": "Craig",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_503",
+      "first_name": "Henry",
+      "last_name": "Good",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_504",
+      "first_name": "Kris",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_505",
+      "first_name": "Janette",
+      "last_name": "Buhl",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_506",
+      "first_name": "Jim",
+      "last_name": "Hosmer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_507",
+      "first_name": "Sally",
+      "last_name": "Voegeli",
+      "has_photo": true,
+      "photo_coordinates": [
+        505,
+        28,
+        615,
+        126
+      ]
+    },
+    {
+      "id": "p_508",
+      "first_name": "Barbara",
+      "last_name": "Rosalee Good",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_509",
+      "first_name": "Ethan",
+      "last_name": "Albert Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_601",
+      "first_name": "Betty",
+      "last_name": "C.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_602",
+      "first_name": "Helen",
+      "last_name": "B.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_603",
+      "first_name": "Berle",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_604",
+      "first_name": "Maria",
+      "last_name": "B.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_605",
+      "first_name": "Connie",
+      "last_name": "S.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_606",
+      "first_name": "Elaine",
+      "last_name": "J.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_607",
+      "first_name": "Ardele",
+      "last_name": "F.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_608",
+      "first_name": "Loveland Real Estate",
+      "last_name": "Agent",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_vera_m",
+      "first_name": "Vera",
+      "last_name": "Matteson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_claude_m",
+      "first_name": "Claude",
+      "last_name": "Matteson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_frank_vh",
+      "first_name": "Frank J.",
+      "last_name": "Vanden Heuvel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jane_vh",
+      "first_name": "Jane",
+      "last_name": "Vanden Heuvel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_ford_mb",
+      "first_name": "Ford J.",
+      "last_name": "McBride",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_joyce_mb",
+      "first_name": "Joyce",
+      "last_name": "McBride",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_william_r",
+      "first_name": "William G.",
+      "last_name": "Reaman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_cora_r",
+      "first_name": "Cora",
+      "last_name": "Reaman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_lorrene_a",
+      "first_name": "Lorrene L.",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_a",
+      "first_name": "John",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_701",
+      "first_name": "Wayne",
+      "last_name": "Van Gessel",
+      "has_photo": true,
+      "photo_coordinates": [
+        485,
+        544,
+        588,
+        655
+      ]
+    },
+    {
+      "id": "p_702",
+      "first_name": "Fred",
+      "last_name": "Chambers",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_703",
+      "first_name": "Edward",
+      "last_name": "Soderstrom",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_704",
+      "first_name": "Leonard",
+      "last_name": "Sleutel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_705",
+      "first_name": "Paul",
+      "last_name": "Gibson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_706",
+      "first_name": "Larry",
+      "last_name": "Fogle",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_707",
+      "first_name": "Clara",
+      "last_name": "Nickolie",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_708",
+      "first_name": "Elvin",
+      "last_name": "Simons",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_709",
+      "first_name": "Albert",
+      "last_name": "Hale",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_710",
+      "first_name": "Gene",
+      "last_name": "Taylor",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_711",
+      "first_name": "Jerry",
+      "last_name": "Van Gessel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_712",
+      "first_name": "Dave",
+      "last_name": "Snyder",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_713",
+      "first_name": "R.C.",
+      "last_name": "Burgett",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_714",
+      "first_name": "Jack",
+      "last_name": "O'Donnel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_716",
+      "first_name": "Jack",
+      "last_name": "Hough",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_717",
+      "first_name": "Bob",
+      "last_name": "Crockett",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_718",
+      "first_name": "Rockford Youth",
+      "last_name": "Leader",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_brian_layer",
+      "first_name": "Brian",
+      "last_name": "Layer",
+      "has_photo": true,
+      "photo_coordinates": [
+        747,
+        680,
+        980,
+        960
+      ]
+    },
+    {
+      "id": "p_harry_kukla",
+      "first_name": "Harry",
+      "last_name": "Kukla",
+      "has_photo": true,
+      "photo_coordinates": [
+        44,
+        680,
+        423,
+        960
+      ]
+    },
+    {
+      "id": "p_doug_weston",
+      "first_name": "Doug",
+      "last_name": "Weston",
+      "has_photo": true,
+      "photo_coordinates": [
+        308,
+        680,
+        448,
+        960
+      ]
+    },
+    {
+      "id": "p_doug_jensen",
+      "first_name": "Doug",
+      "last_name": "Jensen",
+      "has_photo": true,
+      "photo_coordinates": [
+        458,
+        680,
+        735,
+        960
+      ]
+    },
+    {
+      "id": "p_dan_afton",
+      "first_name": "Dan",
+      "last_name": "Afton",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_tim_thome",
+      "first_name": "Tim",
+      "last_name": "Thome",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kim_edgar",
+      "first_name": "Kim",
+      "last_name": "Edgar",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_terry_prickett",
+      "first_name": "Terry",
+      "last_name": "Prickett",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jim_stebbins",
+      "first_name": "Jim",
+      "last_name": "Stebbins",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mr_schultz",
+      "first_name": "Mr.",
+      "last_name": "Schultz",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_801",
+      "first_name": "Diane",
+      "last_name": "Leichty",
+      "has_photo": true,
+      "photo_coordinates": [
+        44,
+        52,
+        161,
+        349
+      ]
+    },
+    {
+      "id": "p_802",
+      "first_name": "Dale",
+      "last_name": "Leichty",
+      "has_photo": true,
+      "photo_coordinates": [
+        44,
+        52,
+        161,
+        349
+      ]
+    },
+    {
+      "id": "p_803",
+      "first_name": "Beverlie",
+      "last_name": "Emmorey",
+      "has_photo": true,
+      "photo_coordinates": [
+        42,
+        359,
+        205,
+        642
+      ]
+    },
+    {
+      "id": "p_804",
+      "first_name": "Carroll",
+      "last_name": "Emmorey",
+      "has_photo": true,
+      "photo_coordinates": [
+        42,
+        359,
+        205,
+        642
+      ]
+    },
+    {
+      "id": "p_805",
+      "first_name": "Mark",
+      "last_name": "Emmorey",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_807",
+      "first_name": "Rockford",
+      "last_name": "Schools",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_chris_christopher",
+      "first_name": "Chris",
+      "last_name": "Christopher",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_tom_sheckler",
+      "first_name": "Tom",
+      "last_name": "Sheckler",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_nick_lewis",
+      "first_name": "Nick",
+      "last_name": "Lewis",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_doug_mccotter",
+      "first_name": "Doug",
+      "last_name": "McCotter",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_fan_1",
+      "first_name": "Sparta",
+      "last_name": "Fan",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kc_player_1",
+      "first_name": "Kent City",
+      "last_name": "Eagle",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_andrus",
+      "first_name": "John",
+      "last_name": "Andrus",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_justin_sullivan",
+      "first_name": "Justin",
+      "last_name": "Sullivan",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dan_lockard",
+      "first_name": "Dan",
+      "last_name": "Lockard",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_frosh_fan_1",
+      "first_name": "Sparta",
+      "last_name": "Frosh Fan",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_belding_frosh_player",
+      "first_name": "Belding",
+      "last_name": "Frosh Player",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dan_cheslek",
+      "first_name": "Dan",
+      "last_name": "Cheslek",
+      "has_photo": true,
+      "photo_coordinates": [
+        600,
+        650,
+        720,
+        780
+      ]
+    },
+    {
+      "id": "p_larry_ofield",
+      "first_name": "Larry",
+      "last_name": "Ofield",
+      "has_photo": true,
+      "photo_coordinates": [
+        600,
+        790,
+        720,
+        910
+      ]
+    },
+    {
+      "id": "p_tony_v",
+      "first_name": "Tony",
+      "last_name": "Vasilauskas",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_nkl_editor",
+      "first_name": "NKL",
+      "last_name": "Editor",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_wisnewski_jim",
+      "first_name": "Jim",
+      "last_name": "Wisnewski",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_wisnewski_marie",
+      "first_name": "Marie",
+      "last_name": "Wisnewski",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_reyburn_vivian",
+      "first_name": "Vivian",
+      "last_name": "Reyburn",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ],
+  "Organizations": [],
+  "Locations": [],
+  "Events": [],
+  "Relationships": [],
+  "Sources": [
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%207.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-12",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "Publication": "North Kent Leader",
+      "Date": "1977-01-19",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-19",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%202.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-19",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "Publication": "The North Kent Leader",
+      "Date": "1977-01-19",
+      "Source_URL": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%204.pdf"
+    }
+  ],
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Alvin Rogers",
+      "handle": "@AlvinRogers",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "Just picked up the very first tickets for the Sparta Chamber's Annual Dinner Dance! Looking forward to that prime rib dinner at the Greenville City Club on the 27th.",
+      "person_id": "p_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_001.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Elinor Olin",
+      "handle": "@ElinorOlin",
+      "isoDate": "1977-01-12T17:05:00",
+      "displayDate": "Jan 12, 1977 • 5:05 PM",
+      "content": "Suzy and I are officially selling tickets for the Chamber Dinner Dance! We were so glad to see the first pair go to Alvin Rogers today.",
+      "person_id": "p_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_002.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Emil Kober",
+      "handle": "@EmilKober",
+      "isoDate": "1977-01-12T17:15:00",
+      "displayDate": "Jan 12, 1977 • 5:15 PM",
+      "content": "After 14 years serving as Sparta Township Supervisor, it’s time for me to retire this April. It has been a true honor guiding our community.",
+      "person_id": "p_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_004.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Emil Kober",
+      "handle": "@EmilKober",
+      "isoDate": "1977-01-12T17:16:00",
+      "displayDate": "Jan 12, 1977 • 5:16 PM",
+      "content": "I have striven to make Sparta Township a more desirable place to live.",
+      "person_id": "p_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_004.jpg"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Merritt J. Nelson",
+      "handle": "@MerrittNelson",
+      "isoDate": "1977-01-12T17:20:00",
+      "displayDate": "Jan 12, 1977 • 5:20 PM",
+      "content": "I am deeply honored that the Board has named me to succeed Emil Kober as Supervisor. Emil has left a tremendous legacy for all of us in Sparta.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_005.jpg"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Rev. Clark Wooten",
+      "handle": "@PastorWooten",
+      "isoDate": "1977-01-12T17:30:00",
+      "displayDate": "Jan 12, 1977 • 5:30 PM",
+      "content": "Cora and I are so excited to begin our ministry at Sparta Baptist this Sunday. We've loved our ten years in Greenville, but we are ready for this new chapter.",
+      "person_id": "p_008",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_008.jpg"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Cora Wooten",
+      "handle": "@CoraWooten",
+      "isoDate": "1977-01-12T17:35:00",
+      "displayDate": "Jan 12, 1977 • 5:35 PM",
+      "content": "The kids—Dawn, Lisa, and Randy—are already looking forward to making new friends in Sparta! Can't wait to meet everyone at the reception this Sunday.",
+      "person_id": "p_009",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Bob Stiles",
+      "handle": "@BobStilesMusic",
+      "isoDate": "1977-01-12T17:45:00",
+      "displayDate": "Jan 12, 1977 • 5:45 PM",
+      "content": "My High School Madrigals are rehearsing hard for our performance at the Chamber Dinner Dance on the 27th. It’s going to be a wonderful evening.",
+      "person_id": "p_011",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Lela R. Peck",
+      "handle": "@LelaPeck",
+      "isoDate": "1977-01-12T17:50:00",
+      "displayDate": "Jan 12, 1977 • 5:50 PM",
+      "content": "We are looking for workers for the Algoma Township Special Census starting Jan 24th. Come see me at the Township Clerk's office to apply!",
+      "person_id": "p_010",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Holy Family Church",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "Snowmobile Dance! Feb 5th at 9:00 PM. Music by the Ripios. Reservations only - contact Clarance Finkler or Bill Humber.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "The Daisy Place",
+      "isoDate": "1977-01-12T18:10:00",
+      "displayDate": "Jan 12, 1977 • 6:10 PM",
+      "content": "Ready for Sewing Class? Men's Sport Coat, Lingerie, and Sewing with Knits starting soon. Call 887-7765 to register.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Moose Lodge No. 50",
+      "isoDate": "1977-01-12T18:20:00",
+      "displayDate": "Jan 12, 1977 • 6:20 PM",
+      "content": "Fish Fry this Friday at 6:30 PM! Only $2.25. Don't miss our Saturday night dance and Sunday breakfast buffet.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "North Kent Eagles",
+      "isoDate": "1977-01-12T18:30:00",
+      "displayDate": "Jan 12, 1977 • 6:30 PM",
+      "content": "Pan Supper this Saturday, Jan 15th! Side Pork, boiled potatoes, milk gravy, and apple pie. $2.50 per person.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "Coopersville Lions Club",
+      "isoDate": "1977-01-12T18:40:00",
+      "displayDate": "Jan 12, 1977 • 6:40 PM",
+      "content": "Spaghetti Supper at the High School Cafeteria this Friday, Jan 14th. All you can eat! Adults $2.00, children under 12 $1.00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Elinor Olin",
+      "handle": "@EOlin",
+      "isoDate": "1977-01-11T10:30:00",
+      "displayDate": "Jan 11, 1977 • 10:30 AM",
+      "content": "Suzy and I are officially open for business! Who else needs tickets for the Annual Dinner Dance at the Greenville City Club on the 27th?",
+      "person_id": "p_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_002.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Alvin Rogers",
+      "handle": "@ARogers",
+      "isoDate": "1977-01-11T16:15:00",
+      "displayDate": "Jan 11, 1977 • 4:15 PM",
+      "content": "I’m honored to be the first one to pick up tickets for the Annual Dinner Dance! Can't wait for that prime rib dinner.",
+      "person_id": "p_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_001.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Suzy Weston",
+      "handle": "@SWeston",
+      "isoDate": "1977-01-11T16:45:00",
+      "displayDate": "Jan 11, 1977 • 4:45 PM",
+      "content": "It's always a pleasure to see Alvin. The Chamber of Commerce is putting together quite an evening this year. See you all in Greenville!",
+      "person_id": "p_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_003.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Bob Stiles",
+      "handle": "@BStiles",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "The Sparta High School Madrigals have been practicing hard for the Dinner Dance. We’re going to put on a show you won’t forget!",
+      "person_id": "p_011",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Emil Kober",
+      "handle": "@EKober",
+      "isoDate": "1977-01-06T21:00:00",
+      "displayDate": "Jan 6, 1977 • 9:00 PM",
+      "content": "After fourteen years as Supervisor, I’ve officially presented my letter of retirement to the Board. It’s been a privilege serving the people of Sparta.",
+      "person_id": "p_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_004.jpg"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@MNelson",
+      "isoDate": "1977-01-06T21:30:00",
+      "displayDate": "Jan 6, 1977 • 9:30 PM",
+      "content": "I have big shoes to fill succeeding Emil, but I'm ready to get to work for the Township. Thank you, Emil, for your years of guidance.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_005.jpg"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@MNelson",
+      "isoDate": "1977-01-07T10:00:00",
+      "displayDate": "Jan 7, 1977 • 10:00 AM",
+      "content": "Emil Kober has been a foremost concern of Township government and has strove to make Sparta Township a more desirable place to live.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_005.jpg"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Martha Lee",
+      "handle": "@MarthaLee",
+      "isoDate": "1977-01-07T11:00:00",
+      "displayDate": "Jan 7, 1977 • 11:00 AM",
+      "content": "So proud of Dad for his 14 years of service to Sparta! I can't wait for him to come visit me here in Germany once he retires in April.",
+      "person_id": null,
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Clark Wooten",
+      "handle": "@CWooten",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Cora and I are so excited to begin our ministry here at Sparta Baptist this Sunday. We already feel so welcomed by this community.",
+      "person_id": "p_008",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_008.jpg"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Cora Wooten",
+      "handle": "@CoraWooten",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "The children and I are finally settling into our new home. We’re looking forward to meeting everyone at the reception on Sunday afternoon!",
+      "person_id": "p_009",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_011",
+      "type": "post",
+      "author": "Lela Peck",
+      "handle": "@LPeck",
+      "isoDate": "1977-01-12T15:30:00",
+      "displayDate": "Jan 12, 1977 • 3:30 PM",
+      "content": "Algoma Township needs workers for the Special Census! If you're looking for work during the week of Jan. 24th, come see me at the office before the 21st.",
+      "person_id": "p_010",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Holy Family Church",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "Snowmobile Dance! Holy Family Church Feb. 5th, 9 PM to 1 AM. Music by the Ripios. Call Clarance Finkler or Bill Humbert for tickets.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "The Daisy Place",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Ready for Sewing Class? Men’s Sport Coat, Sewing With Knits, Shirt Jac or Man's Shirt, and Lingerie classes starting soon. Call 887-7765.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Moose Lodge No. 50",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "Weekend Calendar: Friday Fish Fry, Saturday Club Dinner with 7 Band, and Sunday Breakfast from 9:30 to 11:30. All events open to members and guests.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "North Kent Eagles",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "Sat. Jan 15th: Pork Man Supper, 5:00-7:30. Sun. Jan 16th: Breakfast, 9:30-12:00. Side Pork, boiled potatoes, milk gravy, and more!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "Coopersville Lions Club",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "SPAGHETTI SUPPER this Friday at the High School Cafeteria, 5 to 7 PM. Adults $2.00, children under 12 $1.00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-11T18:15:00",
+      "displayDate": "Jan 11, 1977 • 6:15 PM",
+      "content": "Sometimes I feel like I'm running in circles. Just as soon as the kitchen is clean and the dishes are put away, it’s already time to start thinking about the next meal. Does the work ever truly end?",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf",
+      "imageUrl": "/assets/people/p_012.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-11T19:30:00",
+      "displayDate": "Jan 11, 1977 • 7:30 PM",
+      "content": "I spent all afternoon in the kitchen today, but after thirty minutes at the dinner table, there’s nothing left to show for it but dirty plates. It’s hard not to feel a bit discouraged by the temporary nature of all our labor.",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf",
+      "imageUrl": "/assets/people/p_012.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-11T20:45:00",
+      "displayDate": "Jan 11, 1977 • 8:45 PM",
+      "content": "I just finished scrubbing the linoleum on my hands and knees, and not ten minutes later, someone’s already tracked dirt right across the middle. It feels like the world is constantly trying to undo my progress.",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf",
+      "imageUrl": "/assets/people/p_012.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-11T21:15:00",
+      "displayDate": "Jan 11, 1977 • 9:15 PM",
+      "content": "We blunder and make mistakes, and sometimes poor health is our lot for a season. Often we throw up our hands in despair and cry out, 'What's the use?'",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf",
+      "imageUrl": "/assets/people/p_012.jpg"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-11T22:00:00",
+      "displayDate": "Jan 11, 1977 • 10:00 PM",
+      "content": "There is hope! God is our helper. I shall not be cast down, but I shall be at rest, for He is the source of my strength and peace. Amen.",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf",
+      "imageUrl": "/assets/people/p_012.jpg"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Lekstrum-Burnett Post 107",
+      "handle": "@LegionPost107",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Reminder to all American Legion members: our next meeting is Monday, January 17, at 8:00 PM. See you at the clubrooms on S. State Street!",
+      "person_id": "p_legion",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Stock Park High School",
+      "handle": "@StockParkHS",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "Class of '76! If you haven't returned those pink follow-up forms yet, please get them in the mail as soon as possible. We've even provided a stamped envelope for you!",
+      "person_id": "p_school",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Ravenna Livestock Sale",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "Ravenna Livestock Sale Prices for 1/10/11: Beef Steers & Heifers 39.50, Hogs 39.50, Feeder Cattle 35.50. Join us Fridays at 6:00 p.m. sharp!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Mr. Zee's",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "20% to 50% OFF on selected new groups of COORDINATE APPAREL. Limited time only. All sales final. Open Fridays til 9:00. 141 E. Division Street, Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Sparta State Bank",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "ATTENTION! All Sparta area young ladies: Miss Kenowa-North Scholarship Pageant invites you to apply. Qualify for scholarships for your education or career. Contact Raymond W. Kennedy, Pageant Director.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%202.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Jim White",
+      "handle": "@JimWhite",
+      "isoDate": "1977-01-12T07:15:00",
+      "displayDate": "Jan 12, 1977 • 7:15 AM",
+      "content": "After 18 years in business here in Kent City, I am so proud to show off our new expansion! We've doubled the shopping area to give you wider aisles and a much larger dairy section.",
+      "person_id": "p_101",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Alvin Rogers",
+      "handle": "@AlvinRogers",
+      "isoDate": "1977-01-12T08:45:00",
+      "displayDate": "Jan 12, 1977 • 8:45 AM",
+      "content": "Just finished my morning grocery run at White's. Those new wider aisles are a godsend! I can actually pass another shopper without having to wait in a bottleneck.",
+      "person_id": "p_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf",
+      "imageUrl": "/assets/people/p_001.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Elinor Olin",
+      "handle": "@ElinorOlin",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "The dairy area in the new addition at White's Grocery is huge. I found everything I needed and some new items I hadn't seen before. Great job on the remodel, Jim!",
+      "person_id": "p_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf",
+      "imageUrl": "/assets/people/p_002.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Bob Stiles",
+      "handle": "@BobStiles",
+      "isoDate": "1977-01-12T12:15:00",
+      "displayDate": "Jan 12, 1977 • 12:15 PM",
+      "content": "The extra check-out lane at White's is exactly what we needed for the midday rush. I was through the line and back to work in record time today.",
+      "person_id": "p_011",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Sarah Miller",
+      "handle": "@KentCitySarah",
+      "isoDate": "1977-01-12T13:45:00",
+      "displayDate": "Jan 12, 1977 • 1:45 PM",
+      "content": "I can't believe it's been 18 years since Jim White first opened in Kent City. Seeing the store double in size today is a real milestone for our local community.",
+      "person_id": "p_103",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Quality Contractors",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "15% OFF ON ALL POLE BUILDINGS ordered before MARCH 1, 1977! Roofing, Insulation, Windows, and Remodeling. We do QUALITY work. Call for free estimates in Rockford or Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Jackie Newkirk",
+      "handle": "@JackieNewkirk",
+      "isoDate": "1977-01-12T15:30:00",
+      "displayDate": "Jan 12, 1977 • 3:30 PM",
+      "content": "I am here to help you finish your high school diploma! Our Supervised Study Program is tailored to your individual needs. Contact me at 887-8253 to get started.",
+      "person_id": "p_102",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@MerrittNelson",
+      "isoDate": "1977-01-12T16:45:00",
+      "displayDate": "Jan 12, 1977 • 4:45 PM",
+      "content": "I finally signed up for the Psychology class starting next Monday at the High School. It's time I finished those last few credits for my diploma.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf",
+      "imageUrl": "/assets/people/p_005.jpg"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Pauline Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "Basic Sewing starts next Tuesday! I've been waiting for a night class that fits my schedule. Can't wait to get back behind a sewing machine.",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Suzy Weston",
+      "handle": "@SuzyWeston",
+      "isoDate": "1977-01-12T19:15:00",
+      "displayDate": "Jan 12, 1977 • 7:15 PM",
+      "content": "Mark your calendars for next Monday, Jan 17! We are performing our Night of One Act Plays at the Comstock Park Small Gym at 7:00 PM.",
+      "person_id": "p_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf",
+      "imageUrl": "/assets/people/p_003.jpg"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Emil Kober",
+      "handle": "@EmilKober",
+      "isoDate": "1977-01-12T20:30:00",
+      "displayDate": "Jan 12, 1977 • 8:30 PM",
+      "content": "I'm checking out these Booms Red & White Top Silos. 48 years in business is impressive. I definitely want to take advantage of that early order discount.",
+      "person_id": "p_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf",
+      "imageUrl": "/assets/people/p_004.jpg"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Booms Silo Co., Inc.",
+      "isoDate": "1977-01-12T21:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 PM",
+      "content": "Building better silos for 48 years now. Get the BEST at a FAIR PRICE from your LOCAL DEALER. Contact us in Harbor Beach for early order discounts on our Red & White top silos.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Wylie Imp. CO.",
+      "isoDate": "1977-01-12T21:30:00",
+      "displayDate": "Jan 12, 1977 • 9:30 PM",
+      "content": "Your local dealer for HARLEY stone pickers. Located on Barber Creek Rd. in Kent City. Phone: 616-678-7686.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_p5_001",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-11T18:00:00",
+      "displayDate": "Jan 11, 1977 • 6:00 PM",
+      "content": "Why Bother TO Shop Elsewhere? Eberhard's 'NEW' SUPER CASH BINGO is back by popular demand! New cards and numbers are available starting tomorrow. Get ready to play for your chance to WIN UP TO $1,000! No purchase required. Adults only please. Total cash prizes $90,000!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_002",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T07:30:00",
+      "displayDate": "Jan 12, 1977 • 7:30 AM",
+      "content": "Fresh from our meat department! Country Cut Frying Chicken is just 38¢ per pound today. We also have fryer legs or breasts for 48¢ and whole or split fryers for 44¢. Quality you can trust at Eberhard's prices!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_003",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "Make it a Henry House night! Our 32 oz. Ham Loaf is only $1.99. It's the perfect easy, delicious meal for your family dinner tonight.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_004",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Sweet and juicy Florida Indian River Grapefruit are here! Get a 6 count bag of White Grapefruit for 79¢ or Pink for 89¢. Don't forget our Sweet California Navel Oranges, 10 for just 99¢!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_005",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "Refresh with an 8-pack of 16 oz. Pepsi! Just 89¢ plus deposit for regular or diet. Perfect for stocking up the fridge this week.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_006",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T11:45:00",
+      "displayDate": "Jan 12, 1977 • 11:45 AM",
+      "content": "Don't miss these 'Key Buys'! Oreo Cookies 89¢, 100 ct Bayer Aspirin 99¢, and 170 ct Q-Tips 99¢. Add these to your shopping list for extra savings today!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_007",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "More pantry staples on sale! 5-lb bag of Flour for 59¢, Shortening for 99¢, and Big Tate Instant Potatoes for 69¢. We've got everything you need at the prices you want.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Linda Bradford",
+      "handle": "@linda_b",
+      "isoDate": "1976-12-27T14:30:00",
+      "displayDate": "Dec 27, 1976 • 2:30 PM",
+      "content": "Our little Rebecca Jo is finally here! She was born this afternoon weighing 6 lbs. 8 oz. and is 19 inches long. We couldn't be happier to start the new year with our first child.",
+      "person_id": "p_201",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Jim Bradford",
+      "handle": "@jim_bradford",
+      "isoDate": "1976-12-27T18:15:00",
+      "displayDate": "Dec 27, 1976 • 6:15 PM",
+      "content": "It's a girl! Linda and I are so proud to welcome Rebecca Jo into the family. Big thanks to the grandparents, the Haaksmas and the Bradfords, for all the support today.",
+      "person_id": "p_202",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "John Haaksma",
+      "handle": "@grandpa_john",
+      "isoDate": "1976-12-28T09:00:00",
+      "displayDate": "Dec 28, 1976 • 9:00 AM",
+      "content": "So proud to announce my new granddaughter, Rebecca Jo! Linda and the baby are doing great. Welcome to the world, little one.",
+      "person_id": "p_204",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Norma Ann Thompson",
+      "handle": "@norma_ann",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "I am so excited to announce that Steven and I are getting married! We're planning the wedding for April 15th. I can't wait to start this next chapter with my best friend.",
+      "person_id": "p_206",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg",
+      "imageUrl": "/assets/people/p_206.jpg"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Steven Dean Jordan",
+      "handle": "@steven_jordan",
+      "isoDate": "1977-01-12T10:05:00",
+      "displayDate": "Jan 12, 1977 • 10:05 AM",
+      "content": "The news is out! Norma Ann Thompson said yes. 1977 is already looking like the best year yet.",
+      "person_id": "p_207",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg",
+      "imageUrl": "/assets/people/p_207.jpg"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Mrs. Russell Thompson Sr.",
+      "handle": "@mrs_thompson",
+      "isoDate": "1977-01-12T12:30:00",
+      "displayDate": "Jan 12, 1977 • 12:30 PM",
+      "content": "Russell and I are so proud to announce the engagement of our daughter, Norma Ann, to Steven Dean Jordan. April 15th can't come soon enough!",
+      "person_id": "p_208",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Farm Bureau Life",
+      "handle": "@fbil_michigan",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Celebrating 25 years of serving Michigan! From our start with 3,000 charter policyholders to now serving 80,000 customers, we are proud to provide protection to farm and urban families alike.",
+      "person_id": "p_210",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Charter Member",
+      "handle": "@charter_member_77",
+      "isoDate": "1977-01-12T14:45:00",
+      "displayDate": "Jan 12, 1977 • 2:45 PM",
+      "content": "I just received a special birthday present from Farm Bureau Life—a dividend for 1977! It's great to be one of the original 3,000 charter members.",
+      "person_id": "p_211",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Sears",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Major Appliances Sale! Shop at Sears and Save. Visit us at 3490 Plainfield, open 9:00 a.m. 'til 9:00 p.m. Satisfaction Guaranteed or Your Money Back.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Carter Lumber",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "Buy Energy Saving Products! O.C. Fiberglas PINK insulation starting at $5.80. Free Fiberglas ceiling installation clinic on January 22, 1977 at 9:00 AM.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Harvest Hill Apartments",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Now Leasing in Rockford, Michigan! One bedroom from $130/mo, Two bedrooms from $150/mo. Reserve now for March 1st occupancy. Call 241-6563.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%206-1.jpg"
+    },
+    {
+      "id": "ad_emm_001",
+      "type": "ad",
+      "sponsor": "Emmons Your Sparta Spartan Store",
+      "isoDate": "1977-01-12T07:30:00",
+      "displayDate": "Jan 12, 1977 • 7:30 AM",
+      "content": "Emmons is 'Small Enough To Know You, Large Enough To Serve You.' Stop in this week for incredible savings across every department. We have live butchers on staff to serve you the best cuts! We gladly accept Cash & Food Stamps.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%207.pdf"
+    },
+    {
+      "id": "ad_emm_002",
+      "type": "ad",
+      "sponsor": "Emmons Meat Department",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "This week's Meat Specials: Pork Loin Chops (1/4 cut) for 98¢ lb, Vandenbrink Ham Flavor Loaf (2lb pk) $1.99, Sliced Beef Liver 39¢ lb, and Checkerboard Cornish Hens (22 oz) for 96¢ each. Stock up on Fresh all Beef Hamburg - 3 lbs for only $1.99!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%207.pdf"
+    },
+    {
+      "id": "ad_emm_003",
+      "type": "ad",
+      "sponsor": "Emmons Bakery & Produce",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "Fresh from the oven: Ovenfresh Spice Cake and Lemon Creme Rolls are both just 69¢. In produce, we have Idaho Baking Potatoes (10 lb bag) for 99¢, Florida Grapefruit 6 for 69¢, and Eating Oranges for 89¢ a dozen.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%207.pdf"
+    },
+    {
+      "id": "ad_emm_004",
+      "type": "ad",
+      "sponsor": "Emmons Grocery & Dairy",
+      "isoDate": "1977-01-12T10:45:00",
+      "displayDate": "Jan 12, 1977 • 10:45 AM",
+      "content": "Stock the pantry! Van Camp's Pork & Beans 3/$1.00, Libby Tomato Juice (46 oz) 2/89¢, and Hershey Hot Cocoa Mix 69¢. Dairy Special: Grade A Large Eggs, 2 1/2 dozen for only $1.69!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%207.pdf"
+    },
+    {
+      "id": "ad_emm_005",
+      "type": "ad",
+      "sponsor": "Emmons Frozen Foods",
+      "isoDate": "1977-01-12T11:30:00",
+      "displayDate": "Jan 12, 1977 • 11:30 AM",
+      "content": "Don't miss our Frozen Food deals: Stehouwer Sizzle Steaks (6 pack) for $1.29 and Minute Maid Orange Juice (12 oz) for 49¢.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%207.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Nancy A. Afton",
+      "handle": "@NancyAfton",
+      "isoDate": "1977-01-10T09:15:00",
+      "displayDate": "Jan 10, 1977 • 9:15 AM",
+      "content": "I'm so honored to have been selected for technical training at Sheppard AFB in Texas! I've been studying hard for the Air Force mission, and receiving this special instruction in human relations has been eye-opening.",
+      "person_id": "p_301",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf",
+      "imageUrl": "/assets/people/p_301.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Arden D. Afton",
+      "handle": "@ArdenAfton",
+      "isoDate": "1977-01-10T18:30:00",
+      "displayDate": "Jan 10, 1977 • 6:30 PM",
+      "content": "So incredibly proud of our daughter Nancy. She's worked so hard since graduating from Coopersville and attending Grand Valley. Watching her succeed in the Air Force is the highlight of my year.",
+      "person_id": "p_302",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Robert A. Smith",
+      "handle": "@MarineRobert",
+      "isoDate": "1977-01-08T14:20:00",
+      "displayDate": "Jan 8, 1977 • 2:20 PM",
+      "content": "Reporting for duty! I've officially joined the 3d Marine Division here in Okinawa. It's a long way from Cedar Springs, but I'm ready for the challenge.",
+      "person_id": "p_304",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Sherly M. Cole",
+      "handle": "@SherlyCole",
+      "isoDate": "1977-01-08T20:45:00",
+      "displayDate": "Jan 8, 1977 • 8:45 PM",
+      "content": "My son Robert just checked in from Okinawa. It's hard having him so far away, but knowing he's doing his part for the Marines makes it easier. Stay safe, son!",
+      "person_id": "p_305",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "John Mason",
+      "handle": "@ChampionMason",
+      "isoDate": "1977-01-11T17:00:00",
+      "displayDate": "Jan 11, 1977 • 5:00 PM",
+      "content": "The Sand Lake boys are training harder than ever! We're down at the old Hardware building on Main St. every night getting ready for the West Michigan Golden Gloves. These kids have real heart.",
+      "person_id": "p_306",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Jack Crown",
+      "handle": "@JackCrownBoxing",
+      "isoDate": "1977-01-11T19:30:00",
+      "displayDate": "Jan 11, 1977 • 7:30 PM",
+      "content": "I'm offering free instruction to all boxers from the Ravenna area who want to compete in the Golden Gloves this year. If you've got the drive, I've got the time. Let's get these kids into the ring!",
+      "person_id": "p_307",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Vern Buffin",
+      "handle": "@VernBuffin",
+      "isoDate": "1977-01-06T13:30:00",
+      "displayDate": "Jan 6, 1977 • 1:30 PM",
+      "content": "She's finally here! Brenda Sue Buffin was born at 12:55 a.m. today at St. Mary's Hospital. 7 lbs. 10 ozs. and absolutely perfect. Mom is doing great!",
+      "person_id": "p_308",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Albert Hanna",
+      "handle": "@GrandpaHanna",
+      "isoDate": "1977-01-06T15:00:00",
+      "displayDate": "Jan 6, 1977 • 3:00 PM",
+      "content": "I'm a grandfather again! Little Brenda Sue arrived this morning. I can't wait to head over to the Buffin house and meet her. Her big brother is already excited to show her his toys.",
+      "person_id": "p_310",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "CB Radio Enthusiast",
+      "handle": "@Breaker19_Sparta",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "Before you get to a-modulating from your home base, make sure you've got your ears tuned in! A faulty antenna installation can cause serious injury or even death. Safety first, CB'ers!",
+      "person_id": "p_314",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Sparta Rotary Club",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "BINGO every Thursday at 7 PM! Join us at the BEE HIVE in Sparta. 203 E. Division. Don't miss out on the fun!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Solar Realty",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Can't find a home? COUNTRY LIVING in this two-story, 3 bedroom remodeled home. New kitchen, carpeted living room, and utility room on over 1.5 acres. Priced in the low twenties! Call Carol Pratt at 866-0153.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Camera Center",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "Share those special moments! We offer quality COLOR PROCESSING by Kodak. Bring in your KODACOLOR Negatives or Color Slides. 3150 Plainfield N.E.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "C & M Carpet",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "It's the next thing to STEALING... 18 ROLLS of variety styles & colors for only $2.50 per yd. ENTIRE STOCK of Shagtone Rubberback at $3.95 per yd. Gobs of colors to choose from! 3740 West River Road, Comstock Park.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%208.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Marilyn Wells",
+      "handle": "@mwells",
+      "isoDate": "1977-01-08T21:30:00",
+      "displayDate": "Jan 8, 1977 • 9:30 PM",
+      "content": "Wow, what a turnout tonight! 21 people came out for our salad supper. I think we were all a little surprised at just how delicious a meal of only salads can be! It's so heartening to see this group growing.",
+      "person_id": "p_404",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Marjorie Lake",
+      "handle": "@mlake",
+      "isoDate": "1977-01-10T10:00:00",
+      "displayDate": "Jan 10, 1977 • 10:00 AM",
+      "content": "We're already looking ahead to our next gathering! We'll be having coffee and conversation at Norma Smith's home this coming Sunday, Jan 16. If you need a ride, give me or Marilyn a call—we'll make sure you get there.",
+      "person_id": "p_403",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Norma Smith",
+      "handle": "@nsmith",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "I am so looking forward to hosting everyone at my place (924 40th St., Wyoming) this Sunday from 5 to 10 PM. The coffee will be hot and the conversation even better. See you then!",
+      "person_id": "p_402",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Mary Pike",
+      "handle": "@mpike",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "We are always looking for new ideas for our Singles Caring and Sharing calendar. If you have any suggestions for activities or speakers, please send them our way or call us! Your input makes this group what it is.",
+      "person_id": "p_405",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Single & Sharing Attendee",
+      "handle": "@spartasingle",
+      "isoDate": "1977-01-08T22:00:00",
+      "displayDate": "Jan 8, 1977 • 10:00 PM",
+      "content": "I was a bit skeptical about an 'all salad' supper, but wow! I am officially a fan of healthy eating now. Who knew salads could be this good? Great company too.",
+      "person_id": "p_411",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@mmatthews",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Big news for local hunters! Governor Milliken just signed the law opening up 300,000 acres of private land thanks to the new hunter access stamp law. It's only a dollar for the stamp, and the funds go right back into leasing these lands for our use.",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@mmatthews",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Winter trap leagues are starting tomorrow night! Despite the cold, we've had some solid scores at the range lately. Still some openings left, so hurry down and sign up at the club.",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Rob Barnes",
+      "handle": "@rbarnes",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Had a great day at the trap range. Topped the list with a 22 and a 23! The cold weather isn't stopping us from getting some practice in before the league officially kicks off.",
+      "person_id": "p_406",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "C. Sparks",
+      "handle": "@csparks",
+      "isoDate": "1977-01-12T13:30:00",
+      "displayDate": "Jan 12, 1977 • 1:30 PM",
+      "content": "Shot a 21 today. Getting closer to those top scores. The competition at the trap range is already getting fierce, and we haven't even started the season properly yet!",
+      "person_id": "p_407",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "T. Afton",
+      "handle": "@tafton",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "Managed a 21 at the range today. It's a solid start to the winter. Looking forward to seeing everyone at the potluck this Friday to celebrate the new season!",
+      "person_id": "p_408",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_011",
+      "type": "post",
+      "author": "Dave Steck",
+      "handle": "@dsteck",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "Put up a 21 today. Not my best, but good to be out on the range with the guys. This winter league is going to be a blast.",
+      "person_id": "p_409",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_012",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@mmatthews",
+      "isoDate": "1977-01-13T08:30:00",
+      "displayDate": "Jan 13, 1977 • 8:30 AM",
+      "content": "Don't forget the potluck supper tomorrow night, January 14, at the club. It's always a highlight of the month. See you there!",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Onion Crock",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "Fine foods for all seasons and every palate. Visit the Onion Crock by La Croix at Wealthy S.E., Monroe Center, or North Kent Mall for an unforgettable dining experience.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Standard Lumber",
+      "isoDate": "1977-01-12T11:30:00",
+      "displayDate": "Jan 12, 1977 • 11:30 AM",
+      "content": "Save at Standard Lumber with Do-It-Yourself Values! Owens-Corning Insulation starting at $6.39. Armstrong Ceilings, Merillat Kitchens, and Z-Brick are all on sale through Jan 22. Come let Standard show you how! 350 S. State.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Shrine Circus",
+      "isoDate": "1977-01-12T12:30:00",
+      "displayDate": "Jan 12, 1977 • 12:30 PM",
+      "content": "The Shrine Circus is coming! Jan 24 thru 30 at George Welsh Civic Auditorium. Bernie Wohlferd has your tickets—get them now by calling 887-9876.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%209.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@MerrittNelson",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "I am deeply interested in our community’s programs and organized planning. Maintaining a healthy economic condition for the future of Sparta Township is my top priority.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf",
+      "imageUrl": "/assets/people/p_005.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Bob Zimdar",
+      "handle": "@BobZimdar",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "I am so proud to announce that our Sparta Ben Franklin store is participating in our parent company’s 100th birthday celebration! We’ll be offering a year-long series of outstanding specials each week throughout 1977.",
+      "person_id": "p_413",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Bob Zimdar",
+      "handle": "@BobZimdar",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "The Ben Franklin story really fulfills the American dream. As an independent franchisee, I love serving this community in partnership with such a historic organization.",
+      "person_id": "p_413",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Bob Zimdar",
+      "handle": "@BobZimdar",
+      "isoDate": "1977-01-12T11:45:00",
+      "displayDate": "Jan 12, 1977 • 11:45 AM",
+      "content": "Did you know Ben Franklin started as a tiny wholesale business called Butler Brothers in 1877? They pioneered the '5-and-10 Cent Store' concept that we all know and love today.",
+      "person_id": "p_413",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Joie Thomas",
+      "handle": "@JoieThomas",
+      "isoDate": "1977-01-12T13:20:00",
+      "displayDate": "Jan 12, 1977 • 1:20 PM",
+      "content": "I can’t wait to see all the little ones for Pre-School Activity Time starting January 18th! We’re going to have so much fun with music, art, and story time at Clover Street School.",
+      "person_id": "p_414",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Laura Crouch",
+      "handle": "@LauraCrouch",
+      "isoDate": "1977-01-12T15:10:00",
+      "displayDate": "Jan 12, 1977 • 3:10 PM",
+      "content": "Calling all artists! My County Painting class for beginners and intermediate students starts January 27th at the High School. I hope to see you there on Thursday evenings!",
+      "person_id": "p_415",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "H&R Block",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "The simpler your return, the less we charge. That’s Reason No. 2. Block didn’t become America’s largest income tax preparer by charging high prices. Visit us at 1104 13 Mile, Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Swanlund’s Furniture Warehouse",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "HURRY... This year don’t miss it!! SWANLUND’S Annual January CLEARANCE. Fantastic Savings In Every Department! Savings up to 50%. Take I-96 West to the Coopersville exit.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Hankinson’s Radiator Shop",
+      "isoDate": "1977-01-12T14:45:00",
+      "displayDate": "Jan 12, 1977 • 2:45 PM",
+      "content": "Radiator Trouble? We handle Cleaning, Rodding, Repairing, and Recoring. Open Monday-Saturday at 4976 West River, Comstock Park.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "Jurgens & Holtvluwer",
+      "isoDate": "1977-01-12T16:30:00",
+      "displayDate": "Jan 12, 1977 • 4:30 PM",
+      "content": "PRE-INVENTORY SALE! Men’s Suits starting at $94.88. Leisure Suits 25%-50% OFF. Topcoats from $69.88. Winter Jackets 20-50% OFF. See us at 1054 W. Leonard.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_bigl_001",
+      "type": "post",
+      "author": "Big L Lumberland",
+      "handle": "@BigLLand",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Get your money's worth at BIG L! Our BIG savings event starts today and runs through January 19th. We've got everything you need to button up the house for winter. Come see us at M-66 at Sheridan in Sparta!",
+      "person_id": "p_bigl_mascot",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf",
+      "imageUrl": "/assets/people/p_bigl_mascot.jpg"
+    },
+    {
+      "id": "ad_fiberglass_001",
+      "type": "ad",
+      "sponsor": "Big L Cash and Carry Lumberland",
+      "isoDate": "1977-01-12T09:30:00",
+      "displayDate": "Jan 12, 1977 • 9:30 AM",
+      "content": "ON SALE NOW: Certain-teed Fiberglass Insulation. Cut fuel costs by reducing heat loss in winter and heat gain in summer. 3 1/2\" x 16\" only $6.15. 6\" x 16\" only $7.88. Fire resistant and rot-proof!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "post_customer_001",
+      "type": "post",
+      "author": "Home Renovator",
+      "handle": "@DIY_Sparta",
+      "isoDate": "1977-01-12T11:15:00",
+      "displayDate": "Jan 12, 1977 • 11:15 AM",
+      "content": "I am finally tackling that basement wall! Just picked up a few cartons of Z-Brick from Big L. It's the easy way to get a real brick look without the weight or the mess. Only $4.45 a box!",
+      "person_id": "p_renovator_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf",
+      "imageUrl": "/assets/people/p_renovator_01.jpg"
+    },
+    {
+      "id": "ad_paneling_001",
+      "type": "ad",
+      "sponsor": "Big L Cash and Carry Lumberland",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "CLOSE OUT on fine paneling selections! 4x7 Terra-Cotta Print on chipboard only $4.60. 4x8 Klamath Cedar print on plywood only $6.20. While supplies last!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "post_handyman_001",
+      "type": "post",
+      "author": "Local Handyman",
+      "handle": "@HandyInKent",
+      "isoDate": "1977-01-12T14:45:00",
+      "displayDate": "Jan 12, 1977 • 2:45 PM",
+      "content": "I'm impressed with how quickly this Kinkead folding tub enclosure goes in. It fits all tubs and the panels are safe and guaranteed for life. Great price at $41.45 right now.",
+      "person_id": "p_handyman_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf",
+      "imageUrl": "/assets/people/p_handyman_01.jpg"
+    },
+    {
+      "id": "ad_faucet_001",
+      "type": "ad",
+      "sponsor": "Big L Cash and Carry Lumberland",
+      "isoDate": "1977-01-12T16:20:00",
+      "displayDate": "Jan 12, 1977 • 4:20 PM",
+      "content": "Upgrade your bath with a Peerless Single Handle Lavatory Faucet. Model No. 8620. Regular $23.47, Sale Price $19.44. Quality you can trust.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "post_bigl_002",
+      "type": "post",
+      "author": "Big L Lumberland",
+      "handle": "@BigLLand",
+      "isoDate": "1977-01-12T17:30:00",
+      "displayDate": "Jan 12, 1977 • 5:30 PM",
+      "content": "Wrapping up a busy first day of the sale! Don't forget we have ammo boxes for $1.96 and pre-hung doors starting at $28.12. We're open tomorrow at 8:00 AM. See you then!",
+      "person_id": "p_bigl_mascot",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf",
+      "imageUrl": "/assets/people/p_bigl_mascot.jpg"
+    },
+    {
+      "id": "post_1201",
+      "type": "post",
+      "author": "H.R. Aslakson",
+      "handle": "@HAslakson",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "Planning for the Lutheran Hour Rally has been underway for months, and I'm thrilled to announce we've chosen the Frauenthal Civic Auditorium in Muskegon as our site! Mark your calendars for April 17th.",
+      "person_id": "p_416",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1202",
+      "type": "post",
+      "author": "H.R. Aslakson",
+      "handle": "@HAslakson",
+      "isoDate": "1977-01-12T17:05:00",
+      "displayDate": "Jan 12, 1977 • 5:05 PM",
+      "content": "And this is really just the beginning.",
+      "person_id": "p_416",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1203",
+      "type": "post",
+      "author": "Oswald J. Hoffman",
+      "handle": "@DrHoffman",
+      "isoDate": "1977-01-12T17:15:00",
+      "displayDate": "Jan 12, 1977 • 5:15 PM",
+      "content": "I am looking forward to being the featured speaker in Muskegon this April. The theme of our rally is 'The Living Lord Loves You'—and that is a message for everybody, not just Lutherans.",
+      "person_id": "p_417",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1204",
+      "type": "post",
+      "author": "Rally Volunteer",
+      "handle": "@RallyWorker",
+      "isoDate": "1977-01-12T17:30:00",
+      "displayDate": "Jan 12, 1977 • 5:30 PM",
+      "content": "So many man-hours have already been expended on the planning stages. As the date of the rally draws nearer, the work will really begin. We want people from all over western Michigan to come out!",
+      "person_id": "p_418",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1205",
+      "type": "post",
+      "author": "Muskegon Local",
+      "handle": "@MuskegonFan",
+      "isoDate": "1977-01-12T17:45:00",
+      "displayDate": "Jan 12, 1977 • 5:45 PM",
+      "content": "I'm so glad they chose the Frauenthal Civic Auditorium—I still think of it as the old Michigan Theater! It's going to be a beautiful venue for such an inspiring speaker.",
+      "person_id": "p_419",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1206",
+      "type": "post",
+      "author": "Radio Enthusiast",
+      "handle": "@TheVoiceFan",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "Did you know the Lutheran Hour is the largest non-government radio operation in the world? They broadcast to over 125 countries! It's amazing to have the 'Voice' himself coming to our area.",
+      "person_id": "p_420",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_1207",
+      "type": "post",
+      "author": "H.R. Aslakson",
+      "handle": "@HAslakson",
+      "isoDate": "1977-01-12T18:15:00",
+      "displayDate": "Jan 12, 1977 • 6:15 PM",
+      "content": "Everyone is invited to hear Dr. Oswald Hoffman. This isn't just for Lutherans; it's a truly inspiring event for the whole community. See you in Muskegon on April 17!",
+      "person_id": "p_416",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_1201",
+      "type": "ad",
+      "sponsor": "Comstock Park Foods",
+      "isoDate": "1977-01-12T18:30:00",
+      "displayDate": "Jan 12, 1977 • 6:30 PM",
+      "content": "BIG MEAT SALE THIS WEEK! T-Bone, Porter House, Sirloin, and Cube Steaks are ALL just $1.79 lb. Stock up your freezer with our cut-wrap & frozen specials. Side beef 77¢ lb, Hind 1/4 87¢ lb. Don't forget your coupons for 50 FREE Top Value Stamps!",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_1202",
+      "type": "ad",
+      "sponsor": "Mieras Family Shoes",
+      "isoDate": "1977-01-12T18:45:00",
+      "displayDate": "Jan 12, 1977 • 6:45 PM",
+      "content": "PRE-Inventory Clearance! Selected styles from our regular stock are now on sale. Mens Dexter and Stacy Adams, Womens Dunham Daters and Enna Jetticks, and Childrens Red Wing Chukka Boots. Shoe Boots 25%-60% OFF! Visit us at 841 W. Leonard Street.",
+      "sourcePdf": "https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_13_001",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:00:00",
+      "displayDate": "Jan 12, 1977 • 7:00 AM",
+      "content": "John 3:16 is often heard and we believe it, but do we truly understand its power? It is the Gospel in a nutshell.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf",
+      "imageUrl": "/assets/people/p_421.jpg"
+    },
+    {
+      "id": "post_13_002",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:05:00",
+      "displayDate": "Jan 12, 1977 • 7:05 AM",
+      "content": "For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf",
+      "imageUrl": "/assets/people/p_421.jpg"
+    },
+    {
+      "id": "post_13_003",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:15:00",
+      "displayDate": "Jan 12, 1977 • 7:15 AM",
+      "content": "There is no more wonderful announcement in all the Word of God than what we read in this verse. Think of it, beloved! God is love.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf",
+      "imageUrl": "/assets/people/p_421.jpg"
+    },
+    {
+      "id": "post_13_004",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:25:00",
+      "displayDate": "Jan 12, 1977 • 7:25 AM",
+      "content": "To think that God could love a world that hated Him and demanded the death of His Son. He nailed Him to the cross and mocked Him while He died to redeem even those that hated Him.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf",
+      "imageUrl": "/assets/people/p_421.jpg"
+    },
+    {
+      "id": "post_13_005",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:35:00",
+      "displayDate": "Jan 12, 1977 • 7:35 AM",
+      "content": "That little word 'so' signifies that there are not enough words in all the languages of the world to explain the depth or the height of the great love God bestowed upon man.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf",
+      "imageUrl": "/assets/people/p_421.jpg"
+    },
+    {
+      "id": "post_13_006",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:45:00",
+      "displayDate": "Jan 12, 1977 • 7:45 AM",
+      "content": "The truth set forth in the Gospel is that God gave His Son to the world because He so loved the world that whosoever believeth in Him should not perish but have everlasting life.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf",
+      "imageUrl": "/assets/people/p_421.jpg"
+    },
+    {
+      "id": "post_13_007",
+      "type": "post",
+      "author": "Donie",
+      "handle": "@Donie_696",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Ladies, we are starting our interfaith Bible study coffee break this morning at Pioneer Christian Reformed Church! See you at 10:00 a.m. on 17 Mile Rd.",
+      "person_id": "p_422",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_008",
+      "type": "post",
+      "author": "Joan",
+      "handle": "@Joan_866",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "I'm so glad we have a nursery provided and a story hour for the 4 and 5 year olds. It makes attending the interfaith Bible study so much easier! Feel free to join us anytime.",
+      "person_id": "p_423",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_001",
+      "type": "ad",
+      "sponsor": "Imperial House",
+      "isoDate": "1977-01-11T18:00:00",
+      "displayDate": "Jan 11, 1977 • 6:00 PM",
+      "content": "Elegant Dining & Cocktails at 3440 Plainfield N.E. Gourmet foods expertly prepared. Live entertainment for your listening and dancing enjoyment. Businessmen's luncheons served until 12 midnight.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_002",
+      "type": "ad",
+      "sponsor": "The Presidents Motor Inn",
+      "isoDate": "1977-01-11T18:30:00",
+      "displayDate": "Jan 11, 1977 • 6:30 PM",
+      "content": "Luncheon Specials at Fyfe & Drum Restaurant: Revelers Reuben $2.00, Patriots Patty Melt $1.95, Freedom French Dip $2.50. Includes toss salad. 3221 Plainfield Ave., N.E.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_003",
+      "type": "ad",
+      "sponsor": "Russ'",
+      "isoDate": "1977-01-11T19:00:00",
+      "displayDate": "Jan 11, 1977 • 7:00 PM",
+      "content": "Now featuring complete dinners at 3966 Plainfield, N.E. Also try our home made soups and pies. Open 11 AM - 11 PM. Closed Sunday.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_004",
+      "type": "ad",
+      "sponsor": "Bostwick Lake Inn",
+      "isoDate": "1977-01-11T19:30:00",
+      "displayDate": "Jan 11, 1977 • 7:30 PM",
+      "content": "Welcome Skiers! M-44 on the lake, Rockford. Sandwiches, soup, chili, and beer-wine-liquor. Open 10-12 weekdays, 10-2 Fri & Sat, 12-11 Sunday.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_005",
+      "type": "ad",
+      "sponsor": "Fingers Gay 90's Restaurant & Lounge",
+      "isoDate": "1977-01-11T20:00:00",
+      "displayDate": "Jan 11, 1977 • 8:00 PM",
+      "content": "Delicious food and friendly service served homestyle in our elegant Gay 90's decor. Serving your favorite cocktails. 4981 Plainfield, NE. Open every day except Monday.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_006",
+      "type": "ad",
+      "sponsor": "Fyfe & Drum Restaurant (Rockford)",
+      "isoDate": "1977-01-12T06:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 AM",
+      "content": "Now open for breakfast at 380 Division St. Rockford. 1 egg, toast & jelly for $.70. French toast w/bacon or sausage $1.50. Steak & Eggs $2.50.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_007",
+      "type": "ad",
+      "sponsor": "Yukon Jack's Lounge",
+      "isoDate": "1977-01-11T21:00:00",
+      "displayDate": "Jan 11, 1977 • 9:00 PM",
+      "content": "A friendly gathering place at 4 N. Main St., Rockford. Hamburgs available.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_008",
+      "type": "ad",
+      "sponsor": "Flim Flam Deli & Restaurant, Inc.",
+      "isoDate": "1977-01-11T22:00:00",
+      "displayDate": "Jan 11, 1977 • 10:00 PM",
+      "content": "Open 24 Hours! Breakfast served anytime at 3260 Plainfield, N.E. 15 breakfast specials from $1.00. Luncheon specials $1.95, Dinner specials $2.50. Carry out available.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_janet_01",
+      "type": "post",
+      "author": "Janet Streeter",
+      "handle": "@JanetAdVisor",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "People always ask me, 'What do I know about advertiser want ads?' and I tell them: Just that they WORK! That's all you need to know. If you've got something you don't need anymore, give me a call at 887-8400 and let's get it sold.",
+      "person_id": "p_janet_streeter",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf",
+      "imageUrl": "/assets/people/p_janet_streeter.jpg"
+    },
+    {
+      "id": "post_erma_hazel_01",
+      "type": "post",
+      "author": "Local Pet Owner",
+      "handle": "@ErmaAndHazel",
+      "isoDate": "1977-01-11T17:30:00",
+      "displayDate": "Jan 11, 1977 • 5:30 PM",
+      "content": "Erma and Hazel are back! (Sorry, no reward—they got as far as Newaygo and turned around and came back). I guess they realized there's no place like home. Next time, they'll drive! 🐾",
+      "person_id": "p_pet_owner_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "id": "ad_king_discounts_01",
+      "type": "ad",
+      "sponsor": "King of Discounts",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "SOFA SLEEPER: Floor sample slightly soiled. Was $299 now only $163.77. Terms available. King of Discounts, 1100 Leonard NW, Grand Rapids.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "id": "post_jordan_west_01",
+      "type": "post",
+      "author": "Jordan West",
+      "handle": "@JordanWestEdu",
+      "isoDate": "1977-01-11T14:45:00",
+      "displayDate": "Jan 11, 1977 • 2:45 PM",
+      "content": "Time is wasting! You can launch your career with proper preparation from Jordan West. Don't miss out on Spring Semester registration. Give me a call at 696-2230 for more information.",
+      "person_id": "p_jordan_west",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "id": "post_snowdin_potatoes_01",
+      "type": "post",
+      "author": "Richard Snowdin",
+      "handle": "@SnowdinPotatoes",
+      "isoDate": "1977-01-10T16:20:00",
+      "displayDate": "Jan 10, 1977 • 4:20 PM",
+      "content": "I've got a fresh supply of Snowdin potatoes ready for anyone in Sparta who needs them. Just call 887-0547.",
+      "person_id": "p_richard_snowdin",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "id": "ad_glens_motor_sales_01",
+      "type": "ad",
+      "sponsor": "Glen's Motor Sales",
+      "isoDate": "1977-01-12T11:30:00",
+      "displayDate": "Jan 12, 1977 • 11:30 AM",
+      "content": "GET YOUR USED CARS AT WHOLESALE PRICES! Visit us at 154 North State Street, Sparta or call 887-8755.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "id": "post_mustang_sale_01",
+      "type": "post",
+      "author": "Classic Car Owner",
+      "handle": "@MustangFan68",
+      "isoDate": "1977-01-12T12:05:00",
+      "displayDate": "Jan 12, 1977 • 12:05 PM",
+      "content": "Selling my 1968 FORD MUSTANG. 8 cylinder, automatic. In good condition. Call 887-8051.",
+      "person_id": "p_mustang_owner",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "id": "ad_big_red_barn_boots_01",
+      "type": "ad",
+      "sponsor": "The Big Red Barn",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "SPECIAL PURCHASE! WOMEN'S ($7) BOOT SALE!! Current Styles. Unbelievable Savings. Only $5.77 to $8.77. Stop Today! Just South of 8 Mile Rd. on Alpine.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2014.pdf"
+    },
+    {
+      "id": "post_19770110_billy",
+      "type": "post",
+      "author": "The Shafer Family",
+      "handle": "@ShaferFamily",
+      "isoDate": "1977-01-10T18:30:00",
+      "displayDate": "Jan 10, 1977 • 6:30 PM",
+      "content": "It has been two years since our sweet Billy Kenneth went up to heaven. He was a perfect little boy, so much like a little angel. Mom and Dad can’t wait until that glorious day comes when we can kiss and hug his darling rosy cheeks again.",
+      "person_id": "p_billy_shafer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf",
+      "imageUrl": "/assets/people/p_billy_shafer.jpg"
+    },
+    {
+      "id": "post_19770111_nora",
+      "type": "post",
+      "author": "Nora Morgan",
+      "handle": "@NoraM1886",
+      "isoDate": "1977-01-11T10:15:00",
+      "displayDate": "Jan 11, 1977 • 10:15 AM",
+      "content": "I would like to thank everyone who sent me cards on my 91st birthday! It was such a wonderful surprise and made my Christmas Day celebration even more special.",
+      "person_id": "p_nora_morgan",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_19770112_inflation_1",
+      "type": "post",
+      "author": "Jackie Newkirk",
+      "handle": "@JNewkirk",
+      "isoDate": "1977-01-12T08:45:00",
+      "displayDate": "Jan 12, 1977 • 8:45 AM",
+      "content": "I just looked at the statistics and food prices have jumped 129% since 1948! No wonder my grocery budget feels so tight lately. Everything is just soaring.",
+      "person_id": "p_102",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_19770112_inflation_2",
+      "type": "post",
+      "author": "Jim White",
+      "handle": "@WhiteyJ",
+      "isoDate": "1977-01-12T09:12:00",
+      "displayDate": "Jan 12, 1977 • 9:12 AM",
+      "content": "Inflation is hitting everything, but ironically, air travel is one of the few things that hasn't propelled upwards at the same rate. It’s almost cheaper to fly than to drive these days!",
+      "person_id": "p_101",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_19770112_inflation_3",
+      "type": "post",
+      "author": "Merritt Nelson",
+      "handle": "@NelsonRepair",
+      "isoDate": "1977-01-12T11:20:00",
+      "displayDate": "Jan 12, 1977 • 11:20 AM",
+      "content": "Gasoline is up 174% and electricity 89%. It’s getting harder and harder for us independent business owners to keep the lights on and the machines running.",
+      "person_id": "p_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf",
+      "imageUrl": "/assets/people/p_005.jpg"
+    },
+    {
+      "id": "post_19770112_inflation_4",
+      "type": "post",
+      "author": "Lela Peck",
+      "handle": "@LelaP",
+      "isoDate": "1977-01-12T13:40:00",
+      "displayDate": "Jan 12, 1977 • 1:40 PM",
+      "content": "Hospital semi-private rooms have increased 774 percent since 1948. That is an absolutely staggering number. We really need to look at what's happening to our healthcare costs.",
+      "person_id": "p_010",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_19770112_william",
+      "type": "post",
+      "author": "William Axford",
+      "handle": "@BillAxford",
+      "isoDate": "1977-01-12T14:15:00",
+      "displayDate": "Jan 12, 1977 • 2:15 PM",
+      "content": "A big thank you to my coffee dunkin' pals for keeping my spirits up! And to Rev. Hessler for the visits while I was in the hospital. Your kindness means the world to me.",
+      "person_id": "p_william_axford",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "ad_19770112_hrblock",
+      "type": "ad",
+      "sponsor": "Henry W. Block",
+      "isoDate": "1977-01-12T15:00:00",
+      "displayDate": "Jan 12, 1977 • 3:00 PM",
+      "content": "Income tax season is coming! No appointment necessary. Visit me at 11 N. State Street, Sparta. Open Mon-Wed-Fri and Saturdays.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_19770112_gary",
+      "type": "post",
+      "author": "Gary Congdon",
+      "handle": "@GarySellsSparta",
+      "isoDate": "1977-01-12T16:30:00",
+      "displayDate": "Jan 12, 1977 • 4:30 PM",
+      "content": "Just listed! Ideal for a small family. A 2-bedroom bungalow near town, very nicely decorated. $21,900. Come see it before it's gone!",
+      "person_id": "p_gary_congdon",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "ad_19770112_advisor",
+      "type": "ad",
+      "sponsor": "The Friendly Ad-Visor",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "Need help with your classifieds? A Friendly Ad-Visor will be happy to help you!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Concerned Student",
+      "handle": "@local_student",
+      "isoDate": "1977-01-11T14:30:00",
+      "displayDate": "Jan 11, 1977 • 2:30 PM",
+      "content": "If I attend Jordan College or Jordan West, will the credits I earn transfer to other colleges? I want my hard-earned credits to be accepted if I decide to transfer or go on for graduate work.",
+      "person_id": "p_student_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Jordan West Admissions",
+      "handle": "@jordan_west_edu",
+      "isoDate": "1977-01-11T16:00:00",
+      "displayDate": "Jan 11, 1977 • 4:00 PM",
+      "content": "Absolutely! Jordan College is a member of a regional accrediting agency and our credits are recognized by major universities like U of M, MSU, and Grand Valley. We even have a C3 rating in the AACRAO Handbook!",
+      "person_id": "p_jordan_west",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Arzie L. Pinckney",
+      "handle": "@arzie_senior_news",
+      "isoDate": "1977-01-12T10:15:00",
+      "displayDate": "Jan 12, 1977 • 10:15 AM",
+      "content": "We are slowly getting back in the old groove. We had 78 regulars out for a cup of coffee and a donut today with one new recruit. It's so good to see everyone!",
+      "person_id": "p_arzie_pinckney",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Arzie L. Pinckney",
+      "handle": "@arzie_senior_news",
+      "isoDate": "1977-01-12T10:20:00",
+      "displayDate": "Jan 12, 1977 • 10:20 AM",
+      "content": "We extend our heart felt sympathy to Mrs. Reaman and her family. Bill has been so sick for a long time. We'll certainly miss him at our meetings.",
+      "person_id": "p_arzie_pinckney",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "William Axford",
+      "handle": "@bill_axford",
+      "isoDate": "1977-01-12T11:45:00",
+      "displayDate": "Jan 12, 1977 • 11:45 AM",
+      "content": "I'm feeling much better today, but I'm not quite sure when I'll be back on the job. Thanks to everyone for the well wishes!",
+      "person_id": "p_william_axford",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Donald E. Kaiser",
+      "handle": "@sgt_kaiser_msp",
+      "isoDate": "1977-01-10T17:00:00",
+      "displayDate": "Jan 10, 1977 • 5:00 PM",
+      "content": "After nearly 26 years of service, today is my final day with the Michigan State Police. It's been an honor serving the Rockford district and the people of Michigan.",
+      "person_id": "p_donald_kaiser",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf",
+      "imageUrl": "/assets/people/p_donald_kaiser.jpg"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Arden Alexander, M.D.",
+      "handle": "@dr_alexander",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "I'll be speaking on Systemic Lupus Erythematosus (S.L.E.) on January 19th at the new auditorium in But-Muskegon. Please join us for this important discussion on how it affects the body.",
+      "person_id": "p_dr_alexander",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Richard L. Saur",
+      "handle": "@richard_saur",
+      "isoDate": "1976-12-30T09:00:00",
+      "displayDate": "Dec 30, 1976 • 9:00 AM",
+      "content": "We are thrilled to welcome our third son, Andrew James! He arrived yesterday weighing in at 9 lbs. 1/2 oz. Big brothers Christopher and Timothy are so excited.",
+      "person_id": "p_richard_saur",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Sparta Nursery Center",
+      "handle": "@sparta_nursery",
+      "isoDate": "1977-01-12T15:30:00",
+      "displayDate": "Jan 12, 1977 • 3:30 PM",
+      "content": "Dad's Day was wonderful! Our little ones were beaming with anticipation. We painted, listened to stories, and shared a delicious snack. Everyone had a great time!",
+      "person_id": "p_nursery_center",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Lois",
+      "handle": "@lois_weight_loss",
+      "isoDate": "1977-01-12T16:45:00",
+      "displayDate": "Jan 12, 1977 • 4:45 PM",
+      "content": "I am so happy to be crowned Queen for the week! A loss of 2 1/2 lbs—hard work really pays off. Let's keep it up, gals!",
+      "person_id": "p_lois_winner",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Coopersville Lyons Club",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "SPAGHETTI SUPPER: at the High School Cafeteria. Friday, Jan. 14 from 5 to 7 p.m. Adults $2.00, Children under 12 $1.00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Sparta Plumbing & Heating",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "FREE ESTIMATES from Jerry Kowalke, Licensed Master Plumber. Call 887-9978 anytime for all your plumbing and heating needs.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "White Bear Taxidermy",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "Expert Mounting Service! High Quality Work at Low Prices. Dial 887-7461. Jim McAllister, 388 E. Gardner, Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "The North Kent Leader",
+      "isoDate": "1977-01-12T07:30:00",
+      "displayDate": "Jan 12, 1977 • 7:30 AM",
+      "content": "FIND IT! SELL IT! in the North Kent Leader Classifieds. Dial 887-8400 or 887-8300. Small Ads... Big Results!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_501",
+      "type": "post",
+      "author": "Helen Maleski",
+      "handle": "@helen_maleski",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "I am so happy to finally share that Craig Johnson and I are engaged! A summer wedding is in the works and I couldn't be more excited for our future together. 💍✨",
+      "person_id": "p_501",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf",
+      "imageUrl": "/assets/people/p_501.jpg"
+    },
+    {
+      "id": "post_502",
+      "type": "post",
+      "author": "Henry Good",
+      "handle": "@henry_good",
+      "isoDate": "1977-01-10T18:30:00",
+      "displayDate": "Jan 10, 1977 • 6:30 PM",
+      "content": "God has truly blessed our family. Little Barbara Rosalee is finally home with us in Rockford! Angela and Kenneth are so excited to welcome their new baby sister. 9 lbs 4 oz of pure joy! 🙏❤️",
+      "person_id": "p_503",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_503",
+      "type": "post",
+      "author": "Janette Buhl",
+      "handle": "@janette_b",
+      "isoDate": "1977-01-08T20:45:00",
+      "displayDate": "Jan 8, 1977 • 8:45 PM",
+      "content": "Reflecting on our trip to Toronto for the Holiday Teen Convention. This was truly the greatest time I’ve ever had, being with so many other kids who feel the same way I do about Jesus Christ. It was worth every mile! #Celebrations #Toronto76",
+      "person_id": "p_505",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_504",
+      "type": "post",
+      "author": "Billy Kenneth Shafer",
+      "handle": "@billy_shafer",
+      "isoDate": "1977-01-07T14:20:00",
+      "displayDate": "Jan 7, 1977 • 2:20 PM",
+      "content": "I am so proud of our seven teens from Sparta Free Methodist who traveled to Toronto over Christmas. Seeing their growth and dedication at the convention was a highlight of my year. You kids represent our church so well!",
+      "person_id": "p_billy_shafer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_505",
+      "type": "post",
+      "author": "Kris Anderson",
+      "handle": "@kris_anderson",
+      "isoDate": "1977-01-11T11:00:00",
+      "displayDate": "Jan 11, 1977 • 11:00 AM",
+      "content": "He's here! George and I are so proud to announce the arrival of our first born, Ethan Albert. He’s a big boy at 9 lbs and 22 inches long. Grandma and Grandpa Anderson are already over the moon! 👶💙",
+      "person_id": "p_504",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "ad_501",
+      "type": "ad",
+      "sponsor": "Gil Visser Realty",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "Looking for your dream home? I've got some incredible new listings! 5 acres in Kent City, apple storage with commercial value, or a lakefront lot at Muskellunge Lake. Call me, Sally Voegeli, and let's find the right one for you! 🏠📞",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "ad_502",
+      "type": "ad",
+      "sponsor": "Fred Schmid and Son",
+      "isoDate": "1977-01-12T13:45:00",
+      "displayDate": "Jan 12, 1977 • 1:45 PM",
+      "content": "YEAR ROUND HOME JUST BUILT! Large wooded lakefront lot on Bass Lake Rd. 2 bedrooms, cathedral ceilings, walk-out deck, and a cozy fireplace. Maintenance-free living at its best. Call for an appointment after 4 PM!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_601",
+      "type": "post",
+      "author": "Pauline Spray",
+      "handle": "@PaulineS",
+      "isoDate": "1977-01-12T11:15:00",
+      "displayDate": "Jan 12, 1977 • 11:15 AM",
+      "content": "I am so impressed with our Morning Belles this morning! We are already into January and everyone is keeping their resolutions to lose weight and stay on the ball. We even had two 'best losers' this week—2 1/2 lbs each!",
+      "person_id": "p_012",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_602",
+      "type": "post",
+      "author": "Betty C.",
+      "handle": "@BettyC",
+      "isoDate": "1977-01-12T12:30:00",
+      "displayDate": "Jan 12, 1977 • 12:30 PM",
+      "content": "Helen B. and I are off to a great start! We both lost 2 1/2 pounds this week. It feels super to get back on track after the holidays.",
+      "person_id": "p_601",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_603",
+      "type": "post",
+      "author": "Berle",
+      "handle": "@Berle",
+      "isoDate": "1977-01-12T13:45:00",
+      "displayDate": "Jan 12, 1977 • 1:45 PM",
+      "content": "I can't believe I won one of the mystery boxes today! It was such a surprise. Congratulations to me!",
+      "person_id": "p_603",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_604",
+      "type": "post",
+      "author": "Maria B.",
+      "handle": "@MariaB",
+      "isoDate": "1977-01-12T14:20:00",
+      "displayDate": "Jan 12, 1977 • 2:20 PM",
+      "content": "Connie S. and I are so happy to be the newest members of the Morning Belles. Everyone has been so welcoming, and I know this club is going to be exactly what I need to stay motivated this year.",
+      "person_id": "p_604",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_605",
+      "type": "post",
+      "author": "Elaine J.",
+      "handle": "@ElaineJ",
+      "isoDate": "1977-01-12T15:00:00",
+      "displayDate": "Jan 12, 1977 • 3:00 PM",
+      "content": "I am so honored to be named the 'best loser' for the months of November and December! It has been a lot of work, but hearing everyone applaud for me and Ardele F. makes it all worth it.",
+      "person_id": "p_606",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_606",
+      "type": "post",
+      "author": "Pauline Spray",
+      "handle": "@PaulineS",
+      "isoDate": "1977-01-12T16:10:00",
+      "displayDate": "Jan 12, 1977 • 4:10 PM",
+      "content": "Don't forget, ladies—we're having our Bingo game (or TOPS game as we call it) next week! Hope everyone can make it. Also, keep your eyes open for a new contest coming up soon!",
+      "person_id": "p_012",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_607",
+      "type": "post",
+      "author": "Classic Car Owner",
+      "handle": "@StangFan77",
+      "isoDate": "1977-01-12T08:45:00",
+      "displayDate": "Jan 12, 1977 • 8:45 AM",
+      "content": "Did you see the listing for the auction in Coopersville this Saturday? A 1971 Mustang Fastback with a high speed cam and special carb... that's a dream find right there. I might have to clear some space in the garage.",
+      "person_id": "p_mustang_owner",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_608",
+      "type": "post",
+      "author": "Loveland Real Estate Agent",
+      "handle": "@LovelandHomes",
+      "isoDate": "1977-01-11T10:00:00",
+      "displayDate": "Jan 11, 1977 • 10:00 AM",
+      "content": "Looking for a little more space? I just listed a beautiful 4-bedroom home on 25 acres that is perfectly split. Or, if you're looking for something more manageable, we have a 2-bedroom condo with a garage and a 3-bedroom on an acre with a fireplace. Give me a call in Cedar Springs!",
+      "person_id": "p_608",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_601",
+      "type": "ad",
+      "sponsor": "Ravenna Co-Op",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "FREE STOCKING CAP with minimum 1 ton of Murphy's. Calf Grower $6.85 per 100# ton lots. Calf Starter $8.85 per 100# ton lots. Full Service Dealer. Phone 853-2215.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_602",
+      "type": "ad",
+      "sponsor": "Hamilton Auction Company",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "PUBLIC AUCTION: Saturday - January 15, 10:00 A.M. Coopersville Surplus Sales. Complete liquidation of the Surplus Sales Business. 1971 Buick Electra, Mustang Fastback, Riding Mower, Restaurant Equipment, and Office Equipment. Sale site phone: 837-9805.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_603",
+      "type": "ad",
+      "sponsor": "Energy-Mate",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "HIGH FUEL BILLS? Call 784-0231. Energy-Mate: The Wood Burner That Will Save You Dollars In Fuel Cost. Heavy duty grate, adjustable draft flow, and its own blower and thermostat. Can be used as a supplement or independent heating system.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_vera_01",
+      "type": "post",
+      "author": "Vera Matteson",
+      "handle": "@VeraM_Sparta",
+      "isoDate": "1977-01-02T07:30:00",
+      "displayDate": "Jan 2, 1977 • 7:30 AM",
+      "content": "I am heading into another shift at the Sparta Nursing Home. It’s hard work, but these residents make every minute worth it. They feel like family to me.",
+      "person_id": "p_vera_m",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_claude_01",
+      "type": "post",
+      "author": "Claude Matteson",
+      "handle": "@ClaudeM77",
+      "isoDate": "1976-12-19T18:45:00",
+      "displayDate": "Dec 19, 1976 • 6:45 PM",
+      "content": "Celebrating 10 years of marriage with Vera tonight! Dec. 19, 1967 feels like just yesterday. I am so lucky to have her by my side.",
+      "person_id": "p_claude_m",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_frank_01",
+      "type": "post",
+      "author": "Frank J. Vanden Heuvel",
+      "handle": "@FrankVH_KC",
+      "isoDate": "1976-11-15T09:15:00",
+      "displayDate": "Nov 15, 1976 • 9:15 AM",
+      "content": "Serving 19 years on the Kent City School Board has been a true labor of love. I'm honored to help shape the future for our local kids.",
+      "person_id": "p_frank_vh",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_jane_01",
+      "type": "post",
+      "author": "Jane Vanden Heuvel",
+      "handle": "@JaneVH_KC",
+      "isoDate": "1976-12-20T20:00:00",
+      "displayDate": "Dec 20, 1976 • 8:00 PM",
+      "content": "Frank is so busy between the Zoning Board and the Ambulance Board, I'm lucky if I see him for dinner! He really loves this community.",
+      "person_id": "p_jane_vh",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_ford_01",
+      "type": "post",
+      "author": "Ford J. McBride",
+      "handle": "@FordMcB_Kelvinator",
+      "isoDate": "1976-12-15T16:20:00",
+      "displayDate": "Dec 15, 1976 • 4:20 PM",
+      "content": "Supervisor duty never stops at Kelvinator! I'm keeping the production lines moving today and making sure the crew has what they need.",
+      "person_id": "p_ford_mb",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_joyce_01",
+      "type": "post",
+      "author": "Joyce McBride",
+      "handle": "@JoyceMcB_KC",
+      "isoDate": "1976-12-28T19:00:00",
+      "displayDate": "Dec 28, 1976 • 7:00 PM",
+      "content": "Ford and I have loved our 13 years here in the Kent City area. It’s been a wonderful place to raise our children and build our life together.",
+      "person_id": "p_joyce_mb",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_william_01",
+      "type": "post",
+      "author": "William G. Reaman",
+      "handle": "@BillReaman_FarmBureau",
+      "isoDate": "1976-08-10T08:00:00",
+      "displayDate": "Aug 10, 1976 • 8:00 AM",
+      "content": "There is nothing like the view from the cab of my Farm Bureau truck. I've seen every corner of Kent City from this seat over the years.",
+      "person_id": "p_william_r",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_cora_01",
+      "type": "post",
+      "author": "Cora Reaman",
+      "handle": "@CoraR_Sparta",
+      "isoDate": "1976-11-20T14:30:00",
+      "displayDate": "Nov 20, 1976 • 2:30 PM",
+      "content": "William is finally taking it easy now that he's retired, but he still makes sure to attend all the Sparta Senior Citizens meetings.",
+      "person_id": "p_cora_r",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_lorrene_01",
+      "type": "post",
+      "author": "Lorrene L. Anderson",
+      "handle": "@LorreneA_Eberhards",
+      "isoDate": "1976-12-23T17:45:00",
+      "displayDate": "Dec 23, 1976 • 5:45 PM",
+      "content": "Eberhard's is hopping today! I love being the head cashier because I get to catch up with everyone in Sparta while they do their holiday shopping.",
+      "person_id": "p_lorrene_a",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_john_a_01",
+      "type": "post",
+      "author": "John Anderson",
+      "handle": "@JohnAnderson_Sparta",
+      "isoDate": "1976-12-30T19:30:00",
+      "displayDate": "Dec 30, 1976 • 7:30 PM",
+      "content": "I am so proud of Lorrene. Whether she's at the checkout or helping out at Mamrelund, she always puts this community first.",
+      "person_id": "p_john_a",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_frames_01",
+      "type": "ad",
+      "sponsor": "Frames Unlimited",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "What to do with your needlework? Why not frame it! Frames Unlimited offers a complete stretching and framing service for needlepoint, crewel, embroidery, and more. Come in and see us for more ideas at 3150 Plainfield or Northland Plaza.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_furniture_01",
+      "type": "ad",
+      "sponsor": "Village Furniture & Carpet",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "FLOOR SAMPLE SALE! Ideas for your bedroom... We have a great collection of Bedroom Suits in Colonial, American traditional and Mediterranean. Save 10% to 50%! Save $100 to $300 and maybe more on your suite! Located at 252 S. State Street, Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_tax_01",
+      "type": "ad",
+      "sponsor": "Joyce K. Hansen, Tax Counselor",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "TAX RETURNS - YOUR HOME OR MINE. Tax Counselor Joyce K. Hansen. 4171 Indian Lakes, Cedar Springs. Ph. 696-1461.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_kempf_01",
+      "type": "ad",
+      "sponsor": "Kempf Builders",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "MODEL NOW OPEN! New 3 Bedroom Rancher on 3 acres. $41,500. Open house directions: Wolverine Blvd. (Old US 131) to 11 Mile Rd. then East 2 miles to Shaner and North 1/4 mile. Or built on your lot only for $33,000.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_chevrolet_01",
+      "type": "ad",
+      "sponsor": "C. Bell Chevrolet",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "Service Specials with 'Special' Service! Front End Alignment $9.95. Lube, Oil & Filter $9.95. AC Spark Plugs 75c each. Coupons effective Jan 1977. C. Bell Chevrolet, 3535 Alpine (Corner of 4 Mile Road).",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_703_1",
+      "type": "post",
+      "author": "Edward Soderstrom",
+      "handle": "@PrezSoderstrom",
+      "isoDate": "1977-01-10T19:30:00",
+      "displayDate": "Jan 10, 1977 • 7:30 PM",
+      "content": "I am calling the regular meeting of the Village of Sparta to order. We have a full agenda tonight including some important appointments and fund transfers.",
+      "person_id": "p_703",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_705_1",
+      "type": "post",
+      "author": "Paul Gibson",
+      "handle": "@ChiefGibson",
+      "isoDate": "1977-01-10T20:15:00",
+      "displayDate": "Jan 10, 1977 • 8:15 PM",
+      "content": "Just reported to the council on our December activity. We handled 106 traffic violations and 13 non-traffic citations this month. Our officers are working hard to keep Sparta safe.",
+      "person_id": "p_705",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_704_1",
+      "type": "post",
+      "author": "Leonard Sleutel",
+      "handle": "@OfficerSleutel",
+      "isoDate": "1977-01-10T21:00:00",
+      "displayDate": "Jan 10, 1977 • 9:00 PM",
+      "content": "Huge news! The President and Council have officially recommended me as a new Policeman for the Village of Sparta. I am honored and can't wait to start serving this community.",
+      "person_id": "p_704",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_701_1",
+      "type": "post",
+      "author": "Wayne Van Gessel",
+      "handle": "@WayneVG",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Grand Rapids, it's good to be back! Fort Leonard Wood was tough but I'm ready to help with recruiting here at the Northtown Shopping Center for the next 30 days.",
+      "person_id": "p_701",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf",
+      "imageUrl": "/assets/people/p_701.jpg"
+    },
+    {
+      "id": "post_702_1",
+      "type": "post",
+      "author": "Fred Chambers",
+      "handle": "@SFCChambers",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "Proud to have PVT Van Gessel joining our recruiting team. He's a top-tier graduate of our training programs and a great example for local Kent City youth considering the service.",
+      "person_id": "p_702",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "ad_paintpro_1",
+      "type": "ad",
+      "sponsor": "Alpine Decorator's Nook",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Ask The Paint Pro: Flecks of color in your paint? Usually a result of inadequate mixing or an overdosing of colorants. Come see us at the Fuller O'Brien Shop at 2234 Alpine N.W.!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_706_1",
+      "type": "post",
+      "author": "Larry Fogle",
+      "handle": "@MissionaryLarry",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "Our 1977 Missionary Conference at Rockford Baptist is going to be life-changing. I'm preparing my slides for the Central African Republic presentation! See you on Jan 22.",
+      "person_id": "p_706",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_707_1",
+      "type": "post",
+      "author": "Clara Nickolie",
+      "handle": "@ClaraN",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "Cleaning up and getting ready to host the American Legion Auxiliary ladies this Monday. We'll be meeting at 8 PM at my home on Happy End Drive!",
+      "person_id": "p_707",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_711_1",
+      "type": "post",
+      "author": "Jerry Van Gessel",
+      "handle": "@ProudDadJerry",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "My boy Wayne is finally home! He's done so well with his heavy equipment repairman training at Fort Leonard Wood. So proud of his service.",
+      "person_id": "p_711",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "ad_glass_1",
+      "type": "ad",
+      "sponsor": "North Kent Glass",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "Brighten Up with Wallpaper and Glass! We do expert installation of desk tops, mirrors, and window repairs. Glass cut to size while you wait. Visit us at 10388 Sparta Ave.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_710_1",
+      "type": "post",
+      "author": "Gene Taylor",
+      "handle": "@InspectorTaylor",
+      "isoDate": "1977-01-12T19:00:00",
+      "displayDate": "Jan 12, 1977 • 7:00 PM",
+      "content": "Just wrapped up the 1976 building permit report. Sparta is growing—24 new village permits were issued last year worth over $209,110. A great year for our village!",
+      "person_id": "p_710",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_708_1",
+      "type": "post",
+      "author": "Elvin Simons",
+      "handle": "@SimonsWater",
+      "isoDate": "1977-01-12T20:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 PM",
+      "content": "185,585,000 gallons of wastewater treated in 1976. It's a dirty job, but someone has to keep our environment clean for the Sparta community.",
+      "person_id": "p_708",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_709_1",
+      "type": "post",
+      "author": "Albert Hale",
+      "handle": "@HaleWater",
+      "isoDate": "1977-01-12T21:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 PM",
+      "content": "We pumped 135,500,000 gallons of water to the people of Sparta this past year. Cheers to a refreshing and successful 1977!",
+      "person_id": "p_709",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "ad_wallace_1",
+      "type": "ad",
+      "sponsor": "C H Wallace, Inc",
+      "isoDate": "1977-01-12T15:00:00",
+      "displayDate": "Jan 12, 1977 • 3:00 PM",
+      "content": "IRON DUKE! Pontiac's new 4 cylinder engine is here. EPA ratings as much as 37 M.P.G. Buy Now & Save at C H Wallace! Open Mon & Wed til 9:00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_712_1",
+      "type": "post",
+      "author": "Dave Snyder",
+      "handle": "@BrazilMission",
+      "isoDate": "1977-01-12T22:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 PM",
+      "content": "Brazil has been an incredible journey. I can't wait to share our mission work with the Rockford Baptist Church community starting Jan 22.",
+      "person_id": "p_712",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_714_1",
+      "type": "post",
+      "author": "Jack O'Donnel",
+      "handle": "@JackODonnel",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "My wife and I are looking forward to hosting the Senior Citizens Fellowship next Wednesday! Don't forget it's a pot luck dinner at noon. Mr. and Mrs. John VanLoon will be co-hosting with us.",
+      "person_id": "p_714",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_716_1",
+      "type": "post",
+      "author": "Jack Hough",
+      "handle": "@ColombiaMission",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "I am looking forward to our Missionary Conference in Rockford. It's a privilege to share the work we've been doing in Colombia with all of you.",
+      "person_id": "p_716",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_717_1",
+      "type": "post",
+      "author": "Bob Crockett",
+      "handle": "@ChicagoMission",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Representing the Inter-City work of Chicago at the upcoming Rockford conference. Every soul matters, and I'm eager to share the progress of our mission.",
+      "person_id": "p_717",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_718_1",
+      "type": "post",
+      "author": "Rockford Youth Leader",
+      "handle": "@RockfordYouth",
+      "isoDate": "1977-01-12T15:30:00",
+      "displayDate": "Jan 12, 1977 • 3:30 PM",
+      "content": "Don't miss the youth pizza party on Saturday, Jan 22! Rev. Larry Fogle will be our guest speaker. It's going to be a night of fellowship and inspiration.",
+      "person_id": "p_718",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_layer_sparta",
+      "type": "post",
+      "author": "Brian Layer",
+      "handle": "@b_layer77",
+      "isoDate": "1977-01-04T21:15:00",
+      "displayDate": "Jan 4, 1977 • 9:15 PM",
+      "content": "Absolutely on fire tonight against Sparta! Scoring 25 points and shooting 78.5 percent from the floor felt incredible. We're finally in that first-place tie where we belong. #EaglePride #KentCity",
+      "person_id": "p_brian_layer",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf",
+      "imageUrl": "/assets/people/p_brian_layer.jpg"
+    },
+    {
+      "id": "post_afton_sparta",
+      "type": "post",
+      "author": "Dan Afton",
+      "handle": "@dan_afton",
+      "isoDate": "1977-01-04T21:45:00",
+      "displayDate": "Jan 4, 1977 • 9:45 PM",
+      "content": "Had to step up in the second quarter when the pressure was on. Picked up 15 points to help us pull ahead with that 20-8 run. Sparta's defense didn't make it easy, but we kept our composure.",
+      "person_id": "p_dan_afton",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_thome_loss",
+      "type": "post",
+      "author": "Tim Thome",
+      "handle": "@t_thome_sparta",
+      "isoDate": "1977-01-04T22:10:00",
+      "displayDate": "Jan 4, 1977 • 10:10 PM",
+      "content": "Tough loss tonight. We held our own in the first quarter, but Kent City's shooting was just too consistent in the second. Back to practice tomorrow to work on our transition defense.",
+      "person_id": "p_tim_thome",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_edgar_spanish",
+      "type": "post",
+      "author": "Kim Edgar",
+      "handle": "@kedgar_kc",
+      "isoDate": "1977-01-10T15:30:00",
+      "displayDate": "Jan 10, 1977 • 3:30 PM",
+      "content": "Taking the plunge into Kent City's Spanish class! It's intense—answering rapid-fire questions or it's a turnover. My head is spinning, but I love the challenge. Adios amigos y bueno suerte! #SpanishClass #KentCityHigh",
+      "person_id": "p_kim_edgar",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_kukla_grant",
+      "type": "post",
+      "author": "Harry Kukla",
+      "handle": "@hkukla15",
+      "isoDate": "1977-01-07T21:30:00",
+      "displayDate": "Jan 7, 1977 • 9:30 PM",
+      "content": "What a night! 23 points to lead the team to a 72-54 win over Grant. We broke that first-period deadlock and never looked back. We're 4-1 now and rolling!",
+      "person_id": "p_harry_kukla",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf",
+      "imageUrl": "/assets/people/p_harry_kukla.jpg"
+    },
+    {
+      "id": "post_weston_grant",
+      "type": "post",
+      "author": "Doug Weston",
+      "handle": "@d_weston34",
+      "isoDate": "1977-01-07T21:50:00",
+      "displayDate": "Jan 7, 1977 • 9:50 PM",
+      "content": "Harry was unstoppable tonight, but I'm happy with my 16 points and 7 boards. This Grant team is physical—three of their guys fouled out! Glad we out-distanced them in the fourth.",
+      "person_id": "p_doug_weston",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf",
+      "imageUrl": "/assets/people/p_doug_weston.jpg"
+    },
+    {
+      "id": "post_prickett_fouled",
+      "type": "post",
+      "author": "Terry Prickett",
+      "handle": "@t_prickett_grant",
+      "isoDate": "1977-01-07T22:15:00",
+      "displayDate": "Jan 7, 1977 • 10:15 PM",
+      "content": "Frustrating night in Kent City. Picking up my fifth foul and having to watch the final minutes from the bench is the worst. We've got to play cleaner next time.",
+      "person_id": "p_terry_prickett",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_jensen_jv",
+      "type": "post",
+      "author": "Doug Jensen",
+      "handle": "@dj_hoops",
+      "isoDate": "1977-01-04T19:00:00",
+      "displayDate": "Jan 4, 1977 • 7:00 PM",
+      "content": "Tough loss for the J.V. squad against the Spartans. Hit a nice jump shot, but their full court press really rattled us in the second half. 52-36 isn't how we wanted to start the week.",
+      "person_id": "p_doug_jensen",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf",
+      "imageUrl": "/assets/people/p_doug_jensen.jpg"
+    },
+    {
+      "id": "post_stebbins_jv",
+      "type": "post",
+      "author": "Jim Stebbins",
+      "handle": "@j_stebbins",
+      "isoDate": "1977-01-04T19:20:00",
+      "displayDate": "Jan 4, 1977 • 7:20 PM",
+      "content": "Played my heart out in the first half, but those turnovers in the middle of the action killed us. Scoring 9 points doesn't mean much when you lose to Sparta.",
+      "person_id": "p_jim_stebbins",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_schultz_boxing",
+      "type": "post",
+      "author": "Mr. Schultz",
+      "handle": "@coach_schultz",
+      "isoDate": "1977-01-11T16:00:00",
+      "displayDate": "Jan 11, 1977 • 4:00 PM",
+      "content": "I'm officially starting the Kent City Boxing Club! We've already got members like Ray Nauta and Cary Patton training. Girls are more than welcome too—come try your luck at boxing! #KentCityBoxing",
+      "person_id": "p_mr_schultz",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "ad_advisor_wantads",
+      "type": "ad",
+      "sponsor": "Friendly Ad-Visor",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "STOP DRIVING AROUND LOOKING FOR THAT PERFECT BUY! Shop the Want Ads. I've got everything you're looking for right here in the North Kent Leader. #WantAds #SaveTime",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_801",
+      "type": "post",
+      "author": "Diane Leichty",
+      "handle": "@DianeLeichty",
+      "isoDate": "1977-01-11T17:45:00",
+      "displayDate": "Jan 11, 1977 • 5:45 PM",
+      "content": "So happy to finally be settled in Charleston! Dale and I are loving our new home in South Carolina while he serves on the U.S.S. Mt. Baker. Thinking back to our beautiful wedding in Nashville last October.",
+      "person_id": "p_801",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg",
+      "imageUrl": "/assets/people/p_801.jpg"
+    },
+    {
+      "id": "post_802",
+      "type": "post",
+      "author": "Dale Leichty",
+      "handle": "@DaleLeichty",
+      "isoDate": "1977-01-12T09:15:00",
+      "displayDate": "Jan 12, 1977 • 9:15 AM",
+      "content": "Life in the Navy keeps me busy, but I'm grateful to have Diane by my side here in Charleston. It's been a whirlwind few months since we exchanged vows!",
+      "person_id": "p_802",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg",
+      "imageUrl": "/assets/people/p_802.jpg"
+    },
+    {
+      "id": "post_803",
+      "type": "post",
+      "author": "Beverlie Emmorey",
+      "handle": "@BeverlieE",
+      "isoDate": "1977-01-12T08:30:00",
+      "displayDate": "Jan 12, 1977 • 8:30 AM",
+      "content": "Twenty-five wonderful years! Carroll and I are so blessed. We hope our friends and neighbors can join us this Sunday for an Open House at our daughter's home on 18 Mile Road.",
+      "person_id": "p_803",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg",
+      "imageUrl": "/assets/people/p_803.jpg"
+    },
+    {
+      "id": "post_804",
+      "type": "post",
+      "author": "Carroll Emmorey",
+      "handle": "@CarrollE",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "It doesn't feel like 25 years, but the calendar says it's true! Come celebrate with us this Sunday afternoon between 1 and 5 PM.",
+      "person_id": "p_804",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg",
+      "imageUrl": "/assets/people/p_804.jpg"
+    },
+    {
+      "id": "post_805",
+      "type": "post",
+      "author": "Mark Emmorey",
+      "handle": "@MarkEmmorey",
+      "isoDate": "1977-01-11T19:20:00",
+      "displayDate": "Jan 11, 1977 • 7:20 PM",
+      "content": "We're throwing a big party for Mom and Dad's 25th anniversary! My brothers, sisters, and I are hosting an open house this Sunday at Bill and Bev's place. Hope to see you there!",
+      "person_id": "p_805",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_807",
+      "type": "post",
+      "author": "Rockford Schools",
+      "handle": "@RockfordSchools",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "Lunch menu for Jan 17-20: Mon - BBQ on bun; Tue - Beef & noodles; Wed - Soup & crackers; Thu - Turkey & Gravy. Reminder: No School this Friday for Record Day!",
+      "person_id": "p_807",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_801",
+      "type": "ad",
+      "sponsor": "Powell's Flowers & Gifts",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "WE WILL BE CLOSED for a Family Vacation Jan. 17 thru Jan. 22. But we will be back and anxious to serve you on January 24th! Many Thanks!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_802",
+      "type": "ad",
+      "sponsor": "Friendly Corners Restaurant",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "it's about time!!! Friendly Corners Restaurant is opening Friday, Jan. 14. 17 MILE and ALGOMA. 696-9839. Mon-Thu 6 AM - 10 PM, Fri-Sat 6 AM - 4 AM, Sun 10 AM - 7 PM.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_803",
+      "type": "ad",
+      "sponsor": "Conklin Farm Equipment, Inc.",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "YOU ARE CORDIALLY INVITED TO: JOHN DEERE FARMING FRONTIERS. Film program devoted to the latest developments and research in agriculture. 7:45 P.M. Thursday, January 13, 1977 at our store. Lunch will be served.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_804",
+      "type": "ad",
+      "sponsor": "Conklin Farm Equip. Inc.",
+      "isoDate": "1977-01-12T15:45:00",
+      "displayDate": "Jan 12, 1977 • 3:45 PM",
+      "content": "REWARD: $195 to $2,600 bonus savings on hay and forage equipment during John Deere's Roundup of Bargains. Act now while pre-season discounts are available!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Looking for space? (L65696) 80 ACRE FARM nicely located close to the freeway in Sand Lake. Good beef or dairy farm consisting of 80 good acres with sizeable barn and 3 bedroom aluminum sided 2 story home. FLB terms available. Call 866-4434 Westdale 'G' Cos.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T09:45:00",
+      "displayDate": "Jan 12, 1977 • 9:45 AM",
+      "content": "Check out this (L69000) BRICK RANCH WITH 2 FIREPLACES. Dining room, full basement, attached garage, large kitchen all in a quiet country setting for only $26,900. Westdale 'G' Cos. Call 866-4434.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "(L64324) YEAR ROUND FUN! For year round lake front living this is hard to beat. Large 2 bedroom ranch with fireplace, 2 stall garage, 12x18 glassed in porch, 90' frontage and boat house. Westdale 'G' Cos. 866-4434.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T11:15:00",
+      "displayDate": "Jan 12, 1977 • 11:15 AM",
+      "content": "(L62157) NE KENT COUNTY: Mobile homes allowed. 10 acres, $6500, possible LC. This would also make a good lot for a walk-out home. Westdale 'G' Cos. 866-4434.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "(L65732) 20 ACRES, 2 BEDROOMS, MID $20's. 2 bedroom ranch with attached garage just off old US131 in Pierson in good farming area. Tri-County schools, land contract terms. Call 866-4434, Westdale 'G' Cos.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_006",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Riverfront Living! (L65920) NEWER COTTAGE with 300 ft. of frontage on Pere Marquette River, flowing well on property. Room for expansion, all furnishings included, great fishing, hunting and canoeing. Call 866-4434, Westdale 'G' Cos.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_007",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T13:45:00",
+      "displayDate": "Jan 12, 1977 • 1:45 PM",
+      "content": "(L69810) RANCH ON 10 ACRES. Brick home for the large family, near Coopersville. Separate heated workshop is 20x30 feet. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_008",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "(L69844) CEDAR SPRINGS RANCH. Three bedroom home on an acre. Living room has beamed cathedral ceiling and sliders to patio. Priced to sell at only $17,500. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_009",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T15:15:00",
+      "displayDate": "Jan 12, 1977 • 3:15 PM",
+      "content": "(L69845) PRIVATE SETTING. This 3 bedroom home on a quiet road near Belmont backs up to a trout stream. 2 1/2 stall garage and a 2 story pony barn. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_010",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "(L69807) KENOWA RANCH. Three acre setting for this nearly new brick and aluminum 3 bedroom home with large rec room in the finished basement. 2 1/2 stall garage. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_011",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T16:45:00",
+      "displayDate": "Jan 12, 1977 • 4:45 PM",
+      "content": "(New) SPARTA. Completely remodeled home has brand new bath and the new kitchen has built in dishwasher, disposal and range. Large 2 1/2 stall garage. Large wooded lot with city sewer and water. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_012",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T17:30:00",
+      "displayDate": "Jan 12, 1977 • 5:30 PM",
+      "content": "(L67408) WALK-OUT RANCH. Three bedroom ranch with fireplace and 2 full baths. Sliders off walk-out basement and also off dining area. 2 stall garage. Comstock Park. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_013",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T18:15:00",
+      "displayDate": "Jan 12, 1977 • 6:15 PM",
+      "content": "(61695) BRAND NEW TRI-LEVEL. Family room with fireplace and sliders to patio, formal dining room, 2 full baths, 2 stall garage. Gas heat. Priced below FHA appraisal. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_014",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T19:00:00",
+      "displayDate": "Jan 12, 1977 • 7:00 PM",
+      "content": "(65923) BEAUTIFUL SETTING. 36 acres in Rockford area. 2 barns. Home has 3 bedrooms, country kitchen, walk-out basement and unfinished loft with balcony. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Chris Christopher",
+      "handle": "@ChrisC_Sparta",
+      "isoDate": "1977-01-11T21:30:00",
+      "displayDate": "Jan 11, 1977 • 9:30 PM",
+      "content": "Man, another tough loss tonight in Kent City. We were right there in the first half, but just couldn't sustain it in the second. 22 points for me, but the 'W' is all that matters. We've got to find a way to bounce back.",
+      "person_id": "p_chris_christopher",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Tom Sheckler",
+      "handle": "@Sheckler9",
+      "isoDate": "1977-01-11T21:45:00",
+      "displayDate": "Jan 11, 1977 • 9:45 PM",
+      "content": "That second half really got away from us in Kent City. It's frustrating because we know we can play with these teams. We need to stay focused for all four quarters.",
+      "person_id": "p_tom_sheckler",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Tim Thome",
+      "handle": "@TThome7",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "Keep your heads up boys. Coopersville is coming up this Friday and it's time to get back in the win column. Let's show them what Spartan basketball is all about! #SpartanPride",
+      "person_id": "p_tim_thome",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Nick Lewis",
+      "handle": "@N_Lewis12",
+      "isoDate": "1977-01-08T09:00:00",
+      "displayDate": "Jan 8, 1977 • 9:00 AM",
+      "content": "Hard fought game against the Belding Redskins last night. 73-60 doesn't reflect how aggressive we played. I managed to chip in 12, but we need more consistency as a unit.",
+      "person_id": "p_nick_lewis",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Doug McCotter",
+      "handle": "@McCotterD",
+      "isoDate": "1977-01-08T10:30:00",
+      "displayDate": "Jan 8, 1977 • 10:30 AM",
+      "content": "Scored 10 and grabbed 6 rebounds against Belding. We're showing flashes of brilliance, just need to put it all together for the full game.",
+      "person_id": "p_doug_mccotter",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Sparta Fan",
+      "handle": "@SpartaSupporter",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "When will it all end? Another bitter defeat for our Spartans. They stay so close but just can't seem to close it out in the second half. Hoping for better luck against Coopersville.",
+      "person_id": "p_sparta_fan_1",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Kent City Eagle",
+      "handle": "@KC_Eagle_Power",
+      "isoDate": "1977-01-11T22:00:00",
+      "displayDate": "Jan 11, 1977 • 10:00 PM",
+      "content": "Huge 60-48 win over Sparta tonight! We really turned it on in the second half to pull away. Great team effort by all the guys. Go Eagles!",
+      "person_id": "p_kc_player_1",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "John Andrus",
+      "handle": "@JAndrus14",
+      "isoDate": "1977-01-07T21:00:00",
+      "displayDate": "Jan 7, 1977 • 9:00 PM",
+      "content": "Sparta Freshmen win! 49-44 over the Belding Redskins. That's our 7th win of the season and we're feeling great. 4-1 in the conference now!",
+      "person_id": "p_john_andrus",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Justin Sullivan",
+      "handle": "@Sully_Boards",
+      "isoDate": "1977-01-07T21:15:00",
+      "displayDate": "Jan 7, 1977 • 9:15 PM",
+      "content": "17 rebounds and 13 points tonight. Felt like every ball off the glass was mine. Great win tonight, team!",
+      "person_id": "p_justin_sullivan",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Dan Lockard",
+      "handle": "@DanLockard10",
+      "isoDate": "1977-01-08T08:30:00",
+      "displayDate": "Jan 8, 1977 • 8:30 AM",
+      "content": "Pulled down 10 rebounds in our win over Belding. They kept it close all night, but we never let them get more than five points away. Proud of this squad.",
+      "person_id": "p_dan_lockard",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_011",
+      "type": "post",
+      "author": "Sparta Frosh Fan",
+      "handle": "@SpartaFroshFan",
+      "isoDate": "1977-01-07T21:30:00",
+      "displayDate": "Jan 7, 1977 • 9:30 PM",
+      "content": "Our freshmen are looking unstoppable! Great win over the Redskins tonight. These guys are showing so much heart on the court.",
+      "person_id": "p_frosh_fan_1",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "post_012",
+      "type": "post",
+      "author": "Belding Frosh Player",
+      "handle": "@BeldingRedskin",
+      "isoDate": "1977-01-07T21:45:00",
+      "displayDate": "Jan 7, 1977 • 9:45 PM",
+      "content": "Tough loss to Sparta tonight. We fought hard and kept it within five most of the night, but they just had a bit more at the end. We'll get them next time.",
+      "person_id": "p_belding_frosh_player",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Franklin Reister & Sons",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "NEED CALCIUM NITRATE? OR UREA 45? BULK OR BAG. For more information call: 887-9689 or 887-9933.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Sparta Elevator",
+      "isoDate": "1977-01-12T10:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 AM",
+      "content": "PAMPER OUR Feathered Friends. TOP QUALITY WILD BIRD SEED: 50 Lbs. $6.50, 15c Per Lb. SUNFLOWER SEED: 50 Lbs. $11.50, 25c Per Lb. WAYNE DOG FOOD - 50 Lb. $10.50 - 25 Lb. $5.50. We pay the tax. SPARTA ELEVATOR - SPARTA.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "North Kent Leader Want Ads",
+      "isoDate": "1977-01-12T11:30:00",
+      "displayDate": "Jan 12, 1977 • 11:30 AM",
+      "content": "Fishing's great in the WANT ADS. DIAL 887-8400. Sparta, Mich.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "Ray Stout Chevrolet",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "CHEVROLET Pickups. Lots to Choose From... 2-Wheel Drive, 4-Wheel Drive. STARTING AT $3485. TRADES WELCOME - PLENTY OF FINANCING. RAY STOUT CHEVROLET, KENT CITY. 887-4111 or 678-5121.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "White's Grocery",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "WHITE'S GROCERY, KENT CITY. PHONE 678-7132. WE HONOR FOOD STAMPS. PORK STEAK 79c lb. PORK SHOULDER ROAST 69c lb. ECKRICH FRANKS 89c. SKIMMED MILK 55c 1/2 gal. DELICIOUS APPLES 3# bag 59c. ONIONS 3# 49c. RADISHES - PEPPERS - CUKES 3 For 49c. HUSKY DOG FOOD 15 oz. can 7/$1. BANQUET FROZEN DINNERS 49c. CHEESE SLICES 8 oz. 65c.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2027.pdf"
+    },
+    {
+      "id": "ad_28_001",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "January Clearance! Once a year... and ONLY once a year! The time to buy is NOW! First great Sealy mattress sale of 1977. Limited Quantities. Some Sets Mis-Matched. Twins-Full-Queens-Kings. Prices Will Never Be Lower! \n\nFIRM: $45.00 (Twin size ea. pc.) / Full Size: $65.00\nLUXURY FIRM: $55.00 (Twin size ea. pc.) / Full Size: $75.00 Each\nSUPER FIRM: $65.00 (Twin size ea. pc.) / Full Size: $85.00 / Queen Size: $225.00 Set\n\nSealy Posturepedic Headquarters. \"Your Fashion Furniture Store.\" Old U.S. 131 at 12 Mile Rd., Rockford, Mich. Serving You Since 1951. Phone 866-1951.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "id": "post_nkl_centennial_01",
+      "type": "post",
+      "author": "North Kent Leader Editor",
+      "handle": "@NorthKentLeader",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "What an incredible milestone! We are honored to be named a 'Centennial' business by the Historical Society of Michigan. This newspaper has been serving the community since J.W. Hallack founded the Sentinel in 1876. Here's to another 100 years!",
+      "person_id": "p_nkl_editor",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_blood_01",
+      "type": "post",
+      "author": "Tony Vasilauskas",
+      "handle": "@TonyV_CP",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "Just got word that I'll be recognized at Blodgett tomorrow for donating over 5 gallons of blood. It’s a simple thing to do, but it makes such a difference. See you there, neighbors!",
+      "person_id": "p_tony_v",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_snow_sculpture_01",
+      "type": "post",
+      "author": "Sparta Middle Student",
+      "handle": "@SpartaStudent77",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "Our class is out here every day working on the giant snow sculpture! It's massive. We're just praying this 'January thaw' everyone is talking about doesn't melt our masterpiece before we're finished.",
+      "person_id": "p_sparta_student",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_valentine_01",
+      "type": "ad",
+      "sponsor": "Dan Cupid & North Kent Leader",
+      "isoDate": "1977-01-19T11:45:00",
+      "displayDate": "Jan 19, 1977 • 11:45 AM",
+      "content": "Calling All Valentines! Surprise your loved ones with a photo in the North Kent Leader. Just $4.00 per snapshot for our Feb 9th edition. Don't forget your favorite Valentine!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_burn_unit_01",
+      "type": "post",
+      "author": "Dan Cheslek",
+      "handle": "@CheslekDan",
+      "isoDate": "1977-01-19T13:20:00",
+      "displayDate": "Jan 19, 1977 • 1:20 PM",
+      "content": "Proud to represent the Sparta Lions Club today. We just turned over a $400 check to Larry Ofield for the Blodgett Burn Unit. These funds come directly from our community pancake breakfast proceeds!",
+      "person_id": "p_dan_cheslek",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_dan_cheslek.jpg"
+    },
+    {
+      "id": "post_burn_unit_02",
+      "type": "post",
+      "author": "Larry Ofield",
+      "handle": "@LarryOfield",
+      "isoDate": "1977-01-19T13:45:00",
+      "displayDate": "Jan 19, 1977 • 1:45 PM",
+      "content": "A huge thank you to Dan Cheslek and the Sparta Lions Club. This $400 will go a long way for the fund drive at the Blodgett Burn Unit. The support from Sparta is truly inspiring.",
+      "person_id": "p_larry_ofield",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_larry_ofield.jpg"
+    },
+    {
+      "id": "post_chamber_01",
+      "type": "post",
+      "author": "Elinor Olin",
+      "handle": "@ElinorO",
+      "isoDate": "1977-01-19T15:00:00",
+      "displayDate": "Jan 19, 1977 • 3:00 PM",
+      "content": "Reminder: The Sparta Chamber Annual Meeting is next Thursday at the Greenville City Club! I have tickets available here at Sherry's, or you can grab them at Sparta State Bank. It's going to be a great night of dinner and dancing.",
+      "person_id": "p_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf",
+      "imageUrl": "/assets/people/p_002.jpg"
+    },
+    {
+      "id": "ad_moose_01",
+      "type": "ad",
+      "sponsor": "Moose Lodge No. 50",
+      "isoDate": "1977-01-19T16:30:00",
+      "displayDate": "Jan 19, 1977 • 4:30 PM",
+      "content": "Moose Lodge Weekend: Friday Fish Fry ($2.25), Saturday Steak Dinner ($4.95), and Sunday Breakfast. Open to members and invited guests!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_blood_02",
+      "type": "post",
+      "author": "Grand Valley Blood Program",
+      "handle": "@GVBloodProgram",
+      "isoDate": "1977-01-19T17:15:00",
+      "displayDate": "Jan 19, 1977 • 5:15 PM",
+      "content": "January is National Voluntary Blood Donor Month. We are so proud of our donors in Comstock Park and Conklin. Join us tomorrow at Blodgett Medical Center as we recognize Tony Vasilauskas, Richard Sedlecky, John Thomas, Carl Wollen, and Charles Johnson for their life-saving contributions.",
+      "person_id": "p_blood_rep",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_snow_sculpture_02",
+      "type": "post",
+      "author": "Sparta Art Teacher",
+      "handle": "@SpartaArts",
+      "isoDate": "1977-01-19T18:00:00",
+      "displayDate": "Jan 19, 1977 • 6:00 PM",
+      "content": "I am constantly amazed by the creativity of my students. Utilizing natural materials like snow and ice to build something of this scale is a lesson they'll never forget. Their dedication is staggering.",
+      "person_id": "p_sparta_teacher",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "ad_daisy_place_01",
+      "type": "ad",
+      "sponsor": "The Daisy Place",
+      "isoDate": "1977-01-19T19:00:00",
+      "displayDate": "Jan 19, 1977 • 7:00 PM",
+      "content": "Plan ahead for February! Ladies Shirt Jac and Man's Shirt classes starting soon. We also have openings for Country Painting and Macrame classes. Call 887-7765.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_eagles_01",
+      "type": "post",
+      "author": "Mixed Company Band",
+      "handle": "@MixedCompanyBand",
+      "isoDate": "1977-01-19T20:30:00",
+      "displayDate": "Jan 19, 1977 • 8:30 PM",
+      "content": "We're ready to rock the North Kent Eagles this Saturday night! Come out for live entertainment and dancing from 9:00 PM to 1:00 AM. See you there!",
+      "person_id": "p_mixed_company",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%201.pdf"
+    },
+    {
+      "id": "post_01191977_001",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@HomespunPauline",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "To be able to lie down in safety is the Christian's privilege. Fear is an unpleasant thing, yet many are afraid of the perils in the night. I always recall the childhood prayer: 'Now I lay me down to sleep...' Let us pray to rest in the wonder of His love today.",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg",
+      "imageUrl": "/assets/people/p_012.jpg"
+    },
+    {
+      "id": "post_01191977_002",
+      "type": "post",
+      "author": "Jim Wisnewski",
+      "handle": "@JimWisnewski",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "Marie and I are incredibly proud to announce that God has blessed our family with a new son! Thomas Benjamin arrived New Year's morning, weighing 9 lbs. 6 oz. He was anxiously welcomed by his big brother Jimmy and his six sisters!",
+      "person_id": "p_wisnewski_jim",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "post_01191977_003",
+      "type": "post",
+      "author": "Marie Wisnewski",
+      "handle": "@MarieWisnewski",
+      "isoDate": "1977-01-19T10:15:00",
+      "displayDate": "Jan 19, 1977 • 10:15 AM",
+      "content": "Our little Thomas Benjamin is doing wonderfully. Having our second boy born on New Year's morning at Blodgett Memorial Hospital was quite a start to 1977! The grandparents are just thrilled.",
+      "person_id": "p_wisnewski_marie",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "post_01191977_004",
+      "type": "post",
+      "author": "Vivian Reyburn",
+      "handle": "@VivReyburn",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "Don't forget the Chili Supper for our Singles Caring and Sharing group! It's this coming Saturday at 6:30 p.m. right here at my place on Elmwood. Just a free will offering, and we're planning an old-fashioned sleigh ride soon too!",
+      "person_id": "p_reyburn_vivian",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "post_01191977_005",
+      "type": "post",
+      "author": "Marjorie Lake",
+      "handle": "@MarjorieLake",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "It was so wonderful meeting new people at our Singles Coffee in Grand Rapids last Sunday. If anyone wants more info on our upcoming events, including the chili supper, give me a call!",
+      "person_id": "p_403",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "post_01191977_006",
+      "type": "post",
+      "author": "Logan Cox",
+      "handle": "@LoganCox_GM",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "Another great issue of the North Kent Leader hits the stands today! Proud of the hard work from Dixie, Janet, Joan, Carolyn, and the rest of our team here in Sparta.",
+      "person_id": "p_014",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "ad_01191977_001",
+      "type": "ad",
+      "sponsor": "Ann Maries",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "JANUARY CLEARANCE! We're making room for our new spring arrivals. Buy the first item at sale price and get the second at 1/2 price. Sweater dresses, pants, jumpsuits, jewelry, scarves, and much more marked down as much as 50%! All sales final. Visit us at the Bradford Bldg. in Sparta.",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "ad_01191977_002",
+      "type": "ad",
+      "sponsor": "Sparta State Bank",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "Are you using ALL of our services? From checking and savings to loans, money orders, safe deposits, travelers checks, and bank-by-mail. We are your complete community-centered banking solution since 1898. Member FDIC.",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "ad_01191977_003",
+      "type": "ad",
+      "sponsor": "Ravenna Livestock Sale",
+      "isoDate": "1977-01-17T18:00:00",
+      "displayDate": "Jan 17, 1977 • 6:00 PM",
+      "content": "Prices paid at our Jan. 17 sale: Beef steers & heifers 39.50, hogs 41.00, veal 65.00, lambs 51.00. Join us for our new starting time at 6:00 p.m. sharp!",
+      "sourcePdf": "temp/North Kent Leader - 01-19-1977 - Page 2-1.jpg"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Eberhard Food Stores",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "ATTENTION COUPON SAVERS! For 2 weeks only, Eberhard Food Stores will give you 50% MORE on manufacturer's coupons. Check your newspaper and magazines for coupons, then bring them to Eberhard's to get 1½ times the value! (Example: 30¢ coupon + 15¢ Eberhard bonus = 45¢ savings!)",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Eberhard Food Stores",
+      "isoDate": "1977-01-19T09:30:00",
+      "displayDate": "Jan 19, 1977 • 9:30 AM",
+      "content": "Fresh from the farm! Pick up a gallon jug of Country Fresh Low-Fat Milk for just 99¢ with our in-store coupon. We want to be YOUR food store!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Eberhard Food Stores",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "Looking for the perfect dinner? Wilson's Certified Sirloin Steaks are on sale for $1.38 per lb. Quality you can taste, prices you can afford.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "Eberhard Food Stores",
+      "isoDate": "1977-01-19T13:15:00",
+      "displayDate": "Jan 19, 1977 • 1:15 PM",
+      "content": "Stock up the pantry! Get four 20 oz. loaves of Eberhard's Tender Krust Bread for only $1.00 when you use our win-store coupon. Save 78¢ on this deal!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "Eberhard Food Stores",
+      "isoDate": "1977-01-19T15:45:00",
+      "displayDate": "Jan 19, 1977 • 3:45 PM",
+      "content": "Refreshment for the whole family: Hi-C Fruit Drinks (assorted flavors, 46 oz. cans) are 2 for 88¢ with our win-store coupon. Buy 6 and save 30¢!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_006",
+      "type": "ad",
+      "sponsor": "Eberhard Food Stores",
+      "isoDate": "1977-01-19T17:30:00",
+      "displayDate": "Jan 19, 1977 • 5:30 PM",
+      "content": "Serve a classic: Henry House fully cooked whole boneless hams (14-18 lb. avg) are just $1.08 per lb. Water added by processor to ham.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_007",
+      "type": "ad",
+      "sponsor": "Eberhard Food Stores",
+      "isoDate": "1977-01-19T19:00:00",
+      "displayDate": "Jan 19, 1977 • 7:00 PM",
+      "content": "Fresh 'n Ripe Bananas are only 15¢ per lb! Or choose Chiquita Bananas for just 19¢ per lb. Healthy snacks for the new year!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_eberhard_01",
+      "type": "ad",
+      "sponsor": "Eberhard",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "With Food Values like these, Eberhard wants to be your food store! Save over $17.00 with our in-store coupons. Pick up your coupon sheet as you enter any Eberhard store today! Prices good through Saturday, Jan. 22nd, 1977.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%204.pdf"
+    },
+    {
+      "id": "ad_eberhard_02",
+      "type": "ad",
+      "sponsor": "Eberhard",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "STEAK SALE! Wilson's Certified Tender Sirloins are just $1.38 a pound. We also have T-Bones for $1.48/lb and Cube Steak for 98¢/lb. Don't miss these money-saver beef values!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%204.pdf"
+    },
+    {
+      "id": "ad_eberhard_03",
+      "type": "ad",
+      "sponsor": "Eberhard",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "Stock up on the essentials! Country Fresh Gallon Jug Low Fat Milk is only 99¢ with in-store coupon. Also, grab an 8-pack of 16-oz. returnable Coca-Cola bottles for just 89¢!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%204.pdf"
+    },
+    {
+      "id": "ad_eberhard_04",
+      "type": "ad",
+      "sponsor": "Eberhard",
+      "isoDate": "1977-01-19T11:45:00",
+      "displayDate": "Jan 19, 1977 • 11:45 AM",
+      "content": "Treat the family to dessert! Half gallon Country Fresh Ice Cream (French Vanilla or Butter Pecan) is just $1.19. We also have cookies from Nabisco at 20¢ off and 3 lbs. of McIntosh Apples for 89¢.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%204.pdf"
+    },
+    {
+      "id": "ad_eberhard_05",
+      "type": "ad",
+      "sponsor": "Eberhard",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "Quick dinner ideas: Morton Frozen Fried Chicken for $1.79 and Saluto 12\" Pepperoni Pizza for $1.59. Don't forget the side—32 oz. Ore-Ida Golden Crinkles French Fries for only 49¢!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%204.pdf"
+    },
+    {
+      "id": "ad_eberhard_06",
+      "type": "ad",
+      "sponsor": "Eberhard",
+      "isoDate": "1977-01-19T14:15:00",
+      "displayDate": "Jan 19, 1977 • 2:15 PM",
+      "content": "Del Monte Food Sale! Save up to 20¢ on Yellow Cling Sliced Peaches, Fruit Cocktail, or Pear Halves. Mix and match 16-17 oz. cans, now 2 for only 78¢!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%204.pdf"
+    }
+  ]
+}

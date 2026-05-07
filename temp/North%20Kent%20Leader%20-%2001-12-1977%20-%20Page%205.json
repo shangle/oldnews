@@ -1,0 +1,76 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_p5_001",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-11T18:00:00",
+      "displayDate": "Jan 11, 1977 • 6:00 PM",
+      "content": "Why Bother TO Shop Elsewhere? Eberhard's 'NEW' SUPER CASH BINGO is back by popular demand! New cards and numbers are available starting tomorrow. Get ready to play for your chance to WIN UP TO $1,000! No purchase required. Adults only please. Total cash prizes $90,000!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_002",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T07:30:00",
+      "displayDate": "Jan 12, 1977 • 7:30 AM",
+      "content": "Fresh from our meat department! Country Cut Frying Chicken is just 38¢ per pound today. We also have fryer legs or breasts for 48¢ and whole or split fryers for 44¢. Quality you can trust at Eberhard's prices!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_003",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "Make it a Henry House night! Our 32 oz. Ham Loaf is only $1.99. It's the perfect easy, delicious meal for your family dinner tonight.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_004",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Sweet and juicy Florida Indian River Grapefruit are here! Get a 6 count bag of White Grapefruit for 79¢ or Pink for 89¢. Don't forget our Sweet California Navel Oranges, 10 for just 99¢!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_005",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "Refresh with an 8-pack of 16 oz. Pepsi! Just 89¢ plus deposit for regular or diet. Perfect for stocking up the fridge this week.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_006",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T11:45:00",
+      "displayDate": "Jan 12, 1977 • 11:45 AM",
+      "content": "Don't miss these 'Key Buys'! Oreo Cookies 89¢, 100 ct Bayer Aspirin 99¢, and 170 ct Q-Tips 99¢. Add these to your shopping list for extra savings today!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    },
+    {
+      "id": "ad_p5_007",
+      "type": "ad",
+      "sponsor": "Eberhard's Food Store",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "More pantry staples on sale! 5-lb bag of Flour for 59¢, Shortening for 99¢, and Big Tate Instant Potatoes for 69¢. We've got everything you need at the prices you want.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%205-1.jpg"
+    }
+  ],
+  "People": []
+}
+
+```

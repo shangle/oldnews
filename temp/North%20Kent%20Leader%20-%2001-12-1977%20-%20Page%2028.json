@@ -1,0 +1,21 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2028.pdf"
+  },
+  "Feed": [
+    {
+      "id": "ad_28_001",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "January Clearance! Once a year... and ONLY once a year! The time to buy is NOW! First great Sealy mattress sale of 1977. Limited Quantities. Some Sets Mis-Matched. Twins-Full-Queens-Kings. Prices Will Never Be Lower! \n\nFIRM: $45.00 (Twin size ea. pc.) / Full Size: $65.00\nLUXURY FIRM: $55.00 (Twin size ea. pc.) / Full Size: $75.00 Each\nSUPER FIRM: $65.00 (Twin size ea. pc.) / Full Size: $85.00 / Queen Size: $225.00 Set\n\nSealy Posturepedic Headquarters. \"Your Fashion Furniture Store.\" Old U.S. 131 at 12 Mile Rd., Rockford, Mich. Serving You Since 1951. Phone 866-1951.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2028.pdf"
+    }
+  ],
+  "People": []
+}
+```

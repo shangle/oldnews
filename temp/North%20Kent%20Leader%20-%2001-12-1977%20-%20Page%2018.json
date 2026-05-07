@@ -1,0 +1,294 @@
+To provide the requested transformation of the archival content from Page 18 of the *North Kent Leader* (January 12, 1977), I have deconstructed the articles and advertisements into an immersive, first-person social media feed.
+
+### Narrative Summary
+This feed captures the local pulse of Sparta and Rockford on a Wednesday in 1977. **John J. Egan** shares his pride in returning home as a commissioned Second Lieutenant and starting his career at Michigan Bell. **Eleanor Andree** leads an urgent call for blood donors to address a county-wide shortage, while **Gayle Fessenden** and **Joan Zandstra** prepare for a LaLeche League meeting on the benefits of breastfeeding. Meanwhile, **Lee Seinen** tunes his electric guitar for a Sunday rally, and **Diane** from Community Education reminds residents that the first parenting class of the year begins tonight.
+
+### Social Media Feed (JSON)
+
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20
+The analysis of **Page 18** of the *North Kent Leader* (January 12, 1977) is complete. The archival content has been deconstructed into a first-person social media feed featuring perspectives from the **Grand Valley Blood Program**, the **Rockford LaLeche League**, **John J. Egan's** military commission, and the **musical service** at Trinity CRC. 
+
+Logical timestamps have been fabricated to reflect the "live" nature of a social feed on the publication date. While no photographs of individuals were present in these specific articles, all entity relationships and ad copies have been preserved according to the requested schema.
+
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_egan_001",
+      "type": "post",
+      "author": "John J. Egan",
+      "handle": "@LtEgan",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "It’s official! I was commissioned as a second lieutenant at Ft. Benning on December 27th. The officer candidate reserve components course was intense but worth it.",
+      "person_id": "p_john_egan",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_diane_001",
+      "type": "post",
+      "author": "Diane",
+      "handle": "@NorthKentCommEd",
+      "isoDate": "1977-01-12T08:45:00",
+      "displayDate": "Jan 12, 1977 • 8:45 AM",
+      "content": "Last call for 'Effective Parenting'! The class begins tonight at Sparta High. We've got so many other great leisure classes starting in February—Thanatology, Cake Decorating, you name it. Give me a call at 887-8253 to snag a spot!",
+      "person_id": "p_diane_comm_ed",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_eleanor_001",
+      "type": "post",
+      "author": "Eleanor Andree",
+      "handle": "@SpartaBloodComm",
+      "isoDate": "1977-01-12T09:30:00",
+      "displayDate": "Jan 12, 1977 • 9:30 AM",
+      "content": "Blood supplies in Kent County hospitals are hitting a critical shortage. We really need the community to step up for our drive on Jan 24th and 25th. Every pint helps save a life.",
+      "person_id": "p_eleanor_andree",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "ad_sears_001",
+      "type": "ad",
+      "sponsor": "Sears-Coon",
+      "isoDate": "1977-01-12T11:00:00",
+      "displayDate": "Jan 12, 1977 • 11:00 AM",
+      "content": "JANUARY FASHION CLEARANCE! Save on coordinates by Caper Mates, Russ, and Queens Casuals. NOW 1/3 OFF! Men's Slacks Sale - Reg to $22.00 NOW $11.00. Open Fri til 9 P.M. in Rockford.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_gayle_001",
+      "type": "post",
+      "author": "Gayle Fessenden",
+      "handle": "@LaLecheRockford",
+      "isoDate": "1977-01-12T12:15:00",
+      "displayDate": "Jan 12, 1977 • 12:15 PM",
+      "content": "Moms, join us tomorrow morning at Joan Zandstra's home! We'll be discussing the many advantages of breastfeeding. Everyone is welcome—expectant mothers and grandmothers included!",
+      "person_id": "p_gayle_fessenden",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_student_001",
+      "type": "post",
+      "author": "Sparta HS Senior",
+      "handle": "@SpartaStudent",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "A bit nervous about the blood drive coming to the high school library next week, but it feels good to know we're helping the community. I heard there might be a prize drawing too!",
+      "person_id": "p_shs_student",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_joan_001",
+      "type": "post",
+      "author": "Joan Zandstra",
+      "handle": "@JoanZ",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "Tidying up the living room for tomorrow's LaLeche League meeting. Looking forward to hosting everyone at 9:30 AM!",
+      "person_id": "p_joan_zandstra",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_lee_seinen_001",
+      "type": "post",
+      "author": "Lee Seinen",
+      "handle": "@LeeSeinenMusic",
+      "isoDate": "1977-01-12T15:45:00",
+      "displayDate": "Jan 12, 1977 • 3:45 PM",
+      "content": "Getting the electric guitar tuned up for this Sunday's rally at Trinity Christian Reformed Church. It's going to be a special evening of music starting at 6:00.",
+      "person_id": "p_lee_seinen",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_egan_003",
+      "type": "post",
+      "author": "John J. Egan",
+      "handle": "@LtEgan",
+      "isoDate": "1977-01-12T16:20:00",
+      "displayDate": "Jan 12, 1977 • 4:20 PM",
+      "content": "My wife and I are finally settled into our place at 74 Nash St. in Sparta. It's great to be back and close to family.",
+      "person_id": "p_john_egan",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_carolyn_wills_001",
+      "type": "post",
+      "author": "Carolyn Wills",
+      "handle": "@CarolynW",
+      "isoDate": "1977-01-12T17:10:00",
+      "displayDate": "Jan 12, 1977 • 5:10 PM",
+      "content": "Did you know 'LaLeche' means 'the milk' in Spanish? It's incredible to see how this group has grown from one mother in Chicago to an international movement.",
+      "person_id": "p_carolyn_wills",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_eleanor_002",
+      "type": "post",
+      "author": "Eleanor Andree",
+      "handle": "@SpartaBloodComm",
+      "isoDate": "1977-01-12T18:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 PM",
+      "content": "We're aiming to collect at least 150 pints this time around. If you haven't made an appointment yet, please call me at 887-8663. Let's make this drive a success!",
+      "person_id": "p_eleanor_andree",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_mrs_seinen_001",
+      "type": "post",
+      "author": "Mrs. Lee Seinen",
+      "handle": "@CordovoxMelodies",
+      "isoDate": "1977-01-12T18:45:00",
+      "displayDate": "Jan 12, 1977 • 6:45 PM",
+      "content": "I'll be accompanying Lee on the electric cordovox this Sunday. It's such a beautiful instrument for a rally service. Hope to see many of you there at Trinity!",
+      "person_id": "p_mrs_lee_seinen",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "ad_ford_001",
+      "type": "ad",
+      "sponsor": "Vanderhyde Bros. Ford, Inc.",
+      "isoDate": "1977-01-12T19:30:00",
+      "displayDate": "Jan 12, 1977 • 7:30 PM",
+      "content": "$500 CASH REBATE on 1976 Pintos, Mustangs, Mavericks, and Granadas in stock! Come see us at 34 N. Main, Cedar Springs. Open 'til 9 Mon-Wed-Thurs.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_egan_004",
+      "type": "post",
+      "author": "John J. Egan",
+      "handle": "@LtEgan",
+      "isoDate": "1977-01-12T20:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 PM",
+      "content": "Excited to start my new role as a cable splicer with Michigan Bell Telephone in Grand Rapids. It’s a good way to stay busy while serving in the reserves.",
+      "person_id": "p_john_egan",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_gayle_002",
+      "type": "post",
+      "author": "Gayle Fessenden",
+      "handle": "@LaLecheRockford",
+      "isoDate": "1977-01-12T21:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 PM",
+      "content": "Our mission is to help mothers find fulfillment through breastfeeding. If you have questions or just need support, we are here for you.",
+      "person_id": "p_gayle_fessenden",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_church_member_001",
+      "type": "post",
+      "author": "Trinity CRC Member",
+      "handle": "@TrinitySparta",
+      "isoDate": "1977-01-12T21:30:00",
+      "displayDate": "Jan 12, 1977 • 9:30 PM",
+      "content": "So looking forward to the musical service this Sunday. The Seinens always bring such a wonderful spirit with their music. Don't miss it!",
+      "person_id": "p_trinity_member",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_eleanor_003",
+      "type": "post",
+      "author": "Eleanor Andree",
+      "handle": "@SpartaBloodComm",
+      "isoDate": "1977-01-12T22:15:00",
+      "displayDate": "Jan 12, 1977 • 10:15 PM",
+      "content": "Just a reminder: we'll be at the Sparta High School library on Monday the 24th (12:30-7:30 PM) and Tuesday the 25th (9:30 AM-4:00 PM). Please join us!",
+      "person_id": "p_eleanor_andree",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_egan_005",
+      "type": "post",
+      "author": "John J. Egan",
+      "handle": "@LtEgan",
+      "isoDate": "1977-01-12T22:45:00",
+      "displayDate": "Jan 12, 1977 • 10:45 PM",
+      "content": "Thinking back on that course at Ft. Benning. It was tough, but graduating as a 1966 Harrison High alum and now as a second lieutenant feels like quite a journey.",
+      "person_id": "p_john_egan",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_john_egan",
+      "first_name": "John J.",
+      "last_name": "Egan",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_diane_comm_ed",
+      "first_name": "Diane",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_eleanor_andree",
+      "first_name": "Eleanor",
+      "last_name": "Andree",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_gayle_fessenden",
+      "first_name": "Gayle",
+      "last_name": "Fessenden",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_joan_zandstra",
+      "first_name": "Joan",
+      "last_name": "Zandstra",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_lee_seinen",
+      "first_name": "Lee",
+      "last_name": "Seinen",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mrs_lee_seinen",
+      "first_name": "Mrs. Lee",
+      "last_name": "Seinen",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_carolyn_wills",
+      "first_name": "Carolyn",
+      "last_name": "Wills",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_shs_student",
+      "first_name": "Sparta HS",
+      "last_name": "Senior",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_trinity_member",
+      "first_name": "Trinity CRC",
+      "last_name": "Member",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,194 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_13_001",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:00:00",
+      "displayDate": "Jan 12, 1977 • 7:00 AM",
+      "content": "John 3:16 is often heard and we believe it, but do we truly understand its power? It is the Gospel in a nutshell.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_002",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:05:00",
+      "displayDate": "Jan 12, 1977 • 7:05 AM",
+      "content": "For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_003",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:15:00",
+      "displayDate": "Jan 12, 1977 • 7:15 AM",
+      "content": "There is no more wonderful announcement in all the Word of God than what we read in this verse. Think of it, beloved! God is love.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_004",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:25:00",
+      "displayDate": "Jan 12, 1977 • 7:25 AM",
+      "content": "To think that God could love a world that hated Him and demanded the death of His Son. He nailed Him to the cross and mocked Him while He died to redeem even those that hated Him.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_005",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:35:00",
+      "displayDate": "Jan 12, 1977 • 7:35 AM",
+      "content": "That little word 'so' signifies that there are not enough words in all the languages of the world to explain the depth or the height of the great love God bestowed upon man.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_006",
+      "type": "post",
+      "author": "Pastor K. A. Shangle",
+      "handle": "@KAShangle",
+      "isoDate": "1977-01-12T07:45:00",
+      "displayDate": "Jan 12, 1977 • 7:45 AM",
+      "content": "The truth set forth in the Gospel is that God gave His Son to the world because He so loved the world that whosoever believeth in Him should not perish but have everlasting life.",
+      "person_id": "p_421",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_007",
+      "type": "post",
+      "author": "Donie",
+      "handle": "@Donie_696",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Ladies, we are starting our interfaith Bible study coffee break this morning at Pioneer Christian Reformed Church! See you at 10:00 a.m. on 17 Mile Rd.",
+      "person_id": "p_422",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "post_13_008",
+      "type": "post",
+      "author": "Joan",
+      "handle": "@Joan_866",
+      "isoDate": "1977-01-12T08:15:00",
+      "displayDate": "Jan 12, 1977 • 8:15 AM",
+      "content": "I'm so glad we have a nursery provided and a story hour for the 4 and 5 year olds. It makes attending the interfaith Bible study so much easier! Feel free to join us anytime.",
+      "person_id": "p_423",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_001",
+      "type": "ad",
+      "sponsor": "Imperial House",
+      "isoDate": "1977-01-11T18:00:00",
+      "displayDate": "Jan 11, 1977 • 6:00 PM",
+      "content": "Elegant Dining & Cocktails at 3440 Plainfield N.E. Gourmet foods expertly prepared. Live entertainment for your listening and dancing enjoyment. Businessmen's luncheons served until 12 midnight.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_002",
+      "type": "ad",
+      "sponsor": "The Presidents Motor Inn",
+      "isoDate": "1977-01-11T18:30:00",
+      "displayDate": "Jan 11, 1977 • 6:30 PM",
+      "content": "Luncheon Specials at Fyfe & Drum Restaurant: Revelers Reuben $2.00, Patriots Patty Melt $1.95, Freedom French Dip $2.50. Includes toss salad. 3221 Plainfield Ave., N.E.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_003",
+      "type": "ad",
+      "sponsor": "Russ'",
+      "isoDate": "1977-01-11T19:00:00",
+      "displayDate": "Jan 11, 1977 • 7:00 PM",
+      "content": "Now featuring complete dinners at 3966 Plainfield, N.E. Also try our home made soups and pies. Open 11 AM - 11 PM. Closed Sunday.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_004",
+      "type": "ad",
+      "sponsor": "Bostwick Lake Inn",
+      "isoDate": "1977-01-11T19:30:00",
+      "displayDate": "Jan 11, 1977 • 7:30 PM",
+      "content": "Welcome Skiers! M-44 on the lake, Rockford. Sandwiches, soup, chili, and beer-wine-liquor. Open 10-12 weekdays, 10-2 Fri & Sat, 12-11 Sunday.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_005",
+      "type": "ad",
+      "sponsor": "Fingers Gay 90's Restaurant & Lounge",
+      "isoDate": "1977-01-11T20:00:00",
+      "displayDate": "Jan 11, 1977 • 8:00 PM",
+      "content": "Delicious food and friendly service served homestyle in our elegant Gay 90's decor. Serving your favorite cocktails. 4981 Plainfield, NE. Open every day except Monday.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_006",
+      "type": "ad",
+      "sponsor": "Fyfe & Drum Restaurant (Rockford)",
+      "isoDate": "1977-01-12T06:00:00",
+      "displayDate": "Jan 12, 1977 • 6:00 AM",
+      "content": "Now open for breakfast at 380 Division St. Rockford. 1 egg, toast & jelly for $.70. French toast w/bacon or sausage $1.50. Steak & Eggs $2.50.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_007",
+      "type": "ad",
+      "sponsor": "Yukon Jack's Lounge",
+      "isoDate": "1977-01-11T21:00:00",
+      "displayDate": "Jan 11, 1977 • 9:00 PM",
+      "content": "A friendly gathering place at 4 N. Main St., Rockford. Hamburgs available.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    },
+    {
+      "id": "ad_13_008",
+      "type": "ad",
+      "sponsor": "Flim Flam Deli & Restaurant, Inc.",
+      "isoDate": "1977-01-11T22:00:00",
+      "displayDate": "Jan 11, 1977 • 10:00 PM",
+      "content": "Open 24 Hours! Breakfast served anytime at 3260 Plainfield, N.E. 15 breakfast specials from $1.00. Luncheon specials $1.95, Dinner specials $2.50. Carry out available.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2013.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_421",
+      "first_name": "K. A.",
+      "last_name": "Shangle",
+      "has_photo": true,
+      "photo_coordinates": [55, 70, 140, 168]
+    },
+    {
+      "id": "p_422",
+      "first_name": "Donie",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_423",
+      "first_name": "Joan",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

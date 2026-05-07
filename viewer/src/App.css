@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 100vh;
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
+}
+
+.app-header {
+  padding: 16px;
+  border-bottom: 1px solid #333;
+  background-color: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(12px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.app-header p {
+  margin: 4px 0 0 0;
+  font-size: 13px;
+  color: #71767b;
+}
+
+.feed-container {
+  display: flex;
+  flex-direction: column;
+}

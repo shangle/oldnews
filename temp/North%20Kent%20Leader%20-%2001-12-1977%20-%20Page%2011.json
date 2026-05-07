@@ -1,0 +1,121 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_bigl_001",
+      "type": "post",
+      "author": "Big L Lumberland",
+      "handle": "@BigLLand",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "Get your money's worth at BIG L! Our BIG savings event starts today and runs through January 19th. We've got everything you need to button up the house for winter. Come see us at M-66 at Sheridan in Sparta!",
+      "person_id": "p_bigl_mascot",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "ad_fiberglass_001",
+      "type": "ad",
+      "sponsor": "Big L Cash and Carry Lumberland",
+      "isoDate": "1977-01-12T09:30:00",
+      "displayDate": "Jan 12, 1977 • 9:30 AM",
+      "content": "ON SALE NOW: Certain-teed Fiberglass Insulation. Cut fuel costs by reducing heat loss in winter and heat gain in summer. 3 1/2\" x 16\" only $6.15. 6\" x 16\" only $7.88. Fire resistant and rot-proof!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "post_customer_001",
+      "type": "post",
+      "author": "Home Renovator",
+      "handle": "@DIY_Sparta",
+      "isoDate": "1977-01-12T11:15:00",
+      "displayDate": "Jan 12, 1977 • 11:15 AM",
+      "content": "I am finally tackling that basement wall! Just picked up a few cartons of Z-Brick from Big L. It's the easy way to get a real brick look without the weight or the mess. Only $4.45 a box!",
+      "person_id": "p_renovator_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "ad_paneling_001",
+      "type": "ad",
+      "sponsor": "Big L Cash and Carry Lumberland",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "CLOSE OUT on fine paneling selections! 4x7 Terra-Cotta Print on chipboard only $4.60. 4x8 Klamath Cedar print on plywood only $6.20. While supplies last!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "post_handyman_001",
+      "type": "post",
+      "author": "Local Handyman",
+      "handle": "@HandyInKent",
+      "isoDate": "1977-01-12T14:45:00",
+      "displayDate": "Jan 12, 1977 • 2:45 PM",
+      "content": "I'm impressed with how quickly this Kinkead folding tub enclosure goes in. It fits all tubs and the panels are safe and guaranteed for life. Great price at $41.45 right now.",
+      "person_id": "p_handyman_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "ad_faucet_001",
+      "type": "ad",
+      "sponsor": "Big L Cash and Carry Lumberland",
+      "isoDate": "1977-01-12T16:20:00",
+      "displayDate": "Jan 12, 1977 • 4:20 PM",
+      "content": "Upgrade your bath with a Peerless Single Handle Lavatory Faucet. Model No. 8620. Regular $23.47, Sale Price $19.44. Quality you can trust.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    },
+    {
+      "id": "post_bigl_002",
+      "type": "post",
+      "author": "Big L Lumberland",
+      "handle": "@BigLLand",
+      "isoDate": "1977-01-12T17:30:00",
+      "displayDate": "Jan 12, 1977 • 5:30 PM",
+      "content": "Wrapping up a busy first day of the sale! Don't forget we have ammo boxes for $1.96 and pre-hung doors starting at $28.12. We're open tomorrow at 8:00 AM. See you then!",
+      "person_id": "p_bigl_mascot",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2011.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_bigl_mascot",
+      "first_name": "Big L",
+      "last_name": "Mascot",
+      "has_photo": true,
+      "photo_coordinates": [
+        848,
+        807,
+        946,
+        905
+      ]
+    },
+    {
+      "id": "p_renovator_01",
+      "first_name": "Home",
+      "last_name": "Renovator",
+      "has_photo": true,
+      "photo_coordinates": [
+        318,
+        836,
+        381,
+        916
+      ]
+    },
+    {
+      "id": "p_handyman_01",
+      "first_name": "Local",
+      "last_name": "Handyman",
+      "has_photo": true,
+      "photo_coordinates": [
+        546,
+        357,
+        667,
+        558
+      ]
+    }
+  ]
+}
+
+```

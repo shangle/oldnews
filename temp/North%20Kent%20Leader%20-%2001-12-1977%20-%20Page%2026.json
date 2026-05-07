@@ -1,0 +1,138 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+  },
+  "Feed": [
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Looking for space? (L65696) 80 ACRE FARM nicely located close to the freeway in Sand Lake. Good beef or dairy farm consisting of 80 good acres with sizeable barn and 3 bedroom aluminum sided 2 story home. FLB terms available. Call 866-4434 Westdale 'G' Cos.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T09:45:00",
+      "displayDate": "Jan 12, 1977 • 9:45 AM",
+      "content": "Check out this (L69000) BRICK RANCH WITH 2 FIREPLACES. Dining room, full basement, attached garage, large kitchen all in a quiet country setting for only $26,900. Westdale 'G' Cos. Call 866-4434.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T10:30:00",
+      "displayDate": "Jan 12, 1977 • 10:30 AM",
+      "content": "(L64324) YEAR ROUND FUN! For year round lake front living this is hard to beat. Large 2 bedroom ranch with fireplace, 2 stall garage, 12x18 glassed in porch, 90' frontage and boat house. Westdale 'G' Cos. 866-4434.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T11:15:00",
+      "displayDate": "Jan 12, 1977 • 11:15 AM",
+      "content": "(L62157) NE KENT COUNTY: Mobile homes allowed. 10 acres, $6500, possible LC. This would also make a good lot for a walk-out home. Westdale 'G' Cos. 866-4434.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "(L65732) 20 ACRES, 2 BEDROOMS, MID $20's. 2 bedroom ranch with attached garage just off old US131 in Pierson in good farming area. Tri-County schools, land contract terms. Call 866-4434, Westdale 'G' Cos.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_006",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T13:00:00",
+      "displayDate": "Jan 12, 1977 • 1:00 PM",
+      "content": "Riverfront Living! (L65920) NEWER COTTAGE with 300 ft. of frontage on Pere Marquette River, flowing well on property. Room for expansion, all furnishings included, great fishing, hunting and canoeing. Call 866-4434, Westdale 'G' Cos.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_007",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T13:45:00",
+      "displayDate": "Jan 12, 1977 • 1:45 PM",
+      "content": "(L69810) RANCH ON 10 ACRES. Brick home for the large family, near Coopersville. Separate heated workshop is 20x30 feet. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_008",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T14:30:00",
+      "displayDate": "Jan 12, 1977 • 2:30 PM",
+      "content": "(L69844) CEDAR SPRINGS RANCH. Three bedroom home on an acre. Living room has beamed cathedral ceiling and sliders to patio. Priced to sell at only $17,500. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_009",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T15:15:00",
+      "displayDate": "Jan 12, 1977 • 3:15 PM",
+      "content": "(L69845) PRIVATE SETTING. This 3 bedroom home on a quiet road near Belmont backs up to a trout stream. 2 1/2 stall garage and a 2 story pony barn. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_010",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "(L69807) KENOWA RANCH. Three acre setting for this nearly new brick and aluminum 3 bedroom home with large rec room in the finished basement. 2 1/2 stall garage. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_011",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T16:45:00",
+      "displayDate": "Jan 12, 1977 • 4:45 PM",
+      "content": "(New) SPARTA. Completely remodeled home has brand new bath and the new kitchen has built in dishwasher, disposal and range. Large 2 1/2 stall garage. Large wooded lot with city sewer and water. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_012",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T17:30:00",
+      "displayDate": "Jan 12, 1977 • 5:30 PM",
+      "content": "(L67408) WALK-OUT RANCH. Three bedroom ranch with fireplace and 2 full baths. Sliders off walk-out basement and also off dining area. 2 stall garage. Comstock Park. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_013",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T18:15:00",
+      "displayDate": "Jan 12, 1977 • 6:15 PM",
+      "content": "(61695) BRAND NEW TRI-LEVEL. Family room with fireplace and sliders to patio, formal dining room, 2 full baths, 2 stall garage. Gas heat. Priced below FHA appraisal. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_014",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-12T19:00:00",
+      "displayDate": "Jan 12, 1977 • 7:00 PM",
+      "content": "(65923) BEAUTIFUL SETTING. 36 acres in Rockford area. 2 barns. Home has 3 bedrooms, country kitchen, walk-out basement and unfinished loft with balcony. Call Westdale 'G' Cos. 784-3800.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2026.pdf"
+    }
+  ],
+  "People": []
+}
+```

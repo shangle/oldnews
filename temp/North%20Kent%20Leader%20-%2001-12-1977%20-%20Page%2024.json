@@ -1,0 +1,202 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_layer_sparta",
+      "type": "post",
+      "author": "Brian Layer",
+      "handle": "@b_layer77",
+      "isoDate": "1977-01-04T21:15:00",
+      "displayDate": "Jan 4, 1977 • 9:15 PM",
+      "content": "Absolutely on fire tonight against Sparta! Scoring 25 points and shooting 78.5 percent from the floor felt incredible. We're finally in that first-place tie where we belong. #EaglePride #KentCity",
+      "person_id": "p_brian_layer",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_afton_sparta",
+      "type": "post",
+      "author": "Dan Afton",
+      "handle": "@dan_afton",
+      "isoDate": "1977-01-04T21:45:00",
+      "displayDate": "Jan 4, 1977 • 9:45 PM",
+      "content": "Had to step up in the second quarter when the pressure was on. Picked up 15 points to help us pull ahead with that 20-8 run. Sparta's defense didn't make it easy, but we kept our composure.",
+      "person_id": "p_dan_afton",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_thome_loss",
+      "type": "post",
+      "author": "Tim Thome",
+      "handle": "@t_thome_sparta",
+      "isoDate": "1977-01-04T22:10:00",
+      "displayDate": "Jan 4, 1977 • 10:10 PM",
+      "content": "Tough loss tonight. We held our own in the first quarter, but Kent City's shooting was just too consistent in the second. Back to practice tomorrow to work on our transition defense.",
+      "person_id": "p_tim_thome",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_edgar_spanish",
+      "type": "post",
+      "author": "Kim Edgar",
+      "handle": "@kedgar_kc",
+      "isoDate": "1977-01-10T15:30:00",
+      "displayDate": "Jan 10, 1977 • 3:30 PM",
+      "content": "Taking the plunge into Kent City's Spanish class! It's intense—answering rapid-fire questions or it's a turnover. My head is spinning, but I love the challenge. Adios amigos y bueno suerte! #SpanishClass #KentCityHigh",
+      "person_id": "p_kim_edgar",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_kukla_grant",
+      "type": "post",
+      "author": "Harry Kukla",
+      "handle": "@hkukla15",
+      "isoDate": "1977-01-07T21:30:00",
+      "displayDate": "Jan 7, 1977 • 9:30 PM",
+      "content": "What a night! 23 points to lead the team to a 72-54 win over Grant. We broke that first-period deadlock and never looked back. We're 4-1 now and rolling!",
+      "person_id": "p_harry_kukla",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_weston_grant",
+      "type": "post",
+      "author": "Doug Weston",
+      "handle": "@d_weston34",
+      "isoDate": "1977-01-07T21:50:00",
+      "displayDate": "Jan 7, 1977 • 9:50 PM",
+      "content": "Harry was unstoppable tonight, but I'm happy with my 16 points and 7 boards. This Grant team is physical—three of their guys fouled out! Glad we out-distanced them in the fourth.",
+      "person_id": "p_doug_weston",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_prickett_fouled",
+      "type": "post",
+      "author": "Terry Prickett",
+      "handle": "@t_prickett_grant",
+      "isoDate": "1977-01-07T22:15:00",
+      "displayDate": "Jan 7, 1977 • 10:15 PM",
+      "content": "Frustrating night in Kent City. Picking up my fifth foul and having to watch the final minutes from the bench is the worst. We've got to play cleaner next time.",
+      "person_id": "p_terry_prickett",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_jensen_jv",
+      "type": "post",
+      "author": "Doug Jensen",
+      "handle": "@dj_hoops",
+      "isoDate": "1977-01-04T19:00:00",
+      "displayDate": "Jan 4, 1977 • 7:00 PM",
+      "content": "Tough loss for the J.V. squad against the Spartans. Hit a nice jump shot, but their full court press really rattled us in the second half. 52-36 isn't how we wanted to start the week.",
+      "person_id": "p_doug_jensen",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_stebbins_jv",
+      "type": "post",
+      "author": "Jim Stebbins",
+      "handle": "@j_stebbins",
+      "isoDate": "1977-01-04T19:20:00",
+      "displayDate": "Jan 4, 1977 • 7:20 PM",
+      "content": "Played my heart out in the first half, but those turnovers in the middle of the action killed us. Scoring 9 points doesn't mean much when you lose to Sparta.",
+      "person_id": "p_jim_stebbins",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "post_schultz_boxing",
+      "type": "post",
+      "author": "Mr. Schultz",
+      "handle": "@coach_schultz",
+      "isoDate": "1977-01-11T16:00:00",
+      "displayDate": "Jan 11, 1977 • 4:00 PM",
+      "content": "I'm officially starting the Kent City Boxing Club! We've already got members like Ray Nauta and Cary Patton training. Girls are more than welcome too—come try your luck at boxing! #KentCityBoxing",
+      "person_id": "p_mr_schultz",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    },
+    {
+      "id": "ad_advisor_wantads",
+      "type": "ad",
+      "sponsor": "Friendly Ad-Visor",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "STOP DRIVING AROUND LOOKING FOR THAT PERFECT BUY! Shop the Want Ads. I've got everything you're looking for right here in the North Kent Leader. #WantAds #SaveTime",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2024.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_brian_layer",
+      "first_name": "Brian",
+      "last_name": "Layer",
+      "has_photo": true,
+      "photo_coordinates": [747, 680, 980, 960]
+    },
+    {
+      "id": "p_harry_kukla",
+      "first_name": "Harry",
+      "last_name": "Kukla",
+      "has_photo": true,
+      "photo_coordinates": [44, 680, 423, 960]
+    },
+    {
+      "id": "p_doug_weston",
+      "first_name": "Doug",
+      "last_name": "Weston",
+      "has_photo": true,
+      "photo_coordinates": [308, 680, 448, 960]
+    },
+    {
+      "id": "p_doug_jensen",
+      "first_name": "Doug",
+      "last_name": "Jensen",
+      "has_photo": true,
+      "photo_coordinates": [458, 680, 735, 960]
+    },
+    {
+      "id": "p_dan_afton",
+      "first_name": "Dan",
+      "last_name": "Afton",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_tim_thome",
+      "first_name": "Tim",
+      "last_name": "Thome",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kim_edgar",
+      "first_name": "Kim",
+      "last_name": "Edgar",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_terry_prickett",
+      "first_name": "Terry",
+      "last_name": "Prickett",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jim_stebbins",
+      "first_name": "Jim",
+      "last_name": "Stebbins",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mr_schultz",
+      "first_name": "Mr.",
+      "last_name": "Schultz",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

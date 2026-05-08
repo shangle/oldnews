@@ -34,10 +34,17 @@ async function fixPaths() {
             }
             
             // Fix sourcePdf - convert local temp paths to absolute spartahistory.org URLs
-            if (item.sourcePdf && item.sourcePdf.startsWith('temp/')) {
-                const filename = item.sourcePdf.replace('temp/', '');
-                // Note: This logic assumes 1977 January as the default for current errors. 
-                // A better fix is in the processor, but this fixes existing data.
+            if (item.sourcePdf) {
+                // If it's a local path or a wrongly formatted absolute path
+                let filename = item.sourcePdf.split('/').pop();
+                // Strip out the "-1.jpg" or other temp artifacts that might have been appended
+                filename = filename.replace(/-[0-9]+\.jpg$/, '.pdf').replace(/\.json$/, '.pdf');
+                
+                // Ensure it ends in .pdf and has no double extensions
+                if (!filename.endsWith('.pdf')) {
+                    filename = filename.split('.')[0] + '.pdf';
+                }
+
                 item.sourcePdf = `https://spartahistory.org/newspaper_splits/North%20Kent%20Leader/1977/01_1977/${filename}`;
             }
         });

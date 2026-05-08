@@ -3,12 +3,31 @@ const path = require('path');
 const { execSync } = require('child_process');
 
 async function processOutput(aiJsonPath, imagePath, sourceUrl) {
-    let rawData = await fs.readFile(aiJsonPath, 'utf8');
+    let rawData = "";
+    try {
+        rawData = await fs.readFile(aiJsonPath, 'utf8');
+    } catch (e) {
+        console.error(`Error reading AI output file: ${aiJsonPath}`);
+        process.exit(1);
+    }
     
     // Strip markdown code blocks if present
-    rawData = rawData.replace(/^```json\s*/, '').replace(/```\s*$/, '').trim();
+    const cleanedData = rawData.replace(/^```json\s*/, '').replace(/```\s*$/, '').trim();
     
-    const aiData = JSON.parse(rawData);
+    if (!cleanedData) {
+        console.error("CRITICAL: AI output is empty. Gemini may have failed to generate content or was rate-limited.");
+        process.exit(1);
+    }
+
+    let aiData;
+    try {
+        aiData = JSON.parse(cleanedData);
+    } catch (e) {
+        console.error("CRITICAL: Failed to parse AI JSON. Raw output saved to temp/error_log.txt for inspection.");
+        await fs.writeFile('temp/error_log.txt', rawData);
+        process.exit(1);
+    }
+
     const masterPath = path.join(__dirname, '../data/master.json');
     
     let master = {
@@ -21,11 +40,11 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
 
     if (await fs.pathExists(masterPath)) {
         master = await fs.readJson(masterPath);
-        // Migration check if needed
         if (!master.Feed) master.Feed = [];
     }
 
     // Inject Source URL into Metadata
+    if (!aiData.Metadata) aiData.Metadata = {};
     aiData.Metadata.Source_URL = sourceUrl;
     master.Sources.push(aiData.Metadata);
 
@@ -37,21 +56,19 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
         imCommand = 'magick';
         idCommand = 'magick identify';
     } catch (e) {
-        // Fallback to IM6 commands which we verified exist
+        // Fallback to IM6
     }
 
-    // Get image dimensions for coordinate conversion
+    // Get image dimensions
     let width, height;
     try {
         const info = execSync(`${idCommand} -format "%w %h" "${imagePath}"`).toString().trim().split(' ');
         width = parseInt(info[0]);
         height = parseInt(info[1]);
-        console.log(`Image dimensions: ${width}x${height}`);
     } catch (e) {
-        console.error("Failed to get image dimensions. Ensure ImageMagick is installed.");
+        console.error("Warning: Could not get image dimensions.");
     }
 
-    // Map to keep track of generated photo URLs
     const photoMap = {};
 
     // 1. Process People & Crop Photos
@@ -68,7 +85,6 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
                 try {
                     console.log(`Cropping photo for ${person.id}...`);
                     execSync(`${imCommand} "${imagePath}" -crop ${cropW}x${cropH}+${cropX}+${cropY} -quality 85 "${photoPath}"`);
-                    // Use path relative to the domain root including the repository name
                     photoMap[person.id] = `/oldnews/assets/people/${person.id}.jpg`;
                 } catch (e) {
                     console.error(`Crop failed for ${person.id}: ${e.message}`);
@@ -89,11 +105,8 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
     // 2. Process Feed & Link Photos
     if (aiData.Feed) {
         aiData.Feed.forEach(item => {
-            // Ensure sourcePdf is set to the absolute URL
             item.sourcePdf = sourceUrl;
-
             if (item.type === 'post' && item.person_id) {
-                // Link photo if we just cropped it OR if it exists in master
                 const person = master.People.find(p => p.id === item.person_id);
                 if (photoMap[item.person_id]) {
                     item.imageUrl = photoMap[item.person_id];
@@ -106,7 +119,7 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
     }
 
     await fs.writeJson(masterPath, master, { spaces: 2 });
-    console.log(`Master database updated with ${aiData.Feed ? aiData.Feed.length : 0} feed items.`);
+    console.log(`Master database updated with ${aiData.Feed ? aiData.Feed.length : 0} items.`);
 }
 
 const args = process.argv.slice(2);

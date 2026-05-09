@@ -1,0 +1,153 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-12",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_madole_assignment",
+      "type": "post",
+      "author": "James E. Madole",
+      "handle": "@JamesMadole",
+      "isoDate": "1977-01-10T14:30:00",
+      "displayDate": "Jan 10, 1977 • 2:30 PM",
+      "content": "Just got my assignment! After finishing up here at Lackland AFB in Texas, I'm heading to Griffiss AFB in Rome, New York. Looking forward to getting started as a wire maintenance specialist.",
+      "person_id": "p_902",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_laura_proud",
+      "type": "post",
+      "author": "Laura Madole",
+      "handle": "@LauraMadole",
+      "isoDate": "1977-01-10T18:15:00",
+      "displayDate": "Jan 10, 1977 • 6:15 PM",
+      "content": "So incredibly proud of James! He’s done with basic training and we are officially moving to New York. It's going to be an adventure!",
+      "person_id": "p_903",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_tom_fryc_rehab",
+      "type": "post",
+      "author": "Thomas M. Fryc",
+      "handle": "@TomFrycRehab",
+      "isoDate": "1977-01-11T09:00:00",
+      "displayDate": "Jan 11, 1977 • 9:00 AM",
+      "content": "Friendly reminder to the Sparta community: I will be at the Sparta Community Center at Balyeat Field tomorrow afternoon. If you or someone you know is struggling with a physical or emotional barrier to employment, please stop by. We're here to help with counseling, training, and job placement.",
+      "person_id": "p_901",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_algoma_hearing",
+      "type": "post",
+      "author": "Mark Doren",
+      "handle": "@AlgomaTownship",
+      "isoDate": "1977-01-11T11:45:00",
+      "displayDate": "Jan 11, 1977 • 11:45 AM",
+      "content": "Attention Algoma Township residents! We have a public hearing coming up next Monday, Jan 17th, at 7:30 PM. We'll be discussing proposed amendments to the Zoning Ordinance regarding front yard requirements. Your input is important!",
+      "person_id": "p_904",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_bob_polka",
+      "type": "post",
+      "author": "Bob Whitcomb",
+      "handle": "@JasiuPolka",
+      "isoDate": "1977-01-12T08:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 AM",
+      "content": "It’s Polka Time! Join me on WJPW 810 KC for some great music and community updates. We're on from 11 AM to 4 PM every Saturday, but I'm getting the playlist ready today!",
+      "person_id": "p_905",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_newspaper_drive",
+      "type": "post",
+      "author": "Trinity Lutheran School",
+      "handle": "@TrinityLutheran",
+      "isoDate": "1977-01-12T13:20:00",
+      "displayDate": "Jan 12, 1977 • 1:20 PM",
+      "content": "Don't throw those old newspapers away! Our drive starts tomorrow. You can drop them off at the school through Sunday, or call us for a Saturday pickup. Every bit helps!",
+      "person_id": null,
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "ad_mr_fables_chili",
+      "type": "ad",
+      "sponsor": "Mr. Fables",
+      "isoDate": "1977-01-12T12:00:00",
+      "displayDate": "Jan 12, 1977 • 12:00 PM",
+      "content": "TRY OUR TIMELESS TUMMY WARMER: Steaming Hot Chili! Visit us at Alpine & Vinton or South of Old U.S. 131 Bridge.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "ad_rood_office",
+      "type": "ad",
+      "sponsor": "I.M. Rood & Co.",
+      "isoDate": "1977-01-12T14:00:00",
+      "displayDate": "Jan 12, 1977 • 2:00 PM",
+      "content": "FOR TOTAL OFFICE SERVICE: Office supplies, furniture, and machine repair. Contact us in Greenville at 1-800-442-2527.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "ad_hr_block",
+      "type": "ad",
+      "sponsor": "H&R Block",
+      "isoDate": "1977-01-12T16:00:00",
+      "displayDate": "Jan 12, 1977 • 4:00 PM",
+      "content": "The simpler your return, the less we charge. That's Reason No. 2 why we are America's largest income tax preparer. 21 N. Main, Kent City.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2020-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_901",
+      "first_name": "Thomas",
+      "last_name": "Fryc",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_902",
+      "first_name": "James",
+      "last_name": "Madole",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_903",
+      "first_name": "Laura",
+      "last_name": "Madole",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_904",
+      "first_name": "Mark",
+      "last_name": "Doren",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_905",
+      "first_name": "Bob",
+      "last_name": "Whitcomb",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_412",
+      "first_name": "Henry",
+      "last_name": "Block",
+      "has_photo": true,
+      "photo_coordinates": [
+        434,
+        832,
+        479,
+        907
+      ]
+    }
+  ]
+}
+```

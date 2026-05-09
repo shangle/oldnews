@@ -1,0 +1,150 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_westdale_001",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Good people to know. We specialize in your area with offices in Rockford and Comstock Park. Open 9 A.M. to 9 P.M. Monday through Friday, and Saturday 9-5. Let us help you find your dream home!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l66770",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T10:15:00",
+      "displayDate": "Jan 26, 1977 • 10:15 AM",
+      "content": "ROCKFORD: Four bedroom tri-level on Cul-de-sac street with access to Rogue River. Two full baths and a garden space. Westdale 'G' Cos. 866-4434. (L66770)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l69029",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T11:30:00",
+      "displayDate": "Jan 26, 1977 • 11:30 AM",
+      "content": "NORTHVIEW RANCH, 5 BEDROOMS: 2700 sq. ft. ranch with brick and aluminum exterior. 5 bedrooms, (2 down) 2 fireplaces, 2½ baths, family room, heated garage, large ravine lot. Call 866-4434, Westdale 'G' Cos. (L69029)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l69100",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T13:00:00",
+      "displayDate": "Jan 26, 1977 • 1:00 PM",
+      "content": "CREEKSIDE SETTING, 3 ACRES: 2 bedroom mobile home with creek running along one side, newly added living room and wood-burning fireplace, 1½ car garage plus snowmobile shed with doors on each end. Call 866-4434, Westdale 'G' Cos. (L69100)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l69625",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T14:45:00",
+      "displayDate": "Jan 26, 1977 • 2:45 PM",
+      "content": "REMODELED FARMHOUSE: Hobby farm with vinyl sided 2 story home and over 10 acres of land, large family room/dining room area combination, 3 bedrooms plus play room, main floor utility room, kitchen with built-in barbeque, big closets, 2 car garage, plus 40'x40' barn, 2 silos, 2 new septic tanks and new drain bed. Call 866-4434, Westdale 'G' Cos. (L69625)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l70256",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T16:15:00",
+      "displayDate": "Jan 26, 1977 • 4:15 PM",
+      "content": "COUNTRY SETTING WITH 2 ACRES: Three bedroom home with large kitchen, living room and dining L, bath and a half. Horse barn and three rail fenced area. All this on a lovely two acre lot just 20 minutes from Grand Rapids. Call Westdale 'G' Cos. 784-3800. (L70256)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l65923",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T17:30:00",
+      "displayDate": "Jan 26, 1977 • 5:30 PM",
+      "content": "BEAUTIFUL SETTING: 36 acres in Rockford area. 2 barns. Home has 3 bedrooms, country kitchen, walk-out basement and unfinished loft with balcony. Call Westdale 'G' Cos. 784-3800. (L65923)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l65679",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T19:00:00",
+      "displayDate": "Jan 26, 1977 • 7:00 PM",
+      "content": "COMSTOCK PARK COLONIAL: Huge family room with fireplace and cathedral beamed ceiling has triple sliders to redwood deck and heated kidney shaped pool. Formal dining room and 2½ stall heated garage, 2,580 sq. ft. of gorgeous living area. Call Westdale 'G' Cos. 784-3800. (L65679)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    },
+    {
+      "id": "ad_l67545",
+      "type": "ad",
+      "sponsor": "Westdale Realtors",
+      "isoDate": "1977-01-26T20:30:00",
+      "displayDate": "Jan 26, 1977 • 8:30 PM",
+      "content": "BRAND NEW TRI-LEVEL: Family room with fireplace and sliders to patio, formal dining room, 2 full baths, 2 stall garage. Gas heat. Priced below FHA appraisal. Call Westdale 'G' Cos. 784-3800. (L67545)",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%209-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_l66770_img",
+      "first_name": "Rockford",
+      "last_name": "Property",
+      "has_photo": true,
+      "photo_coordinates": [195, 220, 268, 460]
+    },
+    {
+      "id": "p_l69029_img",
+      "first_name": "Northview",
+      "last_name": "Property",
+      "has_photo": true,
+      "photo_coordinates": [375, 230, 420, 460]
+    },
+    {
+      "id": "p_l69100_img",
+      "first_name": "Creekside",
+      "last_name": "Property",
+      "has_photo": true,
+      "photo_coordinates": [440, 260, 498, 465]
+    },
+    {
+      "id": "p_l69625_img",
+      "first_name": "Farmhouse",
+      "last_name": "Property",
+      "has_photo": true,
+      "photo_coordinates": [855, 235, 930, 470]
+    },
+    {
+      "id": "p_l70256_img",
+      "first_name": "Country",
+      "last_name": "Property",
+      "has_photo": true,
+      "photo_coordinates": [195, 680, 275, 910]
+    },
+    {
+      "id": "p_l65923_img",
+      "first_name": "Rockford",
+      "last_name": "Acreage",
+      "has_photo": true,
+      "photo_coordinates": [462, 690, 545, 920]
+    },
+    {
+      "id": "p_l65679_img",
+      "first_name": "Comstock",
+      "last_name": "Colonial",
+      "has_photo": true,
+      "photo_coordinates": [630, 680, 700, 915]
+    },
+    {
+      "id": "p_l67545_img",
+      "first_name": "New",
+      "last_name": "Tri-level",
+      "has_photo": true,
+      "photo_coordinates": [780, 682, 845, 915]
+    }
+  ]
+}
+```

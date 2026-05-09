@@ -1,0 +1,194 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_morning_belles_01",
+      "type": "post",
+      "author": "Connie S.",
+      "handle": "@ConnieS",
+      "isoDate": "1977-01-25T20:15:00",
+      "displayDate": "Jan 25, 1977 • 8:15 PM",
+      "content": "Hope by now everyone has thawed out just a bit. As you know, I froze up last week and didn't get in with the weekly report, but it's good to be back! I was the best loser this time with a 3 ¾ lb. loss. We can't let those people who tried so hard go unrecognized!",
+      "person_id": "p_605",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "post_morning_belles_02",
+      "type": "post",
+      "author": "Elaine J.",
+      "handle": "@ElaineJ",
+      "isoDate": "1977-01-25T20:30:00",
+      "displayDate": "Jan 25, 1977 • 8:30 PM",
+      "content": "Finally won at least one prize! I came in with a 4 lb. loss this week to become the best loser. It’s amazing what you can do when you put your mind to it!",
+      "person_id": "p_606",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "post_morning_belles_03",
+      "type": "post",
+      "author": "Lou K.",
+      "handle": "@LouK",
+      "isoDate": "1977-01-25T21:00:00",
+      "displayDate": "Jan 25, 1977 • 9:00 PM",
+      "content": "I'm the envy of us all tonight! I won the dime cup which held $11.00 this week. Now we can start building it up again.",
+      "person_id": "p_lou_k",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "post_engaged_debarah",
+      "type": "post",
+      "author": "Debarah Lynn Gentz",
+      "handle": "@DebarahLynn",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "I am so happy to share that Dennis Lyle Simons and I are engaged! We have set our wedding date for March 26, 1977. I can't wait for the big day!",
+      "person_id": "p_debarah_gentz",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "post_serviceman_mark",
+      "type": "post",
+      "author": "Mark R. Hawley",
+      "handle": "@PfcHawley",
+      "isoDate": "1977-01-26T10:30:00",
+      "displayDate": "Jan 26, 1977 • 10:30 AM",
+      "content": "Meritoriously promoted to Private First Class upon graduation from recruit training in San Diego! It was a tough 11 weeks, but the physical conditioning and teamwork were worth it. Ready for the next phase.",
+      "person_id": "p_mark_hawley",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "post_hunting_fishing_01",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@MikeMatthews",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Talking to the DNR this week and it's clear the harsh winter is taking a toll on our fish and deer herd. We're seeing 'winter kill' in shallow bayous like the Grand River basin because thick ice is stopping photosynthesis and depleting oxygen. The deer are yarding up too—it's not just the cold, but finding decent food that's the struggle.",
+      "person_id": "p_401",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "post_hunting_fishing_02",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@MikeMatthews",
+      "isoDate": "1977-01-23T18:00:00",
+      "displayDate": "Jan 23, 1977 • 6:00 PM",
+      "content": "To those of you who missed the pancake breakfast this morning—you missed a real treat! Approximately eighty people came out to sample the work of our club 'chefs.' Don't worry if you got sidetracked, we're doing it again Sunday, February 6th.",
+      "person_id": "p_401",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "post_trap_score_ron",
+      "type": "post",
+      "author": "Ron Thome",
+      "handle": "@RonThome",
+      "isoDate": "1977-01-25T19:00:00",
+      "displayDate": "Jan 25, 1977 • 7:00 PM",
+      "content": "Finished the trap round last week with a perfect 25/25! Feeling good about my shooting lately. M. Longcore and P. Rybicki put up some solid 23s as well.",
+      "person_id": "p_ron_thome",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "ad_onion_crock",
+      "type": "ad",
+      "sponsor": "The Onion Crock",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "Fine foods for all seasons & every palate. Visit us at Wealthy S.E., Monroe Center, or North Kent Mall.",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "ad_carter_lumber",
+      "type": "ad",
+      "sponsor": "Carter Lumber",
+      "isoDate": "1977-01-26T08:30:00",
+      "displayDate": "Jan 26, 1977 • 8:30 AM",
+      "content": "YOUR PANELING HEADQUARTERS. Choose from over 40 different panels in stock! Highland Birch only $6.99, Hardboard Paneling starting at $4.99. Open 7:30 to 5:30, 6 days a week.",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    },
+    {
+      "id": "ad_gil_visser",
+      "type": "ad",
+      "sponsor": "Gil Visser Realty",
+      "isoDate": "1977-01-26T14:00:00",
+      "displayDate": "Jan 26, 1977 • 2:00 PM",
+      "content": "Serving your Real Estate needs Professionally. Call Sally Voegeli for your home search. Featured: Comstock Park rancher for $10,900 and a 3-bedroom Sparta ranch with family room.",
+      "sourcePdf": "North Kent Leader - 01-26-1977 - Page 24.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_605",
+      "first_name": "Connie",
+      "last_name": "S.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_606",
+      "first_name": "Elaine",
+      "last_name": "J.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_lou_k",
+      "first_name": "Lou",
+      "last_name": "K.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_debarah_gentz",
+      "first_name": "Debarah",
+      "last_name": "Lynn Gentz",
+      "has_photo": true,
+      "photo_coordinates": [
+        55,
+        522,
+        288,
+        793
+      ]
+    },
+    {
+      "id": "p_mark_hawley",
+      "first_name": "Mark",
+      "last_name": "R. Hawley",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_401",
+      "first_name": "Mike",
+      "last_name": "Matthews",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_ron_thome",
+      "first_name": "Ron",
+      "last_name": "Thome",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_507",
+      "first_name": "Sally",
+      "last_name": "Voegeli",
+      "has_photo": true,
+      "photo_coordinates": [
+        575,
+        677,
+        648,
+        771
+      ]
+    }
+  ]
+}
+```

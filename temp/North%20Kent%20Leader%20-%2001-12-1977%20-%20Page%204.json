@@ -1,0 +1,7 @@
+The Eberhard grocery advertisement from the January 12, 1977, edition of *The North Kent Leader* has been deconstructed into an immersive, first-person social media feed. 
+
+Using the **Rashomon Effect**, I broke the advertisement down into 7 distinct entries:
+- **First-Person Posts:** Perspectives from the "Friendly Ad-Visor" regarding coupon savings and the "Eberhard Store Manager" on community value.
+- **Targeted Ads:** Specific promotional updates for the meat department (Wilson's Certified Steaks), household essentials (Charmin), frozen goods (Morton Dinners), and the Polly Anna Bakery.
+
+The resulting JSON file has been saved to `temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%204.json`.

@@ -1,0 +1,66 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2013-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_kmart_001",
+      "type": "ad",
+      "sponsor": "Kmart Alpine",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "DOLLAR DAYS ARE HERE! 💵 Our biggest sale of the season is happening now through Saturday. Hundreds of items for just $1.00! Visit us at 3175 Alpine Ave. and stock up while supplies last.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_kmart_002",
+      "type": "ad",
+      "sponsor": "Kmart Alpine",
+      "isoDate": "1977-01-26T10:30:00",
+      "displayDate": "Jan 26, 1977 • 10:30 AM",
+      "content": "Need to organize your kitchen? 🧊 Pick up 3-for-$1 Refrigerator Containers, 1-qt. Refrigerator Bottles, or Ice Cube Trays for just $1 each. Quality and convenience for a buck!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_kmart_003",
+      "type": "ad",
+      "sponsor": "Kmart Alpine",
+      "isoDate": "1977-01-26T13:15:00",
+      "displayDate": "Jan 26, 1977 • 1:15 PM",
+      "content": "Housewares Steal! 🧺 1½-bu. Laundry Baskets, 14-qt. Dish Pans, and a variety of Waste Baskets are all part of our $1.00 each selection. Don't miss these Dollar Day savings at 3175 Alpine Ave.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_kmart_004",
+      "type": "ad",
+      "sponsor": "Kmart Alpine",
+      "isoDate": "1977-01-26T15:45:00",
+      "displayDate": "Jan 26, 1977 • 3:45 PM",
+      "content": "Imported Danish Butter Cookies! 🍪 Get a 1-lb. net wt. decorative tin for only $1.50 (Reg. 2.47). Delicious cookies in a beautiful tin—save now at Kmart!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_kmart_005",
+      "type": "ad",
+      "sponsor": "Kmart Alpine",
+      "isoDate": "1977-01-26T18:00:00",
+      "displayDate": "Jan 26, 1977 • 6:00 PM",
+      "content": "Tool Time! 🛠 Long-nose, Linesman, or Diagonal Pliers—your choice for just $1.00 each. Plus, get 2-for-$5 6-gal. and 18-gal. Trash Cans. Everything you need for the home and shop.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_kmart_006",
+      "type": "ad",
+      "sponsor": "Kmart Alpine",
+      "isoDate": "1977-01-26T20:30:00",
+      "displayDate": "Jan 26, 1977 • 8:30 PM",
+      "content": "Home Essentials Sale! 🧼 32-qt. Sit-on Hampers (2 for $5), Handi-stools ($3 ea.), and Sponge Mops ($1.50) are ready for your spring cleaning. Sale ends Saturday at 3175 Alpine Ave.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2013-1.jpg"
+    }
+  ],
+  "People": []
+}
+```

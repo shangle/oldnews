@@ -1,0 +1,231 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_arzie_01",
+      "type": "post",
+      "author": "Arzie Pinckney",
+      "handle": " @ArzieP",
+      "isoDate": "1977-01-13T19:30:00",
+      "displayDate": "Jan 13, 1977 • 7:30 PM",
+      "content": "Last Thursday was real Jan. weather, very cold and more snow. But, we had 74 men out for a cup of coffee and a donut. Only one new recruit!",
+      "person_id": "p_arzie_pinckney",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_wilson_01",
+      "type": "post",
+      "author": "L. Vern Wilson",
+      "handle": " @VernWilson",
+      "isoDate": "1977-01-13T20:00:00",
+      "displayDate": "Jan 13, 1977 • 8:00 PM",
+      "content": "I visited the Senior Citizens Fellowship in Sparta today as a new recruit. They made me feel right at home despite the snow!",
+      "person_id": "p_wilson_vern",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_verburg_01",
+      "type": "post",
+      "author": "Mrs. Guy Verburg",
+      "handle": " @GVerburg",
+      "isoDate": "1977-01-14T10:15:00",
+      "displayDate": "Jan 14, 1977 • 10:15 AM",
+      "content": "I had a nice visit with Guy on the phone and he tells me he is able to go to the dining room with his wheel chair alone now. Our prayers are with him!",
+      "person_id": "p_verburg_guy",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_schmid_01",
+      "type": "post",
+      "author": "Chas Schmid",
+      "handle": " @ChasSchmid",
+      "isoDate": "1977-01-15T14:00:00",
+      "displayDate": "Jan 15, 1977 • 2:00 PM",
+      "content": "I'm reporting from the Osteopathic Hospital. I had a bad fall and broke my hip. This is something different than usual for me, but I'm hanging in there.",
+      "person_id": "p_schmid_chas",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_jackson_01",
+      "type": "post",
+      "author": "Edward Jackson",
+      "handle": " @EdJacksonNM",
+      "isoDate": "1977-01-16T16:45:00",
+      "displayDate": "Jan 16, 1977 • 4:45 PM",
+      "content": "I've sold my home and left Belmont. My new address is Box 2131 Farmington, New Mexico. I'll miss being one of the few members left of the original Sparta Senior Citizens group.",
+      "person_id": "p_jackson_edward",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_dewilde_01",
+      "type": "post",
+      "author": "Abe Dewilde",
+      "handle": " @AbeDewilde",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "I'm not feeling well enough to be with the group this Thursday, but I'm staying positive. My 92nd birthday is coming up March 11!",
+      "person_id": "p_dewilde_abe",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "ad_sears_01",
+      "type": "ad",
+      "sponsor": "Sears",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "Major Appliances! Shop at Sears Plainfield and save. Satisfaction Guaranteed or Your Money Back. 3490 Plainfield.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_4h_01",
+      "type": "post",
+      "author": "4-H Member",
+      "handle": " @AgriFuture",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "Heading to Chicago in March for the 26th annual 4-H Commodity Marketing Symposium! Agribusiness is where the future is.",
+      "person_id": "p_4h_member_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "ad_carter_01",
+      "type": "ad",
+      "sponsor": "Carter Lumber",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "Make Friends with the Elements. BUY ENERGY SAVING PRODUCTS. Free Fiberglas ceiling installation clinic this Saturday, Jan 22, 9am-12pm.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_payne_01",
+      "type": "post",
+      "author": "C. Allen Payne, M.D.",
+      "handle": " @DrPayneGVB",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "Currently, only 3-5 percent of Kent County residents are active volunteer blood donors. We need more regulars to maintain our community's health.",
+      "person_id": "p_payne_allen",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_payne_02",
+      "type": "post",
+      "author": "C. Allen Payne, M.D.",
+      "handle": " @DrPayneGVB",
+      "isoDate": "1977-01-19T14:05:00",
+      "displayDate": "Jan 19, 1977 • 2:05 PM",
+      "content": "We would like to thank the people in north Kent County who so generously donated blood this past year.",
+      "person_id": "p_payne_allen",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_donor_01",
+      "type": "post",
+      "author": "Local Blood Donor",
+      "handle": " @OneGallonClub",
+      "isoDate": "1977-01-19T15:30:00",
+      "displayDate": "Jan 19, 1977 • 3:30 PM",
+      "content": "I just gave my 8th pint! Proud to be one of the 2,000 individuals in the county who have donated at least one gallon over the last few years.",
+      "person_id": "p_blood_donor_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "post_block_01",
+      "type": "post",
+      "author": "Henry W. Block",
+      "handle": " @HenryBlock",
+      "isoDate": "1977-01-19T17:00:00",
+      "displayDate": "Jan 19, 1977 • 5:00 PM",
+      "content": "If we make an error on your taxes, we pay the penalty. And the interest.",
+      "person_id": "p_412",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    },
+    {
+      "id": "ad_hrblock_01",
+      "type": "ad",
+      "sponsor": "H&R Block",
+      "isoDate": "1977-01-19T17:05:00",
+      "displayDate": "Jan 19, 1977 • 5:05 PM",
+      "content": "H&R Block doesn't make many mistakes. But if we should make an error that costs you additional tax, you pay only the additional tax. We pay any penalty and interest.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2010-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_arzie_pinckney",
+      "first_name": "Arzie",
+      "last_name": "Pinckney",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_412",
+      "first_name": "Henry W.",
+      "last_name": "Block",
+      "has_photo": true,
+      "photo_coordinates": [733, 823, 792, 908]
+    },
+    {
+      "id": "p_payne_allen",
+      "first_name": "C. Allen",
+      "last_name": "Payne",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_wilson_vern",
+      "first_name": "L. Vern",
+      "last_name": "Wilson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_schmid_chas",
+      "first_name": "Chas",
+      "last_name": "Schmid",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jackson_edward",
+      "first_name": "Edward",
+      "last_name": "Jackson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dewilde_abe",
+      "first_name": "Abe",
+      "last_name": "Dewilde",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_verburg_guy",
+      "first_name": "Mrs. Guy",
+      "last_name": "Verburg",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_4h_member_01",
+      "first_name": "4-H",
+      "last_name": "Member",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_blood_donor_01",
+      "first_name": "Local Blood",
+      "last_name": "Donor",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

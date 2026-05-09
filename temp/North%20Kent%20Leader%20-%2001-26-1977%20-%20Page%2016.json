@@ -1,0 +1,204 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_16_001",
+      "type": "post",
+      "author": "Sherry Marlene Knapp",
+      "handle": "@SherryKnapp",
+      "isoDate": "1977-01-25T18:30:00",
+      "displayDate": "Jan 25, 1977 • 6:30 PM",
+      "content": "So happy to finally announce my engagement to William Rasch! We are planning our wedding for February 19th at St. Joseph’s Church in Wright. I can’t wait!",
+      "person_id": "p_16_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_002",
+      "type": "post",
+      "author": "William E. Rasch",
+      "handle": "@BillRasch",
+      "isoDate": "1977-01-25T18:45:00",
+      "displayDate": "Jan 25, 1977 • 6:45 PM",
+      "content": "It's official! Sherry and I are getting married next month. February 19th can't come soon enough.",
+      "person_id": "p_16_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_003",
+      "type": "post",
+      "author": "Penny Sue Fahling",
+      "handle": "@PennyFahling",
+      "isoDate": "1977-01-25T19:00:00",
+      "displayDate": "Jan 25, 1977 • 7:00 PM",
+      "content": "Glenn and I are officially engaged! We’re planning a fall wedding and I couldn’t be more excited to start this next chapter together.",
+      "person_id": "p_1005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_004",
+      "type": "post",
+      "author": "Glenn Gentz",
+      "handle": "@GlennGentz",
+      "isoDate": "1977-01-25T19:15:00",
+      "displayDate": "Jan 25, 1977 • 7:15 PM",
+      "content": "It’s official—Penny and I are getting married this fall. Looking forward to it!",
+      "person_id": "p_1006",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_005",
+      "type": "post",
+      "author": "Patricia Wheeler",
+      "handle": "@PatriciaWheeler",
+      "isoDate": "1976-12-19T10:00:00",
+      "displayDate": "Dec 19, 1976 • 10:00 AM",
+      "content": "Yesterday was a dream. Walking down the aisle at St. Mary’s Cathedral in Cheyenne to marry Wayne was the most beautiful moment of my life. Thank you to everyone who traveled to be with us!",
+      "person_id": "p_16_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_006",
+      "type": "post",
+      "author": "Wayne Wheeler Jr.",
+      "handle": "@WayneWheeler",
+      "isoDate": "1976-12-19T11:30:00",
+      "displayDate": "Dec 19, 1976 • 11:30 AM",
+      "content": "I am the luckiest man alive. Patricia looked absolutely stunning yesterday. Looking forward to our new life together in Cheyenne after our honeymoon in Orlando!",
+      "person_id": "p_16_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_007",
+      "type": "post",
+      "author": "Sue Wolf",
+      "handle": "@MissRodeoSue",
+      "isoDate": "1977-01-24T20:00:00",
+      "displayDate": "Jan 24, 1977 • 8:00 PM",
+      "content": "Still can’t believe it! Being named First Runner-Up in the Miss Rodeo U.S.A. pageant in Tulsa was such an incredible experience. Competing against the top fifteen cowgirls in the country was an honor I’ll never forget. Thank you to my parents, Richard and Mrs. Wolf, for all the support!",
+      "person_id": "p_16_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_008",
+      "type": "post",
+      "author": "Cynthia Marie Ford",
+      "handle": "@CindyFord",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "Tim and I are engaged! No date set yet, but I’m just so happy right now.",
+      "person_id": "p_1001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "post_16_009",
+      "type": "post",
+      "author": "Timothy Dean Schutter",
+      "handle": "@TimSchutter",
+      "isoDate": "1977-01-26T08:15:00",
+      "displayDate": "Jan 26, 1977 • 8:15 AM",
+      "content": "She said yes! Cynthia and I are engaged. Excited to see what the future holds for us.",
+      "person_id": "p_1002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_16_001",
+      "type": "ad",
+      "sponsor": "Barber Creek Sand & Gravel",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Need sand or gravel? We have crushed gravel, drain field stone, septic systems, cement gravel, and more. Call us at 675-7619 for dozer and backhoe services.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_16_002",
+      "type": "ad",
+      "sponsor": "Sparta Plumbing & Heating",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "Residential and commercial contracting and service. Free estimates! Jerry Kowalke, Licensed Master Plumber. Call 887-9978 anytime.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_16_003",
+      "type": "ad",
+      "sponsor": "White Bear Taxidermy",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "Expert mounting service with quality work and low prices. Visit Jim McAllister at 388 E. Gardner, Sparta or dial 887-7461.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    },
+    {
+      "id": "ad_16_004",
+      "type": "ad",
+      "sponsor": "Peach Ridge Transmission Service",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "Free Estimates on your transmission needs. Located at Fruit Ridge Ave. & 10 Mile Rd., Sparta. Call 887-8239.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2016.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_16_001",
+      "first_name": "Sherry",
+      "last_name": "Knapp",
+      "has_photo": true,
+      "photo_coordinates": [52, 72, 248, 348]
+    },
+    {
+      "id": "p_16_002",
+      "first_name": "William",
+      "last_name": "Rasch",
+      "has_photo": true,
+      "photo_coordinates": [52, 72, 248, 348]
+    },
+    {
+      "id": "p_1005",
+      "first_name": "Penny",
+      "last_name": "Fahling",
+      "has_photo": true,
+      "photo_coordinates": [53, 375, 252, 638]
+    },
+    {
+      "id": "p_1006",
+      "first_name": "Glenn",
+      "last_name": "Gentz",
+      "has_photo": true,
+      "photo_coordinates": [53, 375, 252, 638]
+    },
+    {
+      "id": "p_16_003",
+      "first_name": "Patricia",
+      "last_name": "Georges",
+      "has_photo": true,
+      "photo_coordinates": [53, 663, 308, 930]
+    },
+    {
+      "id": "p_16_004",
+      "first_name": "Wayne",
+      "last_name": "Wheeler",
+      "has_photo": true,
+      "photo_coordinates": [53, 663, 308, 930]
+    },
+    {
+      "id": "p_16_005",
+      "first_name": "Sue",
+      "last_name": "Wolf",
+      "has_photo": true,
+      "photo_coordinates": [352, 513, 461, 646]
+    },
+    {
+      "id": "p_1001",
+      "first_name": "Cynthia",
+      "last_name": "Ford",
+      "has_photo": true,
+      "photo_coordinates": [622, 663, 856, 929]
+    }
+  ]
+}
+```

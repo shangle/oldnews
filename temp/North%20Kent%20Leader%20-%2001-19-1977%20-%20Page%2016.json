@@ -1,0 +1,49 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2016-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_16001",
+      "type": "ad",
+      "sponsor": "Spartan Stores",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "SPARTAN SALE '77: The perfect way to start the New Year! Huge savings on Spartan brand favorites. Stock up on Soups (6 for $1.00), Vegetables (5 for $1.00), and Beans (4 for 88¢). Quality you trust at prices you'll love!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2016-1.jpg"
+    },
+    {
+      "id": "ad_16002",
+      "type": "ad",
+      "sponsor": "Spartan Stores",
+      "isoDate": "1977-01-19T08:15:00",
+      "displayDate": "Jan 19, 1977 • 8:15 AM",
+      "content": "Check out our Grocery Specials! Spartan Sandwich Cookies (24 oz) for 69¢, Salad Dressing (32 oz) for 59¢, and Red Raspberry or Strawberry Preserves for only 59¢. Don't forget Peanut Butter—just $2.49 for a 5 Lb jar!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2016-1.jpg"
+    },
+    {
+      "id": "ad_16003",
+      "type": "ad",
+      "sponsor": "Spartan Stores",
+      "isoDate": "1977-01-19T08:30:00",
+      "displayDate": "Jan 19, 1977 • 8:30 AM",
+      "content": "Fresh from the farm to your table! Get 20 Lbs of Michigan Hessler Potatoes for just 99¢. Plus, Florida Tangelos are only 59¢ a dozen and Sweet Onions are 10¢ each. Freshness starts here.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2016-1.jpg"
+    },
+    {
+      "id": "ad_16004",
+      "type": "ad",
+      "sponsor": "Spartan Stores",
+      "isoDate": "1977-01-19T08:45:00",
+      "displayDate": "Jan 19, 1977 • 8:45 AM",
+      "content": "Keep it cool with Spartan Frozen Foods. Orange Juice 6 for $1.00, Frozen Dinners for 39¢, and our Deluxe Combination Pizzas for just $1.29. Quick, easy, and affordable meals for the whole family!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2016-1.jpg"
+    }
+  ],
+  "People": []
+}
+
+```

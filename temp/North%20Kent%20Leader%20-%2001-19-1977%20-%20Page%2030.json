@@ -1,0 +1,285 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Brian Layer",
+      "handle": "@b_layer",
+      "isoDate": "1977-01-14T21:30:00",
+      "displayDate": "Jan 14, 1977 • 9:30 PM",
+      "content": "Tough game tonight, but we pulled through against Morley-Stanwood! Scoring 18 points felt great, but it was really a team effort to out-rebound them 66-32. This win keeps us right in the hunt for second place in the conference.",
+      "person_id": "p_brian_layer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Jason Johnson",
+      "handle": "@jason_j",
+      "isoDate": "1977-01-14T22:15:00",
+      "displayDate": "Jan 14, 1977 • 10:15 PM",
+      "content": "Double-double tonight! Finished with 10 points and 11 rebounds against Morley-Stanwood. Feeling really locked in on the boards lately. Let's keep this momentum going into the Hesperia game.",
+      "person_id": "p_jason_johnson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Doug Weston",
+      "handle": "@d_weston",
+      "isoDate": "1977-01-14T19:50:00",
+      "displayDate": "Jan 14, 1977 • 7:50 PM",
+      "content": "That basket right at the buzzer to end the half was huge. Going into the locker room up 42-31 gave us all the confidence we needed to finish them off in the second half.",
+      "person_id": "p_doug_weston",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Brian Layer",
+      "handle": "@b_layer",
+      "isoDate": "1977-01-11T21:00:00",
+      "displayDate": "Jan 11, 1977 • 9:00 PM",
+      "content": "Another big night! Dropped 21 points on Hesperia tonight to lead us to a 56-43 win. We've officially moved into second place! It's a great feeling to see the hard work paying off in the standings.",
+      "person_id": "p_brian_layer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Coach Sarachman",
+      "handle": "@eagle_coach",
+      "isoDate": "1977-01-11T22:30:00",
+      "displayDate": "Jan 11, 1977 • 10:30 PM",
+      "content": "Our defense wasn't bad until the third quarter, but our offense was kind of sluggish and never really got going. We're glad for the win, but we have work to do on our consistency if we want to stay at the top.",
+      "person_id": "p_coach_sarachman",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Steve Johnson",
+      "handle": "@steve_j_kc",
+      "isoDate": "1977-01-11T20:30:00",
+      "displayDate": "Jan 11, 1977 • 8:30 PM",
+      "content": "What a comeback for the JV squad! Down going into the fourth, but we ran off ten unanswered points to steal the 40-37 win from Hesperia. Finished with 16 points and some hard-earned rebounds.",
+      "person_id": "p_steve_johnson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Lori Schutter",
+      "handle": "@l_schutter",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "So proud of our Kent City High School Concert and Marching Band members! We're all getting ready for the Solo and Ensemble Festival at Rockford High next Saturday. It's going to be a long day of music, but we've been practicing so hard.",
+      "person_id": "p_sparta_student_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Craig Backer",
+      "handle": "@c_backer",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "I think living in the White House would be an incredible experience. You could meet so many new politicians and other government figures. Just imagine the history in those halls!",
+      "person_id": "p_craig_backer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Brian Layer",
+      "handle": "@b_layer",
+      "isoDate": "1977-01-19T12:05:00",
+      "displayDate": "Jan 19, 1977 • 12:05 PM",
+      "content": "If I lived in the White House, I’d probably feel pretty safe and well-cared for. I mean, I would probably feel quite well with all of the doctors the White House has at its disposal!",
+      "person_id": "p_brian_layer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Jill Long",
+      "handle": "@j_long_kc",
+      "isoDate": "1977-01-19T12:15:00",
+      "displayDate": "Jan 19, 1977 • 12:15 PM",
+      "content": "The White House is definitely a place of rare beauty and I'm sure it has many caretakers, but I wouldn't want to live there for a year. It's just not homey enough for me.",
+      "person_id": "p_jill_long",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_011",
+      "type": "post",
+      "author": "Helen Hortor",
+      "handle": "@h_hortor",
+      "isoDate": "1977-01-19T12:30:00",
+      "displayDate": "Jan 19, 1977 • 12:30 PM",
+      "content": "I don't think I'd like living in a big fancy place like that. I enjoy plain and simple things. Myself, I would feel very out-of-place among all that luxury.",
+      "person_id": "p_helen_hortor",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_012",
+      "type": "post",
+      "author": "Donna Wright",
+      "handle": "@d_wright_senior",
+      "isoDate": "1977-01-19T12:45:00",
+      "displayDate": "Jan 19, 1977 • 12:45 PM",
+      "content": "I wouldn't want to live in a perfectly clean house or a house that has so much order for a whole year. It would be okay for a week or two, but then I'd need some normal chaos!",
+      "person_id": "p_donna_wright",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "post_013",
+      "type": "post",
+      "author": "Vickie Passmore",
+      "handle": "@v_passmore",
+      "isoDate": "1977-01-04T16:00:00",
+      "displayDate": "Jan 4, 1977 • 4:00 PM",
+      "content": "Great meeting today for the Kent City High School Close-Up program! We discussed our upcoming trip to Washington D.C. and Lansing. We're raising money with cake raffles and the coat check at games—come support us!",
+      "person_id": "p_vickie_passmore",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    },
+    {
+      "id": "ad_menu_01",
+      "type": "ad",
+      "sponsor": "Kent City Schools Lunch Program",
+      "isoDate": "1977-01-19T17:00:00",
+      "displayDate": "Jan 19, 1977 • 5:00 PM",
+      "content": "Next week's menu is here! Monday: Lasagna, Buttered Green Beans. Tuesday: Escalloped Potatoes with Ham, Buttered Carrots. Wednesday: Chicken Noodle Soup, Cheese, Crackers. Thursday: Hot Dogs, Buttered Corn. Friday: NO SCHOOL.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2030.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_brian_layer",
+      "first_name": "Brian",
+      "last_name": "Layer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dan_afton",
+      "first_name": "Dan",
+      "last_name": "Afton",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jason_johnson",
+      "first_name": "Jason",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_doug_weston",
+      "first_name": "Doug",
+      "last_name": "Weston",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_gary_flegel",
+      "first_name": "Gary",
+      "last_name": "Flegel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_coach_sarachman",
+      "first_name": "Coach",
+      "last_name": "Sarachman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_harry_kukla",
+      "first_name": "Harry",
+      "last_name": "Kukla",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_steve_johnson",
+      "first_name": "Steve",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dan_kragt",
+      "first_name": "Dan",
+      "last_name": "Kragt",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_student_01",
+      "first_name": "Lori",
+      "last_name": "Schutter",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_craig_backer",
+      "first_name": "Craig",
+      "last_name": "Backer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jill_long",
+      "first_name": "Jill",
+      "last_name": "Long",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_helen_hortor",
+      "first_name": "Helen",
+      "last_name": "Hortor",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_donna_wright",
+      "first_name": "Donna",
+      "last_name": "Wright",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_vickie_passmore",
+      "first_name": "Vickie",
+      "last_name": "Passmore",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dave_parcels",
+      "first_name": "Dave",
+      "last_name": "Parcels",
+      "has_photo": true,
+      "photo_coordinates": [34, 693, 303, 963]
+    },
+    {
+      "id": "p_john_doane",
+      "first_name": "John",
+      "last_name": "Doane",
+      "has_photo": true,
+      "photo_coordinates": [350, 693, 688, 963]
+    }
+  ]
+}
+
+```

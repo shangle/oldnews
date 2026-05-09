@@ -1,0 +1,223 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Laura Johnson",
+      "handle": "@lj_woodwinds",
+      "isoDate": "1977-01-19T10:45:00",
+      "displayDate": "Jan 19, 1977 • 10:45 AM",
+      "content": "So excited to be heading to Rockford for the District Solo & Ensemble Festival on the 29th! Our Woodwind Quintet has been practicing so hard. Can't wait to perform!",
+      "person_id": "p_johnson_laura",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Karen Seelman",
+      "handle": "@k_seelman",
+      "isoDate": "1977-01-19T09:30:00",
+      "displayDate": "Jan 19, 1977 • 9:30 AM",
+      "content": "Come check out our quintet at the Band Boosters meeting this Monday night! We'll be doing a preview of our festival performance. See you at the high school band room at 7:30!",
+      "person_id": "p_seelman_karen",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Tim Vogel",
+      "handle": "@tv_wrestling",
+      "isoDate": "1977-01-18T21:15:00",
+      "displayDate": "Jan 18, 1977 • 9:15 PM",
+      "content": "I completely handled Jim Antonucci tonight! Pinned him in less than a minute. Feels good to contribute to the score, even if we came up short as a team.",
+      "person_id": "p_vogel_tim",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Al Dietrich",
+      "handle": "@adietrich_sparta",
+      "isoDate": "1977-01-18T20:30:00",
+      "displayDate": "Jan 18, 1977 • 8:30 PM",
+      "content": "What a nail-biter! I managed to pin Todd Geglio with only five seconds left in our bout. Talk about a close finish!",
+      "person_id": "p_dietrich_al",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Dan Cheslek",
+      "handle": "@d_cheslek",
+      "isoDate": "1977-01-18T19:45:00",
+      "displayDate": "Jan 18, 1977 • 7:45 PM",
+      "content": "Tough loss for the Spartans tonight against Catholic Central, 38-31. Encountered another tough forfeit victory to end the night, but we'll bounce back.",
+      "person_id": "p_dan_cheslek",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Tom Sheckler",
+      "handle": "@tsheckler_18",
+      "isoDate": "1977-01-15T10:00:00",
+      "displayDate": "Jan 15, 1977 • 10:00 AM",
+      "content": "Finished with 18 points last night, but Coopersville's defense was just too aggressive. We've got a full week ahead with Lakewood and Fremont coming to town. Let's get it!",
+      "person_id": "p_tom_sheckler",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "John Andrus",
+      "handle": "@j_andrus_frosh",
+      "isoDate": "1977-01-14T21:45:00",
+      "displayDate": "Jan 14, 1977 • 9:45 PM",
+      "content": "Another tough one against Coopersville tonight. I managed 10 points and 8 rebounds, but we just couldn't overcome that poor second half. We're 4-2 in the conference now.",
+      "person_id": "p_john_andrus",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Molly Powell",
+      "handle": "@molly_p_drama",
+      "isoDate": "1977-01-14T16:30:00",
+      "displayDate": "Jan 14, 1977 • 4:30 PM",
+      "content": "It was a lot of fun and the kids really liked the play! Designing the costumes with the drama class was such a blast.",
+      "person_id": "p_powell_molly",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Mr. Spoelstra",
+      "handle": "@sparta_drama_dept",
+      "isoDate": "1977-01-12T17:00:00",
+      "displayDate": "Jan 12, 1977 • 5:00 PM",
+      "content": "So proud of my drama class! They did an amazing job performing 'The Pied Piper of Hamilton' for the youngsters at Myers, Algoma, Central, and Englishville schools this week.",
+      "person_id": "p_spoelstra_mr",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Sparta Plumbing & Heating",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "How to save on your fuel oil and still enjoy continuous home comfort. Install the only combination furnace burning wood, coal and oil that can pay for itself. DUO-MATIC now on display - see it today at 10388 Sparta Ave.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Joyce K. Hansen",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "TAX RETURNS - Your home or mine. Professional tax counselor Joyce K. Hansen. 4171 Indian Lakes, Cedar Springs. Call 696-1461.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "C.H. Wallace",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "Wondering if leasing makes more sense for you? We have the Pontiac and GMC answers. Visit us in Cedar Springs or call 696-1620.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2022-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_johnson_laura",
+      "first_name": "Laura",
+      "last_name": "Johnson",
+      "has_photo": true,
+      "photo_coordinates": [240, 680, 360, 955]
+    },
+    {
+      "id": "p_seelman_karen",
+      "first_name": "Karen",
+      "last_name": "Seelman",
+      "has_photo": true,
+      "photo_coordinates": [240, 680, 360, 955]
+    },
+    {
+      "id": "p_archer_janice",
+      "first_name": "Janice",
+      "last_name": "Archer",
+      "has_photo": true,
+      "photo_coordinates": [240, 680, 360, 955]
+    },
+    {
+      "id": "p_kober_sue",
+      "first_name": "Sue",
+      "last_name": "Kober",
+      "has_photo": true,
+      "photo_coordinates": [240, 680, 360, 955]
+    },
+    {
+      "id": "p_johnson_debbie",
+      "first_name": "Debbie",
+      "last_name": "Johnson",
+      "has_photo": true,
+      "photo_coordinates": [240, 680, 360, 955]
+    },
+    {
+      "id": "p_vogel_tim",
+      "first_name": "Tim",
+      "last_name": "Vogel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dietrich_al",
+      "first_name": "Al",
+      "last_name": "Dietrich",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dan_cheslek",
+      "first_name": "Dan",
+      "last_name": "Cheslek",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_tom_sheckler",
+      "first_name": "Tom",
+      "last_name": "Sheckler",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_andrus",
+      "first_name": "John",
+      "last_name": "Andrus",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_powell_molly",
+      "first_name": "Molly",
+      "last_name": "Powell",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_spoelstra_mr",
+      "first_name": "Mr.",
+      "last_name": "Spoelstra",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

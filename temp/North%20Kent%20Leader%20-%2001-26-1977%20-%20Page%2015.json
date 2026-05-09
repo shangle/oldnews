@@ -1,0 +1,222 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_15_001",
+      "type": "post",
+      "author": "Mildred Hass",
+      "handle": "@mildred_hass",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "I can't believe another year has gone by! Thank you to my wonderful family for all the birthday wishes today. Love you all Eric & Kyle!",
+      "person_id": "p_15_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_002",
+      "type": "post",
+      "author": "Jeraldine Lockard",
+      "handle": "@jeraldine_lockard",
+      "isoDate": "1977-01-25T19:30:00",
+      "displayDate": "Jan 25, 1977 • 7:30 PM",
+      "content": "I want to say a big Thank You for all the many prayers, flowers, gifts, and cards that I received while in the hospital. The visits from the many Pastors and the encouragement they gave me were so appreciated. It's good to be home!",
+      "person_id": "p_15_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_003",
+      "type": "post",
+      "author": "Arthur Olson",
+      "handle": "@arthur_olson",
+      "isoDate": "1977-01-25T16:00:00",
+      "displayDate": "Jan 25, 1977 • 4:00 PM",
+      "content": "I wish to thank my friends for the prayers, cards and visits, while I was in the hospital and since returning home. A special thanks to Pastor Dolph and Pastor Balbach for their visits and encouragement. All were greatly appreciated.",
+      "person_id": "p_15_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_004",
+      "type": "post",
+      "author": "The Wilson Family",
+      "handle": "@wilson_family",
+      "isoDate": "1977-01-24T18:00:00",
+      "displayDate": "Jan 24, 1977 • 6:00 PM",
+      "content": "We wish to express our sincere appreciation and thanks to friends, neighbors and relatives, for their many gifts, cards, visits and prayers given during the illness, and at the death of our Aunt. A special thanks to the ladies of the Red Pine Bible Church for the lovely cake and coffee served.",
+      "person_id": "p_15_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_005",
+      "type": "post",
+      "author": "William Scharrer",
+      "handle": "@will_scharrer",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "Excited to see my name on the Dean's Honors and Dean's Scholars lists at Montcalm Community College this semester! Hard work pays off.",
+      "person_id": "p_15_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_006",
+      "type": "post",
+      "author": "James Nawrot",
+      "handle": "@james_nawrot",
+      "isoDate": "1977-01-26T10:15:00",
+      "displayDate": "Jan 26, 1977 • 10:15 AM",
+      "content": "Honored to be named to the President's Honors List at MCC. To make this list, you need a cumulative grade point average of 10.00 (A-) or higher! It's been a great semester.",
+      "person_id": "p_15_006",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_007",
+      "type": "post",
+      "author": "H.J. Kurtz Estate",
+      "handle": "@kurtz_estate",
+      "isoDate": "1977-01-24T10:00:00",
+      "displayDate": "Jan 24, 1977 • 10:00 AM",
+      "content": "Everything from ivory miniatures to gold watches! Don't miss the estate auction for H.J. Kurtz this Saturday at the Civic Center. We have a massive collection of antiques, furniture, and jewelry.",
+      "person_id": "p_15_008",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_008",
+      "type": "post",
+      "author": "Local Collector",
+      "handle": "@antique_lover",
+      "isoDate": "1977-01-25T09:00:00",
+      "displayDate": "Jan 25, 1977 • 9:00 AM",
+      "content": "Kerosene lamps, primitives, and Wedgewood pieces at the Kurtz auction this Saturday... my kind of weekend! I'll be there early to check out the jewelry.",
+      "person_id": "p_1211",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_009",
+      "type": "post",
+      "author": "Private Employer",
+      "handle": "@sparta_job",
+      "isoDate": "1977-01-26T14:00:00",
+      "displayDate": "Jan 26, 1977 • 2:00 PM",
+      "content": "I'm looking for a smiling woman under 60 to help out for 2 hours a day, 4 days a week. $65.00 per week guaranteed. Call me between 2 and 4 p.m. at 363-7739.",
+      "person_id": "p_15_010",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "post_15_010",
+      "type": "post",
+      "author": "The Beehive",
+      "handle": "@the_beehive_sparta",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "Planning a wedding or family reunion? Have your special party here at THE BEEHIVE! Call 887-7321.",
+      "person_id": "p_15_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "ad_15_001",
+      "type": "ad",
+      "sponsor": "Private Seller",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "FOR SALE: 1973 Arctic Cat Panther 400 Electric start. $675. 887-9573.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "ad_15_002",
+      "type": "ad",
+      "sponsor": "Casnovia Meat Co.",
+      "isoDate": "1977-01-26T11:30:00",
+      "displayDate": "Jan 26, 1977 • 11:30 AM",
+      "content": "CUSTOM KILLING: Meat cut, wrapped & frozen. Custom processing of beef & hogs. 177 Probosco, Casnovia. 675-7040.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "ad_15_003",
+      "type": "ad",
+      "sponsor": "Carriage House Realty",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "HANDYMAN SPECIAL: 3 bedroom home on large corner lot. Large living room, dining room, kitchen, hot water heat. A little TLC will make this a great buy. Call 887-7307.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    },
+    {
+      "id": "ad_15_004",
+      "type": "ad",
+      "sponsor": "Wayne Hyde State Farm",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Homeowners Policy. Wayne Hyde, 108 N. State St., Sparta. 887-7179.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2015.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_15_001",
+      "first_name": "Mildred",
+      "last_name": "Hass",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_002",
+      "first_name": "Jeraldine",
+      "last_name": "Lockard",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_003",
+      "first_name": "Arthur",
+      "last_name": "Olson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_004",
+      "first_name": "Wilson",
+      "last_name": "Family",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_005",
+      "first_name": "William",
+      "last_name": "Scharrer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_006",
+      "first_name": "James",
+      "last_name": "Nawrot",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_008",
+      "first_name": "H.J.",
+      "last_name": "Kurtz Estate",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_010",
+      "first_name": "Private",
+      "last_name": "Employer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_012",
+      "first_name": "The",
+      "last_name": "Beehive",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

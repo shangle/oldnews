@@ -1,0 +1,220 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_devos_01",
+      "type": "post",
+      "author": "Denny Devos",
+      "handle": "@DennyD",
+      "isoDate": "1977-01-19T08:30:00",
+      "displayDate": "Jan 19, 1977 • 8:30 AM",
+      "content": "So incredibly proud to have earned my varsity letter at Olivet College this past fall! It’s been a lot of hard work, and being named to the M.I.A.A. Division III Honorable Mention Team at defensive end is the icing on the cake.",
+      "person_id": "p_denny_devos",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_devos_02",
+      "type": "post",
+      "author": "Denny Devos",
+      "handle": "@DennyD",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "A lot of people ask what my best experience has been so far. Honestly, starting four games as a freshman is right up there. Even with a winless season, getting that field time was invaluable.",
+      "person_id": "p_denny_devos",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_burde_01",
+      "type": "post",
+      "author": "Mr. Burde",
+      "handle": "@CoachBurde",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "I knew Denny had the potential to be a standout defensive end. Moving him off the line back at Kent City High was one of the best tactical decisions we made. Watching him succeed at the college level now is a proud moment for our program.",
+      "person_id": "p_coach_burde",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_devos_03",
+      "type": "post",
+      "author": "Denny Devos",
+      "handle": "@DennyD",
+      "isoDate": "1977-01-19T10:45:00",
+      "displayDate": "Jan 19, 1977 • 10:45 AM",
+      "content": "I owe so much of my success to Mr. Burde. He really influenced me the most, taking a chance on me and putting me in the defensive end position where I could truly contribute. Coaching matters!",
+      "person_id": "p_denny_devos",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "ad_friendly_01",
+      "type": "ad",
+      "sponsor": "Friendly Corners Restaurant",
+      "isoDate": "1977-01-19T11:30:00",
+      "displayDate": "Jan 19, 1977 • 11:30 AM",
+      "content": "It's about time!!! Join us at 17 Mile and Algoma for a great meal. We're open 6 AM to 10 PM Mon-Thu, and even later on weekends to fit your schedule!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_postal_01",
+      "type": "post",
+      "author": "Postal Worker",
+      "handle": "@MailCarrierKC",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "I've been seeing these 'Make Today Count' signs on my route. Does anyone know what this group actually does for people facing cancer?",
+      "person_id": "p_postal_worker",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_acs_01",
+      "type": "post",
+      "author": "Cancer Answerline",
+      "handle": "@CancerAnswerline",
+      "isoDate": "1977-01-19T13:45:00",
+      "displayDate": "Jan 19, 1977 • 1:45 PM",
+      "content": "Make Today Count is a national organization formed by Orville E. Kelly to help patients and families face their diagnosis with honesty. It’s about emotional support and avoiding unproven remedies that prey on the frightened.",
+      "person_id": "p_acs_expert",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_bartender_01",
+      "type": "post",
+      "author": "Local Bartender",
+      "handle": "@BehindTheBar",
+      "isoDate": "1977-01-19T14:30:00",
+      "displayDate": "Jan 19, 1977 • 2:30 PM",
+      "content": "I'm a non-smoker, but my job puts me in a stuffy, smoke-filled room for eight hours every shift. Is there anything I can actually do to protect myself?",
+      "person_id": "p_bartender_40s",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_acs_02",
+      "type": "post",
+      "author": "Cancer Answerline",
+      "handle": "@CancerAnswerline",
+      "isoDate": "1977-01-19T15:15:00",
+      "displayDate": "Jan 19, 1977 • 3:15 PM",
+      "content": "Inhaling second-hand smoke during an eight-hour shift can be equivalent to smoking 36 cigarettes yourself. It’s vital to ensure your work area is well-ventilated to reduce the harmful effects of tobacco smoke.",
+      "person_id": "p_acs_expert",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_elks_01",
+      "type": "post",
+      "author": "Elks Foundation Trustee",
+      "handle": "@ElksScholarships",
+      "isoDate": "1977-01-19T16:30:00",
+      "displayDate": "Jan 19, 1977 • 4:30 PM",
+      "content": "We are proud to offer 1,051 college scholarships this year, totaling over $776,000. We are looking for students with strong leadership, academic excellence, and financial need.",
+      "person_id": "p_elks_trustee",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_counselor_01",
+      "type": "post",
+      "author": "KC Counselor",
+      "handle": "@KCHS_Counseling",
+      "isoDate": "1977-01-19T17:15:00",
+      "displayDate": "Jan 19, 1977 • 5:15 PM",
+      "content": "Attention Kent City seniors! Applications for the Elks National Scholarships are available in the counseling office. Make sure to pick yours up and submit by February 10!",
+      "person_id": "p_kc_counselor",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "ad_keizer_01",
+      "type": "ad",
+      "sponsor": "Keizer Equipment Company",
+      "isoDate": "1977-01-19T18:00:00",
+      "displayDate": "Jan 19, 1977 • 6:00 PM",
+      "content": "Looking for the best in TRUCKS? Keizer Equipment Company offers IH sales and service. Visit us at 2122 Turner N.W. in Grand Rapids or call 364-7031.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    },
+    {
+      "id": "post_kies_01",
+      "type": "post",
+      "author": "Paul Kies",
+      "handle": "@PKies_Hesperia",
+      "isoDate": "1977-01-19T19:00:00",
+      "displayDate": "Jan 19, 1977 • 7:00 PM",
+      "content": "Great seeing another local athlete like Denny Devos making his mark here at Olivet. Hesperia and Kent City are well-represented on the field!",
+      "person_id": "p_paul_kies",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2020.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_denny_devos",
+      "first_name": "Denny",
+      "last_name": "Devos",
+      "has_photo": true,
+      "photo_coordinates": [
+        118,
+        792,
+        258,
+        928
+      ]
+    },
+    {
+      "id": "p_coach_burde",
+      "first_name": "Mr.",
+      "last_name": "Burde",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_paul_kies",
+      "first_name": "Paul",
+      "last_name": "Kies",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jeff_tobie",
+      "first_name": "Jeff",
+      "last_name": "Tobie",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_acs_expert",
+      "first_name": "Cancer",
+      "last_name": "Answerline",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_postal_worker",
+      "first_name": "Postal",
+      "last_name": "Worker",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_bartender_40s",
+      "first_name": "Local",
+      "last_name": "Bartender",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_elks_trustee",
+      "first_name": "Elks",
+      "last_name": "Trustee",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kc_counselor",
+      "first_name": "Kent City",
+      "last_name": "Counselor",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,144 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_27_001",
+      "type": "post",
+      "author": "Alan R. Hoekstra",
+      "handle": "@AlanH_Mechanic",
+      "isoDate": "1977-01-24T18:30:00",
+      "displayDate": "Jan 24, 1977 • 6:30 PM",
+      "content": "Germany is a long way from Kent City! Just finished my 8 weeks of training in Kentucky as a track vehicle mechanic. Ready for this new assignment and seeing what the Army has in store for me here.",
+      "person_id": "p_27_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_27_002",
+      "type": "post",
+      "author": "Richard Hoekstra",
+      "handle": "@RichardH_KC",
+      "isoDate": "1977-01-25T09:15:00",
+      "displayDate": "Jan 25, 1977 • 9:15 AM",
+      "content": "Mary and I are so proud of Alan. He's officially stationed in Germany now. It’s hard having him so far away, but we’re glad he’s doing well after his training at Fort Knox.",
+      "person_id": "p_27_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_27_003",
+      "type": "post",
+      "author": "Gary D. VanLaan",
+      "handle": "@GaryVanL_Airman",
+      "isoDate": "1977-01-24T20:00:00",
+      "displayDate": "Jan 24, 1977 • 8:00 PM",
+      "content": "Lackland was tough but I made it through basic! I've been selected for technical training at Chanute AFB in Illinois. Aircraft maintenance field, here I come.",
+      "person_id": "p_27_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_27_004",
+      "type": "post",
+      "author": "Stephen E. Hartman",
+      "handle": "@SteveHart_AF",
+      "isoDate": "1977-01-24T20:15:00",
+      "displayDate": "Jan 24, 1977 • 8:15 PM",
+      "content": "Basic training at Lackland AFB is officially in the books. Next stop is technical school at Chanute AFB for aircraft maintenance. Let's do this!",
+      "person_id": "p_27_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_27_005",
+      "type": "post",
+      "author": "Sparta Neighbor",
+      "handle": "@SpartaNeighbor",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "Does anyone have Alan Hoekstra's new mailing address in Germany? I know a few of us want to send him some letters from home.",
+      "person_id": "p_27_006",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "ad_27_001",
+      "type": "ad",
+      "sponsor": "H&R Block",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "Even if you use the short form, it could pay you to see us. That's Reason No. 15. Even the short form is more complicated this year. Stop by at 1104 13 Mile Rd in Sparta.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "ad_27_002",
+      "type": "ad",
+      "sponsor": "White's Grocery",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "MEAT SPECIALS: All Beef Hamburg 69c lb, Semi Boneless Ham 98c lb. PRODUCE: Bananas 17c lb, Tangelos 59c doz. We honor food stamps! Visit us in Kent City.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "ad_27_003",
+      "type": "ad",
+      "sponsor": "Ray Stout Chevrolet",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "USED CAR CLEARANCE! 1975 Chevrolet Bel Air 4-door, only 20,810 miles - $3385. 1974 Vega 2-door Hatchback - $1445. 1973 Chevrolet Camper Special - $2285. Quality cars at Ray Stout in Kent City.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2027-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_27_001",
+      "first_name": "Alan",
+      "last_name": "Hoekstra",
+      "has_photo": true,
+      "photo_coordinates": [78, 191, 169, 298]
+    },
+    {
+      "id": "p_27_002",
+      "first_name": "Gary",
+      "last_name": "VanLaan",
+      "has_photo": true,
+      "photo_coordinates": [136, 382, 218, 486]
+    },
+    {
+      "id": "p_27_003",
+      "first_name": "Stephen",
+      "last_name": "Hartman",
+      "has_photo": true,
+      "photo_coordinates": [324, 197, 419, 312]
+    },
+    {
+      "id": "p_27_004",
+      "first_name": "Richard",
+      "last_name": "Hoekstra",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_27_005",
+      "first_name": "Mary",
+      "last_name": "Hoekstra",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_27_006",
+      "first_name": "Sparta",
+      "last_name": "Neighbor",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_412",
+      "first_name": "Henry",
+      "last_name": "Block",
+      "has_photo": true,
+      "photo_coordinates": [228, 55, 283, 144]
+    }
+  ]
+}
+```

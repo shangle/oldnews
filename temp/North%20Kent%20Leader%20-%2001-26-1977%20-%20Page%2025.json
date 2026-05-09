@@ -1,0 +1,135 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_snow_001",
+      "type": "post",
+      "author": "Rev. Donald Johnson",
+      "handle": "@PastorDon",
+      "isoDate": "1977-01-26T17:15:00",
+      "displayDate": "Jan 26, 1977 • 5:15 PM",
+      "content": "Excited to announce our second annual snowmobile church service! Rev. Stanley Finkbeiner and I are inviting all area snowmobilers to join us at Chapel Hill United Methodist this Sunday at 8:30 a.m. for a unique outdoor worship.",
+      "person_id": "p_rev_don_j",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_snow_002",
+      "type": "post",
+      "author": "Rev. Stanley Finkbeiner",
+      "handle": "@ChapelHillStan",
+      "isoDate": "1977-01-26T18:30:00",
+      "displayDate": "Jan 26, 1977 • 6:30 PM",
+      "content": "I'll be delivering the sermon this Sunday at our outdoor snowmobile service. We've got a loudspeaker system set up so you can stay right on your machines. Bundle up good, fire up your machine, and head on out for an enjoyable morning!",
+      "person_id": "p_rev_stan_f",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_snow_003",
+      "type": "post",
+      "author": "Iva Norton",
+      "handle": "@IvaNorton",
+      "isoDate": "1977-01-26T19:45:00",
+      "displayDate": "Jan 26, 1977 • 7:45 PM",
+      "content": "Don't forget the potluck! After the snowmobile service and ride on Sunday, we'll be meeting at Mamrelund Lutheran Church at 12:30 p.m. for lunch. Please give me or Pat Libolt a call if you need more details.",
+      "person_id": "p_iva_n",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_menu_001",
+      "type": "post",
+      "author": "Rockford School Cafeteria",
+      "handle": "@RockfordLunches",
+      "isoDate": "1977-01-26T20:10:00",
+      "displayDate": "Jan 26, 1977 • 8:10 PM",
+      "content": "Planning ahead for next week! Tacos are back on the menu for Monday, Jan 31st, and we've got Beef Stew and Orange Juice ready for Tuesday. Check out the full menu for the week!",
+      "person_id": "p_rock_caf",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_fables_001",
+      "type": "ad",
+      "sponsor": "Mr. Fables",
+      "isoDate": "1977-01-26T14:00:00",
+      "displayDate": "Jan 26, 1977 • 2:00 PM",
+      "content": "SNOW TIME GOOD TIME. Mr. Fables Time! Visit us south of Old U.S. 131 Bridge or at our 5805 Alpine location. Open late Mon-Thurs until 11 p.m., Fri & Sat until 12 p.m., and Sun until 11 p.m.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_cm_carpet_001",
+      "type": "ad",
+      "sponsor": "C & M Carpet",
+      "isoDate": "1977-01-26T15:30:00",
+      "displayDate": "Jan 26, 1977 • 3:30 PM",
+      "content": "NO. 1 IN VALUE. Visit C & M Carpet at 3740 W. River Rd. in Comstock Park. Mon-Wed 9 to 9, Thurs 9 to 6, Fri 9 to 5:30. Phone 363-7797.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_klean_brite_001",
+      "type": "ad",
+      "sponsor": "Klean Brite Dry Cleaners",
+      "isoDate": "1977-01-26T16:45:00",
+      "displayDate": "Jan 26, 1977 • 4:45 PM",
+      "content": "DRY CLEANING SPECIAL: Ladies Manmade Furs. Professionally cleaned, brushed & glazed. SAVE NOW $4.00 ea. 1604 Four Mile Rd N.E., Grand Rapids.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_consumers_001",
+      "type": "ad",
+      "sponsor": "Consumers Power",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "Forecast: expensive weather. This winter has been much colder than last. Dial down your thermostat from 72 to 68 to help save. Turning it down further can save you even more. It's our responsibility to use energy wisely.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2025-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_rev_don_j",
+      "first_name": "Donald",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_rev_stan_f",
+      "first_name": "Stanley",
+      "last_name": "Finkbeiner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_iva_n",
+      "first_name": "Iva",
+      "last_name": "Norton",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_rock_caf",
+      "first_name": "Rockford Cafeteria",
+      "last_name": "Staff",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_fur_model_25",
+      "first_name": "Ladies Fur",
+      "last_name": "Model",
+      "has_photo": true,
+      "photo_coordinates": [602, 174, 875, 333]
+    },
+    {
+      "id": "p_weather_pro_25",
+      "first_name": "Weather",
+      "last_name": "Forecaster",
+      "has_photo": true,
+      "photo_coordinates": [804, 525, 982, 712]
+    }
+  ]
+}
+```

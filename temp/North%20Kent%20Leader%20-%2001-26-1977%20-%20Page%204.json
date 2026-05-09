@@ -1,0 +1,112 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%204-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_eb_001",
+      "type": "ad",
+      "sponsor": "Eberhard Food Store",
+      "isoDate": "1977-01-26T07:00:00",
+      "displayDate": "Jan 26, 1977 • 7:00 AM",
+      "content": "With food values like these, we want to be your food store! Check our prices this week: Wilson's Certified Pot Roast (66¢/lb), Swiss Steak (98¢/lb), and Chuck Roast (76¢/lb). Use our in-store coupons to save over $13.00 on your grocery bill. 3 for $1.00 on C. Fresh Milk and 79¢ for a dozen Grade AA Large Eggs. Ad prices good thru Sat. Jan 29.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%204-1.jpg"
+    },
+    {
+      "id": "post_eb_002",
+      "type": "post",
+      "author": "Sparta Butcher",
+      "handle": "@SpartaButcher",
+      "isoDate": "1977-01-26T08:30:00",
+      "displayDate": "Jan 26, 1977 • 8:30 AM",
+      "content": "I've been prepping the Wilson’s Certified beef all morning and the quality is outstanding. That first-cut Chuck Pot Roast at 66¢ a pound is going to fly out of the case. If you're looking to fill the freezer, the Swiss Steak at 98¢ is the way to go. Come see me at the counter!",
+      "person_id": "p_sparta_butcher",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%204-1.jpg"
+    },
+    {
+      "id": "post_eb_003",
+      "type": "post",
+      "author": "Local Shopper",
+      "handle": "@ThriftyInSparta",
+      "isoDate": "1977-01-26T10:15:00",
+      "displayDate": "Jan 26, 1977 • 10:15 AM",
+      "content": "Can you believe milk is actually 3 for $1.00 at Eberhard's? 🥛 I just filled the cart. Between that and the 79¢ eggs, I’m actually ahead of the budget this week. Make sure you grab the coupon sheet at the door before you start shopping!",
+      "person_id": "p_sparta_shopper",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%204-1.jpg"
+    },
+    {
+      "id": "post_eb_004",
+      "type": "post",
+      "author": "Local Parent",
+      "handle": "@LunchboxQueen",
+      "isoDate": "1977-01-26T11:45:00",
+      "displayDate": "Jan 26, 1977 • 11:45 AM",
+      "content": "Stocked up on school lunch essentials today. Polly Anna Cinnamon Rolls for 59¢ and Oreo Cookies for 80¢—the kids are going to be so happy when they open their bags tomorrow! Also grabbed the 4-pack of 7-UP for just a dollar.",
+      "person_id": "p_parent_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%204-1.jpg"
+    },
+    {
+      "id": "post_eb_005",
+      "type": "post",
+      "author": "Local Homeowner",
+      "handle": "@SpartaHandyman",
+      "isoDate": "1977-01-26T14:20:00",
+      "displayDate": "Jan 26, 1977 • 2:20 PM",
+      "content": "With all this Michigan slush on the roads, I'm glad I saw the deal on Kleer View Washer Solvent. 79¢ a gallon is a steal. I picked up two bottles while I was getting the groceries—can't see a thing out there without it.",
+      "person_id": "p_1211",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%204-1.jpg"
+    },
+    {
+      "id": "post_eb_006",
+      "type": "post",
+      "author": "Eberhard Manager",
+      "handle": "@EberhardSparta",
+      "isoDate": "1977-01-26T16:00:00",
+      "displayDate": "Jan 26, 1977 • 4:00 PM",
+      "content": "LAST WEEK ALERT! 🚨 This is your final chance to complete your McCall's Cookbook collection. We have the volumes on display at the front of the store. Don't let your collection stay incomplete!",
+      "person_id": "p_emmons_mgr",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%204-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_sparta_butcher",
+      "first_name": "Sparta",
+      "last_name": "Butcher",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_shopper",
+      "first_name": "Local",
+      "last_name": "Shopper",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_parent_01",
+      "first_name": "Local",
+      "last_name": "Parent",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1211",
+      "first_name": "Local",
+      "last_name": "Homeowner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_emmons_mgr",
+      "first_name": "Emmons",
+      "last_name": "Manager",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

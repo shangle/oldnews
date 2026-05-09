@@ -1,0 +1,264 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_2601",
+      "type": "post",
+      "author": "Ray Dion",
+      "handle": "@RayDionFixes",
+      "isoDate": "1977-01-18T10:15:00",
+      "displayDate": "Jan 18, 1977 • 10:15 AM",
+      "content": "I am officially launching Sales Associates here in North Kent! If you're tired of that annoying 'drip-drip' from your faucet, I've got a permanent cure. We use space-age plastic washers and stainless steel seats that actually outlast the house.",
+      "person_id": "p_1201",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2602",
+      "type": "post",
+      "author": "Local Homeowner",
+      "handle": "@DrySinksOnly",
+      "isoDate": "1977-01-18T14:30:00",
+      "displayDate": "Jan 18, 1977 • 2:30 PM",
+      "content": "Finally! Ray Dion just stopped by and fixed our kitchen faucet. No more wasting water, and he says it's guaranteed for as long as we live here. Best nominal fee I've spent all year.",
+      "person_id": "p_1211",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2603",
+      "type": "post",
+      "author": "Eddie Parsons",
+      "handle": "@ParsonsFarmServ",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "Big news for the local farming community! Parsons Farm Service is now the official SOECO dealer for Rockford. We've got the bacterial seed inoculants you need for your wheat and corn crops this spring.",
+      "person_id": "p_1202",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2604",
+      "type": "post",
+      "author": "Buddy Burrus",
+      "handle": "@SOECO_Buddy",
+      "isoDate": "1977-01-19T09:30:00",
+      "displayDate": "Jan 19, 1977 • 9:30 AM",
+      "content": "We are very pleased to add Parsons Farm Service to our growing list of SOECO dealers. Eddie and his team are exactly who we want representing us in Kent and Montcalm counties.",
+      "person_id": "p_1203",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2605",
+      "type": "post",
+      "author": "Kent County Farmer",
+      "handle": "@CornAndWheat",
+      "isoDate": "1977-01-19T11:45:00",
+      "displayDate": "Jan 19, 1977 • 11:45 AM",
+      "content": "The results from these SOECO bacterial inoculants have been particularly impressive lately. Glad I don't have to drive as far now that Parsons has them in stock on Porter Hollow Drive.",
+      "person_id": "p_1210",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2606",
+      "type": "post",
+      "author": "Rosemary Guerra",
+      "handle": "@RosemaryG",
+      "isoDate": "1977-01-18T19:00:00",
+      "displayDate": "Jan 18, 1977 • 7:00 PM",
+      "content": "Four months since our wedding at Sparta United Methodist and we are finally fully settled into our home on 10 Mile Road! It’s been a whirlwind since Sept 4th.",
+      "person_id": "p_1204",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2607",
+      "type": "post",
+      "author": "Floyd Allen Guerra",
+      "handle": "@FloydGuerra",
+      "isoDate": "1977-01-18T19:15:00",
+      "displayDate": "Jan 18, 1977 • 7:15 PM",
+      "content": "Thinking back to our reception at the Sparta Civic Center. We had such a great time with family and friends. Big thanks to Kevin Foley for standing as my best man.",
+      "person_id": "p_1205",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2608",
+      "type": "post",
+      "author": "Kevin Foley",
+      "handle": "@KFoleyBelmont",
+      "isoDate": "1977-01-18T20:00:00",
+      "displayDate": "Jan 18, 1977 • 8:00 PM",
+      "content": "It was an absolute honor to be the best man for Floyd and Rosemary. That Sept 4th wedding was a day to remember!",
+      "person_id": "p_1206",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2609",
+      "type": "post",
+      "author": "Mary Crofoot",
+      "handle": "@MaryC_Sparta",
+      "isoDate": "1977-01-18T20:30:00",
+      "displayDate": "Jan 18, 1977 • 8:30 PM",
+      "content": "I loved being the maid of honor for Rosemary. Watching her and Floyd exchange vows was so beautiful.",
+      "person_id": "p_1207",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2610",
+      "type": "post",
+      "author": "Elisha Lewis",
+      "handle": "@ElishaFlowerGirl",
+      "isoDate": "1977-01-18T17:00:00",
+      "displayDate": "Jan 18, 1977 • 5:00 PM",
+      "content": "I felt like a princess being the flower girl for my cousin Rosemary! I still remember throwing the petals.",
+      "person_id": "p_1209",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "post_2611",
+      "type": "post",
+      "author": "Bob Whitcomb",
+      "handle": "@PolkaJasiu",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "Get ready, Rockford! This Saturday we're back with Original Polka Time. Two sessions to keep the music going—11 AM and 1 PM. See you there!",
+      "person_id": "p_905",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "ad_2601",
+      "type": "ad",
+      "sponsor": "Kempf Builders",
+      "isoDate": "1977-01-19T07:00:00",
+      "displayDate": "Jan 19, 1977 • 7:00 AM",
+      "content": "MODEL NOW OPEN! New 3 Bedroom Rancher on 3 acres for just $41,500. Or, if you already have land, we'll build on your lot for $33,000. Stop by our self-serve open house today!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "ad_2602",
+      "type": "ad",
+      "sponsor": "WJPW 810 KC",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "WJPW 810 KC on your dial. From sunup to sundown—The Best Sound Around. Tuning in is always the right choice.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "ad_2603",
+      "type": "ad",
+      "sponsor": "Hankinson's Radiator Shop",
+      "isoDate": "1977-01-19T08:30:00",
+      "displayDate": "Jan 19, 1977 • 8:30 AM",
+      "content": "RADIATOR TROUBLE? We specialize in cleaning, rodding, repairing, and recoring. Open Mon-Fri 8 AM to 5:30 PM and Saturday 9 AM to 3 PM. 4976 West River, Comstock Park.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    },
+    {
+      "id": "ad_2604",
+      "type": "ad",
+      "sponsor": "Original Polka Time",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "ORIGINAL POLKA TIME with Bob 'Jasiu' Whitcomb. Every Saturday in Rockford, Michigan. 11 AM - 12:15 PM and again from 1 PM to 4 PM.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2026-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_1201",
+      "first_name": "Ray",
+      "last_name": "Dion",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1202",
+      "first_name": "Eddie",
+      "last_name": "Parsons",
+      "has_photo": true,
+      "photo_coordinates": [
+        308,
+        827,
+        576,
+        967
+      ]
+    },
+    {
+      "id": "p_1203",
+      "first_name": "Buddy",
+      "last_name": "Burrus",
+      "has_photo": true,
+      "photo_coordinates": [
+        308,
+        688,
+        576,
+        827
+      ]
+    },
+    {
+      "id": "p_1204",
+      "first_name": "Rosemary",
+      "last_name": "Guerra",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1205",
+      "first_name": "Floyd Allen",
+      "last_name": "Guerra",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1206",
+      "first_name": "Kevin",
+      "last_name": "Foley",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1207",
+      "first_name": "Mary",
+      "last_name": "Crofoot",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1208",
+      "first_name": "Donna",
+      "last_name": "Russell",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1209",
+      "first_name": "Elisha",
+      "last_name": "Lewis",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1210",
+      "first_name": "Kent County",
+      "last_name": "Farmer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1211",
+      "first_name": "Local",
+      "last_name": "Homeowner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_905",
+      "first_name": "Bob",
+      "last_name": "Whitcomb",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

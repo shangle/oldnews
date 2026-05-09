@@ -1,0 +1,229 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_stebbins_pesticide",
+      "type": "post",
+      "author": "Larry Stebbins",
+      "handle": " @larry_stebbins",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "Growers, if you're planning to use restricted pesticides this year, you need to undergo examination for certification. We've got the manuals ready at the Extension office, so don't wait until the rush in October!",
+      "person_id": "p_larry_stebbins",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_msu_official_quote",
+      "type": "post",
+      "author": "MSU Extension Spokesperson",
+      "handle": " @msu_official",
+      "isoDate": "1977-01-26T08:45:00",
+      "displayDate": "Jan 26, 1977 • 8:45 AM",
+      "content": "Programs are open to all without regard to race, color or national origin.",
+      "person_id": "p_msu_official",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_cheryl_wedding",
+      "type": "post",
+      "author": "Cheryl Scheerhorn",
+      "handle": " @cheryl_kay",
+      "isoDate": "1977-01-26T09:30:00",
+      "displayDate": "Jan 26, 1977 • 9:30 AM",
+      "content": "Richard and I are so happy to finally be settled in Grand Rapids! Looking back at these photos from our candlelight wedding in October brings back so much joy. Marco Island was the perfect honeymoon getaway. 🌴💍",
+      "person_id": "p_cheryl_s",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_marcia_bridesmaid",
+      "type": "post",
+      "author": "Marcia Barends",
+      "handle": " @marcia_b",
+      "isoDate": "1977-01-26T10:15:00",
+      "displayDate": "Jan 26, 1977 • 10:15 AM",
+      "content": "It was such an honor to be a bridesmaid for Cheryl. The ceremony at Trinity Lutheran was absolutely stunning. So happy for the new Mr. and Mrs. Scheerhorn!",
+      "person_id": "p_marcia_b",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_paint_pro_q",
+      "type": "post",
+      "author": "Local Homeowner",
+      "handle": " @reno_newbie",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "I just finished painting a room and it looks terrible I can see the old color through in places, why?",
+      "person_id": "p_renovator_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_paint_pro_a",
+      "type": "post",
+      "author": "The Paint Pro",
+      "handle": " @the_paint_pro",
+      "isoDate": "1977-01-26T11:15:00",
+      "displayDate": "Jan 26, 1977 • 11:15 AM",
+      "content": "Usually the problem is too much surface and too little paint, on a porous surface the paint will penetrate carrying its hiding power and color with it, excessive thinning, poor brush or roller cover or inadequate mixing of paint used.",
+      "person_id": "p_paint_pro",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_umyf_paper_drive",
+      "type": "post",
+      "author": "Junior High UMYF",
+      "handle": " @sparta_umyf",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "Cleaning out your garage? Save those old newspapers! Our paper drive is coming up Feb 9-13 at the Sparta United Methodist Church. Help support our youth group! 📰",
+      "person_id": "p_umyf_member",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_nwas_cheslek",
+      "type": "post",
+      "author": "Dan Cheslek",
+      "handle": " @dan_cheslek",
+      "isoDate": "1977-01-26T14:00:00",
+      "displayDate": "Jan 26, 1977 • 2:00 PM",
+      "content": "A massive thank you to everyone who contributed to our '76 fund drive! Whether it was a donation or a memorial gift, your support of Northwest Ambulance Service helps us save lives every day.",
+      "person_id": "p_dan_cheslek",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_nwas_jerry_v",
+      "type": "post",
+      "author": "Jerry Van Gessel",
+      "handle": " @j_van_gessel",
+      "isoDate": "1977-01-26T14:45:00",
+      "displayDate": "Jan 26, 1977 • 2:45 PM",
+      "content": "Proud to support the Northwest Ambulance Service. They do so much for our community, and we're lucky to have such dedicated volunteers and staff.",
+      "person_id": "p_711",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_nwas_mildred_h",
+      "type": "post",
+      "author": "Mildred Hass",
+      "handle": " @mildred_hass",
+      "isoDate": "1977-01-26T15:30:00",
+      "displayDate": "Jan 26, 1977 • 3:30 PM",
+      "content": "It's so heartening to see the community rally behind NWAS. Thank you to everyone who gave to make this year's fund drive a success!",
+      "person_id": "p_15_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_paint_pro_ad",
+      "type": "ad",
+      "sponsor": "Alpine Decorators Stock",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Be sure the place you're buyin' is... FULLER-O'BRIEN! Visit Alpine Decorators Stock at 2234 Alpine N.W. for the best paints and expert advice. 🎨",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_sears_appliances",
+      "type": "ad",
+      "sponsor": "Sears Major Appliances",
+      "isoDate": "1977-01-26T10:30:00",
+      "displayDate": "Jan 26, 1977 • 10:30 AM",
+      "content": "Looking for major appliances? Shop Sears Plainfield store. Satisfaction guaranteed or your money back! 3490 Plainfield, open late 'til 9:00 p.m.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_tax_hansen",
+      "type": "ad",
+      "sponsor": "Joyce K. Hansen",
+      "isoDate": "1977-01-26T13:00:00",
+      "displayDate": "Jan 26, 1977 • 1:00 PM",
+      "content": "TAX RETURNS - YOUR HOME OR MINE. Professional tax counseling and preparation. Call Joyce K. Hansen at 696-1461 in Cedar Springs.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_gotschall_realty",
+      "type": "ad",
+      "sponsor": "Gotschall Realty Co.",
+      "isoDate": "1977-01-26T16:30:00",
+      "displayDate": "Jan 26, 1977 • 4:30 PM",
+      "content": "Welcome to Snowmobile Country! 5-acre lots in Baldwin starting at $3,750. Only $750 down. Perfect for the winter enthusiast! Call 616-745-4655.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2023-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_cheryl_s",
+      "first_name": "Cheryl",
+      "last_name": "Scheerhorn",
+      "has_photo": true,
+      "photo_coordinates": [145, 75, 435, 335]
+    },
+    {
+      "id": "p_marcia_b",
+      "first_name": "Marcia",
+      "last_name": "Barends",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_larry_stebbins",
+      "first_name": "Larry",
+      "last_name": "Stebbins",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_msu_official",
+      "first_name": "MSU Extension",
+      "last_name": "Spokesperson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_renovator_01",
+      "first_name": "Local",
+      "last_name": "Homeowner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_paint_pro",
+      "first_name": "The Paint",
+      "last_name": "Pro",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_umyf_member",
+      "first_name": "Junior High",
+      "last_name": "UMYF Member",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dan_cheslek",
+      "first_name": "Dan",
+      "last_name": "Cheslek",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_711",
+      "first_name": "Jerry",
+      "last_name": "Van Gessel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_15_001",
+      "first_name": "Mildred",
+      "last_name": "Hass",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

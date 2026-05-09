@@ -1,0 +1,191 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_minaker_01",
+      "type": "post",
+      "author": "Daniel B. Minaker",
+      "handle": "@dan_minaker",
+      "isoDate": "1977-01-25T14:30:00",
+      "displayDate": "Jan 25, 1977 • 2:30 PM",
+      "content": "Mission accomplished! I’ve officially graduated from the missile systems analysis course at Chanute AFB. Next stop: Andersen AFB in Guam. Sandra and I are looking forward to the move!",
+      "person_id": "p_minaker_daniel",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_sprague_01",
+      "type": "post",
+      "author": "Vicki Ann Sprague",
+      "handle": "@vicki_sprague",
+      "isoDate": "1977-01-24T10:15:00",
+      "displayDate": "Jan 24, 1977 • 10:15 AM",
+      "content": "It's official! I'm so excited to announce my engagement to Ted Baehre. We're planning our wedding for June 11th. I can't wait!",
+      "person_id": "p_sprague_vicki",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_baehre_01",
+      "type": "post",
+      "author": "Ted Baehre",
+      "handle": "@ted_baehre",
+      "isoDate": "1977-01-24T11:00:00",
+      "displayDate": "Jan 24, 1977 • 11:00 AM",
+      "content": "The secret is out—Vicki Ann Sprague said yes! See you all on June 11th for the big day.",
+      "person_id": "p_baehre_ted",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_pinckney_01",
+      "type": "post",
+      "author": "Arzie Pinckney",
+      "handle": "@arzie_p",
+      "isoDate": "1977-01-20T16:00:00",
+      "displayDate": "Jan 20, 1977 • 4:00 PM",
+      "content": "Even with the winter weather, we had 70 members join us for coffee and donuts today! A warm welcome to Ryn Visser, our newest recruit.",
+      "person_id": "p_arzie_pinckney",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_axford_01",
+      "type": "post",
+      "author": "William Axford",
+      "handle": "@bill_axford",
+      "isoDate": "1977-01-22T13:20:00",
+      "displayDate": "Jan 22, 1977 • 1:20 PM",
+      "content": "After several weeks in the hospital, it feels wonderful to finally be back home. Thanks for all the well-wishes!",
+      "person_id": "p_william_axford",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_schmid_01",
+      "type": "post",
+      "author": "Chas Schmid",
+      "handle": "@chas_schmid",
+      "isoDate": "1977-01-24T15:30:00",
+      "displayDate": "Jan 24, 1977 • 3:30 PM",
+      "content": "Settling in at Kent Community Hospital. Had a nice visit with Mrs. Guy Verburg today—she told me it might be a little while before I'm back home.",
+      "person_id": "p_schmid_chas",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_dewilde_01",
+      "type": "post",
+      "author": "Abe DeWilde",
+      "handle": "@abe_dewilde",
+      "isoDate": "1977-01-25T11:45:00",
+      "displayDate": "Jan 25, 1977 • 11:45 AM",
+      "content": "Feeling a bit better today! Thanks to everyone in the fellowship for the prayers and well-wishes.",
+      "person_id": "p_dewilde_abe",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "post_behler_01",
+      "type": "post",
+      "author": "Judith Behler",
+      "handle": "@judith_behler",
+      "isoDate": "1976-12-11T09:00:00",
+      "displayDate": "Dec 11, 1976 • 9:00 AM",
+      "content": "Welcome to the world, Catherine Elizabeth! Born yesterday at 6 lbs 9 oz. Dave and I are so blessed, and Ricky and Brandy are thrilled to have a baby sister.",
+      "person_id": "p_behler_judith",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "ad_hrblock_01",
+      "type": "ad",
+      "sponsor": "H&R Block",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "Even if you use the short form, it could pay you to see us. That's Reason No. 15. Even the short form is more complicated this year. So to be sure you pay just the smallest legitimate tax—it could pay you to see Block.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "ad_harvesthill_01",
+      "type": "ad",
+      "sponsor": "Harvest Hill Apartments",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Now Leasing in Rockford, Michigan! 10 Mile Road at Childsdale. Featuring quiet, scenic surroundings, spacious rooms, and ample closets. One Bedroom from $130, Two Bedroom from $150. Reserve now for March 15th occupancy.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    },
+    {
+      "id": "ad_kinetico_01",
+      "type": "ad",
+      "sponsor": "Kinetico",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "Please don't compare KINETICO with other water conditioners. This one is different. No electricity! Twin softening tanks! No more wasted salt. Call your KINETICO man at Hart Service Company today.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2017.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_minaker_daniel",
+      "first_name": "Daniel",
+      "last_name": "Minaker",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sprague_vicki",
+      "first_name": "Vicki",
+      "last_name": "Sprague",
+      "has_photo": true,
+      "photo_coordinates": [55, 203, 303, 477]
+    },
+    {
+      "id": "p_baehre_ted",
+      "first_name": "Ted",
+      "last_name": "Baehre",
+      "has_photo": true,
+      "photo_coordinates": [55, 203, 303, 477]
+    },
+    {
+      "id": "p_arzie_pinckney",
+      "first_name": "Arzie",
+      "last_name": "Pinckney",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_william_axford",
+      "first_name": "William",
+      "last_name": "Axford",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_schmid_chas",
+      "first_name": "Chas",
+      "last_name": "Schmid",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dewilde_abe",
+      "first_name": "Abe",
+      "last_name": "DeWilde",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_behler_judith",
+      "first_name": "Judith",
+      "last_name": "Behler",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_412",
+      "first_name": "Henry",
+      "last_name": "Block",
+      "has_photo": true,
+      "photo_coordinates": [388, 48, 438, 135]
+    }
+  ]
+}
+```

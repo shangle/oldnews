@@ -1,0 +1,155 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Randy Thomas",
+      "handle": "@RThomas_Hoops",
+      "isoDate": "1977-01-18T18:30:00",
+      "displayDate": "Jan 18, 1977 • 6:30 PM",
+      "content": "Man, we played a tough 8th grade basketball game against Hamilton earlier this month! I managed to score 14 points to lead the team, and we really turned it on to outscore them by 9 points in the second half. We still came up a bit short 33-42, but I know we could have played better. We'll get 'em next time!",
+      "person_id": "p_randy_thomas",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Danny Vasilouskas",
+      "handle": "@DannyV",
+      "isoDate": "1977-01-18T19:15:00",
+      "displayDate": "Jan 18, 1977 • 7:15 PM",
+      "content": "Eric Olsen and I are having a blast managing the 6th grade volleyball team! The tournament has been going on since right before Christmas. The winning teams are even going to get a special award presented during lunch hour!",
+      "person_id": "p_danny_v",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Eric Olsen",
+      "handle": "@EOlsen_VB",
+      "isoDate": "1977-01-18T19:45:00",
+      "displayDate": "Jan 18, 1977 • 7:45 PM",
+      "content": "A huge shoutout to Mrs. Gall for keeping us all organized! She is in charge of the 6th grade volleyball teams and is making sure everything runs smoothly for us managers.",
+      "person_id": "p_eric_o",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Eleanor Andree",
+      "handle": "@Eleanor_A",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "We need your help to save lives! The Sparta Community Blood Drive is coming up next Monday, Jan 24th and Tuesday, Jan 25th at the Sparta Community Center. Please call me at 887-8663 to make an appointment. A big thanks to Hessel-Cheslik Funeral Home for sponsoring!",
+      "person_id": "p_1009",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Comstock Park Student",
+      "handle": "@CP_Panther_Pride",
+      "isoDate": "1977-01-19T11:30:00",
+      "displayDate": "Jan 19, 1977 • 11:30 AM",
+      "content": "Student Council elections are coming up this month! The student body will be voting soon, so make sure to sign up if you want to represent your class. Also, yearbooks are going on sale! We think this year's book will be even better than last year's.",
+      "person_id": "p_cp_student",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "Local Parent",
+      "handle": "@ComstockParent",
+      "isoDate": "1977-01-19T14:20:00",
+      "displayDate": "Jan 19, 1977 • 2:20 PM",
+      "content": "I just signed up for Parent Exchange Day at the high school on March 16th! I have to follow my kid's schedule, get books from their locker, take typing, and even change into my tennies for P.E.! It should be an eye-opening experience to see what a student actually does every day. We even get coffee and dessert in the cafeteria during sixth period!",
+      "person_id": "p_parent_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Wylie Imp. Co.",
+      "isoDate": "1977-01-18T17:00:00",
+      "displayDate": "Jan 18, 1977 • 5:00 PM",
+      "content": "BOOMS RED & WHITE TOP SILOS — SINCE 1929. Building better silos for 48 years now. Why not get the BEST at a FAIR PRICE from your LOCAL DEALER where you have PARTS & SERVICE after the sale. It will PAY YOU to contact us now for EARLY ORDER DISCOUNT. Also HARLEY stone pickers. 14541 Barber Creek Rd.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "Red Cross",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "We help you help. An employee of yours has a house fire, a disabled parent, an emergency of any kind. That's just when Red Cross - America's Good Neighbor - steps in to lend a hand. Because helping people is what we're all about.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "North Kent Leader",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "FIND IT!!! SELL IT!!! Fishing's great in the WANT ADS! North Kent Leader. Dial 887-8400 or 887-8300.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2028-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_randy_thomas",
+      "first_name": "Randy",
+      "last_name": "Thomas",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_danny_v",
+      "first_name": "Danny",
+      "last_name": "Vasilouskas",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_eric_o",
+      "first_name": "Eric",
+      "last_name": "Olsen",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mrs_gall",
+      "first_name": "Mrs.",
+      "last_name": "Gall",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1009",
+      "first_name": "Eleanor",
+      "last_name": "Andree",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_cp_student",
+      "first_name": "Comstock Park",
+      "last_name": "Student",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_parent_01",
+      "first_name": "Local",
+      "last_name": "Parent",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

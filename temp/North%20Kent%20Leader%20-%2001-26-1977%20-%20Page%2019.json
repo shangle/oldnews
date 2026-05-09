@@ -1,0 +1,207 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_19_001",
+      "type": "post",
+      "author": "Dennis F. Nielsen",
+      "handle": "@dennis_n_usmc",
+      "isoDate": "1977-01-25T18:00:00",
+      "displayDate": "Jan 25, 1977 • 6:00 PM",
+      "content": "Eleven weeks of active physical conditioning in San Diego is finally complete. I'm proud to say I've graduated from recruit training!",
+      "person_id": "p_19_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_002",
+      "type": "post",
+      "author": "Dennis F. Nielsen",
+      "handle": "@dennis_n_usmc",
+      "isoDate": "1977-01-25T18:15:00",
+      "displayDate": "Jan 25, 1977 • 6:15 PM",
+      "content": "The training was intense—from rifle marksmanship and first aid to close order drill. They really emphasize teamwork and self-discipline here at the Depot.",
+      "person_id": "p_19_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_003",
+      "type": "post",
+      "author": "Lawrence Nielsen",
+      "handle": "@lawrence_n_rockford",
+      "isoDate": "1977-01-25T19:00:00",
+      "displayDate": "Jan 25, 1977 • 7:00 PM",
+      "content": "So proud of my son Dennis for completing his Marine recruit training. It's been a long road since he joined last March, and he's worked so hard.",
+      "person_id": "p_19_007",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_004",
+      "type": "post",
+      "author": "Robert P. Vins",
+      "handle": "@rvins_casnovia",
+      "isoDate": "1977-01-25T19:30:00",
+      "displayDate": "Jan 25, 1977 • 7:30 PM",
+      "content": "Just wrapped up 11 weeks of recruit training at the Marine Corps Recruit Depot in San Diego. The lessons in self-discipline and professional standards are something I'll carry forever.",
+      "person_id": "p_19_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_005",
+      "type": "post",
+      "author": "John A. Vins",
+      "handle": "@john_vins_waterloo",
+      "isoDate": "1977-01-25T20:00:00",
+      "displayDate": "Jan 25, 1977 • 8:00 PM",
+      "content": "Big congratulations to my son Robert! He's officially finished his recruit training in San Diego. Waterloo is proud of our newest Marine.",
+      "person_id": "p_19_008",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_006",
+      "type": "post",
+      "author": "Rick M. Russell",
+      "handle": "@rick_russell_af",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "I'm honored to be promoted to Senior Airman here in the U.S. Air Force. Being assigned to the Strategic Air Command at Andersen AFB in Guam is an incredible opportunity.",
+      "person_id": "p_19_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_007",
+      "type": "post",
+      "author": "Rick M. Russell",
+      "handle": "@rick_russell_af",
+      "isoDate": "1977-01-26T08:15:00",
+      "displayDate": "Jan 26, 1977 • 8:15 AM",
+      "content": "Gaining so much proficiency in different military skills, including my work as a military working dog handler. A lot has changed since my Cedar Springs High graduation in '73!",
+      "person_id": "p_19_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_19_001",
+      "type": "ad",
+      "sponsor": "North Kent Leader",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "This year, send your Sweetheart a Valentine in the NORTH KENT LEADER! Ideal for Mom or Dad! Sweetheart! Grandparents! Your teacher. Your Secretary. Your True Love! 10 words for $1.00. All Valentines will be printed on one page, Feb. 9th. Mail by Monday Feb. 7th.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_008",
+      "type": "post",
+      "author": "Carol Pratt",
+      "handle": "@c_pratt_realty",
+      "isoDate": "1977-01-26T14:00:00",
+      "displayDate": "Jan 26, 1977 • 2:00 PM",
+      "content": "Don't miss the Open House this Saturday at 380 Nelson St., Sparta! It's a beautiful brick ranch with 3 bedrooms, 2 fireplaces, and a 2-stall attached garage. Come see it between 1:00 and 4:00!",
+      "person_id": "p_19_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_009",
+      "type": "post",
+      "author": "Gerald Mullen",
+      "handle": "@gmullen_solar",
+      "isoDate": "1977-01-26T15:30:00",
+      "displayDate": "Jan 26, 1977 • 3:30 PM",
+      "content": "Looking for suburban luxury? Join me this Saturday from 1:00 to 5:00 at 4900 13 Mile Rd. in Rockford. This Mediterranean styled ranch is tastefully decorated and features a beautiful fireplace.",
+      "person_id": "p_19_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "post_19_010",
+      "type": "post",
+      "author": "Baby Redhead",
+      "handle": "@neighborhood_scout",
+      "isoDate": "1977-01-26T17:00:00",
+      "displayDate": "Jan 26, 1977 • 5:00 PM",
+      "content": "Wonder if that cute red head lives next door?",
+      "person_id": "p_19_006",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    },
+    {
+      "id": "ad_19_002",
+      "type": "ad",
+      "sponsor": "Standard Supply & Lumber",
+      "isoDate": "1977-01-26T18:00:00",
+      "displayDate": "Jan 26, 1977 • 6:00 PM",
+      "content": "What's the first thing to do when you're thinking of home improvement? Come to Standard Lumber! We have Georgia-Pacific paneling from $7.49, Owens Corning insulation for $6.39 per roll, and First Alert smoke detectors for $34.99. Visit us at 350 S. State.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2019.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_19_001",
+      "first_name": "Dennis",
+      "last_name": "Nielsen",
+      "has_photo": true,
+      "photo_coordinates": [
+        85,
+        63,
+        215,
+        178
+      ]
+    },
+    {
+      "id": "p_19_002",
+      "first_name": "Robert",
+      "last_name": "Vins",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_19_003",
+      "first_name": "Rick",
+      "last_name": "Russell",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_19_004",
+      "first_name": "Carol",
+      "last_name": "Pratt",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_19_005",
+      "first_name": "Gerald",
+      "last_name": "Mullen",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_19_006",
+      "first_name": "Baby",
+      "last_name": "Redhead",
+      "has_photo": true,
+      "photo_coordinates": [
+        371,
+        192,
+        492,
+        323
+      ]
+    },
+    {
+      "id": "p_19_007",
+      "first_name": "Lawrence",
+      "last_name": "Nielsen",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_19_008",
+      "first_name": "John",
+      "last_name": "Vins",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

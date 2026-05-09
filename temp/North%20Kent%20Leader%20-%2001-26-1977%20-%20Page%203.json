@@ -1,0 +1,86 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%203.pdf"
+  },
+  "Feed": [
+    {
+      "id": "ad_ben_franklin_clearance",
+      "type": "ad",
+      "sponsor": "Ben Franklin Downtown Sparta",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "CLEARANCE SALE NOW IN PROGRESS! Save 30% to 70% on all first quality name brand merchandise. Our store is stocked with values galore, offered at a fraction of original prices. Men's and Ladies' Downstairs Department Store. 106-112 East Division Street, across from Sparta State Bank. All sales final.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "ad_ben_franklin_anniversary",
+      "type": "ad",
+      "sponsor": "Ben Franklin Variety Store",
+      "isoDate": "1977-01-26T08:15:00",
+      "displayDate": "Jan 26, 1977 • 8:15 AM",
+      "content": "Don't miss our 100 YR. ANNIVERSARY SALE! Visit our variety store after you finish shopping our downstairs buys. Hundreds of items at very special door-busting prices. Open Friday until 9 P.M.!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_ben_franklin_manager",
+      "type": "post",
+      "author": "Ben Franklin Store Manager",
+      "handle": "@BenFranklinSparta",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "The doors are open and the values are real! We've marked down name brands by up to 70% in the downstairs department. Come see us in downtown Sparta—we’re here until 9:00 PM this Friday!",
+      "person_id": "p_handyman_01",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_shopper_001",
+      "type": "post",
+      "author": "Local Shopper",
+      "handle": "@SpartaShopper",
+      "isoDate": "1977-01-26T14:30:00",
+      "displayDate": "Jan 26, 1977 • 2:30 PM",
+      "content": "I just left Ben Franklin and my arms are full! You wouldn't believe the prices in the downstairs department. Found some high-quality name brands for a fraction of what I expected to pay. Definitely worth the trip downtown.",
+      "person_id": "p_sparta_shopper",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%203.pdf"
+    },
+    {
+      "id": "post_advisor_ben",
+      "type": "post",
+      "author": "Friendly Ad-Visor",
+      "handle": "@TheAdVisor",
+      "isoDate": "1977-01-26T17:00:00",
+      "displayDate": "Jan 26, 1977 • 5:00 PM",
+      "content": "If you're looking to stretch your dollar this week, Ben Franklin is the place to be. Between the 70% clearance downstairs and the 100th-anniversary door-busters in the variety shop, there's a bargain for everyone in Sparta.",
+      "person_id": "p_advisor",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%203.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_sparta_shopper",
+      "first_name": "Local",
+      "last_name": "Shopper",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_advisor",
+      "first_name": "Friendly",
+      "last_name": "Ad-Visor",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_handyman_01",
+      "first_name": "Local",
+      "last_name": "Handyman",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+
+```

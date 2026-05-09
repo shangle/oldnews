@@ -1,0 +1,155 @@
+update_topic{strategic_intent:Transforming archival newspaper scans from January 19, 1977, Page 29, into a first-person social media feed.}
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_bank_001",
+      "type": "post",
+      "author": "Mary Jean Chorman",
+      "handle": "@mj_chorman",
+      "isoDate": "1977-01-11T16:30:00",
+      "displayDate": "Jan 11, 1977 • 4:30 PM",
+      "content": "I just signed off on our year-end condition report for Sparta State Bank. Our total assets are pushing $30 million—this community's growth is truly remarkable.",
+      "person_id": "p_mary_jean_chorman",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_bball_001",
+      "type": "post",
+      "author": "Randy Thomas",
+      "handle": "@randy_t",
+      "isoDate": "1977-01-04T21:15:00",
+      "displayDate": "Jan 4, 1977 • 9:15 PM",
+      "content": "Tough loss tonight against Hamilton (42-33). I put up 14 points, but we just couldn't quite catch them in the final minutes. We'll get 'em next time.",
+      "person_id": "p_randy_thomas",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_village_001",
+      "type": "post",
+      "author": "William Sutter",
+      "handle": "@bill_sutter",
+      "isoDate": "1977-01-11T20:45:00",
+      "displayDate": "Jan 11, 1977 • 8:45 PM",
+      "content": "Honored to serve as President pro-tem for tonight's special meeting. We've officially moved forward with the Step 1 engineering grant study with Moore & Bruggink.",
+      "person_id": "p_william_sutter",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_energy_001",
+      "type": "post",
+      "author": "Radio Enthusiast",
+      "handle": "@energy_observer",
+      "isoDate": "1977-01-18T19:00:00",
+      "displayDate": "Jan 18, 1977 • 7:00 PM",
+      "content": "As a physicist and researcher, I have to be honest: conservation alone won't save us. We need to embrace nuclear power if we want our grandchildren to have any resources left.",
+      "person_id": "p_420",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_heart_001",
+      "type": "post",
+      "author": "Michigan Heart Association",
+      "handle": "@mi_heart_assoc",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "We are proud to announce $754,115 in new research grants for cardiovascular disease across Michigan this year. Every dollar brings us closer to a cure for our nation's #1 killer.",
+      "person_id": "p_mha_rep",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_bball_002",
+      "type": "post",
+      "author": "Mr. Burde",
+      "handle": "@coach_burde",
+      "isoDate": "1977-01-05T08:30:00",
+      "displayDate": "Jan 5, 1977 • 8:30 AM",
+      "content": "Proud of the boys' effort in the second half yesterday. We outscored Hamilton by 9 points in the stretch, showing what we're capable of when we play a complete game.",
+      "person_id": "p_coach_burde",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_travel_001",
+      "type": "post",
+      "author": "Travel Tips Columnist",
+      "handle": "@extra_tips",
+      "isoDate": "1977-01-19T11:45:00",
+      "displayDate": "Jan 19, 1977 • 11:45 AM",
+      "content": "Traveling with kids? Pro-tip: request the bulkhead seats. The extra legroom gives them a much-needed space to play without bothering other passengers!",
+      "person_id": "p_travel_writer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "ad_frames_001",
+      "type": "ad",
+      "sponsor": "Frames Unlimited",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "What to do with your needlework? Why not frame it! We offer complete stretching and framing for needlepoint, crewel, embroidery, and more. Visit us at 3150 Plainfield or on East 28th St.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_village_002",
+      "type": "post",
+      "author": "R.C. Burgett",
+      "handle": "@rc_burgett",
+      "isoDate": "1977-01-12T09:00:00",
+      "displayDate": "Jan 12, 1977 • 9:00 AM",
+      "content": "Just finalized the minutes from last night's special meeting with the Algoma and Sparta Township Boards. It was a full house discussing the Step 1 study.",
+      "person_id": "p_713",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    },
+    {
+      "id": "post_energy_002",
+      "type": "post",
+      "author": "Grandparent's Perspective",
+      "handle": "@future_legacy",
+      "isoDate": "1977-01-19T18:20:00",
+      "displayDate": "Jan 19, 1977 • 6:20 PM",
+      "content": "I worry about my grandchildren. If we burn up all the oil now, they are going to be very angry with our generation. We have to learn to use energy wisely today.",
+      "person_id": "p_grandpa_anderson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2029-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_mary_jean_chorman",
+      "first_name": "Mary Jean",
+      "last_name": "Chorman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_william_sutter",
+      "first_name": "William",
+      "last_name": "Sutter",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mha_rep",
+      "first_name": "Michigan Heart",
+      "last_name": "Association Representative",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_travel_writer",
+      "first_name": "Travel",
+      "last_name": "Columnist",
+      "has_photo": true,
+      "photo_coordinates": [
+        673,
+        512,
+        735,
+        602
+      ]
+    }
+  ]
+}
+```

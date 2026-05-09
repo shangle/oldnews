@@ -1,0 +1,170 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_401_1",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@MikeM_Outdoor",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "When the old boy asked me if I'd fish with him last Sunday, I first looked deep into his eyes for some sign of insanity and then, convinced that he wasn't a raving lunatic (but not by much), I laughed and walked away shaking my head.",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "post_401_2",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@MikeM_Outdoor",
+      "isoDate": "1977-01-19T08:05:00",
+      "displayDate": "Jan 19, 1977 • 8:05 AM",
+      "content": "Who would want to be out in that wind and zero weather unless they were playing with a short deck?? Certainly not me!",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "post_401_3",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@MikeM_Outdoor",
+      "isoDate": "1977-01-19T08:15:00",
+      "displayDate": "Jan 19, 1977 • 8:15 AM",
+      "content": "Where was I Sunday morning? Out in that zero weather on the trap range with the clay birds doing the boogie on the wind and a frozen gun barrel in my hands. I wasn't alone, but after firing at the first five I began to wonder if maybe my deck wasn't short of trump.",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "post_401_4",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@MikeM_Outdoor",
+      "isoDate": "1977-01-19T08:30:00",
+      "displayDate": "Jan 19, 1977 • 8:30 AM",
+      "content": "When spring finally gets here this year there should be some sort of a holiday called to celebrate the event. We've earned it after this winter!",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "post_fan_1",
+      "type": "post",
+      "author": "Sparta Fan",
+      "handle": "@SpartaProud",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "Recorded some good scores at the range this week despite the freeze: M. Bruda 24; F. Wilk 23; Wheeler 23; R. Thome 22; Miszewski 20; B. Young 20; R. Hart 20; L. Christensen 21; Dave Steck 20; and J. Sullivan 22.",
+      "person_id": "p_sparta_fan_1",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "ad_congdon_1",
+      "type": "ad",
+      "sponsor": "Carriage House Realty",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "HERE'S A BIG HOME IN SPARTA CLOSE TO SHOPPING. This 6 bedroom will make a nice large family home or a two-family. Priced at $19,900. Call Gary Congdon today!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "post_jane_vh",
+      "type": "post",
+      "author": "Jane Vanden Heuvel",
+      "handle": "@JaneVH",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "We wish to express our sincere thanks to all our wonderful friends and relatives for all their prayers, flowers, and acts of kindness during our trying times at the death of our husband, father, brother, and grandfather, Frank. Special thanks to Dan Cheslek and the Ambulance Service.",
+      "person_id": "p_jane_vh",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "post_react_1",
+      "type": "post",
+      "author": "CB Radio Enthusiast",
+      "handle": "@NorthKentREACT",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "Now forming in this area: North Kent REACT! Our purpose is to monitor channel nine, the emergency channel, in the citizen's band radio service. Come to our meeting at the FIFE AND DRUM RESTAURANT this Sunday at 3:00 PM.",
+      "person_id": "p_314",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "post_john_a",
+      "type": "post",
+      "author": "John Anderson",
+      "handle": "@JAnderson_Sparta",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "We would like to express our sincere appreciation for the many gifts, cards, visits and prayers given to all of us during the illness and at the death of our loved one, Lorrene. Special thanks to Rev. Donald Johnson for his comfort and guidance.",
+      "person_id": "p_john_a",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "ad_midwest_1",
+      "type": "ad",
+      "sponsor": "Midwest Property Management",
+      "isoDate": "1977-01-19T17:00:00",
+      "displayDate": "Jan 19, 1977 • 5:00 PM",
+      "content": "NEW SPARTA TERRACE APTS: Now leasing for early Feb. occupancy. 1 & 2 bedrooms $167.00 to $180.00 per month. Range, refrigerator, stove, disposal, carpeting, and dishwasher included.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    },
+    {
+      "id": "ad_texas_oil",
+      "type": "ad",
+      "sponsor": "Texas Oil Company",
+      "isoDate": "1977-01-19T18:30:00",
+      "displayDate": "Jan 19, 1977 • 6:30 PM",
+      "content": "HELP WANTED: Texas Oil Company needs mature person for short trips surrounding the North Kent Leader Area. Contact P. O. Dick, Southwestern Petroleum, Ft. Worth.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2019-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_401",
+      "first_name": "Mike",
+      "last_name": "Matthews",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_gary_congdon",
+      "first_name": "Gary",
+      "last_name": "Congdon",
+      "has_photo": true,
+      "photo_coordinates": [126, 322, 235, 436]
+    },
+    {
+      "id": "p_jane_vh",
+      "first_name": "Jane",
+      "last_name": "Vanden Heuvel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_314",
+      "first_name": "CB Radio",
+      "last_name": "Enthusiast",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_a",
+      "first_name": "John",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_fan_1",
+      "first_name": "Sparta",
+      "last_name": "Fan",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

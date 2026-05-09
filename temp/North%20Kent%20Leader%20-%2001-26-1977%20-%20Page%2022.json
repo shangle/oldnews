@@ -1,0 +1,280 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_22_001",
+      "type": "post",
+      "author": "Randy Posthumas",
+      "handle": "@r_posthumas",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "I am so proud of our Honors Choir! We will be presenting a concert of Sacred Music this Sunday at Casnovia Reformed Church. Everyone is invited to join us at 7 p.m.",
+      "person_id": "p_22_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_002",
+      "type": "post",
+      "author": "Robert Wilson",
+      "handle": "@robert_wilson_cp",
+      "isoDate": "1977-01-26T11:15:00",
+      "displayDate": "Jan 26, 1977 • 11:15 AM",
+      "content": "Roger, Denise, and I are checking out how these identification numbers tell the story of the different seasons. It's really interesting to see the data come to life!",
+      "person_id": "p_22_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_003",
+      "type": "post",
+      "author": "Steve Robinson",
+      "handle": "@steverobinson_edu",
+      "isoDate": "1977-01-20T08:30:00",
+      "displayDate": "Jan 20, 1977 • 8:30 AM",
+      "content": "It was a pleasure hosting the Board of Education for breakfast at Stoney Creek this morning. Great to have these informal moments to connect and share ideas.",
+      "person_id": "p_22_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_004",
+      "type": "post",
+      "author": "Norm Griffes",
+      "handle": "@norm_griffes_board",
+      "isoDate": "1977-01-20T09:15:00",
+      "displayDate": "Jan 20, 1977 • 9:15 AM",
+      "content": "The staff at Stoney Creek gave us a very warm welcome today. These visits are essential for the Board to stay grounded in what's happening in our classrooms.",
+      "person_id": "p_22_006",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_005",
+      "type": "post",
+      "author": "Maureen Hartman",
+      "handle": "@maureen_hartman",
+      "isoDate": "1977-01-20T11:30:00",
+      "displayDate": "Jan 20, 1977 • 11:30 AM",
+      "content": "Breakfast at Stoney Creek was a success! I'm already looking forward to visiting the Middle School next week. Our school community is so vibrant.",
+      "person_id": "p_22_010",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_006",
+      "type": "post",
+      "author": "Sue Carpenter",
+      "handle": "@sue_carpenter",
+      "isoDate": "1977-01-24T19:00:00",
+      "displayDate": "Jan 24, 1977 • 7:00 PM",
+      "content": "I've just finished the new identification markers for the Nature Trail at Greenridge Elementary. I hope they help the students learn even more about our local environment!",
+      "person_id": "p_22_013",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_007",
+      "type": "post",
+      "author": "Michelle Steffens",
+      "handle": "@michelle_s_cp",
+      "isoDate": "1977-01-25T14:00:00",
+      "displayDate": "Jan 25, 1977 • 2:00 PM",
+      "content": "John and I are putting the finishing touches on the trail. That brace and bit really come in handy for these markers!",
+      "person_id": "p_22_011",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_008",
+      "type": "post",
+      "author": "Lowell Anderson",
+      "handle": "@lowell_anderson",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "What a beautiful turnout for our Golden Years Fellowship potluck at Chappel Hill Church! It's always a joy to see everyone gathered together.",
+      "person_id": "p_22_014",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_009",
+      "type": "post",
+      "author": "Jack O'Donnel",
+      "handle": "@j_odonnel",
+      "isoDate": "1977-01-19T13:45:00",
+      "displayDate": "Jan 19, 1977 • 1:45 PM",
+      "content": "I'm glad we could have a serious discussion about the church's parking lot debt today. Every bit of progress counts.",
+      "person_id": "p_714",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_010",
+      "type": "post",
+      "author": "Anna Johnson",
+      "handle": "@anna_j_fellowship",
+      "isoDate": "1977-01-19T15:00:00",
+      "displayDate": "Jan 19, 1977 • 3:00 PM",
+      "content": "I am so touched by the beautiful get-well card I received from the fellowship today. Thank you all for your kindness and prayers.",
+      "person_id": "p_22_015",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_011",
+      "type": "post",
+      "author": "Ila Dubois",
+      "handle": "@ila_dubois_piano",
+      "isoDate": "1977-01-19T15:30:00",
+      "displayDate": "Jan 19, 1977 • 3:30 PM",
+      "content": "I am honored to be asked to serve as the permanent pianist for the Golden Years Fellowship. I look forward to sharing many more songs with you all.",
+      "person_id": "p_22_016",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "post_22_012",
+      "type": "post",
+      "author": "Charles Potes",
+      "handle": "@charles_potes",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "Closing our meeting today with 'God Be With You Till We Meet Again' was a perfect ending to a wonderful afternoon of fellowship.",
+      "person_id": "p_22_017",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    },
+    {
+      "id": "ad_22_001",
+      "type": "ad",
+      "sponsor": "North Kent Leader",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "Show Everybody Your Favorite Valentine! Cupid Ain't Stupid. Bring in a snapshot for our Annual Photo Feature. Just $4.00 per entry.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2022.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_22_001",
+      "first_name": "Randy",
+      "last_name": "Posthumas",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_22_002",
+      "first_name": "Robert",
+      "last_name": "Wilson",
+      "has_photo": true,
+      "photo_coordinates": [46, 683, 262, 774]
+    },
+    {
+      "id": "p_22_003",
+      "first_name": "Roger",
+      "last_name": "Johnson",
+      "has_photo": true,
+      "photo_coordinates": [46, 774, 262, 865]
+    },
+    {
+      "id": "p_22_004",
+      "first_name": "Denise",
+      "last_name": "Meyer",
+      "has_photo": true,
+      "photo_coordinates": [46, 865, 262, 957]
+    },
+    {
+      "id": "p_22_005",
+      "first_name": "Steve",
+      "last_name": "Robinson",
+      "has_photo": true,
+      "photo_coordinates": [550, 515, 652, 560]
+    },
+    {
+      "id": "p_22_006",
+      "first_name": "Norm",
+      "last_name": "Griffes",
+      "has_photo": true,
+      "photo_coordinates": [550, 560, 652, 605]
+    },
+    {
+      "id": "p_22_007",
+      "first_name": "Jerry",
+      "last_name": "Czarnecki",
+      "has_photo": true,
+      "photo_coordinates": [550, 605, 652, 650]
+    },
+    {
+      "id": "p_22_008",
+      "first_name": "Cheryl",
+      "last_name": "Stirdivant",
+      "has_photo": true,
+      "photo_coordinates": [550, 650, 652, 695]
+    },
+    {
+      "id": "p_22_009",
+      "first_name": "Fran",
+      "last_name": "Brown",
+      "has_photo": true,
+      "photo_coordinates": [550, 695, 652, 740]
+    },
+    {
+      "id": "p_22_010",
+      "first_name": "Maureen",
+      "last_name": "Hartman",
+      "has_photo": true,
+      "photo_coordinates": [550, 740, 652, 794]
+    },
+    {
+      "id": "p_22_011",
+      "first_name": "Michelle",
+      "last_name": "Steffens",
+      "has_photo": true,
+      "photo_coordinates": [292, 683, 467, 818]
+    },
+    {
+      "id": "p_22_012",
+      "first_name": "John",
+      "last_name": "Felty",
+      "has_photo": true,
+      "photo_coordinates": [292, 818, 467, 953]
+    },
+    {
+      "id": "p_22_013",
+      "first_name": "Sue",
+      "last_name": "Carpenter",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_22_014",
+      "first_name": "Lowell",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_714",
+      "first_name": "Jack",
+      "last_name": "O'Donnel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_22_015",
+      "first_name": "Anna",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_22_016",
+      "first_name": "Ila",
+      "last_name": "Dubois",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_22_017",
+      "first_name": "Charles",
+      "last_name": "Potes",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

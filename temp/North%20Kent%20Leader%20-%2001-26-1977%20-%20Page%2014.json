@@ -1,0 +1,177 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_janet_01",
+      "type": "post",
+      "author": "Janet Streeter",
+      "handle": "@AdVisorJanet",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "What do I know about Advertiser Want Ads? Just that they WORK, that's all! If you've got something you don't need, give me a call at 887-8400. We'll find a buyer for you!",
+      "person_id": "p_advisor",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_janet_02",
+      "type": "post",
+      "author": "Janet Streeter",
+      "handle": "@AdVisorJanet",
+      "isoDate": "1977-01-26T08:15:00",
+      "displayDate": "Jan 26, 1977 • 8:15 AM",
+      "content": "Someone somewhere wants just what you don't need anymore! Let the want ads be your salesmen today.",
+      "person_id": "p_advisor",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_mustang_01",
+      "type": "post",
+      "author": "Classic Car Owner",
+      "handle": "@MustangFan71",
+      "isoDate": "1977-01-25T17:45:00",
+      "displayDate": "Jan 25, 1977 • 5:45 PM",
+      "content": "I'm officially putting my 1971 Ford Mustang up for sale. It's a 6 cylinder, 3 speed manual. It's been a great car, but it's time for a change. Give me a call at 678-5499 if you're interested!",
+      "person_id": "p_mustang_owner",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_pet_owner_01",
+      "type": "post",
+      "author": "Local Pet Owner",
+      "handle": "@SpartaPups",
+      "isoDate": "1977-01-25T18:30:00",
+      "displayDate": "Jan 25, 1977 • 6:30 PM",
+      "content": "We have some beautiful Alaskan Malamute mix puppies that need a good home. They are absolutely excellent with kids! If you're looking for a new family member, please reach out at 866-4937.",
+      "person_id": "p_pet_owner_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_handyman_01",
+      "type": "post",
+      "author": "Local Handyman",
+      "handle": "@SpartaGear",
+      "isoDate": "1977-01-25T19:15:00",
+      "displayDate": "Jan 25, 1977 • 7:15 PM",
+      "content": "Selling an International 60 inch Snow Blower. It was built for a 154 LH LO-Boy tractor, but it's versatile enough that it could be adapted for other models too. I've got all the attachments ready to go. Call me after 5 p.m. at 887-8510.",
+      "person_id": "p_handyman_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_music_01",
+      "type": "post",
+      "author": "Radio Enthusiast",
+      "handle": "@KentVintageGear",
+      "isoDate": "1977-01-25T20:00:00",
+      "displayDate": "Jan 25, 1977 • 8:00 PM",
+      "content": "Parting with my Gibson ES335 guitar. It’s a gorgeous sunburst design with gold Grover keys and a Bixby. Includes the case. If you're a player looking for a classic instrument, give me a ring at 887-8487.",
+      "person_id": "p_420",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_homeowner_01",
+      "type": "post",
+      "author": "Local Homeowner",
+      "handle": "@MovingWest77",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "I am moving West and must sacrifice my beautiful 1976 Windsor Mobile Home (14x70). It's fully furnished and loaded with extras. It's currently at the Mobile Home Park in Sparta. Call 887-0734 to talk about equity and assuming the loan.",
+      "person_id": "p_1211",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_lamb_coat",
+      "type": "post",
+      "author": "Local Shopper",
+      "handle": "@SpartaStyle",
+      "isoDate": "1977-01-26T10:30:00",
+      "displayDate": "Jan 26, 1977 • 10:30 AM",
+      "content": "I'm selling a beautiful black Persian Lamb coat with a gray mink collar, size 18. It's been worn very little and is in excellent condition. Perfect for this winter weather! 887-5661.",
+      "person_id": "p_sparta_shopper",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "ad_king_discounts_01",
+      "type": "ad",
+      "sponsor": "King of Discounts",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "COLONIAL HOUSEFUL! Complete 4-piece maple bedroom set, Herculon Colonial sofa and chair, end tables, coffee table, lamps, and a dinette with 6 chairs. Only $768.00! 1100 Leonard NW, Grand Rapids.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "ad_big_red_barn_01",
+      "type": "ad",
+      "sponsor": "The Big Red Barn",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "KID'S ARTIC'S CLOSE OUT! 5-Buckle boots only $2.88. Macrame yarn 1/3 off. Toys & Models 25% off. Visit us on Alpine Ave, south of 8 Mile.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "ad_kc_western_01",
+      "type": "ad",
+      "sponsor": "K & C Western Wares",
+      "isoDate": "1977-01-26T13:00:00",
+      "displayDate": "Jan 26, 1977 • 1:00 PM",
+      "content": "LEVI'S LEVI'S LEVI'S: $14.25 a pair. Get yours at K & C Western Wares in Sparta. 887-8983.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2014-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_advisor",
+      "first_name": "Janet",
+      "last_name": "Streeter",
+      "has_photo": true,
+      "photo_coordinates": [128, 810, 215, 935]
+    },
+    {
+      "id": "p_mustang_owner",
+      "first_name": "Classic",
+      "last_name": "Car Owner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_pet_owner_01",
+      "first_name": "Local",
+      "last_name": "Pet Owner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_handyman_01",
+      "first_name": "Local",
+      "last_name": "Handyman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_420",
+      "first_name": "Radio",
+      "last_name": "Enthusiast",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1211",
+      "first_name": "Local",
+      "last_name": "Homeowner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_shopper",
+      "first_name": "Local",
+      "last_name": "Shopper",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

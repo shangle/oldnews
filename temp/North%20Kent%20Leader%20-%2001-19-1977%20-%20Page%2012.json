@@ -1,0 +1,243 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2012-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_mammography_worry",
+      "type": "post",
+      "author": "Local Secretary",
+      "handle": "@spartasecretary",
+      "isoDate": "1977-01-18T10:15:00",
+      "displayDate": "Jan 18, 1977 • 10:15 AM",
+      "content": "I've been reading some frightening news stories about mammography possibly causing cancer. I got so worried that I actually cancelled my routine appointment. Can anyone give me some concrete guidance?",
+      "person_id": "p_secretary_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_cancer_expert_1",
+      "type": "post",
+      "author": "Cancer Answerline",
+      "handle": "@ACS_Answerline",
+      "isoDate": "1977-01-18T11:30:00",
+      "displayDate": "Jan 18, 1977 • 11:30 AM",
+      "content": "We've heard from many women who have cancelled appointments due to understandable confusion. If you are over 50, routine mammography is vital. The slight possibility of future risk is heavily outweighed by the importance of early detection.",
+      "person_id": "p_acs_expert",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_photog_volunteer",
+      "type": "post",
+      "author": "Freelance Photographer",
+      "handle": "@lensman_77",
+      "isoDate": "1977-01-18T14:00:00",
+      "displayDate": "Jan 18, 1977 • 2:00 PM",
+      "content": "I have some free time and I’d like to call my own. I want to do something meaningful for the American Cancer Society—do you have any use for a photographer?",
+      "person_id": "p_photog_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_acs_volunteer_opps",
+      "type": "post",
+      "author": "Cancer Answerline",
+      "handle": "@ACS_Answerline",
+      "isoDate": "1977-01-18T15:45:00",
+      "displayDate": "Jan 18, 1977 • 3:45 PM",
+      "content": "We could fill columns with the suggestions you request! We need photographers to publicize events, but we also need drivers to take patients to treatment, phone volunteers, and even people to help run quit-smoking clinics at high schools.",
+      "person_id": "p_acs_expert",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_vet_benefits",
+      "type": "post",
+      "author": "Recent Veteran",
+      "handle": "@new_vet_77",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "Just finished my service and I'm double-checking all these VA benefits. There are so many deadlines for home loans and education programs to keep track of.",
+      "person_id": "p_veteran_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_va_reminder",
+      "type": "post",
+      "author": "Veterans Administration",
+      "handle": "@VA_Updates",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "Reminder: Veterans must apply to former employers within 90 days for reemployment. Also, register with your nearest state employment office as soon as possible after discharge.",
+      "person_id": "p_va_rep",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_kc_senior_colors",
+      "type": "post",
+      "author": "Ron Menefee",
+      "handle": "@KC_Senior_News",
+      "isoDate": "1977-01-05T16:00:00",
+      "displayDate": "Jan 5, 1977 • 4:00 PM",
+      "content": "Big news from the senior class meeting today! We officially voted on red and white for our class colors. Graduation is starting to feel real.",
+      "person_id": "p_kc_senior_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_kc_senior_song",
+      "type": "post",
+      "author": "KC Class of '77 Member",
+      "handle": "@beatles_fan_kc",
+      "isoDate": "1977-01-05T16:15:00",
+      "displayDate": "Jan 5, 1977 • 4:15 PM",
+      "content": "I am so happy 'Yesterday' by the Beatles was named our class song. It's the perfect choice.",
+      "person_id": "p_kc_senior_02",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_kc_senior_motto",
+      "type": "post",
+      "author": "KC Class of '77 Member",
+      "handle": "@kc_ambition",
+      "isoDate": "1977-01-05T16:30:00",
+      "displayDate": "Jan 5, 1977 • 4:30 PM",
+      "content": "Challenge us and we accept it. Give us something to work for and we will blossom, expand and achieve.",
+      "person_id": "p_kc_senior_03",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_tone_up_gym",
+      "type": "post",
+      "author": "Lori Schutter",
+      "handle": "@sparta_gym_life",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "Muscle building is the hot topic at Sparta High right now! There are about 15 of us in the gym tonight. It’s mostly guys, but there are three of us girls lifting regularly too.",
+      "person_id": "p_sparta_student_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "post_schultze_weightroom",
+      "type": "post",
+      "author": "Walt Schultze",
+      "handle": "@coach_schultze",
+      "isoDate": "1977-01-19T16:15:00",
+      "displayDate": "Jan 19, 1977 • 4:15 PM",
+      "content": "I'd like to see even more students out here, especially the girls. You don't have to be in competitive sports—weight training is just a great way to stay in shape.",
+      "person_id": "p_mr_schultz",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_onion_crock",
+      "type": "ad",
+      "sponsor": "The Onion Crock",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "Fine foods for all seasons & every palate. Visit us at 1508 Wealthy S.E., Monroe Center, or North Kent Mall.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_jurgens_sale",
+      "type": "ad",
+      "sponsor": "Jurgens & Holtvluwer",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "PRE-INVENTORY SALE! Men's suits starting at $94.88. Leisure suits 25%-50% OFF. Sport coats 20% OFF. Winter jackets 20-50% OFF. 1054 W. Leonard.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_shrine_circus",
+      "type": "ad",
+      "sponsor": "Shrine Circus",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "SHRINE CIRCUS! Jan 24 thru 30 at George Welsh Civic Auditorium. Bernie Wohlferd has tickets. Phone 887-9876.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_gil_visser_sally",
+      "type": "ad",
+      "sponsor": "Gil Visser Realty",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "Serving your Real Estate needs Professionally! Contact Sally Voegeli at 887-6022. Featured: Farm home on 5 acres in Kent City schools, priced at $18,900.",
+      "person_id": "p_507",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    },
+    {
+      "id": "ad_rotary_bingo",
+      "type": "ad",
+      "sponsor": "Sparta Rotary Club",
+      "isoDate": "1977-01-19T18:00:00",
+      "displayDate": "Jan 19, 1977 • 6:00 PM",
+      "content": "BINGO! Every Thurs. 7 PM. BEE HIVE - SPARTA, 203 E. Division.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2012.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_secretary_01",
+      "first_name": "Local",
+      "last_name": "Secretary",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_acs_expert",
+      "first_name": "Cancer",
+      "last_name": "Answerline",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_photog_01",
+      "first_name": "Freelance",
+      "last_name": "Photographer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_veteran_01",
+      "first_name": "Recent",
+      "last_name": "Veteran",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_va_rep",
+      "first_name": "VA",
+      "last_name": "Representative",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kc_senior_01",
+      "first_name": "Ron",
+      "last_name": "Menefee",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kc_senior_02",
+      "first_name": "Beatles",
+      "last_name": "Fan",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kc_senior_03",
+      "first_name": "Kent City",
+      "last_name": "Senior",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_student_01",
+      "first_name": "Lori",
+      "last_name": "Schutter",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

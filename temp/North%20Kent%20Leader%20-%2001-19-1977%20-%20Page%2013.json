@@ -1,0 +1,204 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_bball_001",
+      "type": "post",
+      "author": "Gary Flegel",
+      "handle": "@gflegel_sports",
+      "isoDate": "1977-01-07T21:30:00",
+      "displayDate": "Jan 7, 1977 • 9:30 PM",
+      "content": "Grant really brought the heat tonight. Their press forced too many Kent City turnovers early on, and the Tigers never looked back. 67-35 final.",
+      "person_id": "p_gary_flegel",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "post_bball_002",
+      "type": "post",
+      "author": "Brian Prickett",
+      "handle": "@tiger_brian",
+      "isoDate": "1977-01-07T21:45:00",
+      "displayDate": "Jan 7, 1977 • 9:45 PM",
+      "content": "Felt good to find the rhythm tonight! Dropped 17 in the first half and ended with 25. Great team win for the Tigers.",
+      "person_id": "p_brian_prickett",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "post_bball_003",
+      "type": "post",
+      "author": "Jim Stebbins",
+      "handle": "@stebbins_kc",
+      "isoDate": "1977-01-07T22:15:00",
+      "displayDate": "Jan 7, 1977 • 10:15 PM",
+      "content": "Tough night at the office. Grant's size and strength were just too much for us on the boards. Time to regroup for the next one.",
+      "person_id": "p_jim_stebbins",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "post_bball_004",
+      "type": "post",
+      "author": "Kent City Eagle",
+      "handle": "@kc_eagle_pride",
+      "isoDate": "1977-01-07T22:30:00",
+      "displayDate": "Jan 7, 1977 • 10:30 PM",
+      "content": "Rough shooting night for the Eagles. We only averaged 8.75 points per quarter. Grant is a tough squad this year.",
+      "person_id": "p_kc_player_1",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "post_closeup_001",
+      "type": "post",
+      "author": "Vickie Passmore",
+      "handle": "@vickie_kc_closeup",
+      "isoDate": "1977-01-04T16:00:00",
+      "displayDate": "Jan 4, 1977 • 4:00 PM",
+      "content": "Productive meeting today for our Close-Up group. We’re finalising the details for the state trip in February. 18 members ready to go!",
+      "person_id": "p_vickie_passmore",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "post_closeup_002",
+      "type": "post",
+      "author": "Kent City Senior",
+      "handle": "@kc_senior_77",
+      "isoDate": "1977-01-04T18:30:00",
+      "displayDate": "Jan 4, 1977 • 6:30 PM",
+      "content": "So excited for the Lansing trip! Hearing a speaker from Washington D.C. on foreign relations is going to be a highlight.",
+      "person_id": "p_kc_senior_03",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "post_closeup_003",
+      "type": "post",
+      "author": "Vickie Passmore",
+      "handle": "@vickie_kc_closeup",
+      "isoDate": "1977-01-05T09:00:00",
+      "displayDate": "Jan 5, 1977 • 9:00 AM",
+      "content": "Keep an eye out for our big raffle and cake bake! Every bit helps us get to the state legislature in Lansing next month.",
+      "person_id": "p_vickie_passmore",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Imperial House",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "Elegant Dining & Cocktails. Gourmet foods expertly prepared at sensible prices. Live entertainment for your listening and dancing enjoyment. 3440 Plainfield N.E., Grand Rapids.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "The Presidents Motor Inn",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "Fyfe & Drum Restaurant Luncheon Specials: Revelers Reuben $2.80, Patriots Patty Melt $1.95, Freedom French Dip $2.50. 3221 Plainfield Ave., N.E.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Russ'",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "Now featuring complete dinners. Also try Russ' home made soups and pies. 3966 Plainfield, N.E. Hours: 11 AM-11 PM - Closed Sunday.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_004",
+      "type": "ad",
+      "sponsor": "Bostwick Lake Inn",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "Welcome Skiers! M-44 on the lake, Rockford. Sandwiches, soup, chili. Beer-Wine-Liquor. Open 10-12 weekdays.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_005",
+      "type": "ad",
+      "sponsor": "Fingers Gay 90's Restaurant & Lounge",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "Delicious food, friendly service, served homestyle in our elegant Gay 90's decor. Serving your favorite cocktails. 4981 Plainfield, N.E.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_006",
+      "type": "ad",
+      "sponsor": "Fyfe & Drum Restaurant",
+      "isoDate": "1977-01-19T15:00:00",
+      "displayDate": "Jan 19, 1977 • 3:00 PM",
+      "content": "Lunch & Dinner Specials $1.95. Entree, Potato & Salad. Join us for Saturday morning CB Coffee 'Break' from 10:00 A.M. to 2:00 P.M. 380 Division St., Rockford.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_007",
+      "type": "ad",
+      "sponsor": "Yukon Jack's Lounge",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "A friendly gathering place. 4 N. Main St., Rockford. Hamburgs available.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    },
+    {
+      "id": "ad_008",
+      "type": "ad",
+      "sponsor": "Flim Flam Deli & Restaurant, Inc.",
+      "isoDate": "1977-01-19T17:00:00",
+      "displayDate": "Jan 19, 1977 • 5:00 PM",
+      "content": "Open 24 Hours. Breakfast served anytime. Buy one dinner/luncheon/sandwich at reg. price, get second one at 1/2 price. 3260 Plainfield, N.E.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2013-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_gary_flegel",
+      "first_name": "Gary",
+      "last_name": "Flegel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_brian_prickett",
+      "first_name": "Brian",
+      "last_name": "Prickett",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jim_stebbins",
+      "first_name": "Jim",
+      "last_name": "Stebbins",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kc_player_1",
+      "first_name": "Kent City",
+      "last_name": "Eagle",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_vickie_passmore",
+      "first_name": "Vickie",
+      "last_name": "Passmore",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kc_senior_03",
+      "first_name": "Kent City",
+      "last_name": "Senior",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,292 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_8_01",
+      "type": "ad",
+      "sponsor": "Village Furniture & Carpet",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "FLOOR SAMPLE SALE!!! Kroehler sofa & chair sets, traditional sofas, and La-Z-Boy recliners are all priced to move. Our showroom is just 10 minutes north of I-96 in Sparta. Come see the quality for yourself!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_01",
+      "type": "post",
+      "author": "Mike Matthews",
+      "handle": "@MikeMatthews",
+      "isoDate": "1977-01-26T10:15:00",
+      "displayDate": "Jan 26, 1977 • 10:15 AM",
+      "content": "Hard work pays off! I am so proud to be named to the Jordan College Honors List for the first semester. Congratulations to all my fellow students who hit that 3.5 GPA!",
+      "person_id": "p_401",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_02",
+      "type": "post",
+      "author": "Esther Ballmer",
+      "handle": "@EstherBallmer",
+      "isoDate": "1977-01-26T10:30:00",
+      "displayDate": "Jan 26, 1977 • 10:30 AM",
+      "content": "I'm so excited to share that I've achieved honors at Jordan College! Shoutout to Manton—representing our hometown well in the academic lists.",
+      "person_id": "p_8_estballmer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_03",
+      "type": "post",
+      "author": "Dan Coxon",
+      "handle": "@DanCoxon",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "Made the honors list! Casnovia in the house. It's been a busy semester but seeing my name on the Jordan College list makes it all worth it.",
+      "person_id": "p_8_dancoxon",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_04",
+      "type": "post",
+      "author": "Mildred R.",
+      "handle": "@MildredR",
+      "isoDate": "1977-01-25T19:30:00",
+      "displayDate": "Jan 25, 1977 • 7:30 PM",
+      "content": "I am so excited to be named queen of the Evening Tops Club this week! Losing eight and a half pounds feels amazing. Let's keep the momentum going, ladies!",
+      "person_id": "p_8_mildredr",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_05",
+      "type": "post",
+      "author": "Doni W.",
+      "handle": "@DoniW",
+      "isoDate": "1977-01-25T19:45:00",
+      "displayDate": "Jan 25, 1977 • 7:45 PM",
+      "content": "I was queen for the last two weeks, and even though I'm handing over the crown to Mildred, I'm so proud of our progress. We're getting healthy together!",
+      "person_id": "p_422",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_06",
+      "type": "post",
+      "author": "Ginny S.",
+      "handle": "@GinnyS",
+      "isoDate": "1977-01-25T20:00:00",
+      "displayDate": "Jan 25, 1977 • 8:00 PM",
+      "content": "I kept the mystery box for two weeks but lost it tonight by just a little gain! Oh well, it's all part of the journey. Congrats to Kitty W. for winning the nickel jar!",
+      "person_id": "p_8_ginnys",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_07",
+      "type": "post",
+      "author": "Dorothy T.",
+      "handle": "@DorothyT",
+      "isoDate": "1977-01-25T20:15:00",
+      "displayDate": "Jan 25, 1977 • 8:15 PM",
+      "content": "I'm officially a KOPS now! Ladies, don't give up—see, it can be done even when it looks hopeless. Keep showing up for yourself!",
+      "person_id": "p_8_dorothyt",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_08",
+      "type": "post",
+      "author": "Kitty W.",
+      "handle": "@KittyW",
+      "isoDate": "1977-01-26T14:00:00",
+      "displayDate": "Jan 26, 1977 • 2:00 PM",
+      "content": "Ladies, don't forget our Evening Tops Club bake sale this Friday at the Sparta State Bank! We'll be there from 2:00 until 6:00. Come support us!",
+      "person_id": "p_8_kittyw",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_09",
+      "type": "post",
+      "author": "Kimberly J. Thome",
+      "handle": "@KimThome",
+      "isoDate": "1977-01-26T11:30:00",
+      "displayDate": "Jan 26, 1977 • 11:30 AM",
+      "content": "So honored to be named to the Ferris honors list! Big Rapids has been quite a change, but the studying is paying off. Go Bulldogs!",
+      "person_id": "p_8_kimthome",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_10",
+      "type": "post",
+      "author": "Ronald B. Mengel",
+      "handle": "@RonaldMengel",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "Sparta pride! I'm so happy to make the Ferris State academic honors list this semester. Congrats to everyone else who made the cut.",
+      "person_id": "p_8_ronmengel",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_11",
+      "type": "post",
+      "author": "Martin Milner",
+      "handle": "@MartinMilner",
+      "isoDate": "1977-01-26T18:30:00",
+      "displayDate": "Jan 26, 1977 • 6:30 PM",
+      "content": "Today was one of the hardest days of my life. Saying goodbye to my brother Marvin was so difficult. He was a great wrestler and an even better friend. Rest in peace, brother.",
+      "person_id": "p_8_martinmilner",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_12",
+      "type": "post",
+      "author": "Sheryl Milner",
+      "handle": "@SherylMilner",
+      "isoDate": "1977-01-26T19:00:00",
+      "displayDate": "Jan 26, 1977 • 7:00 PM",
+      "content": "My heart is broken. Marvin was so young and had so much ahead of him. I'll miss him every single day. Thank you to everyone for the support.",
+      "person_id": "p_8_sherylmilner",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_13",
+      "type": "post",
+      "author": "Ichabod Cole",
+      "handle": "@IchabodCole",
+      "isoDate": "1977-01-26T19:30:00",
+      "displayDate": "Jan 26, 1977 • 7:30 PM",
+      "content": "A very sad day for our family as we laid my grandson, Marvin Milner Jr., to rest. He was taken from us much too soon.",
+      "person_id": "p_8_ichabodcole",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_8_14",
+      "type": "post",
+      "author": "Northview Wrestler",
+      "handle": "@NVWrestling",
+      "isoDate": "1977-01-26T15:00:00",
+      "displayDate": "Jan 26, 1977 • 3:00 PM",
+      "content": "Honoring our teammate Marvin Milner today. He was a 1976 graduate and a core member of the Northview High wrestling team. We'll miss his spirit on and off the mat.",
+      "person_id": "p_8_nvwrestler",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "ad_8_02",
+      "type": "ad",
+      "sponsor": "Quality Contractors",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "15% OFF on ALL POLE buildings! We specialize in siding, roofing, and insulation. Get your pre-season swimming pool prices now. Serving Rockford and Sparta for 36 years.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "ad_8_03",
+      "type": "ad",
+      "sponsor": "I.M. Rood & Co.",
+      "isoDate": "1977-01-26T08:30:00",
+      "displayDate": "Jan 26, 1977 • 8:30 AM",
+      "content": "Total Office Service is our specialty. Office supplies, machine repair, and more in Greenville. Call us at 1-800-442-2527.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%208-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_401",
+      "first_name": "Mike",
+      "last_name": "Matthews",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_estballmer",
+      "first_name": "Esther",
+      "last_name": "Ballmer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_dancoxon",
+      "first_name": "Dan",
+      "last_name": "Coxon",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_mildredr",
+      "first_name": "Mildred",
+      "last_name": "R.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_422",
+      "first_name": "Donie",
+      "last_name": "W.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_ginnys",
+      "first_name": "Ginny",
+      "last_name": "S.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_dorothyt",
+      "first_name": "Dorothy",
+      "last_name": "T.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_kittyw",
+      "first_name": "Kitty",
+      "last_name": "W.",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_kimthome",
+      "first_name": "Kimberly",
+      "last_name": "Thome",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_ronmengel",
+      "first_name": "Ronald",
+      "last_name": "Mengel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_martinmilner",
+      "first_name": "Martin",
+      "last_name": "Milner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_sherylmilner",
+      "first_name": "Sheryl",
+      "last_name": "Milner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_ichabodcole",
+      "first_name": "Ichabod",
+      "last_name": "Cole",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_8_nvwrestler",
+      "first_name": "Northview",
+      "last_name": "Wrestler",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,85 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+  },
+  "Feed": [
+    {
+      "id": "ad_bell_001",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "The time to buy is NOW! Our once-a-year January Clearance is in its final 3 days. Every item in our inventory is on sale—save big on floor samples, one-of-a-kind pieces, and odds and ends. Visit us at Old U.S. 131 at 12 Mile Rd. in Rockford!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "id": "ad_bell_002",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-26T09:45:00",
+      "displayDate": "Jan 26, 1977 • 9:45 AM",
+      "content": "Add a touch of tradition to your home with our Boston Rocker. Dark pine finish with gold accents. Originally $119.95, now yours for just $88 during our clearance event.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "id": "ad_bell_003",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-26T11:30:00",
+      "displayDate": "Jan 26, 1977 • 11:30 AM",
+      "content": "Looking for the ultimate in relaxation? Our Rustic Wall-A-Way Recliner in durable Herculon Plaid is on sale now for $199.95. Stop by and test it out today!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "id": "ad_bell_004",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-26T13:15:00",
+      "displayDate": "Jan 26, 1977 • 1:15 PM",
+      "content": "Need to finish a room? We've got Odds N End Tables—including hexagons and Poe cocktail tables—at a massive 50% OFF! This sale only happens once a year, so don't miss out.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "id": "ad_bell_005",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-26T15:00:00",
+      "displayDate": "Jan 26, 1977 • 3:00 PM",
+      "content": "Experience the beauty of Bassett. Our all-wood 'Pine' bedroom set includes a triple dresser base, hutch mirror, chest, and cannon ball headboard for just $499.95. Night stands also available for $99.95.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "id": "ad_bell_006",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-26T16:45:00",
+      "displayDate": "Jan 26, 1977 • 4:45 PM",
+      "content": "What a fabulous combination! Get the famous Flexsteel sofa and loveseat set in 100% nylon velvet floral fabric. Featuring the legendary Flexsteel spring, both pieces are now only $799.95.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+    },
+    {
+      "id": "post_shopper_001",
+      "type": "post",
+      "author": "Local Shopper",
+      "handle": " @spartashopper",
+      "isoDate": "1977-01-26T19:20:00",
+      "displayDate": "Jan 26, 1977 • 7:20 PM",
+      "content": "I saw that full-page ad for Bell Furniture in the Leader tonight. I've been eyeing that Bassett bedroom set for months—$499 is such a good price! I'm definitely heading over to Rockford tomorrow morning before everything is picked over.",
+      "person_id": "p_sparta_shopper",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2028.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_sparta_shopper",
+      "first_name": "Local",
+      "last_name": "Shopper",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

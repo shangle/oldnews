@@ -1,0 +1,96 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_bell_clearance_001",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "Once a year... and ONLY once a year! It's the time to buy! Every item in our inventory is on sale for our January Clearance. Save on floor samples, one-of-a-kinds, and odds and ends! Sale runs through Jan 29th at Old U.S. 131 at 12 Mile Rd., Rockford.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+    },
+    {
+      "id": "post_bell_mgr_001",
+      "type": "post",
+      "author": "Bell Furniture & Appliance",
+      "handle": "@BellFurniture",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "We've been serving the Rockford area since 1951 and this might be our biggest January Clearance yet. If you've been waiting for 'Your Fashion Furniture Store' to drop prices, today is the day. Everything must go to make room for new inventory!",
+      "person_id": null,
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+    },
+    {
+      "id": "ad_rocker_001",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-19T11:30:00",
+      "displayDate": "Jan 19, 1977 • 11:30 AM",
+      "content": "CRUSHED VELVET SWIVEL ROCKER - Now only $129.95 (Reg $159). Available in Blue, Gold, Green, and Pumpkin. 100% Nylon for durability and style.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+    },
+    {
+      "id": "post_homeowner_001",
+      "type": "post",
+      "author": "Local Homeowner",
+      "handle": "@HomeInRockford",
+      "isoDate": "1977-01-19T13:45:00",
+      "displayDate": "Jan 19, 1977 • 1:45 PM",
+      "content": "I am absolutely obsessed with that pumpkin-colored crushed velvet rocker at Bell's. It matches my harvest gold kitchen perfectly. $130 is such a steal—I'm heading over there before someone else grabs it!",
+      "person_id": "p_1211",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+    },
+    {
+      "id": "ad_bassett_001",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-19T15:00:00",
+      "displayDate": "Jan 19, 1977 • 3:00 PM",
+      "content": "ALL WOOD 'PINE' Bassett Bedroom Set. Triple Dresser Base, Hutch Mirror, Chest, and Cannon Ball Headboard. Now $499.95 (Reg $649.95). Night stands also available for $99.95.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+    },
+    {
+      "id": "post_renovator_001",
+      "type": "post",
+      "author": "Home Renovator",
+      "handle": "@RockfordReno",
+      "isoDate": "1977-01-19T17:20:00",
+      "displayDate": "Jan 19, 1977 • 5:20 PM",
+      "content": "Finding actual 'All Wood' furniture is getting harder, but that Bassett pine set at Bell Furniture is the real deal. $500 for the whole set including the hutch mirror and cannon ball headboard? My bedroom renovation just got a lot easier.",
+      "person_id": "p_renovator_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+    },
+    {
+      "id": "ad_flexsteel_001",
+      "type": "ad",
+      "sponsor": "Bell Furniture & Appliance",
+      "isoDate": "1977-01-19T19:00:00",
+      "displayDate": "Jan 19, 1977 • 7:00 PM",
+      "content": "FLEXSTEEL SOFA AND LOVESEAT - A fabulous combination! Features the famous Flexsteel spring and 100% Nylon Velvet Floral Fabric. Both pieces now $799.95 (An $899.95 value).",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2032-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_1211",
+      "first_name": "Local",
+      "last_name": "Homeowner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_renovator_01",
+      "first_name": "Home",
+      "last_name": "Renovator",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

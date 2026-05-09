@@ -1,0 +1,43 @@
+The advertisement data from Page 7 of the January 19, 1977, edition of *The North Kent Leader* has been deconstructed into the following social media feed format. This page features major "January Super Buys" and "Clearance" events for **Mr. Zee's** and the **Ben Franklin Family Center** in Sparta.
+
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%207.pdf"
+  },
+  "Feed": [
+    {
+      "id": "ad_zee_001",
+      "type": "ad",
+      "sponsor": "Mr. Zee's",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "January Super Buys are here! Get 50% OFF select group ladies' apparel. All sales final. Shop and save now while selection is best on special group of brand name ladies' apparel. Coordinate your own outfit from an excellent selection of skirts, blazers, slacks, and tops. We're open Fridays til 9:00 at 141 E. Division Street in Sparta.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%207.pdf"
+    },
+    {
+      "id": "ad_ben_001",
+      "type": "ad",
+      "sponsor": "Ben Franklin Family Center",
+      "isoDate": "1977-01-19T08:15:00",
+      "displayDate": "Jan 19, 1977 • 8:15 AM",
+      "content": "It's CLEARANCE time in Sparta! Grab all Levi Jeans and Cords—Regular, Bell & European Fit—for only $12.88. We also have Ship-N-Shore Blouses at 30% off and famous maker long sleeve Sport Shirts from 30% to 50% off. Ladies' sweaters are 30% off and sportswear is half price! Plus, check out our new arrival: a complete line of Exquisite Form Bras. No exchanges, so come see us soon!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%207.pdf"
+    },
+    {
+      "id": "ad_ben_002",
+      "type": "ad",
+      "sponsor": "Ben Franklin Family Center",
+      "isoDate": "1977-01-19T08:30:00",
+      "displayDate": "Jan 19, 1977 • 8:30 AM",
+      "content": "Our January Fabric Sale is in full swing! Pick up Jersey Prints for only $1.49 yd and Crinkle Gauze or Cotton-N-Blends for $1.39 yd. Looking for something heavier? Our Corduroy Look Double Knits are on sale for $3.19 yd. We also have Taffeta Prints for linings and ties at just 69c yd. Poly and Cotton sportswear prints and solids are now $1.59 yd. We're open Friday until 9 P.M. right across from Sparta State Bank in Downtown Sparta.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%207.pdf"
+    }
+  ],
+  "People": []
+}
+```
+
+**Note:** The images featured on this page are fashion illustrations and sketches rather than photographs, so no photographic coordinates or `People` entities with `has_photo: true` were identified.

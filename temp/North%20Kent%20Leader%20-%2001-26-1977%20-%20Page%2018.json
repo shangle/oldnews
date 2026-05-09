@@ -1,0 +1,254 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2018.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_bball_01",
+      "type": "post",
+      "author": "Dan Thome",
+      "handle": "@DThome_Frosh",
+      "isoDate": "1977-01-18T21:15:00",
+      "displayDate": "Jan 18, 1977 • 9:15 PM",
+      "content": "That one-and-one miss with 20 seconds left is going to haunt me tonight. We had the Spartans holding a 47-46 lead, but Lakewood grabbed the rebound and took it. 47-46 final. Heartbreaker.",
+      "person_id": "p_dan_thome",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_bball_02",
+      "type": "post",
+      "author": "John Andrus",
+      "handle": "@JAndrus_32",
+      "isoDate": "1977-01-18T21:30:00",
+      "displayDate": "Jan 18, 1977 • 9:30 PM",
+      "content": "My 25-foot jump shot was right on the money but it just bounced off the back of the rim at the buzzer. So close to a win. Tough loss to Lakewood, but proud of how we played.",
+      "person_id": "p_john_andrus",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_bball_03",
+      "type": "post",
+      "author": "Tim Thome",
+      "handle": "@TThome_23",
+      "isoDate": "1977-01-18T22:00:00",
+      "displayDate": "Jan 18, 1977 • 10:00 PM",
+      "content": "Scored 23 points tonight, but Lakewood really took it to us in the third period. We just couldn't recover from that scoring blitz. 85-68 final. Back to practice tomorrow.",
+      "person_id": "p_tim_thome",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_bball_04",
+      "type": "post",
+      "author": "Chris Christopher",
+      "handle": "@CChristopher_14",
+      "isoDate": "1977-01-18T22:15:00",
+      "displayDate": "Jan 18, 1977 • 10:15 PM",
+      "content": "We kept it close in the first half, only down by 4, but that third quarter was a killer. I added 14 points but we couldn't match Lakewood's intensity late in the game.",
+      "person_id": "p_chris_christopher",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_wrestle_01",
+      "type": "post",
+      "author": "Scott Averill",
+      "handle": "@SAverill_Wrestle",
+      "isoDate": "1977-01-20T20:30:00",
+      "displayDate": "Jan 20, 1977 • 8:30 PM",
+      "content": "Quick evening of work against Belding tonight! Got the early pin on Jerry Wright. The whole team is firing on all cylinders—56-18 team win!",
+      "person_id": "p_scott_averill",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_wrestle_02",
+      "type": "post",
+      "author": "Al Dietrich",
+      "handle": "@AlDietrich_Mat",
+      "isoDate": "1977-01-20T21:00:00",
+      "displayDate": "Jan 20, 1977 • 9:00 PM",
+      "content": "Managed a 14-1 major decision tonight. Just kept the pressure on. Our varsity team is having quite a season—honored to be part of the only undefeated squad in Sparta right now.",
+      "person_id": "p_dietrich_al",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_wrestle_03",
+      "type": "post",
+      "author": "Tom Cheslek",
+      "handle": "@TomC_Pins",
+      "isoDate": "1977-01-20T21:45:00",
+      "displayDate": "Jan 20, 1977 • 9:45 PM",
+      "content": "Finally got my chance to wrestle tonight! Sorry, Scott Hessler, but I wasn't going to let that win slip away. Feels good to be back on the mat with a pin.",
+      "person_id": "p_cheslek_tom",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_music_01",
+      "type": "post",
+      "author": "Jane Bassett",
+      "handle": "@JaneB_Tuba",
+      "isoDate": "1977-01-25T16:00:00",
+      "displayDate": "Jan 25, 1977 • 4:00 PM",
+      "content": "Matt and I have been practicing our tuba duet every single day. So excited to perform this Saturday at Rockford High for the Solo & Ensemble Festival!",
+      "person_id": "p_jane_bassett",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_music_02",
+      "type": "post",
+      "author": "Matt Nitschke",
+      "handle": "@MattN_Brass",
+      "isoDate": "1977-01-25T16:15:00",
+      "displayDate": "Jan 25, 1977 • 4:15 PM",
+      "content": "Nothing beats a tuba duet. Jane and I are ready to show Rockford what the Sparta brass section can do this weekend. Let's go!",
+      "person_id": "p_matt_nitschke",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_music_03",
+      "type": "post",
+      "author": "Bob Shangle",
+      "handle": "@BobS_Sax",
+      "isoDate": "1977-01-25T17:00:00",
+      "displayDate": "Jan 25, 1977 • 5:00 PM",
+      "content": "Final quartet rehearsal today was great. Brad, Donn, Brenda, and I are ready for District. Rockford, here we come!",
+      "person_id": "p_shangle_bob",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_food_01",
+      "type": "post",
+      "author": "Tech Foodie",
+      "handle": "@FutureOfFood",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "I've seen the future and it's a 'long egg' from Denmark! An eight-inch cylinder of perfectly boiled egg with yolk running through the whole thing. Science is amazing.",
+      "person_id": "p_long_egg_fan",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "post_study_01",
+      "type": "post",
+      "author": "Mrs. LaVern Clough",
+      "handle": "@LaVernClough",
+      "isoDate": "1977-01-24T18:30:00",
+      "displayDate": "Jan 24, 1977 • 6:30 PM",
+      "content": "Getting ready for my book talk 'Beautiful Moments' tonight at the Town Hall. I hope everyone from the Study Club can make it!",
+      "person_id": "p_lavern_clough",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "ad_lions_01",
+      "type": "ad",
+      "sponsor": "Members Drugs",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "SPARTA & KENT CITY FACULTY VS DETROIT LIONS BASKETBALL GAME! Tue. Feb 1 8:00 P.M. Pre-game tickets available at Members Drugs or Sparta H.S. Office.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    },
+    {
+      "id": "ad_yearbook_01",
+      "type": "ad",
+      "sponsor": "Spartan Yearbook Staff",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "Please Read This! If you haven't purchased your 1977 Spartan yearbook, hurry! Price is still $8.00, but will jump to $9.00 for seniors wanting their names printed on the cover. Don't delay!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-12-1977%20-%20Page%2018.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_dan_thome",
+      "first_name": "Dan",
+      "last_name": "Thome",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_andrus",
+      "first_name": "John",
+      "last_name": "Andrus",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_tim_thome",
+      "first_name": "Tim",
+      "last_name": "Thome",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_chris_christopher",
+      "first_name": "Chris",
+      "last_name": "Christopher",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_scott_averill",
+      "first_name": "Scott",
+      "last_name": "Averill",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dietrich_al",
+      "first_name": "Al",
+      "last_name": "Dietrich",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_cheslek_tom",
+      "first_name": "Tom",
+      "last_name": "Cheslek",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jane_bassett",
+      "first_name": "Jane",
+      "last_name": "Bassett",
+      "has_photo": true,
+      "photo_coordinates": [252, 22, 412, 205]
+    },
+    {
+      "id": "p_matt_nitschke",
+      "first_name": "Matt",
+      "last_name": "Nitschke",
+      "has_photo": true,
+      "photo_coordinates": [252, 205, 412, 388]
+    },
+    {
+      "id": "p_brad_ritter",
+      "first_name": "Brad",
+      "last_name": "Ritter",
+      "has_photo": true,
+      "photo_coordinates": [490, 22, 598, 112]
+    },
+    {
+      "id": "p_shangle_bob",
+      "first_name": "Bob",
+      "last_name": "Shangle",
+      "has_photo": true,
+      "photo_coordinates": [490, 292, 598, 388]
+    },
+    {
+      "id": "p_lavern_clough",
+      "first_name": "Mrs. LaVern",
+      "last_name": "Clough",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_long_egg_fan",
+      "first_name": "Tech",
+      "last_name": "Foodie",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

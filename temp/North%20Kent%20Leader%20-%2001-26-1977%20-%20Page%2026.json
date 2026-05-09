@@ -1,0 +1,186 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_26_001",
+      "type": "post",
+      "author": "Conklin Co-op Organizer",
+      "handle": " @ConklinCoop",
+      "isoDate": "1977-01-26T08:15:00",
+      "displayDate": "Jan 26, 1977 • 8:15 AM",
+      "content": "The 70's will soon be history! We need to learn to conserve our energy and financial resources. That's why we're forming the Conklin Food Co-op, scheduled to open March 1st.",
+      "person_id": "p_conklin_org",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_26_002",
+      "type": "post",
+      "author": "Glen Collison",
+      "handle": " @GlenCollison",
+      "isoDate": "1977-01-26T09:30:00",
+      "displayDate": "Jan 26, 1977 • 9:30 AM",
+      "content": "Sara and I are happy to announce that the new co-op will be renting our store location. We've been here since February of 1972 and it's time for a new chapter for this space.",
+      "person_id": "p_collison_g",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_26_001",
+      "type": "ad",
+      "sponsor": "Lou's Pizza",
+      "isoDate": "1977-01-26T11:00:00",
+      "displayDate": "Jan 26, 1977 • 11:00 AM",
+      "content": "NOW SERVING LASAGNA! Delicious home made pizza, not frozen, and hot subs. All you skiers and snowmobilers, take a pizza break with us. Eat in or take out! PH 874-7600",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_26_003",
+      "type": "post",
+      "author": "Denny Geurink",
+      "handle": " @DennyG_Sports",
+      "isoDate": "1977-01-26T12:45:00",
+      "displayDate": "Jan 26, 1977 • 12:45 PM",
+      "content": "The state's 35,000 snowmobilers have certainly been a pleasant lot this year. Their smiling faces tell you they've been enjoying an especially snowy Michigan winter.",
+      "person_id": "p_dg_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_26_004",
+      "type": "post",
+      "author": "Mike Moore",
+      "handle": " @ForestryMike",
+      "isoDate": "1977-01-26T13:20:00",
+      "displayDate": "Jan 26, 1977 • 1:20 PM",
+      "content": "Snowmobilers are welcome to use our nearly four million acres of state forest lands, except where a very few areas are marked 'closed'. We estimate about 10,000 miles of unplowed state forest and country roads are used by the snowmobilers, too.",
+      "person_id": "p_forestry_sup",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_26_002",
+      "type": "ad",
+      "sponsor": "Frames Unlimited",
+      "isoDate": "1977-01-26T14:10:00",
+      "displayDate": "Jan 26, 1977 • 2:10 PM",
+      "content": "What to do with your needlework? Why not frame it! Frames Unlimited offers a complete stretching and framing service for needlepoint, crewel, and cross stitch. 3150 Plainfield.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_26_005",
+      "type": "post",
+      "author": "Local Hunter",
+      "handle": " @WestMI_Hunter",
+      "isoDate": "1977-01-26T15:00:00",
+      "displayDate": "Jan 26, 1977 • 3:00 PM",
+      "content": "The status of the Beaver Basin deer hunt is still in limbo. Just after it seemed the DNR had won its sparring match with the legislature, a surprise court injunction halted it again.",
+      "person_id": "p_hunter_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_26_006",
+      "type": "post",
+      "author": "TOPS Member",
+      "handle": " @TOPS_Sparta",
+      "isoDate": "1977-01-26T16:30:00",
+      "displayDate": "Jan 26, 1977 • 4:30 PM",
+      "content": "Have you taken a good look at what the past year has done for you? As we march along together encouraging each other in our valley weeks, we will shimmer up on our mountain tops the next. Join us at the Sparta Civic Center!",
+      "person_id": "p_tops_mem",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_26_007",
+      "type": "post",
+      "author": "TOPS Member",
+      "handle": " @TOPS_Sparta",
+      "isoDate": "1977-01-26T17:00:00",
+      "displayDate": "Jan 26, 1977 • 5:00 PM",
+      "content": "Just a reminder that our Bake Sale will be held from 2:00 to 6:00 p.m. at the Sparta State Bank this Friday, January 28th!",
+      "person_id": "p_tops_mem",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_26_003",
+      "type": "ad",
+      "sponsor": "Hankinson's Radiator Shop",
+      "isoDate": "1977-01-26T18:00:00",
+      "displayDate": "Jan 26, 1977 • 6:00 PM",
+      "content": "RADIATOR TROUBLE? Cleaning-Rodding, Repairing-Recoring. Open Mon-Fri 8 AM-5:30 PM, Sat 9 AM-3 PM. 4976 West River - Comstock Park. 364-7015",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "post_26_008",
+      "type": "post",
+      "author": "Red Pine Bible Church",
+      "handle": " @RedPineChurch",
+      "isoDate": "1977-01-26T19:15:00",
+      "displayDate": "Jan 26, 1977 • 7:15 PM",
+      "content": "We will host the Jordan West Bible College Musical group this Sunday morning, Jan. 30 at 11:00. Everyone is welcome to join us for this special service!",
+      "person_id": "p_jordan_west",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    },
+    {
+      "id": "ad_26_004",
+      "type": "ad",
+      "sponsor": "Pontiac GMC",
+      "isoDate": "1977-01-26T20:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 PM",
+      "content": "Wondering if leasing makes more sense for you? We have the answers. Visit us to discuss your options for a new Pontiac or GMC.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2026.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_conklin_org",
+      "first_name": "Conklin",
+      "last_name": "Organizer",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_collison_g",
+      "first_name": "Glen",
+      "last_name": "Collison",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dg_01",
+      "first_name": "Denny",
+      "last_name": "Geurink",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_forestry_sup",
+      "first_name": "Mike",
+      "last_name": "Moore",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_hunter_01",
+      "first_name": "Local",
+      "last_name": "Hunter",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_tops_mem",
+      "first_name": "TOPS",
+      "last_name": "Member",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jordan_west",
+      "first_name": "Jordan",
+      "last_name": "West",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

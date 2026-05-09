@@ -1,0 +1,242 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_comstock_001",
+      "type": "ad",
+      "sponsor": "Comstock Park Foods",
+      "isoDate": "1977-01-19T07:30:00",
+      "displayDate": "Jan 19, 1977 • 7:30 AM",
+      "content": "🥩 Weekly Meat Specials at Comstock Park Foods: All Beef Hamburger for 59¢/lb (3 lbs or more). Rib Steak for $1.19/lb and Pork Steak for 99¢/lb. Open 9 to 9 every day to serve you!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_cynthia_001",
+      "type": "post",
+      "author": "Cynthia Marie Ford",
+      "handle": "@cynthia_marie",
+      "isoDate": "1977-01-19T08:15:00",
+      "displayDate": "Jan 19, 1977 • 8:15 AM",
+      "content": "I am so happy to finally share the news! Timothy and I are engaged! ❤️ We haven't set a date yet, but I'm just enjoying this wonderful moment in Bailey.",
+      "person_id": "p_1001",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_timothy_001",
+      "type": "post",
+      "author": "Timothy Dean Schutter",
+      "handle": "@td_schutter",
+      "isoDate": "1977-01-19T08:45:00",
+      "displayDate": "Jan 19, 1977 • 8:45 AM",
+      "content": "The engagement is official! Cynthia Marie Ford said yes. Looking forward to our future together.",
+      "person_id": "p_1002",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_mrs_ford_001",
+      "type": "post",
+      "author": "Mrs. Keith Ford",
+      "handle": "@mrs_k_ford",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "Keith and I are so proud to announce the engagement of our daughter, Cynthia Marie, to Timothy Dean Schutter of Ravenna. Such a wonderful match!",
+      "person_id": "p_1003",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_vernon_schutter_001",
+      "type": "post",
+      "author": "Vernon Schutter",
+      "handle": "@v_schutter",
+      "isoDate": "1977-01-19T09:45:00",
+      "displayDate": "Jan 19, 1977 • 9:45 AM",
+      "content": "Excited to welcome Cynthia Marie Ford to the Schutter family! Timothy and her make a lovely couple.",
+      "person_id": "p_1004",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_penny_001",
+      "type": "post",
+      "author": "Penny Sue Fahling",
+      "handle": "@penny_sue_f",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "Glenn and I are officially engaged! 💍 We're planning a beautiful fall wedding and I can't wait to start planning all the details.",
+      "person_id": "p_1005",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_glenn_gentz_001",
+      "type": "post",
+      "author": "Glenn Gentz",
+      "handle": "@glenn_gentz",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "Penny Sue said yes! I'm the luckiest man in Kent City. Fall can't come soon enough for our wedding.",
+      "person_id": "p_1006",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_mrs_fahling_001",
+      "type": "post",
+      "author": "Mrs. Roland Fahling",
+      "handle": "@mrs_r_fahling",
+      "isoDate": "1977-01-19T11:30:00",
+      "displayDate": "Jan 19, 1977 • 11:30 AM",
+      "content": "Roland and I are thrilled to announce that Penny Sue is engaged to Glenn Gentz! They're already busy planning for the fall.",
+      "person_id": "p_1007",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_ruby_gentz_001",
+      "type": "post",
+      "author": "Ruby Gentz",
+      "handle": "@ruby_gentz",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "So happy for Glenn and Penny Sue! A fall wedding will be just beautiful.",
+      "person_id": "p_1008",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_eleanor_andree_001",
+      "type": "post",
+      "author": "Eleanor Andree",
+      "handle": "@eleanor_andree_sparta",
+      "isoDate": "1977-01-19T13:15:00",
+      "displayDate": "Jan 19, 1977 • 1:15 PM",
+      "content": "Urgent: Blood is in short supply at our local hospitals. Please consider donating on Jan 24th or 25th at the Sparta High School library. Call me at 887-8663 to make your appointment today!",
+      "person_id": "p_1009",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_sparta_student_001",
+      "type": "post",
+      "author": "Sparta High Student",
+      "handle": "@sparta_high_life",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "Going to the library next Tuesday after class to donate. It's a pint of life-sustaining stuff, and they really need it right now! Who's joining me?",
+      "person_id": "p_sparta_student",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_blood_org_001",
+      "type": "post",
+      "author": "Blood Program Organizer",
+      "handle": "@gv_blood_drive",
+      "isoDate": "1977-01-19T14:45:00",
+      "displayDate": "Jan 19, 1977 • 2:45 PM",
+      "content": "Our goal is 150 pints of blood for the upcoming Sparta drive. Every donation helps alleviate the shortage at our area hospitals. We hope to see a great turnout!",
+      "person_id": "p_blood_org",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "ad_rowland_auto_001",
+      "type": "ad",
+      "sponsor": "Rowland Automotive",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "Need Machine Work? See Rowland Automotive for complete machine shop service. Locations in Cedar Springs and Rockford. Visit our Cedar Springs shop at 34 N. Main.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "post_ravenna_local_001",
+      "type": "post",
+      "author": "Ravenna Local",
+      "handle": "@ravenna_neighbor",
+      "isoDate": "1977-01-19T17:30:00",
+      "displayDate": "Jan 19, 1977 • 5:30 PM",
+      "content": "Wonderful news about Timothy Schutter and Cynthia Ford! Great to see a local boy finding such a lovely fiancé.",
+      "person_id": "p_1010",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    },
+    {
+      "id": "ad_comstock_coupons_001",
+      "type": "ad",
+      "sponsor": "Comstock Park Foods",
+      "isoDate": "1977-01-19T19:00:00",
+      "displayDate": "Jan 19, 1977 • 7:00 PM",
+      "content": "Don't forget your coupons! Save 30¢ on 10lb Mich. Potatoes and 20¢ on Head Lettuce. Plus 50 FREE Top Value Stamps with any $10.00 order and coupon!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2014-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_1001",
+      "first_name": "Cynthia Marie",
+      "last_name": "Ford",
+      "has_photo": true,
+      "photo_coordinates": [63, 666, 151, 776]
+    },
+    {
+      "id": "p_1002",
+      "first_name": "Timothy Dean",
+      "last_name": "Schutter",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1003",
+      "first_name": "Mrs. Keith",
+      "last_name": "Ford",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1004",
+      "first_name": "Vernon",
+      "last_name": "Schutter",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1005",
+      "first_name": "Penny Sue",
+      "last_name": "Fahling",
+      "has_photo": true,
+      "photo_coordinates": [238, 666, 334, 781]
+    },
+    {
+      "id": "p_1006",
+      "first_name": "Glenn",
+      "last_name": "Gentz",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1007",
+      "first_name": "Mrs. Roland",
+      "last_name": "Fahling",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1008",
+      "first_name": "Ruby",
+      "last_name": "Gentz",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1009",
+      "first_name": "Eleanor",
+      "last_name": "Andree",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1010",
+      "first_name": "Ravenna",
+      "last_name": "Local",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

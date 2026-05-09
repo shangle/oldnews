@@ -1,0 +1,242 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_va_001",
+      "type": "post",
+      "author": "VA Representative",
+      "handle": "@VARepOfficial",
+      "isoDate": "1977-01-17T10:00:00",
+      "displayDate": "Jan 17, 1977 • 10:00 AM",
+      "content": "I want to make sure all our local veterans are aware of the burial allowance available to them. The VA provides a payment of up to $250 toward these expenses for eligible veterans.",
+      "person_id": "p_va_rep",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_va_002",
+      "type": "post",
+      "author": "Recent Veteran",
+      "handle": "@HomeFromNam",
+      "isoDate": "1977-01-17T14:30:00",
+      "displayDate": "Jan 17, 1977 • 2:30 PM",
+      "content": "Just learned that the burial allowance eligibility covers everything from the Spanish-American War to the Vietnam Era. It's a small comfort to know this support is there for us.",
+      "person_id": "p_veteran_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_va_003",
+      "type": "post",
+      "author": "VA Representative",
+      "handle": "@VARepOfficial",
+      "isoDate": "1977-01-17T16:15:00",
+      "displayDate": "Jan 17, 1977 • 4:15 PM",
+      "content": "Regarding burial in National Cemeteries: an additional $150 plot allowance is available if you choose a non-government cemetery, provided the burial is not in a National one.",
+      "person_id": "p_va_rep",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_va_004",
+      "type": "post",
+      "author": "Local Secretary",
+      "handle": "@VetsOfficeAdmin",
+      "isoDate": "1977-01-18T09:00:00",
+      "displayDate": "Jan 18, 1977 • 9:00 AM",
+      "content": "Remember that plot allowances are for those discharged under conditions other than dishonorable. We have all the full information on eligibility criteria here at the office.",
+      "person_id": "p_secretary_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_va_005",
+      "type": "post",
+      "author": "Recent Veteran",
+      "handle": "@HomeFromNam",
+      "isoDate": "1977-01-18T13:45:00",
+      "displayDate": "Jan 18, 1977 • 1:45 PM",
+      "content": "The VA also provides an American flag to drape the casket of a veteran upon request. It's an important part of honoring those who served.",
+      "person_id": "p_veteran_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_va_006",
+      "type": "post",
+      "author": "VA Representative",
+      "handle": "@VARepOfficial",
+      "isoDate": "1977-01-18T17:00:00",
+      "displayDate": "Jan 18, 1977 • 5:00 PM",
+      "content": "For veterans whose remains are not recovered, the VA provides memorial markers for placement in National Cemeteries or other authorized locations.",
+      "person_id": "p_va_rep",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_es_001",
+      "type": "post",
+      "author": "Michael Landon",
+      "handle": "@LandonOnThePrairie",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "I am so honored to be named the National Easter Seal Chairman for 1977. We're going to spearhead a drive to support 2,000 facilities and programs this year.",
+      "person_id": "p_michael_landon",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_es_002",
+      "type": "post",
+      "author": "Rally Volunteer",
+      "handle": "@EasterSealsVolunteer",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "Having Michael Landon as our National Chairman is incredible! We're already gearing up for the local drive here in North Kent.",
+      "person_id": "p_418",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_es_003",
+      "type": "post",
+      "author": "Parent of Patient",
+      "handle": "@GratefulMom77",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "The Easter Seal Society for Crippled Children and Adults has been a lifeline for us. So happy to see such a high-profile drive starting up.",
+      "person_id": "p_parent_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_es_004",
+      "type": "post",
+      "author": "Michael Landon",
+      "handle": "@LandonOnThePrairie",
+      "isoDate": "1977-01-19T16:45:00",
+      "displayDate": "Jan 19, 1977 • 4:45 PM",
+      "content": "Mark your calendars for March 26-27! I'll be hosting the 29-hour National Easter Seal Telethon live from Hollywood. Let's make it our biggest one yet.",
+      "person_id": "p_michael_landon",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_es_005",
+      "type": "post",
+      "author": "Rally Volunteer",
+      "handle": "@EasterSealsVolunteer",
+      "isoDate": "1977-01-20T09:15:00",
+      "displayDate": "Jan 20, 1977 • 9:15 AM",
+      "content": "Don't forget that the Easter Seal Society supports adults as well as children. These treatment centers provide such vital care to our community.",
+      "person_id": "p_418",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_bank_001",
+      "type": "post",
+      "author": "Richard L. Edgar",
+      "handle": "@Edgar_KCBank",
+      "isoDate": "1977-01-14T15:00:00",
+      "displayDate": "Jan 14, 1977 • 3:00 PM",
+      "content": "I have just completed the certification of our Report of Condition for Kent City State Bank. Our total assets have reached a solid $13,861,000 as of year-end.",
+      "person_id": "p_richard_edgar",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_bank_002",
+      "type": "post",
+      "author": "Kenneth Bull",
+      "handle": "@KenBull_KCB",
+      "isoDate": "1977-01-14T16:30:00",
+      "displayDate": "Jan 14, 1977 • 4:30 PM",
+      "content": "As directors, we've examined the books and can attest that this report is true and correct. Our equity capital is now nearly a million dollars.",
+      "person_id": "p_kenneth_bull",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_bank_003",
+      "type": "post",
+      "author": "Kent County Farmer",
+      "handle": "@ValleyFarmer77",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "Glad to see $9,549,000 in net loans on the bank's books. It shows they're really supporting local agriculture and expansion here in Kent City.",
+      "person_id": "p_1210",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_bank_004",
+      "type": "post",
+      "author": "Vonda J. Humphreys",
+      "handle": "@VondaNotary",
+      "isoDate": "1977-01-14T17:15:00",
+      "displayDate": "Jan 14, 1977 • 5:15 PM",
+      "content": "Officially sworn and subscribed to the Kent City State Bank's annual condition report. It's a privilege to certify these records for our community.",
+      "person_id": "p_vonda_humphreys",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "post_bank_005",
+      "type": "post",
+      "author": "Local Homeowner",
+      "handle": "@SpartaResident",
+      "isoDate": "1977-01-19T13:30:00",
+      "displayDate": "Jan 19, 1977 • 1:30 PM",
+      "content": "Total deposits are over $12.7 million! It's good to know our savings are in such a stable local institution.",
+      "person_id": "p_1211",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "ad_simmental_001",
+      "type": "ad",
+      "sponsor": "Simmental Dispersal Sale",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "SIMMENTAL DISPERSAL SALE! Saturday, Jan 29 at 12:00 Noon, Lake Odessa Arena. Selling 2 Purebred Bulls and 100 3/4 blood bred cows. High quality cattle, trucking available!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    },
+    {
+      "id": "ad_auction_001",
+      "type": "ad",
+      "sponsor": "Coopersville Surplus Sales",
+      "isoDate": "1977-01-20T11:00:00",
+      "displayDate": "Jan 20, 1977 • 11:00 AM",
+      "content": "PUBLIC AUCTION! Saturday, Jan 22, 6:00 PM in Coopersville. Liquidating complete inventory: tools, furniture, plumbing, and restaurant equipment. Everything must go!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2027-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_michael_landon",
+      "first_name": "Michael",
+      "last_name": "Landon",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_richard_edgar",
+      "first_name": "Richard",
+      "last_name": "Edgar",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_kenneth_bull",
+      "first_name": "Kenneth",
+      "last_name": "Bull",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_vonda_humphreys",
+      "first_name": "Vonda",
+      "last_name": "Humphreys",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_parent_01",
+      "first_name": "Local",
+      "last_name": "Parent",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

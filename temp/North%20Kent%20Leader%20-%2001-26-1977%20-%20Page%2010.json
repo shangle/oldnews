@@ -1,0 +1,256 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_10_001",
+      "type": "post",
+      "author": "Valborg Quist",
+      "handle": "@ValborgQ",
+      "isoDate": "1976-10-23T11:00:00",
+      "displayDate": "Oct 23, 1976 • 11:00 AM",
+      "content": "I am so happy to welcome the Senior citizens of the Worldwide Church of God to my home in Bailey today. In spite of the weather, we have a wonderful turnout!",
+      "person_id": "p_10_001",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_002",
+      "type": "post",
+      "author": "Sharrane",
+      "handle": "@FremontSharrane",
+      "isoDate": "1976-10-23T14:30:00",
+      "displayDate": "Oct 23, 1976 • 2:30 PM",
+      "content": "I'm having a wonderful time keeping the record player going for the seniors at Valborg's. The polkas, waltzes, and gallops are keeping everyone's toes tapping!",
+      "person_id": "p_10_002",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_003",
+      "type": "post",
+      "author": "Church Group Member",
+      "handle": "@BaileySenior",
+      "isoDate": "1976-10-23T16:00:00",
+      "displayDate": "Oct 23, 1976 • 4:00 PM",
+      "content": "Just finished a great round of cards after listening to some lovely piano music. It is such a treat to spend the afternoon with such good company.",
+      "person_id": "p_10_003",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_004",
+      "type": "post",
+      "author": "Travel Enthusiast",
+      "handle": "@WorldTraveler",
+      "isoDate": "1976-10-23T17:15:00",
+      "displayDate": "Oct 23, 1976 • 5:15 PM",
+      "content": "The color slides from our travels in Europe were just stunning to see on the big screen. It was both educational and very entertaining for everyone.",
+      "person_id": "p_10_004",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_005",
+      "type": "post",
+      "author": "Potluck Diner",
+      "handle": "@GourmetSenior",
+      "isoDate": "1976-10-23T18:30:00",
+      "displayDate": "Oct 23, 1976 • 6:30 PM",
+      "content": "That potluck dinner was bountiful! And I must say, the Danish Cherry wine—definitely NOT grape juice—really made the occasion a merry and happy one. Hope to meet again soon!",
+      "person_id": "p_10_005",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_006",
+      "type": "post",
+      "author": "Donald McCann",
+      "handle": "@DonMcCannCP",
+      "isoDate": "1977-01-25T09:00:00",
+      "displayDate": "Jan 25, 1977 • 9:00 AM",
+      "content": "I am so honored to be named to the College of Arts and Sciences Dean's List at Grand Valley State! All those hours in the library this fall really paid off.",
+      "person_id": "p_10_006",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_007",
+      "type": "post",
+      "author": "Lisa Dubois",
+      "handle": "@LisaDuSparta",
+      "isoDate": "1977-01-25T10:30:00",
+      "displayDate": "Jan 25, 1977 • 10:30 AM",
+      "content": "I made the GVSC Dean's List! It is so wonderful to see so many of us from Sparta recognized for our academic work this term.",
+      "person_id": "p_10_007",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_008",
+      "type": "post",
+      "author": "Dean Anderson",
+      "handle": "@DeanAKC",
+      "isoDate": "1977-01-25T12:00:00",
+      "displayDate": "Jan 25, 1977 • 12:00 PM",
+      "content": "Proudly representing Kent City on the Grand Valley Dean's List for the fall term! Congrats to my fellow students who made the cut.",
+      "person_id": "p_10_008",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_009",
+      "type": "post",
+      "author": "Timothy Stroven",
+      "handle": "@TimStroven",
+      "isoDate": "1977-01-25T13:30:00",
+      "displayDate": "Jan 25, 1977 • 1:30 PM",
+      "content": "Thrilled to see my name on the CAS Dean's List at GVSC. Coopersville is showing up strong in the academic rankings this year!",
+      "person_id": "p_10_009",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_010",
+      "type": "post",
+      "author": "Dr. John Gracki",
+      "handle": "@DeanGrackiGVSC",
+      "isoDate": "1977-01-25T08:00:00",
+      "displayDate": "Jan 25, 1977 • 8:00 AM",
+      "content": "I am proud to announce that 378 students have been named to the CAS Dean's List for the fall term of 1976. Our federation of six colleges continues to provide the most diverse and rigorous curriculum.",
+      "person_id": "p_10_010",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_011",
+      "type": "post",
+      "author": "Lucille Mackey",
+      "handle": "@LucilleM",
+      "isoDate": "1977-01-18T10:00:00",
+      "displayDate": "Jan 18, 1977 • 10:00 AM",
+      "content": "I have officially filed the petition for the allowance of William G. Berger's Will. The hearing in Probate Court is set for February 16th. Thank you to everyone for your support during this time.",
+      "person_id": "p_10_011",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "post_10_012",
+      "type": "post",
+      "author": "Marian Katherine Wohlfert",
+      "handle": "@MarianW",
+      "isoDate": "1977-01-18T11:00:00",
+      "displayDate": "Jan 18, 1977 • 11:00 AM",
+      "content": "As the appointed executrix for Pauline M. Jost's estate, I am notifying all creditors to present their claims by April 13, 1977. We are working to settle everything properly.",
+      "person_id": "p_10_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_10_001",
+      "type": "ad",
+      "sponsor": "Morrissey Lawn & Garden Center",
+      "isoDate": "1977-01-26T08:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 AM",
+      "content": "SCRAMBLER'S HERE AND LOOKING GOOD! Why limit yourself to any one season? Enjoy your Scrambler 12 months of the year. 12, 14 & 16 H.P. units are available now. Come in for a demonstration of our new and used units at 4050 W. River Drive, Comstock Park.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_10_002",
+      "type": "ad",
+      "sponsor": "Camera Center",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Order Three... One is Free! Get three KODAK color enlargements for the price of two. Offer valid anytime from now through March 18. Simply bring in your same-size color slides, KODACOLOR negatives, or color prints. Come see us at Plainfield Plaza!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    },
+    {
+      "id": "ad_10_003",
+      "type": "ad",
+      "sponsor": "Fashion Interiors",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "THE AREA'S NEWEST FLOOR COVERING STORE!! LET'S GET ACQUAINTED SALE! Short Nylon Shag at $8.95 sq. yd., Rubber Backed Prints at $6.95 sq. yd., and Trevira Star at $10.95 sq. yd. All prices include pad and complete installation. 3307 Plainfield N.E.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2010.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_10_001",
+      "first_name": "Valborg",
+      "last_name": "Quist",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_002",
+      "first_name": "Sharrane",
+      "last_name": "",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_003",
+      "first_name": "Senior",
+      "last_name": "Member",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_004",
+      "first_name": "World",
+      "last_name": "Traveler",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_005",
+      "first_name": "Potluck",
+      "last_name": "Diner",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_006",
+      "first_name": "Donald",
+      "last_name": "McCann",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_007",
+      "first_name": "Lisa",
+      "last_name": "Dubois",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_008",
+      "first_name": "Dean",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_009",
+      "first_name": "Timothy",
+      "last_name": "Stroven",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_010",
+      "first_name": "John",
+      "last_name": "Gracki",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_011",
+      "first_name": "Lucille",
+      "last_name": "Mackey",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_10_012",
+      "first_name": "Marian",
+      "last_name": "Wohlfert",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

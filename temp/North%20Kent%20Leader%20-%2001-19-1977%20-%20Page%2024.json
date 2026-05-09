@@ -1,0 +1,212 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_1101",
+      "type": "post",
+      "author": "Chuck Wilson",
+      "handle": "@sparta_vp_chuck",
+      "isoDate": "1977-01-12T09:30:00",
+      "displayDate": "Jan 12, 1977 • 9:30 AM",
+      "content": "Kicked off our two-day sales conference this morning! It is a pleasure to host the entire sales force from the Muskegon Piston Ring Company here at our Sparta Foundry Division facility.",
+      "person_id": "p_1101",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "post_1102",
+      "type": "post",
+      "author": "Arch Hood",
+      "handle": "@muskegon_vp_arch",
+      "isoDate": "1977-01-12T11:15:00",
+      "displayDate": "Jan 12, 1977 • 11:15 AM",
+      "content": "Our goal for these two days is simple: acquaint our multitude of salesmen with the incredible variety of products being produced right here in Sparta. The local management has already provided us with an impressive array of technical data.",
+      "person_id": "p_1102",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "post_1103",
+      "type": "post",
+      "author": "Ted Anderson",
+      "handle": "@sparta_sales_ted",
+      "isoDate": "1977-01-12T14:45:00",
+      "displayDate": "Jan 12, 1977 • 2:45 PM",
+      "content": "E.M. Weston and I have put a lot of work into planning this introductory film and plant tour. It’s great to see the local sales and engineering teams engaging so well with the Muskegon group.",
+      "person_id": "p_1103",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "post_1104",
+      "type": "post",
+      "author": "Gary Batka",
+      "handle": "@sparta_foundry_gary",
+      "isoDate": "1977-01-13T10:30:00",
+      "displayDate": "Jan 13, 1977 • 10:30 AM",
+      "content": "Heading out for the plant tour now. My colleagues—Howard Lettinga, Gerry Tibbe, and the rest of the management team—are ready to walk the visitors through every job function, from technical direction to the basic rudiments of making gray iron castings.",
+      "person_id": "p_1104",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "post_1105",
+      "type": "post",
+      "author": "Stan Bourdon",
+      "handle": "@muskegon_sales_stan",
+      "isoDate": "1977-01-13T15:00:00",
+      "displayDate": "Jan 13, 1977 • 3:00 PM",
+      "content": "Deep in the weeds with technical data today. This exchange between our sales force and the Sparta Foundry management is going to be a game-changer for how we present these products to our clients.",
+      "person_id": "p_1105",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "post_1106",
+      "type": "post",
+      "author": "Mark Cliff",
+      "handle": "@mark_cliff_cedar",
+      "isoDate": "1977-01-12T22:00:00",
+      "displayDate": "Jan 12, 1977 • 10:00 PM",
+      "content": "Our hearts are heavy tonight. Our little boy, Adam Ray, was only with us for a day before passing away at Butterworth. We are so grateful for the short time we had. Funeral services will be Monday at Hessel-Cheslek.",
+      "person_id": "p_1106",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "post_1107",
+      "type": "post",
+      "author": "Sandra Bomhof",
+      "handle": "@sandra_bomhof",
+      "isoDate": "1977-01-15T21:00:00",
+      "displayDate": "Jan 15, 1977 • 9:00 PM",
+      "content": "We lost our precious 8-month-old Daniel Paul today. There are no words for this kind of heartbreak. We will be holding services Tuesday to say our final goodbyes.",
+      "person_id": "p_1107",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "ad_fables_01",
+      "type": "ad",
+      "sponsor": "Mr. Fables",
+      "isoDate": "1977-01-01T10:00:00",
+      "displayDate": "Jan 1, 1977 • 10:00 AM",
+      "content": "The Onion Rings Are Coming! Fresh batter dipped, only 48c. Available Jan 1 - Jan 31 at our Alpine and South of Old U.S. 131 locations.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "ad_valentine_01",
+      "type": "ad",
+      "sponsor": "The North Kent Leader",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "Cupid Ain't Stupid! Show everybody your favorite Valentine in our first Annual Photo Feature on February 9th. Bring in a picture of your favorite person—just $4.00 per individual snapshot.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "ad_loveland_01",
+      "type": "ad",
+      "sponsor": "Loveland Real Estate",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "Cedar Springs listings: 4 bedroom on 5 acres with pond and creek, or a 3 bedroom with 2 baths and 2 fireplaces. Also a nice starter home in Sparta on 2 fenced-in lots. Call 696-2361 or 696-0445.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    },
+    {
+      "id": "ad_mward_01",
+      "type": "ad",
+      "sponsor": "Montgomery Ward",
+      "isoDate": "1977-01-19T09:30:00",
+      "displayDate": "Jan 19, 1977 • 9:30 AM",
+      "content": "Winter Savings at North Kent Mall! Save $25 on a 5-HP 24-inch snow thrower (now $374.88) or $35 on an 8-HP 26-inch model. Plus 50% off chain link wire fabric and great deals on water heaters.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2024-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_1101",
+      "first_name": "Chuck",
+      "last_name": "Wilson",
+      "has_photo": true,
+      "photo_coordinates": [
+        68,
+        550,
+        240,
+        955
+      ]
+    },
+    {
+      "id": "p_1102",
+      "first_name": "Arch",
+      "last_name": "Hood",
+      "has_photo": true,
+      "photo_coordinates": [
+        68,
+        550,
+        240,
+        955
+      ]
+    },
+    {
+      "id": "p_1103",
+      "first_name": "Ted",
+      "last_name": "Anderson",
+      "has_photo": true,
+      "photo_coordinates": [
+        68,
+        550,
+        240,
+        955
+      ]
+    },
+    {
+      "id": "p_1104",
+      "first_name": "Gary",
+      "last_name": "Batka",
+      "has_photo": true,
+      "photo_coordinates": [
+        68,
+        550,
+        240,
+        955
+      ]
+    },
+    {
+      "id": "p_1105",
+      "first_name": "Stan",
+      "last_name": "Bourdon",
+      "has_photo": true,
+      "photo_coordinates": [
+        68,
+        550,
+        240,
+        955
+      ]
+    },
+    {
+      "id": "p_1106",
+      "first_name": "Mark",
+      "last_name": "Cliff",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_1107",
+      "first_name": "Sandra",
+      "last_name": "Bomhof",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_val_photo",
+      "first_name": "Valentine",
+      "last_name": "Photo Model",
+      "has_photo": true,
+      "photo_coordinates": [
+        375,
+        125,
+        630,
+        480
+      ]
+    }
+  ]
+}
+```

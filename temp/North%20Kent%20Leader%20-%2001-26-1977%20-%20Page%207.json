@@ -1,0 +1,121 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_emmons_001",
+      "type": "ad",
+      "sponsor": "Emmons Spartan Store",
+      "isoDate": "1977-01-26T07:00:00",
+      "displayDate": "Jan 26, 1977 • 7:00 AM",
+      "content": "Small Enough To Know You, Large Enough To Serve You. Check out our Sparta Spartan Store specials this week! We accept Cash & Food Stamps.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+    },
+    {
+      "id": "post_mgr_001",
+      "type": "post",
+      "author": "Emmons Manager",
+      "handle": "@EmmonsMgr",
+      "isoDate": "1977-01-26T08:15:00",
+      "displayDate": "Jan 26, 1977 • 8:15 AM",
+      "content": "Good morning Sparta! We've just opened and the shelves are stocked. From meat specials to fresh produce, we've got everything you need for the week ahead. Come see us on the corner!",
+      "person_id": "p_emmons_mgr",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+    },
+    {
+      "id": "post_butcher_001",
+      "type": "post",
+      "author": "Sparta Butcher",
+      "handle": "@SpartaButcher",
+      "isoDate": "1977-01-26T09:30:00",
+      "displayDate": "Jan 26, 1977 • 9:30 AM",
+      "content": "I've got some beautiful T-Bone steaks on the block today for just $1.79 a pound. If you're looking for a roast, our Boneless Sirloin Tips are $1.39. Stop by the counter and I'll get you fixed up!",
+      "person_id": "p_sparta_butcher",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+    },
+    {
+      "id": "post_shopper_001",
+      "type": "post",
+      "author": "Local Shopper",
+      "handle": "@SpartaShopper",
+      "isoDate": "1977-01-26T11:45:00",
+      "displayDate": "Jan 26, 1977 • 11:45 AM",
+      "content": "Just finished my run to Emmons. A gallon of 2% milk for $1.17? Yes please! I also stocked up on Spartan soups—6 cans for a dollar is a steal in this weather.",
+      "person_id": "p_sparta_shopper",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+    },
+    {
+      "id": "post_mascot_001",
+      "type": "post",
+      "author": "Spartan Mascot",
+      "handle": "@SpartanPride",
+      "isoDate": "1977-01-26T13:00:00",
+      "displayDate": "Jan 26, 1977 • 1:00 PM",
+      "content": "Our frozen foods are looking legendary today! Jeno's Pizzas for 69 cents and Frozen Dinners for 39 cents. Quick, easy, and Spartan-approved!",
+      "person_id": "p_spartan_mascot",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+    },
+    {
+      "id": "post_shopper_002",
+      "type": "post",
+      "author": "Local Shopper",
+      "handle": "@SpartaShopper",
+      "isoDate": "1977-01-26T16:20:00",
+      "displayDate": "Jan 26, 1977 • 4:20 PM",
+      "content": "The produce section at Emmons is great right now. I got a dozen tangerines for 59 cents and some fresh head lettuce for 39 cents. Dinner is going to be fresh tonight!",
+      "person_id": "p_sparta_shopper",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+    },
+    {
+      "id": "post_butcher_002",
+      "type": "post",
+      "author": "Sparta Butcher",
+      "handle": "@SpartaButcher",
+      "isoDate": "1977-01-26T18:00:00",
+      "displayDate": "Jan 26, 1977 • 6:00 PM",
+      "content": "Wrapping up a busy Wednesday! Remember, we've got live butchers here until 8:00 PM tonight. If you missed the morning rush, come see me for those ground beef specials—89 cents a pound!",
+      "person_id": "p_sparta_butcher",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%207-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_emmons_mgr",
+      "first_name": "Emmons",
+      "last_name": "Manager",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_butcher",
+      "first_name": "Sparta",
+      "last_name": "Butcher",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_sparta_shopper",
+      "first_name": "Local",
+      "last_name": "Shopper",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_spartan_mascot",
+      "first_name": "Spartan",
+      "last_name": "Mascot",
+      "has_photo": true,
+      "photo_coordinates": [
+        76,
+        860,
+        131,
+        915
+      ]
+    }
+  ]
+}
+```

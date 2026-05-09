@@ -1,0 +1,202 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_tax_01",
+      "type": "post",
+      "author": "Henry W. Block",
+      "handle": " @HenryWBlock",
+      "isoDate": "1977-01-18T08:00:00",
+      "displayDate": "Jan 18, 1977 • 8:00 AM",
+      "content": "If the IRS sent you a letter about your 1976 tax returns, don't feel like you have to just sign on the dotted line. You have a legal right to disagree and appeal their findings!",
+      "person_id": "p_412",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_tax_02",
+      "type": "post",
+      "author": "IRS Representative",
+      "handle": " @IRSnews",
+      "isoDate": "1977-01-18T10:30:00",
+      "displayDate": "Jan 18, 1977 • 10:30 AM",
+      "content": "On the matter of audits, the usual reason for selecting a return is to verify correctness. An audit doesn't imply dishonesty or criminal liability; we just want to ensure everyone pays their fair share.",
+      "person_id": "p_irs_rep",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_tax_03",
+      "type": "post",
+      "author": "Local Taxpayer",
+      "handle": " @TaxpayerJoe",
+      "isoDate": "1977-01-18T14:15:00",
+      "displayDate": "Jan 18, 1977 • 2:15 PM",
+      "content": "I just requested a meeting with my auditor's supervisor. I wasn't happy with the initial results, and I'm glad I have the chance to explain my position further before the case is closed.",
+      "person_id": "p_taxpayer_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_tax_04",
+      "type": "post",
+      "author": "Appellate Conferee",
+      "handle": " @IRSAppeals",
+      "isoDate": "1977-01-18T16:45:00",
+      "displayDate": "Jan 18, 1977 • 4:45 PM",
+      "content": "Our office is organizationally independent from the audit staff. We weigh the relative chances of success in court and the merits of the case to reach a settlement that avoids unnecessary litigation.",
+      "person_id": "p_conferee_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_tax_05",
+      "type": "post",
+      "author": "Tax Court Advocate",
+      "handle": " @TaxRights",
+      "isoDate": "1977-01-19T07:30:00",
+      "displayDate": "Jan 19, 1977 • 7:30 AM",
+      "content": "Just received a 'Statutory Notice of Deficiency'? You have exactly 90 days from the date of that notice to file your petition with the U.S. Tax Court. Don't miss your deadline!",
+      "person_id": "p_legal_advocate",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_tax_06",
+      "type": "post",
+      "author": "Special Trial Judge",
+      "handle": " @SmallTaxCase",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "Is your tax dispute for $1,500 or less for any one tax year? You can use the Tax Court's Small Tax Case procedures. It's much faster and specifically designed for individual taxpayers.",
+      "person_id": "p_judge_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_vball_01",
+      "type": "post",
+      "author": "Danny Vasilouskas",
+      "handle": " @DannyV",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "Eric and I are having a great time managing the 6th grade volleyball team. The tournament is heating up during the lunch hours!",
+      "person_id": "p_danny_v",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_vball_02",
+      "type": "post",
+      "author": "Eric Olsen",
+      "handle": " @EricO",
+      "isoDate": "1977-01-19T12:30:00",
+      "displayDate": "Jan 19, 1977 • 12:30 PM",
+      "content": "Lunch hour is finally for something other than just eating—it's tournament time! Who knew 6th grade volleyball would be this intense?",
+      "person_id": "p_eric_o",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "post_vball_03",
+      "type": "post",
+      "author": "Mrs. Gall",
+      "handle": " @MrsGall",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "I am so impressed with the effort our 6th graders are putting into the volleyball tournament. I'll be presenting a special award to the winners very soon!",
+      "person_id": "p_mrs_gall",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_mariner",
+      "type": "ad",
+      "sponsor": "Northview Sport & Marine",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "The All New MARINER OUTBOARDS! Boats • Motors • Trailers • Acc. Water Ski Equipment. See them all at 5200 Plainfield Ave. Phone 363-0481.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_trucks",
+      "type": "ad",
+      "sponsor": "Vanderhyde Bros. Ford, Inc.",
+      "isoDate": "1977-01-19T10:00:00",
+      "displayDate": "Jan 19, 1977 • 10:00 AM",
+      "content": "USED TRUCK HEADQUARTERS! 1977 Ford F150 Ranger, V-8, Auto - SAVE $$$$. 1976 Ford F100, 4x4, 16,000 miles - $4750.00. 1971 Ford F250 Camper Special - $1495.00. Complete line of 1977 Ford Cars & Trucks in stock!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    },
+    {
+      "id": "ad_energy_mate",
+      "type": "ad",
+      "sponsor": "Energy-Mate",
+      "isoDate": "1977-01-19T15:00:00",
+      "displayDate": "Jan 19, 1977 • 3:00 PM",
+      "content": "HIGH FUEL BILLS? Call 784-0231 for the Wood Burner that will save you dollars in fuel cost. Can be used as a supplement or independent heating system. Thermostatic control assures warm air circulation!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2021-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_412",
+      "first_name": "Henry",
+      "last_name": "Block",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_irs_rep",
+      "first_name": "IRS",
+      "last_name": "Representative",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_taxpayer_01",
+      "first_name": "Taxpayer",
+      "last_name": "Joe",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_conferee_01",
+      "first_name": "Appellate",
+      "last_name": "Conferee",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_legal_advocate",
+      "first_name": "Legal",
+      "last_name": "Advocate",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_judge_01",
+      "first_name": "Special Trial",
+      "last_name": "Judge",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_danny_v",
+      "first_name": "Danny",
+      "last_name": "Vasilouskas",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_eric_o",
+      "first_name": "Eric",
+      "last_name": "Olsen",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mrs_gall",
+      "first_name": "Mrs.",
+      "last_name": "Gall",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

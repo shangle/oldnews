@@ -1,0 +1,147 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_801",
+      "type": "post",
+      "author": "Lois Mongar",
+      "handle": "@lo_navy",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "I just signed up! I'm officially a member of the United States Navy. I'm finishing my senior year at Kent City High, then it's off to Orlando for recruit training in September. So excited to start Management School in San Diego!",
+      "person_id": "p_808",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_802",
+      "type": "post",
+      "author": "Gail Bullis",
+      "handle": "@gail_b_navy",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "It’s official—I’ve joined the Navy too! I'll be heading to Orlando this August after graduation for training. I’m really looking forward to Mess Management School out in California. See you in San Diego, Lois!",
+      "person_id": "p_809",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_803",
+      "type": "post",
+      "author": "Robert H. Bruff Jr.",
+      "handle": "@bob_bruff",
+      "isoDate": "1977-01-18T18:00:00",
+      "displayDate": "Jan 18, 1977 • 6:00 PM",
+      "content": "Boot camp at Great Lakes is finally over. Eight weeks of seamanship, drills, and naval history. It's been tough but worth it. Ready for whatever the Navy has for me next.",
+      "person_id": "p_811",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_804",
+      "type": "post",
+      "author": "Hazel Beatty",
+      "handle": "@hazel_b",
+      "isoDate": "1977-01-15T14:20:00",
+      "displayDate": "Jan 15, 1977 • 2:20 PM",
+      "content": "Just wanted to inform friends and church members that Miss Alma Adams suffered a stroke last Thursday. She is currently in the Venice Florida Hospital. Please keep her in your thoughts.",
+      "person_id": "p_813",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "post_805",
+      "type": "post",
+      "author": "Denise DeRienzo",
+      "handle": "@kc_counselor",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "Seniors! Scholarships for Daniels Hair Styling Academy are now available. Also, the Army recruiter was here yesterday and will be visiting every other Tuesday at 9:00. Stop by the office if you're interested!",
+      "person_id": "p_814",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "ad_801",
+      "type": "ad",
+      "sponsor": "Village Furniture & Carpet",
+      "isoDate": "1977-01-19T07:00:00",
+      "displayDate": "Jan 19, 1977 • 7:00 AM",
+      "content": "FLOOR SAMPLE SALE!!! 10% to 50% reductions across the store. Living room, bedroom, and dining room sets. Kroehler traditional sofas starting at $325.00. Thomasville master bedroom grouping now $729.95. Come see us at the Country Store in Sparta!",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "ad_802",
+      "type": "ad",
+      "sponsor": "North Kent Glass",
+      "isoDate": "1977-01-19T08:30:00",
+      "displayDate": "Jan 19, 1977 • 8:30 AM",
+      "content": "Replace broken glass! Expert installation of desk tops, mirrors, and window repair. We also stock paint—long-lasting protection for the winter. 10388 Sparta Ave.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    },
+    {
+      "id": "ad_803",
+      "type": "ad",
+      "sponsor": "Quality Contractors",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "36 Years in business locally doing QUALITY work. Siding, roofing, insulation, windows, and remodeling. 15% OFF on all pole buildings ordered before March 1, 1977. Call 887-9928 for a free estimate.",
+      "sourcePdf": "North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%208-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_808",
+      "first_name": "Lois",
+      "last_name": "Mongar",
+      "has_photo": true,
+      "photo_coordinates": [
+        55,
+        535,
+        100,
+        615
+      ]
+    },
+    {
+      "id": "p_809",
+      "first_name": "Gail",
+      "last_name": "Bullis",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_811",
+      "first_name": "Robert",
+      "last_name": "Bruff Jr.",
+      "has_photo": true,
+      "photo_coordinates": [
+        55,
+        695,
+        100,
+        775
+      ]
+    },
+    {
+      "id": "p_812",
+      "first_name": "Alma",
+      "last_name": "Adams",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_813",
+      "first_name": "Hazel",
+      "last_name": "Beatty",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_814",
+      "first_name": "Denise",
+      "last_name": "DeRienzo",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

@@ -1,0 +1,187 @@
+```json
+{
+  "Metadata": {
+    "Publication": "North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_bio_001",
+      "type": "post",
+      "author": "Dr. Sarah Mitchell",
+      "handle": "@FishBiologist",
+      "isoDate": "1977-01-19T08:00:00",
+      "displayDate": "Jan 19, 1977 • 8:00 AM",
+      "content": "I've spent years at the Fish Pesticide Laboratory studying catfish in the South, and we finally have a breakthrough. It turns out Vitamin C is the missing link in helping fish survive the toxic effects of pollutants like toxaphene.",
+      "person_id": "p_bio_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_va_001",
+      "type": "post",
+      "author": "Richard L. Roudebush",
+      "handle": "@VARoudebush",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "I am proud to reaffirm the Veterans Administration's commitment to increased employment of handicapped individuals. In 1977, we are placing an added emphasis on opening doors for those who served.",
+      "person_id": "p_roudebush_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_va_002",
+      "type": "post",
+      "author": "Richard L. Roudebush",
+      "handle": "@VARoudebush",
+      "isoDate": "1977-01-19T09:15:00",
+      "displayDate": "Jan 19, 1977 • 9:15 AM",
+      "content": "As a result of our concerted efforts to provide not just jobs, but careers for these deserving individuals, a total of 5.6 percent of VA's work force is now made up of handicapped persons.",
+      "person_id": "p_roudebush_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_bio_002",
+      "type": "post",
+      "author": "Jimmy 'Catfish' Miller",
+      "handle": "@PondKing",
+      "isoDate": "1977-01-19T10:15:00",
+      "displayDate": "Jan 19, 1977 • 10:15 AM",
+      "content": "This research is a game changer for those of us in the fish farming business. We've been seeing 'broken back syndrome' for years in our ponds, and knowing that a bit of Vitamin C in the feed can prevent it is huge news.",
+      "person_id": "p_farmer_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_va_003",
+      "type": "post",
+      "author": "Richard L. Roudebush",
+      "handle": "@VARoudebush",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "The Rehabilitation Act of 1973 and the Vietnam Era Veterans Readjustment Act of 1974 mandate affirmative action programs for hiring the handicapped, and these have served both to augment and amplify VA's traditional leadership in this area.",
+      "person_id": "p_roudebush_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_va_004",
+      "type": "post",
+      "author": "Richard L. Roudebush",
+      "handle": "@VARoudebush",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "While we at VA intend to do all we can, it is obvious that one agency cannot provide all the opportunities that are needed. I urge leaders in business and industry to join us in making jobs available to their handicapped fellow citizens.",
+      "person_id": "p_roudebush_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_valentine",
+      "type": "ad",
+      "sponsor": "Valentine Photo",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "THE SWEETEST STORY EVER TOLD... A Valentine PHOTO. Check out this week's featured photo on Page 23 of the North Kent Leader!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_val_001",
+      "type": "post",
+      "author": "Valentine Photo Model",
+      "handle": "@ValentineGirl77",
+      "isoDate": "1977-01-19T12:05:00",
+      "displayDate": "Jan 19, 1977 • 12:05 PM",
+      "content": "I am so honored to be featured as this week's Valentine Photo! It's such a sweet tradition in our community.",
+      "person_id": "p_val_photo",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "post_bio_003",
+      "type": "post",
+      "author": "Mark Stevens",
+      "handle": "@ConservationFirst",
+      "isoDate": "1977-01-19T14:30:00",
+      "displayDate": "Jan 19, 1977 • 2:30 PM",
+      "content": "The fact that fish need Vitamin C just to survive the toxaphene levels in our water is a major wake-up call. We need to focus on reducing pollutants, not just finding ways for wildlife to tolerate them.",
+      "person_id": "p_eco_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_reister",
+      "type": "ad",
+      "sponsor": "Franklin Reister & Sons",
+      "isoDate": "1977-01-19T15:00:00",
+      "displayDate": "Jan 19, 1977 • 3:00 PM",
+      "content": "NEED CALCIUM NITRATE? OR UREA 45? We have it in bulk or bag. For more information call Franklin Reister & Sons at 887-9689 or 887-9933.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_realty",
+      "type": "ad",
+      "sponsor": "Carriage House Realty",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "OPEN HOUSE! New 3 Bedroom Rancher on 1/2 acre. Only $23,900. Directions: 101-17 Mile Rd, 1/2 mile East of Red Pine. Phone: 887-7307.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_faucets",
+      "type": "ad",
+      "sponsor": "Modern Faucet Repair",
+      "isoDate": "1977-01-19T17:00:00",
+      "displayDate": "Jan 19, 1977 • 5:00 PM",
+      "content": "STOP DRIPPING FAUCETS FOR LIFE* NO IF'S-ANDS-OR BUTS. Our special tool machines your old seat and we install surgical grade stainless steel. (616) 874-7330.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    },
+    {
+      "id": "ad_speed",
+      "type": "ad",
+      "sponsor": "Highway Safety Council",
+      "isoDate": "1977-01-19T18:00:00",
+      "displayDate": "Jan 19, 1977 • 6:00 PM",
+      "content": "SPEED LIMIT 55. It's the law, and it saves lives and fuel. Let's do our part.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2023-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_roudebush_01",
+      "first_name": "Richard",
+      "last_name": "Roudebush",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_bio_01",
+      "first_name": "Sarah",
+      "last_name": "Mitchell",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_val_photo",
+      "first_name": "Valentine",
+      "last_name": "Photo Model",
+      "has_photo": true,
+      "photo_coordinates": [
+        235,
+        502,
+        430,
+        825
+      ]
+    },
+    {
+      "id": "p_farmer_01",
+      "first_name": "Jimmy",
+      "last_name": "Miller",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_eco_01",
+      "first_name": "Mark",
+      "last_name": "Stevens",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+
+```

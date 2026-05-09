@@ -1,0 +1,257 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_birth_001",
+      "type": "post",
+      "author": "Kris Anderson",
+      "handle": "@k_anderson",
+      "isoDate": "1977-01-06T10:15:00",
+      "displayDate": "Jan 6, 1977 • 10:15 AM",
+      "content": "Theresa and I are overjoyed to announce the arrival of our first born, Ethan Albert! He was born this morning at St. Mary's Hospital. Both mom and baby are doing great.",
+      "person_id": "p_504",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_birth_002",
+      "type": "post",
+      "author": "Ethan Albert Anderson",
+      "handle": "@ethan_anderson",
+      "isoDate": "1977-01-06T14:30:00",
+      "displayDate": "Jan 6, 1977 • 2:30 PM",
+      "content": "Checking in at 9 lbs. 9 ozs. and 22 inches! I think I'm going to like it here in Lowell.",
+      "person_id": "p_509",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_birth_003",
+      "type": "post",
+      "author": "Harold A. Anderson",
+      "handle": "@harold_sparta",
+      "isoDate": "1977-01-06T18:45:00",
+      "displayDate": "Jan 6, 1977 • 6:45 PM",
+      "content": "So proud to be a grandpa today! Welcome to the family, Ethan. You've got quite a legacy to live up to in Sparta and Lowell.",
+      "person_id": "p_grandpa_anderson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_hessenius_001",
+      "type": "post",
+      "author": "Louise Simmons Hessenius",
+      "handle": "@louise_sim",
+      "isoDate": "1977-01-06T08:00:00",
+      "displayDate": "Jan 6, 1977 • 8:00 AM",
+      "content": "Reflecting on a long life in Rockford. From Davenport College to my years at Wolverine World Wide, it's been a journey of hard work and community. Signing off.",
+      "person_id": "p_hessenius_louise",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_koopman_001",
+      "type": "post",
+      "author": "Ron Koopman",
+      "handle": "@ron_koop",
+      "isoDate": "1977-01-11T11:00:00",
+      "displayDate": "Jan 11, 1977 • 11:00 AM",
+      "content": "Chris and I are so happy to welcome Kimberly Ann to the world! 8 lbs. 4 ozs. of pure joy.",
+      "person_id": "p_koopman_ron",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_crowley_001",
+      "type": "post",
+      "author": "Edward Crowley",
+      "handle": "@ed_crowley",
+      "isoDate": "1977-01-12T20:00:00",
+      "displayDate": "Jan 12, 1977 • 8:00 PM",
+      "content": "Dad passed away today. Orville Crowley, 74 years of Sparta history. He's finally back with mom, Nellie, after all these years.",
+      "person_id": "p_crowley_edward",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_roberts_001",
+      "type": "post",
+      "author": "Charles A. Roberts",
+      "handle": "@charles_farmer",
+      "isoDate": "1977-01-16T07:00:00",
+      "displayDate": "Jan 16, 1977 • 7:00 AM",
+      "content": "A lifetime on the farm. 26 years with the Farm Bureau and a charter member of the Co-Op... I hope I left the land better than I found it.",
+      "person_id": "p_roberts_charles",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_hill_001",
+      "type": "post",
+      "author": "Leona Ames Hill",
+      "handle": "@leona_poet",
+      "isoDate": "1977-01-16T15:00:00",
+      "displayDate": "Jan 16, 1977 • 3:00 PM",
+      "content": "Words are my legacy. From Sparta to Caro, I've tried to capture life in my poems and books. May they find you when you need them.",
+      "person_id": "p_hill_leona",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_johnson_001",
+      "type": "post",
+      "author": "Marilyn Johnson",
+      "handle": "@marilyn_j",
+      "isoDate": "1977-01-18T19:30:00",
+      "displayDate": "Jan 18, 1977 • 7:30 PM",
+      "content": "Earl passed away this afternoon at Butterworth. He was more than just a self-employed TV technician; he was a veteran and the heart of our home in Fremont.",
+      "person_id": "p_johnson_marilyn",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_bluelake_001",
+      "type": "post",
+      "author": "Professor Kenneth G. Bloomquist",
+      "handle": "@msu_bands_ken",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "I am so impressed by the 230 young musicians and singers joining our Blue Lake Fine Arts Camp European tour this summer! We're taking our music to Sweden, Norway, Denmark, and Germany.",
+      "person_id": "p_bloomquist_kenneth",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "post_bluelake_002",
+      "type": "post",
+      "author": "Clair Fairchild",
+      "handle": "@clair_music",
+      "isoDate": "1977-01-19T10:30:00",
+      "displayDate": "Jan 19, 1977 • 10:30 AM",
+      "content": "Just finished discussing the European tour trip with Professor Bloomquist! I can't wait to represent Sparta on this goodwill tour. June 13th can't come soon enough!",
+      "person_id": "p_fairchild_clair",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_bank_001",
+      "type": "ad",
+      "sponsor": "Bank of Rockford",
+      "isoDate": "1977-01-19T11:00:00",
+      "displayDate": "Jan 19, 1977 • 11:00 AM",
+      "content": "When you're ready to fall in love with a new car, we have the money! Come to Bank of Rockford for new car financing. Processing is quick, service efficient. We care.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_harvesthill_001",
+      "type": "ad",
+      "sponsor": "Harvest Hill Apartments",
+      "isoDate": "1977-01-19T12:00:00",
+      "displayDate": "Jan 19, 1977 • 12:00 PM",
+      "content": "Now leasing in Rockford, Michigan! Quiet, scenic surroundings, spacious rooms, and laundry facilities. One Bedroom from $130/mo. Reserve now for March 1st occupancy!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_continental_001",
+      "type": "ad",
+      "sponsor": "The Continental Shoppe",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "Fine watches on sale! All Ladies & Men's Bulova Accutron's 1/2 OFF. All Hallmark Boxed Christmas Cards 1/2 OFF too! New winter hours: 9:30-5:00.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    },
+    {
+      "id": "ad_imrood_001",
+      "type": "ad",
+      "sponsor": "I.M. Rood & Co.",
+      "isoDate": "1977-01-19T14:00:00",
+      "displayDate": "Jan 19, 1977 • 2:00 PM",
+      "content": "For total office service, contact us at 1-800-442-2527. Office supplies & machine repair since 1925. Located in Greenville.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2025-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_504",
+      "first_name": "Kris",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_509",
+      "first_name": "Ethan Albert",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_grandpa_anderson",
+      "first_name": "Harold A.",
+      "last_name": "Anderson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_hessenius_louise",
+      "first_name": "Louise",
+      "last_name": "Hessenius",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_koopman_ron",
+      "first_name": "Ron",
+      "last_name": "Koopman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_crowley_edward",
+      "first_name": "Edward",
+      "last_name": "Crowley",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_roberts_charles",
+      "first_name": "Charles A.",
+      "last_name": "Roberts",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_hill_leona",
+      "first_name": "Leona",
+      "last_name": "Hill",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_johnson_marilyn",
+      "first_name": "Marilyn",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_bloomquist_kenneth",
+      "first_name": "Kenneth G.",
+      "last_name": "Bloomquist",
+      "has_photo": true,
+      "photo_coordinates": [
+        53,
+        492,
+        235,
+        635
+      ]
+    },
+    {
+      "id": "p_fairchild_clair",
+      "first_name": "Clair",
+      "last_name": "Fairchild",
+      "has_photo": true,
+      "photo_coordinates": [
+        53,
+        635,
+        235,
+        778
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,103 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-19",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "ad_kmart_001",
+      "type": "ad",
+      "sponsor": "Kmart",
+      "isoDate": "1977-01-19T09:00:00",
+      "displayDate": "Jan 19, 1977 • 9:00 AM",
+      "content": "Our JANUARY SALE starts today! Visit Kmart at 3175 Alpine Ave. Open daily 10-10, Sunday 10-6. Wed., Thurs., Fri., and Sat. only!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+    },
+    {
+      "id": "ad_kmart_002",
+      "type": "ad",
+      "sponsor": "Kmart",
+      "isoDate": "1977-01-19T10:15:00",
+      "displayDate": "Jan 19, 1977 • 10:15 AM",
+      "content": "Refresh your home with Lucite House Paint for just $8.88 a gallon! No primer needed on most surfaces, dries in an hour. Wall paint also on sale for $7.99.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+    },
+    {
+      "id": "post_renovator_001",
+      "type": "post",
+      "author": "Home Renovator",
+      "handle": "@renovator_01",
+      "isoDate": "1977-01-19T11:45:00",
+      "displayDate": "Jan 19, 1977 • 11:45 AM",
+      "content": "I've been waiting for the Lucite paint to go on sale. $8.88 for house paint is a steal, especially since it doesn't need a primer. Time to get that hallway finished!",
+      "person_id": "p_renovator_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+    },
+    {
+      "id": "ad_kmart_003",
+      "type": "ad",
+      "sponsor": "Kmart",
+      "isoDate": "1977-01-19T13:00:00",
+      "displayDate": "Jan 19, 1977 • 1:00 PM",
+      "content": "Get organized this year! Metal Filing Cabinets starting at $19.88. 4-drawer units with lock only $39.88. Check files and hanging folder files also available.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+    },
+    {
+      "id": "post_secretary_001",
+      "type": "post",
+      "author": "Local Secretary",
+      "handle": "@secretary_01",
+      "isoDate": "1977-01-19T14:30:00",
+      "displayDate": "Jan 19, 1977 • 2:30 PM",
+      "content": "Finally! I'm definitely showing the boss the Kmart ad for those 4-drawer filing cabinets. We're drowning in paperwork and $39.88 is well within the budget.",
+      "person_id": "p_secretary_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+    },
+    {
+      "id": "ad_kmart_004",
+      "type": "ad",
+      "sponsor": "Kmart",
+      "isoDate": "1977-01-19T16:00:00",
+      "displayDate": "Jan 19, 1977 • 4:00 PM",
+      "content": "SAVE ENERGY! Keep your home warmer this winter with Fiberglass Insulation. Our Reg. $6.89, now just $5.77 per roll. Each roll covers 70 sq. ft.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+    },
+    {
+      "id": "post_handyman_001",
+      "type": "post",
+      "author": "Local Handyman",
+      "handle": "@handyman_01",
+      "isoDate": "1977-01-19T18:15:00",
+      "displayDate": "Jan 19, 1977 • 6:15 PM",
+      "content": "Heading over to Alpine Ave tonight. Need to stock up on that fiberglass insulation while it's under 6 bucks a roll. Energy costs aren't getting any cheaper!",
+      "person_id": "p_handyman_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-19-1977%20-%20Page%2015-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_renovator_01",
+      "first_name": "Home",
+      "last_name": "Renovator",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_secretary_01",
+      "first_name": "Local",
+      "last_name": "Secretary",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_handyman_01",
+      "first_name": "Local",
+      "last_name": "Handyman",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

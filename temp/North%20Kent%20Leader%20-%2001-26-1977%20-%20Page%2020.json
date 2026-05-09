@@ -1,0 +1,252 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_001",
+      "type": "post",
+      "author": "Ron Menefee",
+      "handle": "@rmenefee_kc",
+      "isoDate": "1977-01-26T08:30:00",
+      "displayDate": "Jan 26, 1977 • 8:30 AM",
+      "content": "Starting the second semester with a really interesting new class on the 'Depression' taught by Mrs. Ebers. We're diving into Roosevelt and the New Deal—plus reading The Grapes of Wrath. This is going to be a fun nine weeks.",
+      "person_id": "p_kc_senior_01",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_002",
+      "type": "post",
+      "author": "Mrs. Ebers",
+      "handle": "@teacher_ebers",
+      "isoDate": "1977-01-26T09:15:00",
+      "displayDate": "Jan 26, 1977 • 9:15 AM",
+      "content": "I'm so excited to offer this American history interest class. Understanding the Depression is so vital, and I hope the students find 'The Grapes of Wrath' as moving as I do. It's going to be a great term!",
+      "person_id": "p_ebers",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_003",
+      "type": "post",
+      "author": "Bonnie Stuit",
+      "handle": "@bstuit_casnovia",
+      "isoDate": "1977-01-26T10:00:00",
+      "displayDate": "Jan 26, 1977 • 10:00 AM",
+      "content": "Calling all Title I parents! Stan Fortuna and I are hosting a workshop on February 3rd at the Middle School Library. We'll be making games and activities to use with your kids at home. See you there!",
+      "person_id": "p_stuit",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_004",
+      "type": "post",
+      "author": "Bob Sarachman",
+      "handle": "@coach_sarachman",
+      "isoDate": "1977-01-21T21:30:00",
+      "displayDate": "Jan 21, 1977 • 9:30 PM",
+      "content": "I have to be pleased when my team scores 87 points, but our defense could have been better. Still, a win is a win against Tri-County. Proud of the 8-1 conference record!",
+      "person_id": "p_coach_sarachman",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_005",
+      "type": "post",
+      "author": "Harry Kukla",
+      "handle": "@hkukla_11",
+      "isoDate": "1977-01-21T22:00:00",
+      "displayDate": "Jan 21, 1977 • 10:00 PM",
+      "content": "Led the scoring with 17 points tonight! Tri-County kept it close early, but we really pulled away in that second period. 10-2 overall now. Let's go Eagles!",
+      "person_id": "p_harry_kukla",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_006",
+      "type": "post",
+      "author": "John Doane",
+      "handle": "@jdoane_13",
+      "isoDate": "1977-01-21T22:15:00",
+      "displayDate": "Jan 21, 1977 • 10:15 PM",
+      "content": "Grabbed 13 rebounds and put up 15 points. Felt good to dominate the glass tonight against the Vikings. Huge team effort to hit 47% from the field.",
+      "person_id": "p_john_doane",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_007",
+      "type": "post",
+      "author": "Doug Weston",
+      "handle": "@dweston_32",
+      "isoDate": "1977-01-21T22:30:00",
+      "displayDate": "Jan 21, 1977 • 10:30 PM",
+      "content": "Hit double figures tonight with 11 points! Those early turnovers were a bit shaky, but we found our composure and turned it into a scoring spree.",
+      "person_id": "p_doug_weston",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_008",
+      "type": "post",
+      "author": "Jason Johnson",
+      "handle": "@jjohnson_25",
+      "isoDate": "1977-01-21T22:45:00",
+      "displayDate": "Jan 21, 1977 • 10:45 PM",
+      "content": "Focused on the move! Making my way through Tri-County's Tim Newton and McClurken. Every point counts when we're on a streak like this.",
+      "person_id": "p_jason_johnson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_009",
+      "type": "post",
+      "author": "Gary Flegel",
+      "handle": "@gflegel_sports",
+      "isoDate": "1977-01-21T23:00:00",
+      "displayDate": "Jan 21, 1977 • 11:00 PM",
+      "content": "Heartbreaker for the J.V. boys tonight. A 38-32 loss to Tri-County puts our record at 4-4. We struggled to find our mark in the second half, but the effort was there.",
+      "person_id": "p_gary_flegel",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_010",
+      "type": "post",
+      "author": "Dan Kragt",
+      "handle": "@dkragt_jv",
+      "isoDate": "1977-01-21T21:45:00",
+      "displayDate": "Jan 21, 1977 • 9:45 PM",
+      "content": "Dropped that basket right before the buzzer to give us a 2-point lead in the first! Wish we could've held onto that momentum through the fourth quarter though.",
+      "person_id": "p_dan_kragt",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "post_011",
+      "type": "post",
+      "author": "Steve Johnson",
+      "handle": "@sjohnson_jv",
+      "isoDate": "1977-01-21T22:50:00",
+      "displayDate": "Jan 21, 1977 • 10:50 PM",
+      "content": "Led the scoring for the J.V. team with 12 points, but Tri-County's six unanswered points in the fourth really hurt us. We'll bounce back next time.",
+      "person_id": "p_steve_johnson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "ad_001",
+      "type": "ad",
+      "sponsor": "Casnovia School Menu",
+      "isoDate": "1977-01-26T07:00:00",
+      "displayDate": "Jan 26, 1977 • 7:00 AM",
+      "content": "Next week's menu: Mon: Goulash, beans, bread, peanut butter bars. Tue: Lasagna, corn, bread, pears. Wed: Beef & Gravy, mashed potatoes, green beans, fruit cocktail. Thu: Bar-B-Ques, baked beans, cabbage salad, Jello. Fri: Creamed Tuna over biscuit, peas, peaches.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "ad_002",
+      "type": "ad",
+      "sponsor": "The North Kent Leader",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "The Sweetest Story Ever Told... A Valentine Photo. See this week's North Kent Leader for details!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    },
+    {
+      "id": "ad_003",
+      "type": "ad",
+      "sponsor": "Want Ads",
+      "isoDate": "1977-01-26T13:00:00",
+      "displayDate": "Jan 26, 1977 • 1:00 PM",
+      "content": "WANT ADS PACK POWER! Find what you're looking for in the Want Ads.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2020-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_kc_senior_01",
+      "first_name": "Ron",
+      "last_name": "Menefee",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_ebers",
+      "first_name": "Mrs.",
+      "last_name": "Ebers",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_stuit",
+      "first_name": "Bonnie",
+      "last_name": "Stuit",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_coach_sarachman",
+      "first_name": "Bob",
+      "last_name": "Sarachman",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_harry_kukla",
+      "first_name": "Harry",
+      "last_name": "Kukla",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_doane",
+      "first_name": "John",
+      "last_name": "Doane",
+      "has_photo": true,
+      "photo_coordinates": [650, 520, 915, 805]
+    },
+    {
+      "id": "p_doug_weston",
+      "first_name": "Doug",
+      "last_name": "Weston",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jason_johnson",
+      "first_name": "Jason",
+      "last_name": "Johnson",
+      "has_photo": true,
+      "photo_coordinates": [245, 235, 515, 510]
+    },
+    {
+      "id": "p_gary_flegel",
+      "first_name": "Gary",
+      "last_name": "Flegel",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_dan_kragt",
+      "first_name": "Dan",
+      "last_name": "Kragt",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_steve_johnson",
+      "first_name": "Steve",
+      "last_name": "Johnson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_val_photo",
+      "first_name": "Valentine",
+      "last_name": "Photo Model",
+      "has_photo": true,
+      "photo_coordinates": [745, 220, 915, 415]
+    },
+    {
+      "id": "p_brian_layer",
+      "first_name": "Brian",
+      "last_name": "Layer",
+      "has_photo": true,
+      "photo_coordinates": [650, 520, 915, 805]
+    }
+  ]
+}
+```

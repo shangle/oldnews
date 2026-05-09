@@ -1,0 +1,248 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+  },
+  "Feed": [
+    {
+      "id": "post_21_01",
+      "type": "post",
+      "author": "Jack S. Wilson",
+      "handle": "@JackWilsonTravel",
+      "isoDate": "1977-01-26T09:15:00",
+      "displayDate": "Jan 26, 1977 • 9:15 AM",
+      "content": "Skiing in Michigan this season has been all uphill! We are seeing record-breaking attendance reported throughout both peninsulas. Michigan winters are back in a big way.",
+      "person_id": "p_jack_wilson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_02",
+      "type": "post",
+      "author": "Michigan Resort Worker",
+      "handle": "@SlopeSideJobs",
+      "isoDate": "1977-01-26T10:45:00",
+      "displayDate": "Jan 26, 1977 • 10:45 AM",
+      "content": "The record crowds at the resorts are doing more than just filling the lifts—they're creating jobs. It's great to see such a positive effect on both seasonal and full-time employment here in the winter sports industry.",
+      "person_id": "p_resort_worker",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_03",
+      "type": "post",
+      "author": "Jordan West",
+      "handle": "@SolarJordan",
+      "isoDate": "1977-01-26T11:30:00",
+      "displayDate": "Jan 26, 1977 • 11:30 AM",
+      "content": "Our Solar I class was such a success this past fall that we're doing it again! Solar II starts tonight at Jordan College. If you want to be a leader in this multi-billion dollar energy industry, I'll see you in class.",
+      "person_id": "p_jordan_west",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_04",
+      "type": "post",
+      "author": "Jim Emery",
+      "handle": "@EmerySports",
+      "isoDate": "1977-01-25T21:30:00",
+      "displayDate": "Jan 25, 1977 • 9:30 PM",
+      "content": "Kent City Varsity absolutely annihilated North Muskegon tonight, 80-48. That’s five consecutive wins for the Eagles. Their shooting percentage was off the charts!",
+      "person_id": "p_jim_emery",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_05",
+      "type": "post",
+      "author": "John Doane",
+      "handle": "@DoaneTheDrain",
+      "isoDate": "1977-01-25T22:00:00",
+      "displayDate": "Jan 25, 1977 • 10:00 PM",
+      "content": "Felt good to contribute 17 points tonight, especially that 11-point run in the third stanza. We were really clicking as a team.",
+      "person_id": "p_john_doane",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_06",
+      "type": "post",
+      "author": "Doug Weston",
+      "handle": "@WestonBuckets",
+      "isoDate": "1977-01-25T22:15:00",
+      "displayDate": "Jan 25, 1977 • 10:15 PM",
+      "content": "Glad to keep the average up at 10.8 per game. Harry and I had a great rhythm in the first half, putting up 14 each to set the tone early.",
+      "person_id": "p_doug_weston",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_07",
+      "type": "post",
+      "author": "Harry Kukla",
+      "handle": "@KuklaDefense",
+      "isoDate": "1977-01-25T22:30:00",
+      "displayDate": "Jan 25, 1977 • 10:30 PM",
+      "content": "Defense leads to offense! Happy with my five steals tonight. We didn't just outscore them; we out-hustled them.",
+      "person_id": "p_harry_kukla",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "ad_21_01",
+      "type": "ad",
+      "sponsor": "Friendly Corners Restaurant",
+      "isoDate": "1977-01-26T12:00:00",
+      "displayDate": "Jan 26, 1977 • 12:00 PM",
+      "content": "It's about time!!! Visit Friendly Corners Restaurant, 2 miles west of Cedar Springs at 17 Mile and Algoma. Mitch Potes, Mgr. Reservations: 696-2040.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_08",
+      "type": "post",
+      "author": "Paper Drive Volunteer",
+      "handle": "@GreenChurch",
+      "isoDate": "1977-01-26T14:00:00",
+      "displayDate": "Jan 26, 1977 • 2:00 PM",
+      "content": "We need your old newspapers and magazines! Drop them off this Saturday, January 29, at the Church on Cannonsburg Rd. This drive is crucial for our insulation project. Help us stay warm!",
+      "person_id": "p_church_volunteer",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "ad_21_02",
+      "type": "ad",
+      "sponsor": "Wylie Imp. Co.",
+      "isoDate": "1977-01-26T15:30:00",
+      "displayDate": "Jan 26, 1977 • 3:30 PM",
+      "content": "Booms Red & White Top Silos - building better silos since 1929. Contact Wylie Imp. Co. in Kent City for an EARLY ORDER DISCOUNT. We also carry Harley stone pickers.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_09",
+      "type": "post",
+      "author": "Henry Bengelink",
+      "handle": "@SeeingTheUSA",
+      "isoDate": "1977-01-26T16:45:00",
+      "displayDate": "Jan 26, 1977 • 4:45 PM",
+      "content": "I'm looking forward to meeting with the Grand Rapids Ostomy Association next Tuesday! I'll be sharing a slide presentation titled 'Seeing the United States'. Hope to see you at the Kentwood Library.",
+      "person_id": "p_henry_bengelink",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "post_21_10",
+      "type": "post",
+      "author": "Florence Dickerson",
+      "handle": "@OstomySupportGR",
+      "isoDate": "1977-01-26T17:15:00",
+      "displayDate": "Jan 26, 1977 • 5:15 PM",
+      "content": "Join us for our next meeting on February 1st at 7 p.m. Henry Bengelink will be our guest speaker. All ostomies, family, and friends are welcome. Refreshments will be served!",
+      "person_id": "p_florence_dickerson",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "ad_21_03",
+      "type": "ad",
+      "sponsor": "Woodburner",
+      "isoDate": "1977-01-26T18:30:00",
+      "displayDate": "Jan 26, 1977 • 6:30 PM",
+      "content": "Say goodbye to big heating bills. Only Jotul has the 'slow burn' design. Save hundreds of dollars each year with our cast iron stoves. Visit us on Plainfield Ave.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    },
+    {
+      "id": "ad_21_04",
+      "type": "ad",
+      "sponsor": "Bank of Rockford",
+      "isoDate": "1977-01-26T20:00:00",
+      "displayDate": "Jan 26, 1977 • 8:00 PM",
+      "content": "Consolidated Report of Condition as of December 31, 1976. Total assets of $6,927,000. We are proud to serve our community with financial integrity. Member FDIC.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%2021.pdf"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_jack_wilson",
+      "first_name": "Jack",
+      "last_name": "Wilson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_resort_worker",
+      "first_name": "Michigan",
+      "last_name": "Resort Worker",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jordan_west",
+      "first_name": "Jordan",
+      "last_name": "West",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_jim_emery",
+      "first_name": "Jim",
+      "last_name": "Emery",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_john_doane",
+      "first_name": "John",
+      "last_name": "Doane",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_doug_weston",
+      "first_name": "Doug",
+      "last_name": "Weston",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_harry_kukla",
+      "first_name": "Harry",
+      "last_name": "Kukla",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_church_volunteer",
+      "first_name": "Paper Drive",
+      "last_name": "Coordinator",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_henry_bengelink",
+      "first_name": "Henry",
+      "last_name": "Bengelink",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_florence_dickerson",
+      "first_name": "Florence",
+      "last_name": "Dickerson",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mitch_potes",
+      "first_name": "Mitch",
+      "last_name": "Potes",
+      "has_photo": true,
+      "photo_coordinates": [
+        535,
+        68,
+        598,
+        106
+      ]
+    },
+    {
+      "id": "p_james_tower",
+      "first_name": "D. James",
+      "last_name": "Tower",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

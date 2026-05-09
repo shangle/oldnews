@@ -1,0 +1,166 @@
+```json
+{
+  "Metadata": {
+    "Publication": "The North Kent Leader",
+    "Date": "1977-01-26",
+    "Source_URL": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+  },
+  "Feed": [
+    {
+      "id": "post_p012_1",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-26T07:30:00",
+      "displayDate": "Jan 26, 1977 • 7:30 AM",
+      "content": "I have fought a good fight, I have finished my course, I have kept the faith. (II Timothy 4:7)",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "post_p012_2",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-26T07:35:00",
+      "displayDate": "Jan 26, 1977 • 7:35 AM",
+      "content": "Just keep on keeping on! It may be a rather trite statement, but it is pungent with truth, nevertheless. There is no place for cowardice or weak-hearted soldiers in God's army.",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "post_p012_3",
+      "type": "post",
+      "author": "Pauline E. Spray",
+      "handle": "@PaulineSpray",
+      "isoDate": "1977-01-26T07:40:00",
+      "displayDate": "Jan 26, 1977 • 7:40 AM",
+      "content": "Prayer: O Lord, teach me to overcome the humiliation that my mistakes bring. Help me to accept the fact that all finite mortals are subject to them. Enable me to turn criticisms into challenges and to meet life's tests victoriously. Amen.",
+      "person_id": "p_012",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "ad_ravenna_prices",
+      "type": "ad",
+      "sponsor": "Ravenna Livestock Sale",
+      "isoDate": "1977-01-24T09:00:00",
+      "displayDate": "Jan 24, 1977 • 9:00 AM",
+      "content": "Market Report for Jan 24th: Beef Steers & Heifers at 39.50, Beef Cows 28.50, Hogs 40.75. Hay up to 1.80 a bale. Join us every Monday!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "post_cowherd_solar",
+      "type": "post",
+      "author": "Robyn Cowherd",
+      "handle": "@RobynCowherd",
+      "isoDate": "1977-01-26T10:15:00",
+      "displayDate": "Jan 26, 1977 • 10:15 AM",
+      "content": "I am so excited to show off our solar structure here at Jordan College! We're running demonstrations Monday through Thursday from 9 a.m. to 2 p.m. It's a great opportunity for school groups or seniors to see the future of energy.",
+      "person_id": "p_cowherd_r",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "post_mlavsky_quote",
+      "type": "post",
+      "author": "Doctor Mlavsky",
+      "handle": "@DrMlavsky",
+      "isoDate": "1977-01-26T10:45:00",
+      "displayDate": "Jan 26, 1977 • 10:45 AM",
+      "content": "If we want to have solar energy in our society by the year 2000, we've got to begin today; otherwise, we'll never have a solar revolution.",
+      "person_id": "p_mlavsky",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "ad_daisy_place_sale",
+      "type": "ad",
+      "sponsor": "The Daisy Place",
+      "isoDate": "1977-01-26T11:30:00",
+      "displayDate": "Jan 26, 1977 • 11:30 AM",
+      "content": "GIGANTIC CLEARANCE SALE! Selected Fabrics, Single & Double Knits. Buy 2 yds. - get 3rd yard for 1 cent! It's hard for a 'little' store to have a sale this big, but we're doing it!!",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "post_clark_promotion",
+      "type": "post",
+      "author": "Joseph Clark",
+      "handle": "@JoeClark",
+      "isoDate": "1977-01-26T16:00:00",
+      "displayDate": "Jan 26, 1977 • 4:00 PM",
+      "content": "I'm officially moving into the loan department at Sparta State Bank! It's been a great journey since I joined in '73, and I'm looking forward to this new role after my time as head teller.",
+      "person_id": "p_clark_j",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "post_clark_home",
+      "type": "post",
+      "author": "Sheila Clark",
+      "handle": "@SheilaClark",
+      "isoDate": "1977-01-26T18:30:00",
+      "displayDate": "Jan 26, 1977 • 6:30 PM",
+      "content": "Joe and I finally purchased a home in his hometown of Casnovia! We'll be commuting to the bank from there soon. It's so exciting to finally be homeowners.",
+      "person_id": "p_clark_s",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "ad_sparta_bank_services",
+      "type": "ad",
+      "sponsor": "Sparta State Bank",
+      "isoDate": "1977-01-26T09:00:00",
+      "displayDate": "Jan 26, 1977 • 9:00 AM",
+      "content": "Are You Using ALL OF OUR SERVICES? Checking, Savings, Loans, Money Orders, Travelers Checks, and more. Community centered banking since 1898.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    },
+    {
+      "id": "ad_rotary_bingo",
+      "type": "ad",
+      "sponsor": "Sparta Rotary Club",
+      "isoDate": "1977-01-26T19:00:00",
+      "displayDate": "Jan 26, 1977 • 7:00 PM",
+      "content": "BINGO tonight and every Thursday at 7 PM! Join us at the BEE HIVE in Sparta. Supported by your local Rotary.",
+      "sourcePdf": "temp/North%20Kent%20Leader%20-%2001-26-1977%20-%20Page%202-1.jpg"
+    }
+  ],
+  "People": [
+    {
+      "id": "p_012",
+      "first_name": "Pauline",
+      "last_name": "Spray",
+      "has_photo": true,
+      "photo_coordinates": [
+        45,
+        256,
+        140,
+        363
+      ]
+    },
+    {
+      "id": "p_cowherd_r",
+      "first_name": "Robyn",
+      "last_name": "Cowherd",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_mlavsky",
+      "first_name": "Doctor",
+      "last_name": "Mlavsky",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_clark_j",
+      "first_name": "Joseph",
+      "last_name": "Clark",
+      "has_photo": false,
+      "photo_coordinates": null
+    },
+    {
+      "id": "p_clark_s",
+      "first_name": "Sheila",
+      "last_name": "Clark",
+      "has_photo": false,
+      "photo_coordinates": null
+    }
+  ]
+}
+```

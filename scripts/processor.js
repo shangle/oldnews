@@ -1,6 +1,6 @@
 const fs = require('fs-extra');
 const path = require('path');
-const { execSync } = require('child_process');
+const sharp = require('sharp');
 
 async function processOutput(aiJsonPath, imagePath, sourceUrl) {
     let rawData = "";
@@ -11,11 +11,9 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
         process.exit(1);
     }
     
-    // Strip markdown code blocks if present
     const cleanedData = rawData.replace(/^```json\s*/, '').replace(/```\s*$/, '').trim();
-    
     if (!cleanedData) {
-        console.error("CRITICAL: AI output is empty. Gemini may have failed to generate content or was rate-limited.");
+        console.error("CRITICAL: AI output is empty.");
         process.exit(1);
     }
 
@@ -23,103 +21,98 @@ async function processOutput(aiJsonPath, imagePath, sourceUrl) {
     try {
         aiData = JSON.parse(cleanedData);
     } catch (e) {
-        console.error("CRITICAL: Failed to parse AI JSON. Raw output saved to temp/error_log.txt for inspection.");
+        console.error("CRITICAL: Failed to parse AI JSON.");
         await fs.writeFile('temp/error_log.txt', rawData);
         process.exit(1);
     }
 
-    const masterPath = path.join(__dirname, '../data/master.json');
+    // Paths
+    const dataDir = path.join(__dirname, '../data');
+    const extractedDir = path.join(dataDir, 'extracted');
+    const generatedDir = path.join(dataDir, 'generated');
+    const assetsDir = path.join(__dirname, '../assets');
+
+    // 1. Source Anchoring & Page Indexing
+    const metadata = aiData.Metadata || {};
+    metadata.Source_URL = sourceUrl;
+    metadata.Source_Type = metadata.Source_Type || "newspaper";
+    const pageId = `page_${metadata.Date}_${sourceUrl.split('-').pop().replace('.pdf', '')}`;
     
-    let master = {
-        Feed: [],
-        People: [],
-        Organizations: [],
-        Locations: [],
-        Sources: []
-    };
+    await fs.appendFile(path.join(extractedDir, 'pages.jsonl'), JSON.stringify({ id: pageId, ...metadata }) + '\n');
 
-    if (await fs.pathExists(masterPath)) {
-        master = await fs.readJson(masterPath);
-        if (!master.Feed) master.Feed = [];
-    }
+    // 2. Image Processing (using Sharp)
+    const imgMetadata = await sharp(imagePath).metadata();
+    const { width, height } = imgMetadata;
 
-    // Inject Source URL into Metadata
-    if (!aiData.Metadata) aiData.Metadata = {};
-    aiData.Metadata.Source_URL = sourceUrl;
-    master.Sources.push(aiData.Metadata);
-
-    // Detect available ImageMagick command
-    let imCommand = 'convert';
-    let idCommand = 'identify';
-    try {
-        execSync('magick -version', { stdio: 'ignore' });
-        imCommand = 'magick';
-        idCommand = 'magick identify';
-    } catch (e) {
-        // Fallback to IM6
-    }
-
-    // Get image dimensions
-    let width, height;
-    try {
-        const info = execSync(`${idCommand} -format "%w %h" "${imagePath}"`).toString().trim().split(' ');
-        width = parseInt(info[0]);
-        height = parseInt(info[1]);
-    } catch (e) {
-        console.error("Warning: Could not get image dimensions.");
-    }
-
-    const photoMap = {};
-
-    // 1. Process People & Crop Photos
-    if (aiData.People) {
-        for (const person of aiData.People) {
-            if (person.has_photo && person.photo_coordinates && width && height) {
-                const [ymin, xmin, ymax, xmax] = person.photo_coordinates;
+    if (aiData.Entities) {
+        for (const entity of aiData.Entities) {
+            if (entity.has_photo && entity.photo_coordinates) {
+                const [ymin, xmin, ymax, xmax] = entity.photo_coordinates;
                 const cropY = Math.round((ymin / 1000) * height);
                 const cropX = Math.round((xmin / 1000) * width);
                 const cropW = Math.round(((xmax - xmin) / 1000) * width);
                 const cropH = Math.round(((ymax - ymin) / 1000) * height);
 
-                const photoPath = path.join(__dirname, `../assets/people/${person.id}.jpg`);
-                try {
-                    console.log(`Cropping photo for ${person.id}...`);
-                    execSync(`${imCommand} "${imagePath}" -crop ${cropW}x${cropH}+${cropX}+${cropY} -quality 85 "${photoPath}"`);
-                    photoMap[person.id] = `/oldnews/assets/people/${person.id}.jpg`;
-                } catch (e) {
-                    console.error(`Crop failed for ${person.id}: ${e.message}`);
-                }
-            }
+                const subDir = entity.type === 'person' ? 'people' : 'objects';
+                const fileName = `${entity.id}.webp`;
+                const destPath = path.join(assetsDir, subDir, fileName);
 
-            // Sync person to master
-            const existingIdx = master.People.findIndex(p => p.id === person.id);
-            if (existingIdx === -1) {
-                master.People.push(person);
-            } else if (photoMap[person.id]) {
-                master.People[existingIdx].has_photo = true;
-                master.People[existingIdx].photo_url = photoMap[person.id];
+                console.log(`📸 Extracting ${entity.type} image: ${entity.id}`);
+                await sharp(imagePath)
+                    .extract({ left: cropX, top: cropY, width: cropW, height: cropH })
+                    .webp({ quality: 80 })
+                    .toFile(destPath);
+                
+                entity.photo_url = `/assets/${subDir}/${fileName}`;
             }
+            // Append to Extracted Truth
+            await fs.appendFile(path.join(extractedDir, 'entities.jsonl'), JSON.stringify({ ...entity, page_id: pageId }) + '\n');
         }
     }
 
-    // 2. Process Feed & Link Photos
-    if (aiData.Feed) {
-        aiData.Feed.forEach(item => {
-            item.sourcePdf = sourceUrl;
-            if (item.type === 'post' && item.person_id) {
-                const person = master.People.find(p => p.id === item.person_id);
-                if (photoMap[item.person_id]) {
-                    item.imageUrl = photoMap[item.person_id];
-                } else if (person && person.photo_url) {
-                    item.imageUrl = person.photo_url;
-                }
-            }
-            master.Feed.push(item);
-        });
+    // 3. Fact Extraction
+    if (aiData.Facts) {
+        for (const fact of aiData.Facts) {
+            await fs.appendFile(path.join(extractedDir, 'facts.jsonl'), JSON.stringify({ ...fact, page_id: pageId }) + '\n');
+        }
     }
 
-    await fs.writeJson(masterPath, master, { spaces: 2 });
-    console.log(`Master database updated with ${aiData.Feed ? aiData.Feed.length : 0} items.`);
+    // 4. Feed Items (Derived for UI)
+    if (aiData.Feed) {
+        const feedPath = path.join(generatedDir, 'feed_items.generated.json');
+        let currentFeed = [];
+        if (await fs.pathExists(feedPath)) currentFeed = await fs.readJson(feedPath);
+        
+        const newItems = aiData.Feed.map(item => ({
+            ...item,
+            sourcePdf: sourceUrl,
+            page_id: pageId
+        }));
+
+        currentFeed.push(...newItems);
+        await fs.writeJson(feedPath, currentFeed, { spaces: 2 });
+    }
+
+    // 5. Update Legacy master.json (Backward Compatibility)
+    // We will keep updating this for now so the current viewer doesn't break
+    const masterPath = path.join(dataDir, 'master.json');
+    if (await fs.pathExists(masterPath)) {
+        const master = await fs.readJson(masterPath);
+        master.Sources.push(metadata);
+        if (aiData.Entities) {
+            aiData.Entities.forEach(e => {
+                if (e.type === 'person') {
+                    const idx = master.People.findIndex(p => p.id === e.id);
+                    if (idx === -1) master.People.push(e);
+                    else master.People[idx] = { ...master.People[idx], ...e };
+                }
+            });
+        }
+        if (aiData.Feed) master.Feed.push(...aiData.Feed);
+        await fs.writeJson(masterPath, master, { spaces: 2 });
+    }
+
+    console.log(`✅ Pipeline processed ${pageId}.`);
 }
 
 const args = process.argv.slice(2);

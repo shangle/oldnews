@@ -1,36 +1,41 @@
-# 📰 The Historical Feed (Sparta Pipeline)
+# 📰 The Historical Knowledge Graph (Sparta Pipeline)
 
-Transforming archival newspaper scans into an immersive, chronological "social media" feed.
+Transforming archival newspaper scans into an atomic knowledge graph and an immersive, first-person narrative feed.
 
 ## 🚀 Core Methodology: "The Rashomon Effect"
 This project deconstructs static historical articles into multiple, first-person "status updates" from the perspectives of the people involved.
 
-- **Deconstruction**: Articles are broken into 5-7 distinct posts.
-- **Perspective**: Third-person reporting is converted into first-person updates.
-- **Quotes**: Every direct quote becomes a standalone post by the person who said it.
-- **Chronological Logic**: Fabrication of exact ISO timestamps based on the article's context (e.g., "last Thursday evening").
+- **Knowledge Graph**: Every person, place, organization, and object is indexed as a canonical entity.
+- **Atomic Facts**: Observations are extracted as verifiable triples (Subject-Predicate-Object) anchored to the source.
+- **Deconstruction**: Narrative articles are broken into distinct, first-person social media updates.
+- **Chronological Logic**: Fabrication of logical ISO timestamps based on article context (e.g., "last Tuesday evening").
+
+## 🏛 Data Architecture: Source of Truth
+We have moved from a single `master.json` to a multi-layered Source-of-Truth model:
+- **`data/extracted/`**: The canonical truth (JSONL). Contains `pages.jsonl`, `entities.jsonl`, and `facts.jsonl`.
+- **`data/generated/`**: Optimized JSON derived from the truth layer for UI performance.
+- **Validation**: Strict integrity checks via `npm run validate:data` to ensure citation chains and entity resolution.
 
 ## 🛠 Tech Stack
 - **Ingestion**: Bash + Node.js
 - **Intelligence**: Gemini CLI (`gemini-2.0-flash`) for Vision and Text deconstruction.
-- **Image Processing**: ImageMagick for automated spatial detection and portrait cropping.
-- **Frontend**: React (TypeScript) with a custom CSS "Premium Gradient" avatar system.
+- **Image Processing**: **Sharp** for high-performance WebP extraction and compression of faces, ads, and landmarks.
+- **Frontend**: React (TypeScript) for the narrative viewer and graph explorer.
 
 ## 📁 Repository Structure
-- `/scripts`: The core automation pipeline (prompt preparation, JSON processing).
-- `/data`: `master.json` - The normalized knowledge graph of Sparta history.
-- `/assets`: Cropped portraits and original archival assets.
-- `/viewer`: The React application that renders the social feed.
-- `batch-process.sh`: Script to loop through a directory of archival PDFs.
-- `run-pipeline.sh`: The main orchestrator for a single document.
+- `/scripts`: The core pipeline (migration, validation, and AI processing).
+- `/data`: Structured storage for extracted truth and generated assets.
+- `/assets`: WebP-optimized assets categorized by entity type.
+- `/viewer`: The React application.
+- `watchdog.sh`: Monitoring script to ensure 24/7 processing uptime.
 
 ## 🛰 How it Works
-1. **Download**: Fetches archival PDFs from `spartahistory.org`.
-2. **Vision Analysis**: Gemini CLI analyzes the page for text and spatial coordinates of portraits.
-3. **Deconstruction**: The AI generates a relational JSON of posts, ads, and people.
-4. **Cropping**: ImageMagick crops faces out of the high-res scan using AI coordinates.
-5. **Merge**: Data is merged into the master database while resolving duplicate entities.
-6. **Deploy**: The React viewer builds a chronological timeline.
+1. **Ingest**: Fetches archival PDFs and converts them to high-res images.
+2. **Analyze**: Gemini CLI performs Open NER and atomic fact extraction.
+3. **Anchor**: Every fact and entity is linked to a specific page ID and bounding box.
+4. **Extract**: Sharp crops and compresses visual entities (people, products, buildings).
+5. **Synthesize**: The AI transforms extracted facts into first-person narrative posts.
+6. **Validate**: The pipeline ensures data integrity before updating the viewer.
 
 ---
-*Created to preserve and increase the visibility of Sparta Township's history in an AI-powered world.*
+*Created to preserve and index every fact of Sparta Township's history in an AI-native architecture.*

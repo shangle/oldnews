@@ -4,9 +4,11 @@
   "description": "Automated pipeline for extracting historical data from newspaper scans.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate:data": "node scripts/validate-data.js"
   },
   "dependencies": {
-    "fs-extra": "^11.1.1"
+    "fs-extra": "^11.1.1",
+    "sharp": "^0.34.5"
   }
 }

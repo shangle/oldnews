@@ -1,79 +1,110 @@
 import React from 'react';
 import './FeedItem.css';
-import { FeedItem as FeedItemType } from '../types';
+import { FeedItem as FeedItemType, Person } from '../types';
+
+interface Category {
+    label: string;
+    className: string;
+}
 
 interface Props {
     item: FeedItemType;
+    person?: Person;
+    category: Category;
+    headline: string;
+    summary: string;
+    sourceTitle: string;
+    confidence: number;
+    isSelected?: boolean;
+    isSaved?: boolean;
+    onOpenDetails: (item: FeedItemType) => void;
+    onSelectAuthor: (personId: string) => void;
+    onToggleSave: (item: FeedItemType) => void;
 }
 
-const FeedItem: React.FC<Props> = ({ item }) => {
-    const isAd = item.type === 'ad';
-    
-    const getInitials = (name: string) => {
-        return name.split(' ').map(n => n[0]).join('').toUpperCase().slice(0, 2);
-    };
+const resolveAssetUrl = (url?: string) => {
+    if (!url) {
+        return '';
+    }
 
-    const getGradient = (name: string) => {
-        const hash = name.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
-        const index = hash % 20;
-        const gradients = [
-            'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-            'linear-gradient(135deg, #ff9a9e 0%, #fecfef 99%, #fecfef 100%)',
-            'linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%)',
-            'linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)',
-            'linear-gradient(135deg, #cfd9df 0%, #e2ebf0 100%)',
-            'linear-gradient(135deg, #a6c0fe 0%, #f68084 100%)',
-            'linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)',
-            'linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)',
-            'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
-            'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
-            'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
-            'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
-            'linear-gradient(135deg, #30cfd0 0%, #330867 100%)',
-            'linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)',
-            'linear-gradient(135deg, #5ee7df 0%, #b490ca 100%)',
-            'linear-gradient(135deg, #d299c2 0%, #fef9d7 100%)',
-            'linear-gradient(135deg, #f6d365 0%, #fda085 100%)',
-            'linear-gradient(135deg, #f067b4 0%, #81ffef 100%)',
-            'linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)',
-            'linear-gradient(135deg, #ff9a9e 0%, #f6d365 100%)'
-        ];
-        return gradients[index];
-    };
+    if (/^https?:\/\//i.test(url)) {
+        return url;
+    }
+
+    const publicUrl = (process.env.PUBLIC_URL || '').replace(/\/$/, '');
+    const path = url.replace(/^\/oldnews/i, '');
+    return `${publicUrl}${path.startsWith('/') ? path : `/${path}`}`;
+};
+
+const FeedItem: React.FC<Props> = ({
+    item,
+    person,
+    category,
+    headline,
+    summary,
+    sourceTitle,
+    confidence,
+    isSelected = false,
+    isSaved = false,
+    onOpenDetails,
+    onSelectAuthor,
+    onToggleSave,
+}) => {
+    const isAd = item.type === 'ad';
+    const displayName = isAd ? item.sponsor || 'Advertisement' : item.author || 'Unknown resident';
+    const imageUrl = resolveAssetUrl(item.imageUrl || person?.photo_url);
 
     return (
-        <div className={`feed-item ${item.type}`}>
-            <div className="avatar-container">
-                {isAd ? (
-                    <div className="ad-avatar">Ad</div>
-                ) : item.imageUrl ? (
-                    <img src={item.imageUrl} alt={item.author} className="avatar-img" />
-                ) : (
-                    <div 
-                        className="avatar-gradient" 
-                        style={{ background: getGradient(item.author || '') }}
-                    >
-                        {getInitials(item.author || '')}
-                    </div>
-                )}
+        <article className={`feed-item ${isSelected ? 'selected' : ''}`}>
+            <div className="record-main">
+                <div className="record-meta">
+                    <span className={`mini-tag ${category.className}`}>{category.label}</span>
+                    <span>{item.displayDate}</span>
+                </div>
+
+                <button
+                    className="record-title"
+                    type="button"
+                    onClick={() => onOpenDetails(item)}
+                >
+                    {headline}
+                </button>
+
+                <p>{summary}</p>
+
+                <div className="record-source">
+                    <span>{displayName}</span>
+                    <span>{sourceTitle}</span>
+                    <span>{item.id}</span>
+                </div>
+
+                <div className="record-actions">
+                    <button type="button" onClick={() => onOpenDetails(item)}>Evidence</button>
+                    <a href={item.sourcePdf} target="_blank" rel="noopener noreferrer">Open Original</a>
+                    {item.person_id && (
+                        <button type="button" onClick={() => onSelectAuthor(item.person_id || '')}>
+                            Person
+                        </button>
+                    )}
+                    <button type="button" className={isSaved ? 'saved' : ''} onClick={() => onToggleSave(item)}>
+                        {isSaved ? 'Saved' : 'Save'}
+                    </button>
+                </div>
             </div>
-            <div className="content-container">
-                <div className="header">
-                    <span className="author">{isAd ? item.sponsor : item.author}</span>
-                    {!isAd && <span className="handle">{item.handle}</span>}
-                    <span className="dot">·</span>
-                    <span className="date">{item.displayDate}</span>
-                </div>
-                <div className="body">
-                    {item.content}
-                </div>
-                <div className="footer">
-                    <a href={item.sourcePdf} target="_blank" rel="noopener noreferrer" className="source-link">
-                        View Source Document
-                    </a>
-                </div>
+
+            <button className="clipping-thumb" type="button" onClick={() => onOpenDetails(item)} aria-label={`Open evidence for ${headline}`}>
+                {imageUrl ? <img src={imageUrl} alt={displayName} /> : null}
+                <span>{category.label}</span>
+                <strong>{headline}</strong>
+                <i />
+                <i />
+                <i />
+            </button>
+
+            <div className="record-proof" aria-label={`Confidence ${confidence}%`}>
+                <span>{confidence}%</span>
             </div>
-        </div>
+        </article>
     );
 };
 

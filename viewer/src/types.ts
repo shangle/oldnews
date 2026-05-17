@@ -5,6 +5,7 @@ export interface Person {
     nickname?: string;
     maiden_name?: string;
     has_photo?: boolean;
+    photo_coordinates?: [number, number, number, number] | null;
     photo_url?: string;
 }
 
@@ -22,10 +23,16 @@ export interface FeedItem {
     sourcePdf: string;
 }
 
+export interface Source {
+    Publication: string;
+    Date: string;
+    Source_URL: string;
+}
+
 export interface MasterData {
     Feed: FeedItem[];
     People: Person[];
     Organizations: any[];
     Locations: any[];
-    Sources: any[];
+    Sources: Source[];
 }

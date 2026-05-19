@@ -1,0 +1,449 @@
+{"id":"p_001","first_name":"Alvin","last_name":"Rogers","has_photo":true,"photo_coordinates":[250,75,420,315],"photo_url":"/oldnews/assets/people/p_001.jpg","entity_type":"person"}
+{"id":"p_002","first_name":"Elinor","last_name":"Olin","has_photo":true,"photo_coordinates":[250,75,420,315],"photo_url":"/oldnews/assets/people/p_002.jpg","entity_type":"person"}
+{"id":"p_003","first_name":"Suzy","last_name":"Weston","has_photo":true,"photo_coordinates":[250,75,420,315],"photo_url":"/oldnews/assets/people/p_003.jpg","entity_type":"person"}
+{"id":"p_004","first_name":"Emil","last_name":"Kober","has_photo":true,"photo_coordinates":[250,520,435,895],"photo_url":"/oldnews/assets/people/p_004.jpg","entity_type":"person"}
+{"id":"p_005","first_name":"Merritt","last_name":"Nelson","has_photo":true,"photo_coordinates":[250,520,435,895],"photo_url":"/oldnews/assets/people/p_005.jpg","entity_type":"person"}
+{"id":"p_008","first_name":"Clark","last_name":"Wooten","has_photo":true,"photo_coordinates":[630,110,795,310],"photo_url":"/oldnews/assets/people/p_008.jpg","entity_type":"person"}
+{"id":"p_009","first_name":"Cora","last_name":"Wooten","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_010","first_name":"Lela","last_name":"Peck","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_011","first_name":"Bob","last_name":"Stiles","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_012","first_name":"Pauline","last_name":"Spray","has_photo":true,"photo_coordinates":[63,278,135,351],"photo_url":"/oldnews/assets/people/p_012.jpg","entity_type":"person"}
+{"id":"p_013","first_name":"Raymond","last_name":"Kennedy","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_014","first_name":"Logan","last_name":"Cox","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_101","first_name":"Jim","last_name":"White","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_102","first_name":"Jackie","last_name":"Newkirk","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_103","first_name":"Sarah","last_name":"Miller","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_201","first_name":"Linda","last_name":"Bradford","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_202","first_name":"Jim","last_name":"Bradford","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_204","first_name":"John","last_name":"Haaksma","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_206","first_name":"Norma Ann","last_name":"Thompson","has_photo":true,"photo_coordinates":[73,655,256,922],"entity_type":"person"}
+{"id":"p_207","first_name":"Steven Dean","last_name":"Jordan","has_photo":true,"photo_coordinates":[73,655,256,922],"entity_type":"person"}
+{"id":"p_208","first_name":"Russell","last_name":"Thompson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_210","first_name":"Farm Bureau","last_name":"Spokesperson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_211","first_name":"Charter","last_name":"Member","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_301","first_name":"Nancy","last_name":"Afton","has_photo":true,"photo_coordinates":[117,213,222,345],"entity_type":"person"}
+{"id":"p_302","first_name":"Arden","last_name":"Afton","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_304","first_name":"Robert","last_name":"Smith","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_305","first_name":"Sherly","last_name":"Cole","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_306","first_name":"John","last_name":"Mason","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_307","first_name":"Jack","last_name":"Crown","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_308","first_name":"Vern","last_name":"Buffin","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_310","first_name":"Albert","last_name":"Hanna","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_314","first_name":"CB Radio","last_name":"Enthusiast","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_401","first_name":"Mike","last_name":"Matthews","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_402","first_name":"Norma","last_name":"Smith","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_403","first_name":"Marjorie","last_name":"Lake","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_404","first_name":"Marilyn","last_name":"Wells","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_405","first_name":"Mary","last_name":"Pike","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_406","first_name":"Rob","last_name":"Barnes","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_407","first_name":"C.","last_name":"Sparks","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_408","first_name":"T.","last_name":"Afton","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_409","first_name":"Dave","last_name":"Steck","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_411","first_name":"Single & Sharing","last_name":"Attendee","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_412","first_name":"Henry W.","last_name":"Block","has_photo":true,"photo_coordinates":[201,93,258,185],"photo_url":"/oldnews/assets/people/p_412.jpg","entity_type":"person"}
+{"id":"p_413","first_name":"Bob","last_name":"Zimdar","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_414","first_name":"Joie","last_name":"Thomas","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_415","first_name":"Laura","last_name":"Crouch","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_bigl_mascot","first_name":"Big L","last_name":"Mascot","has_photo":true,"photo_coordinates":[848,807,946,905],"entity_type":"person"}
+{"id":"p_renovator_01","first_name":"Home","last_name":"Renovator","has_photo":true,"photo_coordinates":[318,836,381,916],"entity_type":"person"}
+{"id":"p_handyman_01","first_name":"Local","last_name":"Handyman","has_photo":true,"photo_coordinates":[546,357,667,558],"entity_type":"person"}
+{"id":"p_416","first_name":"H.R.","last_name":"Aslakson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_417","first_name":"Oswald J.","last_name":"Hoffman","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_418","first_name":"Rally","last_name":"Volunteer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_419","first_name":"Muskegon","last_name":"Local","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_420","first_name":"Radio","last_name":"Enthusiast","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_421","first_name":"K. A.","last_name":"Shangle","has_photo":true,"photo_coordinates":[55,70,140,168],"entity_type":"person"}
+{"id":"p_422","first_name":"Donie","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_423","first_name":"Joan","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_janet_streeter","first_name":"Janet","last_name":"Streeter","has_photo":true,"photo_coordinates":[34,831,134,953],"photo_url":"/oldnews/assets/people/p_janet_streeter.jpg","entity_type":"person"}
+{"id":"p_pet_owner_01","first_name":"Local Pet","last_name":"Owner","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jordan_west","first_name":"Jordan","last_name":"West","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_richard_snowdin","first_name":"Richard","last_name":"Snowdin","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mustang_owner","first_name":"Classic Car","last_name":"Owner","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_billy_shafer","first_name":"Billy Kenneth","last_name":"Shafer","has_photo":true,"photo_coordinates":[647,517,746,597],"entity_type":"person"}
+{"id":"p_nora_morgan","first_name":"Nora","last_name":"Morgan","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_william_axford","first_name":"William","last_name":"Axford","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_gary_congdon","first_name":"Gary","last_name":"Congdon","has_photo":true,"photo_coordinates":null,"photo_url":"/oldnews/assets/people/p_gary_congdon.jpg","entity_type":"person"}
+{"id":"p_advisor","first_name":"Friendly","last_name":"Ad-Visor","has_photo":true,"photo_coordinates":[853,787,915,871],"photo_url":"/oldnews/assets/people/p_advisor.jpg","entity_type":"person"}
+{"id":"p_donald_kaiser","first_name":"Donald","last_name":"Kaiser","has_photo":true,"photo_coordinates":[383,792,532,940],"entity_type":"person"}
+{"id":"p_arzie_pinckney","first_name":"Arzie","last_name":"Pinckney","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dr_alexander","first_name":"Arden","last_name":"Alexander","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_richard_saur","first_name":"Richard","last_name":"Saur","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_lois_winner","first_name":"Lois","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_501","first_name":"Helen","last_name":"Maleski","has_photo":true,"photo_coordinates":[45,23,225,305],"entity_type":"person"}
+{"id":"p_502","first_name":"Craig","last_name":"Johnson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_503","first_name":"Henry","last_name":"Good","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_504","first_name":"Kris","last_name":"Anderson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_505","first_name":"Janette","last_name":"Buhl","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_506","first_name":"Jim","last_name":"Hosmer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_507","first_name":"Sally","last_name":"Voegeli","has_photo":true,"photo_coordinates":[505,28,615,126],"photo_url":"/oldnews/assets/people/p_507.jpg","entity_type":"person"}
+{"id":"p_508","first_name":"Barbara","last_name":"Rosalee Good","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_509","first_name":"Ethan","last_name":"Albert Anderson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_601","first_name":"Betty","last_name":"C.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_602","first_name":"Helen","last_name":"B.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_603","first_name":"Berle","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_604","first_name":"Maria","last_name":"B.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_605","first_name":"Connie","last_name":"S.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_606","first_name":"Elaine","last_name":"J.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_607","first_name":"Ardele","last_name":"F.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_608","first_name":"Loveland Real Estate","last_name":"Agent","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_vera_m","first_name":"Vera","last_name":"Matteson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_claude_m","first_name":"Claude","last_name":"Matteson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_frank_vh","first_name":"Frank J.","last_name":"Vanden Heuvel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jane_vh","first_name":"Jane","last_name":"Vanden Heuvel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_ford_mb","first_name":"Ford J.","last_name":"McBride","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_joyce_mb","first_name":"Joyce","last_name":"McBride","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_william_r","first_name":"William G.","last_name":"Reaman","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_cora_r","first_name":"Cora","last_name":"Reaman","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_lorrene_a","first_name":"Lorrene L.","last_name":"Anderson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_john_a","first_name":"John","last_name":"Anderson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_701","first_name":"Wayne","last_name":"Van Gessel","has_photo":true,"photo_coordinates":[485,544,588,655],"entity_type":"person"}
+{"id":"p_702","first_name":"Fred","last_name":"Chambers","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_703","first_name":"Edward","last_name":"Soderstrom","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_704","first_name":"Leonard","last_name":"Sleutel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_705","first_name":"Paul","last_name":"Gibson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_706","first_name":"Larry","last_name":"Fogle","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_707","first_name":"Clara","last_name":"Nickolie","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_708","first_name":"Elvin","last_name":"Simons","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_709","first_name":"Albert","last_name":"Hale","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_710","first_name":"Gene","last_name":"Taylor","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_711","first_name":"Jerry","last_name":"Van Gessel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_712","first_name":"Dave","last_name":"Snyder","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_713","first_name":"R.C.","last_name":"Burgett","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_714","first_name":"Jack","last_name":"O'Donnel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_716","first_name":"Jack","last_name":"Hough","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_717","first_name":"Bob","last_name":"Crockett","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_718","first_name":"Rockford Youth","last_name":"Leader","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_brian_layer","first_name":"Brian","last_name":"Layer","has_photo":true,"photo_coordinates":[747,680,980,960],"photo_url":"/oldnews/assets/people/p_brian_layer.jpg","entity_type":"person"}
+{"id":"p_harry_kukla","first_name":"Harry","last_name":"Kukla","has_photo":true,"photo_coordinates":[44,680,423,960],"entity_type":"person"}
+{"id":"p_doug_weston","first_name":"Doug","last_name":"Weston","has_photo":true,"photo_coordinates":[308,680,448,960],"entity_type":"person"}
+{"id":"p_doug_jensen","first_name":"Doug","last_name":"Jensen","has_photo":true,"photo_coordinates":[458,680,735,960],"entity_type":"person"}
+{"id":"p_dan_afton","first_name":"Dan","last_name":"Afton","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_tim_thome","first_name":"Tim","last_name":"Thome","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kim_edgar","first_name":"Kim","last_name":"Edgar","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_terry_prickett","first_name":"Terry","last_name":"Prickett","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jim_stebbins","first_name":"Jim","last_name":"Stebbins","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mr_schultz","first_name":"Mr.","last_name":"Schultz","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_801","first_name":"Diane","last_name":"Leichty","has_photo":true,"photo_coordinates":[44,52,161,349],"entity_type":"person"}
+{"id":"p_802","first_name":"Dale","last_name":"Leichty","has_photo":true,"photo_coordinates":[44,52,161,349],"entity_type":"person"}
+{"id":"p_803","first_name":"Beverlie","last_name":"Emmorey","has_photo":true,"photo_coordinates":[42,359,205,642],"entity_type":"person"}
+{"id":"p_804","first_name":"Carroll","last_name":"Emmorey","has_photo":true,"photo_coordinates":[42,359,205,642],"entity_type":"person"}
+{"id":"p_805","first_name":"Mark","last_name":"Emmorey","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_807","first_name":"Rockford","last_name":"Schools","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_chris_christopher","first_name":"Chris","last_name":"Christopher","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_tom_sheckler","first_name":"Tom","last_name":"Sheckler","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_nick_lewis","first_name":"Nick","last_name":"Lewis","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_doug_mccotter","first_name":"Doug","last_name":"McCotter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_sparta_fan_1","first_name":"Sparta","last_name":"Fan","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kc_player_1","first_name":"Kent City","last_name":"Eagle","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_john_andrus","first_name":"John","last_name":"Andrus","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_justin_sullivan","first_name":"Justin","last_name":"Sullivan","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dan_lockard","first_name":"Dan","last_name":"Lockard","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_frosh_fan_1","first_name":"Sparta","last_name":"Frosh Fan","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_belding_frosh_player","first_name":"Belding","last_name":"Frosh Player","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dan_cheslek","first_name":"Dan","last_name":"Cheslek","has_photo":true,"photo_coordinates":[600,650,720,780],"entity_type":"person"}
+{"id":"p_larry_ofield","first_name":"Larry","last_name":"Ofield","has_photo":true,"photo_coordinates":[600,790,720,910],"entity_type":"person"}
+{"id":"p_tony_v","first_name":"Tony","last_name":"Vasilauskas","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_nkl_editor","first_name":"NKL","last_name":"Editor","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_wisnewski_jim","first_name":"Jim","last_name":"Wisnewski","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_wisnewski_marie","first_name":"Marie","last_name":"Wisnewski","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_reyburn_vivian","first_name":"Vivian","last_name":"Reyburn","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_builder_01","first_name":"Local","last_name":"Homebuilder","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_policy_critic","first_name":"National","last_name":"Policy Critic","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_forestry_exp","first_name":"Forestry","last_name":"Expert","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_conservation_01","first_name":"Conservation","last_name":"Balanced","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_gordon_u","first_name":"Gordon","last_name":"Utter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_cathy_w","first_name":"Cathy","last_name":"Wainwright","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_gayle_f","first_name":"Gayle","last_name":"Fessenden","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_joan_z","first_name":"Joan","last_name":"Zandstra","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_lee_s","first_name":"Lee","last_name":"Seinen","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mrs_lee_s","first_name":"Mrs. Lee","last_name":"Seinen","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_john_egan","first_name":"John J.","last_name":"Egan","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mrs_egan","first_name":"Mrs. John J.","last_name":"Egan","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_diane_comm","first_name":"Diane","last_name":"Community Ed","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_sparta_student","first_name":"Sparta High","last_name":"Student","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_carolyn_wills","first_name":"Carolyn","last_name":"Wills","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_blood_org","first_name":"Blood Program","last_name":"Organizer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_golf_pro","first_name":"Golf","last_name":"Instructor","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_cake_student","first_name":"Cake Decorating","last_name":"Student","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_901","first_name":"Thomas","last_name":"Fryc","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_902","first_name":"James","last_name":"Madole","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_903","first_name":"Laura","last_name":"Madole","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_904","first_name":"Mark","last_name":"Doren","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_905","first_name":"Bob","last_name":"Whitcomb","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_marge_shue","first_name":"Marge","last_name":"Shue","has_photo":true,"photo_coordinates":[382,828,520,946],"entity_type":"person"}
+{"id":"p_808","first_name":"Lois","last_name":"Mongar","has_photo":true,"photo_coordinates":[55,535,100,615],"entity_type":"person"}
+{"id":"p_809","first_name":"Gail","last_name":"Bullis","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_811","first_name":"Robert","last_name":"Bruff Jr.","has_photo":true,"photo_coordinates":[55,695,100,775],"entity_type":"person"}
+{"id":"p_812","first_name":"Alma","last_name":"Adams","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_813","first_name":"Hazel","last_name":"Beatty","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_814","first_name":"Denise","last_name":"DeRienzo","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_payne_allen","first_name":"C. Allen","last_name":"Payne","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_wilson_vern","first_name":"L. Vern","last_name":"Wilson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_schmid_chas","first_name":"Chas","last_name":"Schmid","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jackson_edward","first_name":"Edward","last_name":"Jackson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dewilde_abe","first_name":"Abe","last_name":"Dewilde","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_verburg_guy","first_name":"Mrs. Guy","last_name":"Verburg","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_4h_member_01","first_name":"4-H","last_name":"Member","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_blood_donor_01","first_name":"Local Blood","last_name":"Donor","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_victoria_raap","first_name":"Victoria","last_name":"Raap","has_photo":true,"photo_coordinates":[63,785,238,913],"entity_type":"person"}
+{"id":"p_vickie_passmore","first_name":"Vickie","last_name":"Passmore","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_gary_flegel","first_name":"Gary","last_name":"Flegel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dan_kragt","first_name":"Dan","last_name":"Kragt","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_secretary_01","first_name":"Local","last_name":"Secretary","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_acs_expert","first_name":"Cancer","last_name":"Answerline","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_photog_01","first_name":"Freelance","last_name":"Photographer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_veteran_01","first_name":"Recent","last_name":"Veteran","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_va_rep","first_name":"VA","last_name":"Representative","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kc_senior_01","first_name":"Ron","last_name":"Menefee","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kc_senior_02","first_name":"Beatles","last_name":"Fan","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kc_senior_03","first_name":"Kent City","last_name":"Senior","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_sparta_student_01","first_name":"Lori","last_name":"Schutter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_brian_prickett","first_name":"Brian","last_name":"Prickett","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1001","first_name":"Cynthia Marie","last_name":"Ford","has_photo":true,"photo_coordinates":[63,666,151,776],"photo_url":"/oldnews/assets/people/p_1001.jpg","entity_type":"person"}
+{"id":"p_1002","first_name":"Timothy Dean","last_name":"Schutter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1003","first_name":"Mrs. Keith","last_name":"Ford","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1004","first_name":"Vernon","last_name":"Schutter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1005","first_name":"Penny Sue","last_name":"Fahling","has_photo":true,"photo_coordinates":[238,666,334,781],"photo_url":"/oldnews/assets/people/p_1005.jpg","entity_type":"person"}
+{"id":"p_1006","first_name":"Glenn","last_name":"Gentz","has_photo":true,"photo_coordinates":null,"photo_url":"/oldnews/assets/people/p_1006.jpg","entity_type":"person"}
+{"id":"p_1007","first_name":"Mrs. Roland","last_name":"Fahling","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1008","first_name":"Ruby","last_name":"Gentz","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1009","first_name":"Eleanor","last_name":"Andree","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1010","first_name":"Ravenna","last_name":"Local","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_emmons_mgr","first_name":"Emmons","last_name":"Manager","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_sparta_butcher","first_name":"Sparta","last_name":"Butcher","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_sparta_shopper","first_name":"Local","last_name":"Shopper","has_photo":true,"photo_coordinates":null,"photo_url":"/oldnews/assets/people/p_sparta_shopper.jpg","entity_type":"person"}
+{"id":"p_spartan_mascot","first_name":"Spartan","last_name":"Mascot","has_photo":true,"photo_coordinates":[410,420,468,468],"photo_url":"/oldnews/assets/people/p_spartan_mascot.jpg","entity_type":"person"}
+{"id":"p_denny_devos","first_name":"Denny","last_name":"Devos","has_photo":true,"photo_coordinates":[118,792,258,928],"entity_type":"person"}
+{"id":"p_coach_burde","first_name":"Mr.","last_name":"Burde","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_paul_kies","first_name":"Paul","last_name":"Kies","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jeff_tobie","first_name":"Jeff","last_name":"Tobie","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_postal_worker","first_name":"Postal","last_name":"Worker","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_bartender_40s","first_name":"Local","last_name":"Bartender","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_elks_trustee","first_name":"Elks","last_name":"Trustee","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kc_counselor","first_name":"Kent City","last_name":"Counselor","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_irs_rep","first_name":"IRS","last_name":"Representative","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_taxpayer_01","first_name":"Taxpayer","last_name":"Joe","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_conferee_01","first_name":"Appellate","last_name":"Conferee","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_legal_advocate","first_name":"Legal","last_name":"Advocate","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_judge_01","first_name":"Special Trial","last_name":"Judge","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_danny_v","first_name":"Danny","last_name":"Vasilouskas","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_eric_o","first_name":"Eric","last_name":"Olsen","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mrs_gall","first_name":"Mrs.","last_name":"Gall","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_johnson_laura","first_name":"Laura","last_name":"Johnson","has_photo":true,"photo_coordinates":[240,680,360,955],"entity_type":"person"}
+{"id":"p_seelman_karen","first_name":"Karen","last_name":"Seelman","has_photo":true,"photo_coordinates":[240,680,360,955],"entity_type":"person"}
+{"id":"p_archer_janice","first_name":"Janice","last_name":"Archer","has_photo":true,"photo_coordinates":[240,680,360,955],"entity_type":"person"}
+{"id":"p_kober_sue","first_name":"Sue","last_name":"Kober","has_photo":true,"photo_coordinates":[240,680,360,955],"entity_type":"person"}
+{"id":"p_johnson_debbie","first_name":"Debbie","last_name":"Johnson","has_photo":true,"photo_coordinates":[240,680,360,955],"entity_type":"person"}
+{"id":"p_vogel_tim","first_name":"Tim","last_name":"Vogel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dietrich_al","first_name":"Al","last_name":"Dietrich","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_powell_molly","first_name":"Molly","last_name":"Powell","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_spoelstra_mr","first_name":"Mr.","last_name":"Spoelstra","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_roudebush_01","first_name":"Richard","last_name":"Roudebush","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_bio_01","first_name":"Sarah","last_name":"Mitchell","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_val_photo","first_name":"Valentine","last_name":"Photo Model","has_photo":true,"photo_coordinates":[235,502,430,825],"photo_url":"/oldnews/assets/people/p_val_photo.jpg","entity_type":"person"}
+{"id":"p_farmer_01","first_name":"Jimmy","last_name":"Miller","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_eco_01","first_name":"Mark","last_name":"Stevens","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1101","first_name":"Chuck","last_name":"Wilson","has_photo":true,"photo_coordinates":[68,550,240,955],"entity_type":"person"}
+{"id":"p_1102","first_name":"Arch","last_name":"Hood","has_photo":true,"photo_coordinates":[68,550,240,955],"entity_type":"person"}
+{"id":"p_1103","first_name":"Ted","last_name":"Anderson","has_photo":true,"photo_coordinates":[68,550,240,955],"entity_type":"person"}
+{"id":"p_1104","first_name":"Gary","last_name":"Batka","has_photo":true,"photo_coordinates":[68,550,240,955],"entity_type":"person"}
+{"id":"p_1105","first_name":"Stan","last_name":"Bourdon","has_photo":true,"photo_coordinates":[68,550,240,955],"entity_type":"person"}
+{"id":"p_1106","first_name":"Mark","last_name":"Cliff","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1107","first_name":"Sandra","last_name":"Bomhof","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_grandpa_anderson","first_name":"Harold A.","last_name":"Anderson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_hessenius_louise","first_name":"Louise","last_name":"Hessenius","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_koopman_ron","first_name":"Ron","last_name":"Koopman","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_crowley_edward","first_name":"Edward","last_name":"Crowley","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_roberts_charles","first_name":"Charles A.","last_name":"Roberts","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_hill_leona","first_name":"Leona","last_name":"Hill","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_johnson_marilyn","first_name":"Marilyn","last_name":"Johnson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_bloomquist_kenneth","first_name":"Kenneth G.","last_name":"Bloomquist","has_photo":true,"photo_coordinates":[53,492,235,635],"entity_type":"person"}
+{"id":"p_fairchild_clair","first_name":"Clair","last_name":"Fairchild","has_photo":true,"photo_coordinates":[53,635,235,778],"entity_type":"person"}
+{"id":"p_1201","first_name":"Ray","last_name":"Dion","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1202","first_name":"Eddie","last_name":"Parsons","has_photo":true,"photo_coordinates":[308,827,576,967],"entity_type":"person"}
+{"id":"p_1203","first_name":"Buddy","last_name":"Burrus","has_photo":true,"photo_coordinates":[308,688,576,827],"entity_type":"person"}
+{"id":"p_1204","first_name":"Rosemary","last_name":"Guerra","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1205","first_name":"Floyd Allen","last_name":"Guerra","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1206","first_name":"Kevin","last_name":"Foley","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1207","first_name":"Mary","last_name":"Crofoot","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1208","first_name":"Donna","last_name":"Russell","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1209","first_name":"Elisha","last_name":"Lewis","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1210","first_name":"Kent County","last_name":"Farmer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_1211","first_name":"Local","last_name":"Homeowner","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_michael_landon","first_name":"Michael","last_name":"Landon","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_richard_edgar","first_name":"Richard","last_name":"Edgar","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kenneth_bull","first_name":"Kenneth","last_name":"Bull","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_vonda_humphreys","first_name":"Vonda","last_name":"Humphreys","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_parent_01","first_name":"Local","last_name":"Parent","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_randy_thomas","first_name":"Randy","last_name":"Thomas","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_cp_student","first_name":"Comstock Park","last_name":"Student","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jason_johnson","first_name":"Jason","last_name":"Johnson","has_photo":true,"photo_coordinates":null,"photo_url":"/oldnews/assets/people/p_jason_johnson.jpg","entity_type":"person"}
+{"id":"p_coach_sarachman","first_name":"Coach","last_name":"Sarachman","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_steve_johnson","first_name":"Steve","last_name":"Johnson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_craig_backer","first_name":"Craig","last_name":"Backer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jill_long","first_name":"Jill","last_name":"Long","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_helen_hortor","first_name":"Helen","last_name":"Hortor","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_donna_wright","first_name":"Donna","last_name":"Wright","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dave_parcels","first_name":"Dave","last_name":"Parcels","has_photo":true,"photo_coordinates":[34,693,303,963],"entity_type":"person"}
+{"id":"p_john_doane","first_name":"John","last_name":"Doane","has_photo":true,"photo_coordinates":[350,693,688,963],"photo_url":"/oldnews/assets/people/p_john_doane.jpg","entity_type":"person"}
+{"id":"p_dg_01","first_name":"Denny","last_name":"Geurink","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_angler_01","first_name":"Ionia","last_name":"Angler","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_hunter_01","first_name":"Local","last_name":"Hunter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_outdoors_01","first_name":"Outdoors","last_name":"Enthusiast","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_barth_carlson","first_name":"Barth","last_name":"Carlson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_audrey_stiles","first_name":"Audrey","last_name":"Stiles","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dexter_bussey","first_name":"Dexter","last_name":"Bussey","has_photo":true,"photo_coordinates":[33,335,518,978],"entity_type":"person"}
+{"id":"p_ed_dangler","first_name":"Ed","last_name":"Dangler","has_photo":true,"photo_coordinates":[531,484,685,738],"entity_type":"person"}
+{"id":"p_greg_laug","first_name":"Greg","last_name":"Laug","has_photo":true,"photo_coordinates":[531,743,685,998],"entity_type":"person"}
+{"id":"p_irene_lamphere","first_name":"Irene","last_name":"Lamphere","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_cowherd_r","first_name":"Robyn","last_name":"Cowherd","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mlavsky","first_name":"Doctor","last_name":"Mlavsky","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_clark_j","first_name":"Joseph","last_name":"Clark","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_clark_s","first_name":"Sheila","last_name":"Clark","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mh_001","first_name":"Mary","last_name":"Harper","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jl_001","first_name":"Jeanette","last_name":"Lillie","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_kay_nelson","first_name":"Kay","last_name":"Nelson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_carroll_wright","first_name":"Carroll","last_name":"Wright","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_josie_larkin","first_name":"Josie","last_name":"Larkin","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_health_official","first_name":"Kent County","last_name":"Health Official","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dental_staff","first_name":"Rockford","last_name":"Dental Staff","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dental_educator","first_name":"Dental","last_name":"Educator","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_iris_wl","first_name":"Iris","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mary_wl","first_name":"Mary","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_margaret_wl","first_name":"Margaret","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_norma_wl","first_name":"Norma","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_maxitomini_rep","first_name":"Maxi-To-Mini","last_name":"Reporter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_estballmer","first_name":"Esther","last_name":"Ballmer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_dancoxon","first_name":"Dan","last_name":"Coxon","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_mildredr","first_name":"Mildred","last_name":"R.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_ginnys","first_name":"Ginny","last_name":"S.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_dorothyt","first_name":"Dorothy","last_name":"T.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_kittyw","first_name":"Kitty","last_name":"W.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_kimthome","first_name":"Kimberly","last_name":"Thome","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_ronmengel","first_name":"Ronald","last_name":"Mengel","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_martinmilner","first_name":"Martin","last_name":"Milner","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_sherylmilner","first_name":"Sheryl","last_name":"Milner","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_ichabodcole","first_name":"Ichabod","last_name":"Cole","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_8_nvwrestler","first_name":"Northview","last_name":"Wrestler","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_l66770_img","first_name":"Rockford","last_name":"Property","has_photo":true,"photo_coordinates":[195,220,268,460],"entity_type":"person"}
+{"id":"p_l69029_img","first_name":"Northview","last_name":"Property","has_photo":true,"photo_coordinates":[375,230,420,460],"entity_type":"person"}
+{"id":"p_l69100_img","first_name":"Creekside","last_name":"Property","has_photo":true,"photo_coordinates":[440,260,498,465],"entity_type":"person"}
+{"id":"p_l69625_img","first_name":"Farmhouse","last_name":"Property","has_photo":true,"photo_coordinates":[855,235,930,470],"entity_type":"person"}
+{"id":"p_l70256_img","first_name":"Country","last_name":"Property","has_photo":true,"photo_coordinates":[195,680,275,910],"entity_type":"person"}
+{"id":"p_l65923_img","first_name":"Rockford","last_name":"Acreage","has_photo":true,"photo_coordinates":[462,690,545,920],"entity_type":"person"}
+{"id":"p_l65679_img","first_name":"Comstock","last_name":"Colonial","has_photo":true,"photo_coordinates":[630,680,700,915],"entity_type":"person"}
+{"id":"p_l67545_img","first_name":"New","last_name":"Tri-level","has_photo":true,"photo_coordinates":[780,682,845,915],"entity_type":"person"}
+{"id":"p_10_001","first_name":"Valborg","last_name":"Quist","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_002","first_name":"Sharrane","last_name":"","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_003","first_name":"Senior","last_name":"Member","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_004","first_name":"World","last_name":"Traveler","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_005","first_name":"Potluck","last_name":"Diner","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_006","first_name":"Donald","last_name":"McCann","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_007","first_name":"Lisa","last_name":"Dubois","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_008","first_name":"Dean","last_name":"Anderson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_009","first_name":"Timothy","last_name":"Stroven","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_010","first_name":"John","last_name":"Gracki","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_011","first_name":"Lucille","last_name":"Mackey","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_10_012","first_name":"Marian","last_name":"Wohlfert","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_peggy_balyeat","first_name":"Peggy","last_name":"Balyeat","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_nancy_snyder","first_name":"Nancy","last_name":"Snyder","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_ray_snyder_jr","first_name":"Ray","last_name":"Snyder Jr.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_margaret_hoffman","first_name":"Margaret","last_name":"Hoffman","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_william_biers_jr","first_name":"William","last_name":"Biers Jr.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_001","first_name":"Mildred","last_name":"Hass","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_002","first_name":"Jeraldine","last_name":"Lockard","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_003","first_name":"Arthur","last_name":"Olson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_004","first_name":"Wilson","last_name":"Family","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_005","first_name":"William","last_name":"Scharrer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_006","first_name":"James","last_name":"Nawrot","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_008","first_name":"H.J.","last_name":"Kurtz Estate","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_010","first_name":"Private","last_name":"Employer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_15_012","first_name":"The","last_name":"Beehive","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_16_001","first_name":"Sherry","last_name":"Knapp","has_photo":true,"photo_coordinates":[52,72,248,348],"entity_type":"person"}
+{"id":"p_16_002","first_name":"William","last_name":"Rasch","has_photo":true,"photo_coordinates":[52,72,248,348],"entity_type":"person"}
+{"id":"p_16_003","first_name":"Patricia","last_name":"Georges","has_photo":true,"photo_coordinates":[53,663,308,930],"entity_type":"person"}
+{"id":"p_16_004","first_name":"Wayne","last_name":"Wheeler","has_photo":true,"photo_coordinates":[53,663,308,930],"entity_type":"person"}
+{"id":"p_16_005","first_name":"Sue","last_name":"Wolf","has_photo":true,"photo_coordinates":[352,513,461,646],"entity_type":"person"}
+{"id":"p_minaker_daniel","first_name":"Daniel","last_name":"Minaker","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_sprague_vicki","first_name":"Vicki","last_name":"Sprague","has_photo":true,"photo_coordinates":[55,203,303,477],"entity_type":"person"}
+{"id":"p_baehre_ted","first_name":"Ted","last_name":"Baehre","has_photo":true,"photo_coordinates":[55,203,303,477],"entity_type":"person"}
+{"id":"p_behler_judith","first_name":"Judith","last_name":"Behler","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_dan_thome","first_name":"Dan","last_name":"Thome","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_scott_averill","first_name":"Scott","last_name":"Averill","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_cheslek_tom","first_name":"Tom","last_name":"Cheslek","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jane_bassett","first_name":"Jane","last_name":"Bassett","has_photo":true,"photo_coordinates":[252,22,412,205],"entity_type":"person"}
+{"id":"p_matt_nitschke","first_name":"Matt","last_name":"Nitschke","has_photo":true,"photo_coordinates":[252,205,412,388],"entity_type":"person"}
+{"id":"p_brad_ritter","first_name":"Brad","last_name":"Ritter","has_photo":true,"photo_coordinates":[490,22,598,112],"entity_type":"person"}
+{"id":"p_shangle_bob","first_name":"Bob","last_name":"Shangle","has_photo":true,"photo_coordinates":[490,292,598,388],"entity_type":"person"}
+{"id":"p_lavern_clough","first_name":"Mrs. LaVern","last_name":"Clough","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_long_egg_fan","first_name":"Tech","last_name":"Foodie","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_19_001","first_name":"Dennis","last_name":"Nielsen","has_photo":true,"photo_coordinates":[85,63,215,178],"entity_type":"person"}
+{"id":"p_19_002","first_name":"Robert","last_name":"Vins","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_19_003","first_name":"Rick","last_name":"Russell","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_19_004","first_name":"Carol","last_name":"Pratt","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_19_005","first_name":"Gerald","last_name":"Mullen","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_19_006","first_name":"Baby","last_name":"Redhead","has_photo":true,"photo_coordinates":[371,192,492,323],"entity_type":"person"}
+{"id":"p_19_007","first_name":"Lawrence","last_name":"Nielsen","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_19_008","first_name":"John","last_name":"Vins","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_ebers","first_name":"Mrs.","last_name":"Ebers","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_stuit","first_name":"Bonnie","last_name":"Stuit","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jack_wilson","first_name":"Jack","last_name":"Wilson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_resort_worker","first_name":"Michigan","last_name":"Resort Worker","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_jim_emery","first_name":"Jim","last_name":"Emery","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_church_volunteer","first_name":"Paper Drive","last_name":"Coordinator","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_henry_bengelink","first_name":"Henry","last_name":"Bengelink","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_florence_dickerson","first_name":"Florence","last_name":"Dickerson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_mitch_potes","first_name":"Mitch","last_name":"Potes","has_photo":true,"photo_coordinates":[535,68,598,106],"entity_type":"person"}
+{"id":"p_james_tower","first_name":"D. James","last_name":"Tower","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_22_001","first_name":"Randy","last_name":"Posthumas","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_22_002","first_name":"Robert","last_name":"Wilson","has_photo":true,"photo_coordinates":[46,683,262,774],"entity_type":"person"}
+{"id":"p_22_003","first_name":"Roger","last_name":"Johnson","has_photo":true,"photo_coordinates":[46,774,262,865],"entity_type":"person"}
+{"id":"p_22_004","first_name":"Denise","last_name":"Meyer","has_photo":true,"photo_coordinates":[46,865,262,957],"entity_type":"person"}
+{"id":"p_22_005","first_name":"Steve","last_name":"Robinson","has_photo":true,"photo_coordinates":[550,515,652,560],"entity_type":"person"}
+{"id":"p_22_006","first_name":"Norm","last_name":"Griffes","has_photo":true,"photo_coordinates":[550,560,652,605],"entity_type":"person"}
+{"id":"p_22_007","first_name":"Jerry","last_name":"Czarnecki","has_photo":true,"photo_coordinates":[550,605,652,650],"entity_type":"person"}
+{"id":"p_22_008","first_name":"Cheryl","last_name":"Stirdivant","has_photo":true,"photo_coordinates":[550,650,652,695],"entity_type":"person"}
+{"id":"p_22_009","first_name":"Fran","last_name":"Brown","has_photo":true,"photo_coordinates":[550,695,652,740],"entity_type":"person"}
+{"id":"p_22_010","first_name":"Maureen","last_name":"Hartman","has_photo":true,"photo_coordinates":[550,740,652,794],"entity_type":"person"}
+{"id":"p_22_011","first_name":"Michelle","last_name":"Steffens","has_photo":true,"photo_coordinates":[292,683,467,818],"entity_type":"person"}
+{"id":"p_22_012","first_name":"John","last_name":"Felty","has_photo":true,"photo_coordinates":[292,818,467,953],"entity_type":"person"}
+{"id":"p_22_013","first_name":"Sue","last_name":"Carpenter","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_22_014","first_name":"Lowell","last_name":"Anderson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_22_015","first_name":"Anna","last_name":"Johnson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_22_016","first_name":"Ila","last_name":"Dubois","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_22_017","first_name":"Charles","last_name":"Potes","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_cheryl_s","first_name":"Cheryl","last_name":"Scheerhorn","has_photo":true,"photo_coordinates":[145,75,435,335],"entity_type":"person"}
+{"id":"p_marcia_b","first_name":"Marcia","last_name":"Barends","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_larry_stebbins","first_name":"Larry","last_name":"Stebbins","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_msu_official","first_name":"MSU Extension","last_name":"Spokesperson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_paint_pro","first_name":"The Paint","last_name":"Pro","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_umyf_member","first_name":"Junior High","last_name":"UMYF Member","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_lou_k","first_name":"Lou","last_name":"K.","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_debarah_gentz","first_name":"Debarah","last_name":"Lynn Gentz","has_photo":true,"photo_coordinates":[55,522,288,793],"entity_type":"person"}
+{"id":"p_mark_hawley","first_name":"Mark","last_name":"R. Hawley","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_ron_thome","first_name":"Ron","last_name":"Thome","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_rev_don_j","first_name":"Donald","last_name":"Johnson","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_rev_stan_f","first_name":"Stanley","last_name":"Finkbeiner","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_iva_n","first_name":"Iva","last_name":"Norton","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_rock_caf","first_name":"Rockford Cafeteria","last_name":"Staff","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_fur_model_25","first_name":"Ladies Fur","last_name":"Model","has_photo":true,"photo_coordinates":[602,174,875,333],"entity_type":"person"}
+{"id":"p_weather_pro_25","first_name":"Weather","last_name":"Forecaster","has_photo":true,"photo_coordinates":[804,525,982,712],"entity_type":"person"}
+{"id":"p_conklin_org","first_name":"Conklin","last_name":"Organizer","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_collison_g","first_name":"Glen","last_name":"Collison","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_forestry_sup","first_name":"Mike","last_name":"Moore","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_tops_mem","first_name":"TOPS","last_name":"Member","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_27_001","first_name":"Alan","last_name":"Hoekstra","has_photo":true,"photo_coordinates":[78,191,169,298],"entity_type":"person"}
+{"id":"p_27_002","first_name":"Gary","last_name":"VanLaan","has_photo":true,"photo_coordinates":[136,382,218,486],"entity_type":"person"}
+{"id":"p_27_003","first_name":"Stephen","last_name":"Hartman","has_photo":true,"photo_coordinates":[324,197,419,312],"entity_type":"person"}
+{"id":"p_27_004","first_name":"Richard","last_name":"Hoekstra","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_27_005","first_name":"Mary","last_name":"Hoekstra","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"p_27_006","first_name":"Sparta","last_name":"Neighbor","has_photo":false,"photo_coordinates":null,"entity_type":"person"}
+{"id":"e_bank_sparta","type":"organization","name":"Sparta State Bank","attributes":{"location":"Sparta, Michigan","zip":"49345","total_assets_1976":"29,779,000","total_liabilities_1976":"27,184,000"},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
+{"id":"p_mary_chorman","type":"person","name":"Mary Jean Chorman","attributes":{"role":"Vice Pres. & Cashier","organization":"Sparta State Bank"},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
+{"id":"p_29_002","type":"person","name":"Warren Schut","attributes":{"role":"Director","organization":"Sparta State Bank"},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
+{"id":"p_29_003","type":"person","name":"Gordon Paul DeYoung","attributes":{"role":"Director","organization":"Sparta State Bank"},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
+{"id":"p_29_004","type":"person","name":"Lawrence D. Bradford","attributes":{"role":"Director","organization":"Sparta State Bank"},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
+{"id":"e_mha","type":"organization","name":"Michigan Heart Association","attributes":{"status":"United Way agency","research_budget_1976_77":"Over $1 million","location":"Michigan"},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
+{"id":"e_8th_basketball","type":"organization","name":"Sparta 8th Grade Basketball Team","attributes":{"sport":"Basketball"},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
+{"id":"p_29_006","type":"person","name":"Randy Thomas","attributes":{"role":"8th Grade Basketball Player","points_scored":14},"has_photo":false,"photo_coordinates":null,"page_id":"page_1977-01-19_%20Page%2029"}
